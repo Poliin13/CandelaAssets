@@ -4136,7 +4136,7 @@
                 {
                   "titleText": "শব্দের তীব্রতা",
                   "textForPage_1": "শব্দ চলার পথে একক ক্ষেত্রফল হতে লম্বভাবে প্রতি সেকেন্ডে নির্গত শব্দ শক্তিই হলো শব্দের তীব্রতা।",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/09.Wave/SoundIntensity.webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/09.Wave/SoundIntensity.jpg"
                 },
                 {
                   "titleText": "তীব্রতা লেভেল",
@@ -4318,7 +4318,7 @@
                 {
                   "titleText": "ব্রাউনীয় গতি",
                   "textForPage_1": "কোনো মাধ্যমে অতি ক্ষুদ্র কণার ইতঃস্তত ভ্রমণকে ব্রাউনীয় গতি বলা হয়।",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/gas.gif"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/gas.gif"
                 },
                 {
                   "titleText": "গ্যাসের গতিতত্তের প্রমাণ",
@@ -4326,10 +4326,10 @@
                 },
                 {
                   "titleText": "গ্যাসের গতিতত্তের প্রমাণ",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/theory(1).webp",
-                  "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/theory(2).webp",
-                  "imageName_3": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/theory(3).webp",
-                  "imageName_4": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/theory(4).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/theory(1).webp",
+                  "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/theory(2).webp",
+                  "imageName_3": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/theory(3).webp",
+                  "imageName_4": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/theory(4).webp"
                 }
               ]
             },
@@ -4337,31 +4337,31 @@
               "dataForEachPage": [
                 {
                   "textForPage_1": "গ্যাসের গতিতত্ত্ব উদাহরন ১",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/GasExample(1).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/GasExample(1).webp"
                 },
                 {
                   "textForPage_1": "গ্যাসের গতিতত্ত্ব উদাহরন ২",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/GasExample(2).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/GasExample(2).webp"
                 },
                 {
                   "textForPage_1": "গ্যাসের গতিতত্ত্ব উদাহরন ৩",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/GasExample(3).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/GasExample(3).webp"
                 },
                 {
                   "textForPage_1": "গ্যাসের গতিতত্ত্ব উদাহরন ৪",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/GasExample(4).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/GasExample(4).webp"
                 },
                 {
                   "textForPage_1": "গ্যাসের গতিতত্ত্ব উদাহরন ৫",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/GasExample(5).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/GasExample(5).webp"
                 },
                 {
                   "textForPage_1": "গ্যাসের গতিতত্ত্ব উদাহরন ৬",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/GasExample(6).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/GasExample(6).webp"
                 },
                 {
                   "textForPage_1": "গ্যাসের গতিতত্ত্ব উদাহরন ৭",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/KineticTheoryOfGas/GasExample(7).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/KineticTheoryOfGas/GasExample(7).webp"
                 }
               ]
             },
@@ -4411,29 +4411,29 @@
                 {
                   "titleText": "বয়েলের সুত্র(Boyle’s Law)",
                   "textForPage_1": "স্থির তাপমাত্রায় নির্দিষ্ট ভরের গ্যাসের আয়তন তার চাপের ব্যস্তানুপাতিক।\nযদি স্থির তাপমাত্রায় কোন নির্দিষ্ট ভরের গ্যাসের আয়তন V এব চাপ P হয় তবে,\n\nV ∝ 1/P, যখন তাপমাত্রা স্থির থাকে।",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/GasLaws/boyleslaw(1).webp",
-                  "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/GasLaws/boyleslaw(2).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/GasLaws/boyleslaw(1).webp",
+                  "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/GasLaws/boyleslaw(2).webp"
                 },
                 {
                   "titleText": "চার্লসের সূত্র (Charle’s Law)",
                   "textForPage_1": "স্থির চাপে কোন নির্দিষ্ট ভরের গ্যাসের আয়তন 0° সেলসিয়াস থেকে প্রতি ডিগ্রী সেলসিয়াস তাপমাত্রা পরিবর্তনের জন্য 0° সেলসিয়াসের আয়তনের 1/273 বা 0.00366 অংশ পরিবর্তিত হয়।\nচার্লসের সূত্রানুসারে, (স্থির চাপে)\n\nV∝T",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/GasLaws/charles_law_1.gif",
-                  "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/GasLaws/charles_law_2.webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/GasLaws/charles_law_1.gif",
+                  "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/GasLaws/charles_law_2.webp"
                 },
                 {
                   "titleText": "অ্যাভোগাড্রোর সূত্র",
                   "textForPage_1": "স্থির তাপমাত্রায় ও চাপে সমআয়তনের মৌলিক ও যৌগিক সকল গ্যাসে সমান সংখ্যক অণু থাকে।\nএ সূত্র থেকে পরীক্ষা দ্বারা সহজেই প্রমাণ করা যায় যে, স্থির তাপমাত্রায় ও চাপে সকল গ্যাসেরই আয়তন সমান এবং প্রমাণ তাপমাত্রায় ও চাপে তা 22.4L। অ্যাভোগাড্রোর সূত্রমতে,\n\nV ∝ n (যখন চাপ ও তাপমাত্রা স্থির)",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/GasLaws/AvogadrosLaw.webp",
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/GasLaws/AvogadrosLaw.webp",
                   "textForPage_2": "চিত্রে ভিন্ন ভিন্ন গ্যাসগুলোর ভর আলাদা হলেও এদের অণুর সংখ্যা সমান"
                 },
                 {
                   "titleText": "অ্যাভোগাড্রোর সূত্রের গুরুত্ব",
                   "textForPage_1": "অ্যাভোগাড্রোর সূত্রের কারনে সার্বজনীন গ্যাস ধ্রুবক R পাওয়া যায়। অন্যথায় প্রতিটি গ্যাসের জন্য এর মান আলাদা হত।",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/GasLaws/avogardos-hypothesis-gas.webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/GasLaws/avogardos-hypothesis-gas.webp"
                 },
                 {
                   "textForPage_1": "সকল সূত্র সমন্বয় করে আমরা পাই, আদর্শ গ্যাস সূত্র-",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/GasLaws/IdealGasFormula.webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/GasLaws/IdealGasFormula.webp"
                 }
               ]
             },
@@ -4441,15 +4441,15 @@
               "dataForEachPage": [
                 {
                   "textForPage_1": "গ্যাস সূত্রাবলি উদাহরন ১",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/GasLaws/GasLawExample(1).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/GasLaws/GasLawExample(1).webp"
                 },
                 {
                   "textForPage_1": "গ্যাস সূত্রাবলি উদাহরন ২",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/GasLaws/GasLawExample(2).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/GasLaws/GasLawExample(2).webp"
                 },
                 {
                   "textForPage_1": "গ্যাস সূত্রাবলি উদাহরন ৩",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/GasLaws/GasLawExample(3).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/GasLaws/GasLawExample(3).webp"
                 }
               ]
             },
@@ -4491,16 +4491,16 @@
                 {
                   "titleText": "আপেক্ষিক আর্দ্রতা",
                   "textForPage_1": "কোন তাপমাত্রায় কোন আয়তনের বায়ুতে বিদ্যমান জলীয় বাষ্পের ভর এবং ঐ তাপমাত্রায় ঐ আয়তনের বায়ুকে সম্পৃক্ত করতে যে পরিমাণ জলীয় বাষ্প দরকার হয় তার ভরের অনুপাতকে আপেক্ষিক আর্দ্রতা বলে।",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/Humidity/image01.webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/Humidity/image01.webp"
                 },
                 {
                   "titleText": "∴ আপেক্ষিক আর্দ্রতা,R=(f/F)×100%"
                 },
                 {
                   "titleText": "আর্দ্রতা পরিমাপক যন্ত্র(Hygrometer)",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/Humidity/hygrometer(1).webp",
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/Humidity/hygrometer(1).webp",
                   "textForPage_2": "এ যন্ত্রের সাহায্যে শিশিরাংক বের করা হয়. এখানে θ = শিশিরাংক, G = গ্লেসিয়ার ধ্রুবক.",
-                  "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/Humidity/hygrometer(2).webp"
+                  "imageName_2": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/Humidity/hygrometer(2).webp"
                 }
               ]
             },
@@ -4508,11 +4508,11 @@
               "dataForEachPage": [
                 {
                   "textForPage_1": "আর্দ্রতা উদাহরন ১",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/Humidity/Example(1).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/Humidity/Example(1).webp"
                 },
                 {
                   "textForPage_1": "আর্দ্রতা উদাহরন ২",
-                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/10.Gas/Humidity/Example(2).webp"
+                  "imageName_1": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Physics1stPaper/10.Gas/Humidity/Example(2).webp"
                 }
               ]
             },
@@ -4591,7 +4591,7 @@
             {
               "dataForEachPage": [
                 {
-                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/assets/AllFormulas1stPaper.pdf"
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/assets/1stPaperTestPaper/AllFormulas1stPaper.pdf"
                 }
               ]
             }
@@ -4603,7 +4603,7 @@
             {
               "dataForEachPage": [
                 {
-                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/assets/BoardQuestion1stPaper.pdf"
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/assets/1stPaperTestPaper/BoardQuestion1stPaper.pdf"
                 }
               ]
             }
@@ -4615,7 +4615,7 @@
             {
               "dataForEachPage": [
                 {
-                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/assets/BoardMCQ1stPaper.pdf"
+                  "pdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/assets/1stPaperTestPaper/BoardMCQ1stPaper_CompressPdf.pdf"
                 }
               ]
             }
