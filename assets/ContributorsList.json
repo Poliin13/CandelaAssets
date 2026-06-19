@@ -1,0 +1,39 @@
+[
+  {
+    "name": "AL Kawser",
+    "email": "kawser.polin@gmail.com",
+    "profilePic": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/me.webp",
+    "fbLink": "https://www.facebook.com/P0LIIN"
+  },
+  {
+    "name": "Zafir Hasan",
+    "email": "ahmzafirhasan@gmail.com",
+    "profilePic": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/zafir.jpeg",
+    "fbLink": "https://www.facebook.com/"
+  },
+  {
+    "name": "Mahbube Robbani Rubel",
+    "profilePic": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Rubel.jpg",
+    "fbLink": "https://www.facebook.com/fbmmrr",
+    "email": "rubel.me.buet@hotmail.com"
+  },
+  {
+    "name": "Asif Arefin Khan",
+    "profilePic": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/asif.webp",
+    "fbLink": "https://www.facebook.com/radhakaEmon",
+    "email": "emonkhan42015@gmail.com"
+  },
+  {
+    "name": "Jarin Tusnim Onti",
+    "profilePic": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/onti.webp",
+    "fbLink": "https://www.facebook.com/jarin.tusnimonti",
+    "email": "tusnimonti@gmail.com"
+  },
+  {
+    "name": "Israt Tarannum Iram",
+    "profilePic": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/images/Iram.webp",
+    "fbLink": "https://www.facebook.com/boring.iti",
+    "email": "isratiram116@gmail.com"
+  }
+
+]
