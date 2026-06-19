@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "title": "Command 1",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd1.gif"
+    },
+    {
+      "title": "Command 1-Node",
+      "text": "Node commands are used to return to previous position.",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd1-node.gif"
+    },
+    {
+      "title": "Command 2",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd2.gif"
+    },
+    {
+      "title": "Command 3a(On the move)",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3a.gif"
+    },
+    {
+      "title": "Command 3b(At the Halt)",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3b.gif"
+    },
+    {
+      "title": "Command 3-Node",
+      "text": "Node commands are used to return to previous position.",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3-node.gif"
+    },
+    {
+      "title": "Command 4",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd4.gif"
+    },
+    {
+      "title": "Command 5",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd5.gif"
+    },
+    {
+      "title": "Command 6",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd6.gif"
+    },
+    {
+      "title": "Command 7",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd7.gif"
+    },
+    {
+      "title": "Command 8",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd8.gif"
+    },
+    {
+      "title": "Command 8 Editors Cut",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd8WithLines.gif"
+    },
+    {
+      "title": "Command 9",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd9.gif"
+    },
+    {
+      "title": "Command 10",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd10.gif"
+    }
+  ]
+}

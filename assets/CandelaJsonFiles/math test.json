@@ -1,0 +1,262 @@
+{
+  "subjectName": "Physics 1st Paper",
+  "chapters": [
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "প্রথম অধ্যায়",
+      "chapterName": "ভৌত জগত ও পরিমাপ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "ত্রুটি পরিমাপ",
+          "cardList": [
+            {
+              "cardData": [
+                {
+                  "title": "স্লাইড ক্যালিপার্স(Slide Calipers)"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/SlideCalipers.gif"
+                },
+                {
+                  "title": "স্ফেরোমিটার (Spherometer)"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer1.gif"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer2.gif"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "title": "ত্রুটিহীন স্ক্রু গজ(Screw Gauge)"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeNoError.gif"
+                },
+                {
+                  "title": "ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeWithError.gif"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "text": "উদাহরন ১"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(1).webp"
+                },
+                {
+                  "text": "উদাহরন ২"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(2).webp"
+                },
+                {
+                  "text": "উদাহরন ৩"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(3).webp"
+                },
+                {
+                  "text": "উদাহরন ৪"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(4).webp"
+                },
+                {
+                  "text": "উদাহরন ৫"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(5).webp"
+                },
+                {
+                  "text": "উদাহরন ৬"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(6).webp"
+                },
+                {
+                  "text": "উদাহরন ৭"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(7).webp"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "text": "ত্রুটি পরিমাপের সুত্রসমুহ"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ErrorCalculationFormulas.webp"
+                },
+                {
+                  "text": "ত্রুটি পরিমাপ"
+                },
+                {
+                  "flipCardFront": "১। পরীক্ষায় অভিকর্ষজ ত্বরণ, g = 9.8 m/s^2 পাওয়া গেল। কিন্তু ঐ স্থানে অভিকর্ষজ ত্বরণের প্রকৃত মান হলো 9.87m/s^2 ত্রুটির শতকরা হার বের কর।",
+                  "flipCardBack": "উত্তরঃ 0.709%"
+                },
+                {
+                  "flipCardFront": "২। একটি বস্তুর প্রকৃত ওজন 70 N। কিন্তু স্প্রিং নিক্তিতে তার ওজন পাওয়া গেল 80N. বস্তুটির ভরের শতকরা ত্রুটি বের কর।",
+                  "flipCardBack": "উত্তরঃ 14.28%"
+                },
+                {
+                  "text": "পরিমাপের যন্ত্রাংশ"
+                },
+                {
+                  "flipCardFront": "১। একটি স্ক্রু গজের মধ্যবর্তী ফাঁক যখন শুন্য তখন বৃত্তাকার স্কেলের শূনয় দাগ রৈখিক শূন্য দাগ অপেক্ষা 7 ঘর নিচে আছে।ঘরের মান 1mm । যন্ত্রটির যান্ত্রিক ত্রুটি কত?",
+                  "flipCardBack": "উত্তরঃ নিজে কর"
+                },
+                {
+                  "flipCardFront": "২। জিম একটি মাইক্রোমিটার স্ক্রু গজের সাহায্যে একটি সরু তারের ব্যাস পরিমাপ করছে।সে প্রধান স্কেলের পাঠ পেল 0.1 cm এবং বৃত্তাকার স্কেলের পাঠ পেল 32 । বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা ছিল 50. রৈখিক স্কেলের ক্ষুদ্রতম ঘরের মান 0.5mm\n     (i) জিমের পরিমারকৃত তারটির ব্যাস কত?\n     (ii) তারটির প্রকৃত ব্যাস 0.115 cm হলে ঐ স্ক্রু-গজটির ব্যবহারে তারটির ব্যাস নির্নয় করলে নূন্যতম কত শতাংশ ভুল হবে?",
+                  "flipCardBack": "উত্তরঃ i) 0.101 cm ii) 12%"
+                },
+                {
+                  "flipCardFront": "৩। একটি স্ফেরোমিটারের বৃত্তাকার স্কেলের দাগ সংখ্যা 100 এবং পিচ 1mm তিনটি পায়ের মধ্যবর্তী দূরত্ব যথাক্রমে 71 mm,70mm, এবং 70mm। যন্ত্রটির সাহায্যে একটি গোলকীয় উত্তল তলের উচ্চতা পাওয়া গেল 8mm। স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক এবং গোলকীয় তলে বক্রতার ব্যাসার্ধ বের কর।",
+                  "flipCardBack": "উত্তরঃ 0.01 mm, 107.048 mm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "ত্রুটি পরিমাপ",
+          "cardList": [
+            {
+              "cardData": [
+                {
+                  "answer": "\n\n<h3>সমাধান:</h3>\n<p>ধরি, \\( x_1=2, x_2=4, x_3=6, x_4=6, x_5=7, x_6=8, x_7=9, x_8=10, x_9=13, x_{10}=15 \\)</p>\n<p>আমরা জানি, গাণিতিক গড়,</p>\n<p>\\(\\bar{x} = \\frac{\\sum x}{n} = \\frac{x_1+x_2+x_3+x_4+x_5+x_6+x_7+x_8+x_9+x_{10}}{n}\\)</p>\n<p>অথবা, \\(\\bar{x} = \\frac{2+4+6+6+7+8+9+10+13+15}{10} = \\frac{80}{10} = 8\\)</p>\n\n<p>গড় ত্রুটি \\(\\bar{s}\\) হলে,</p>\n<p>\\(\\bar{s} = \\frac{|s_1|+|s_2|+|s_3|+|s_4|+|s_5|+|s_6|+|s_7|+|s_8|+|s_9|+|s_{10}|}{10}\\)</p>\n<p>\\(\\bar{s} = \\frac{6+4+2+2+1+0+1+2+5+7}{10} = \\frac{30}{10} = 3\\)</p>\n\n<p>গড় মান হতে বিচ্যুতি,</p>\n<p>\\(s_1 = x_1 - \\bar{x} = 2 - 8 = -6\\)</p>\n<p>\\(s_2 = x_2 - \\bar{x} = 4 - 8 = -4\\)</p>\n<p>\\(s_3 = x_3 - \\bar{x} = 6 - 8 = -2\\)</p>\n<p>\\(s_4 = x_4 - \\bar{x} = 6 - 8 = -2\\)</p>\n<p>\\(s_5 = x_5 - \\bar{x} = 7 - 8 = -1\\)</p>\n<p>\\(s_6 = x_6 - \\bar{x} = 8 - 8 = 0\\)</p>\n<p>\\(s_7 = x_7 - \\bar{x} = 9 - 8 = 1\\)</p>\n<p>\\(s_8 = x_8 - \\bar{x} = 10 - 8 = 2\\)</p>\n<p>\\(s_9 = x_9 - \\bar{x} = 13 - 8 = 5\\)</p>\n<p>\\(s_{10} = x_{10} - \\bar{x} = 15 - 8 = 7\\)</p>\n\n<p>সুতরাং, গড় ত্রুটি বা গড় বিচ্যুতি \\(3\\)।</p>\n",
+                  "date_updated": "2025-01-08 23:37:40.268",
+                  "question": "<h3>সেট-১: সাধারণ সমস্যাবলি</h3>\n<h3>সমস্যা ১:</h3>\n<p>2, 4, 6, 6, 7, 8, 9, 10, 13, 15 রাশিগুলোর গড় ভুল বা গড় বিচ্যুতি হিসাব কর।</p>"
+                },
+                {
+                  "answer": "\n\n<h3>সমাধান:</h3>\n<p>এখানে, ভোল্টেজ, \\( V = (40 \\pm 0.02) \\, V \\)</p>\n<p>কারেন্ট, \\( I = (4.9 \\pm 0.1) \\, mA \\)</p>\n<p>অথবা, \\( I = (4.9 \\pm 0.1) \\times 10^{-3} \\, A \\)</p>\n\n<p>এখানে, রোধের সর্বোচ্চ মান,</p>\n<p>\\( R_{\\text{max}} = \\frac{V_{\\text{max}}}{I_{\\text{min}}} = \\frac{40.02}{4.8 \\times 10^{-3}} \\, \\text{ohm} \\)</p>\n<p>\\( \\phantom{R_{\\text{max}}} = 8.3375 \\times 10^3 \\, \\text{ohm} \\)</p>\n\n<p>রোধের সর্বনিম্ন মান,</p>\n<p>\\( R_{\\text{min}} = \\frac{V_{\\text{min}}}{I_{\\text{max}}} = \\frac{39.98}{5 \\times 10^{-3}} \\, \\text{ohm} \\)</p>\n<p>\\( \\phantom{R_{\\text{min}}} = 7.995 \\times 10^3 \\, \\text{ohm} \\)</p>\n\n<p>রোধের গড় মান,</p>\n<p>\\( R = \\frac{8.3375 \\times 10^3 + 7.995 \\times 10^3}{2} \\, \\text{ohm} \\)</p>\n<p>\\( \\phantom{R} = 8.166 \\times 10^3 \\, \\text{ohm} \\)</p>\n\n<p>পরম ত্রুটি,</p>\n<p>\\( \\Delta R = |8.166 \\times 10^3 - 8.3375 \\times 10^3| \\, \\text{ohm} \\)</p>\n<p>\\( \\phantom{\\Delta R} = 171.5 \\, \\text{ohm} \\)</p>\n\n<p>শতকরা ত্রুটি,</p>\n<p>\\( \\frac{\\Delta R}{R} = \\frac{171.5}{8.166 \\times 10^3} \\times 100\\% = 2.1\\% \\)</p>\n",
+                  "date_updated": "2025-01-08 23:41:48.648",
+                  "image_url": "",
+                  "question": "<h3>সমস্যা ২:</h3>\n<p>\\( V = (40 \\pm 0.02) \\) volt এবং \\( I = (4.9 \\pm 0.1) \\) mA হলে রোধ পরিমাপের ভুলের হার ও রোধ নির্ণয় কর।</p>"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "title": "ত্রুটিহীন স্ক্রু গজ(Screw Gauge)"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeNoError.gif"
+                },
+                {
+                  "title": "ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeWithError.gif"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "text": "উদাহরন ১"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(1).webp"
+                },
+                {
+                  "text": "উদাহরন ২"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(2).webp"
+                },
+                {
+                  "text": "উদাহরন ৩"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(3).webp"
+                },
+                {
+                  "text": "উদাহরন ৪"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(4).webp"
+                },
+                {
+                  "text": "উদাহরন ৫"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(5).webp"
+                },
+                {
+                  "text": "উদাহরন ৬"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(6).webp"
+                },
+                {
+                  "text": "উদাহরন ৭"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/MeasurementExample(7).webp"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "text": "ত্রুটি পরিমাপের সুত্রসমুহ"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ErrorCalculationFormulas.webp"
+                },
+                {
+                  "text": "ত্রুটি পরিমাপ"
+                },
+                {
+                  "flipCardFront": "১। পরীক্ষায় অভিকর্ষজ ত্বরণ, g = 9.8 m/s^2 পাওয়া গেল। কিন্তু ঐ স্থানে অভিকর্ষজ ত্বরণের প্রকৃত মান হলো 9.87m/s^2 ত্রুটির শতকরা হার বের কর।",
+                  "flipCardBack": "উত্তরঃ 0.709%"
+                },
+                {
+                  "flipCardFront": "২। একটি বস্তুর প্রকৃত ওজন 70 N। কিন্তু স্প্রিং নিক্তিতে তার ওজন পাওয়া গেল 80N. বস্তুটির ভরের শতকরা ত্রুটি বের কর।",
+                  "flipCardBack": "উত্তরঃ 14.28%"
+                },
+                {
+                  "text": "পরিমাপের যন্ত্রাংশ"
+                },
+                {
+                  "flipCardFront": "১। একটি স্ক্রু গজের মধ্যবর্তী ফাঁক যখন শুন্য তখন বৃত্তাকার স্কেলের শূনয় দাগ রৈখিক শূন্য দাগ অপেক্ষা 7 ঘর নিচে আছে।ঘরের মান 1mm । যন্ত্রটির যান্ত্রিক ত্রুটি কত?",
+                  "flipCardBack": "উত্তরঃ নিজে কর"
+                },
+                {
+                  "flipCardFront": "২। জিম একটি মাইক্রোমিটার স্ক্রু গজের সাহায্যে একটি সরু তারের ব্যাস পরিমাপ করছে।সে প্রধান স্কেলের পাঠ পেল 0.1 cm এবং বৃত্তাকার স্কেলের পাঠ পেল 32 । বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা ছিল 50. রৈখিক স্কেলের ক্ষুদ্রতম ঘরের মান 0.5mm\n     (i) জিমের পরিমারকৃত তারটির ব্যাস কত?\n     (ii) তারটির প্রকৃত ব্যাস 0.115 cm হলে ঐ স্ক্রু-গজটির ব্যবহারে তারটির ব্যাস নির্নয় করলে নূন্যতম কত শতাংশ ভুল হবে?",
+                  "flipCardBack": "উত্তরঃ i) 0.101 cm ii) 12%"
+                },
+                {
+                  "flipCardFront": "৩। একটি স্ফেরোমিটারের বৃত্তাকার স্কেলের দাগ সংখ্যা 100 এবং পিচ 1mm তিনটি পায়ের মধ্যবর্তী দূরত্ব যথাক্রমে 71 mm,70mm, এবং 70mm। যন্ত্রটির সাহায্যে একটি গোলকীয় উত্তল তলের উচ্চতা পাওয়া গেল 8mm। স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক এবং গোলকীয় তলে বক্রতার ব্যাসার্ধ বের কর।",
+                  "flipCardBack": "উত্তরঃ 0.01 mm, 107.048 mm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Theory.pdf"
+        }
+        
+      ]
+    }
+    
+  ]
+}

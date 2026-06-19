@@ -1,0 +1,2810 @@
+﻿{
+    "mcqQuestionList": [
+        {
+            "mcqQuestion": "<div>১. $250\\ kg$ ভরের একটি বস্তু ক্রেনের সাহায্যে $0.1\\ {ms}^{-1}$ ধ্র্রুববেগেউপরে উঠানো হলো। ক্রেনের ক্ষমতা কত?</div>",
+            "option1": "<div>(ক) $24500\\ W$</div>",
+            "option2": "<div>(খ) $2500\\ W$</div>",
+            "option3": "<div>(গ) $245\\ W$</div>",
+            "option4": "<div>(ঘ) $24.5\\ W$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২. চিত্রে $m$ ভরের বস্তুটি টেনে ছেড়ে দিলে স্পন্দনের কম্পাঙ্ক হবে --</div>",
+            "option1": "<div>(ক) $f=\\frac{1}{2\\pi }\\sqrt{\\frac{k_1-k_2}{m}}$</div>",
+            "option2": "<div>(খ) $f=\\frac{1}{2\\pi }\\sqrt{\\frac{m}{k_1+k_2}}$</div>",
+            "option3": "<div>(গ) $f=\\frac{1}{2\\pi }\\sqrt{\\frac{m}{k_1-k_2}}$</div>",
+            "option4": "<div>(ঘ) $f=\\frac{1}{2\\pi }\\sqrt{\\frac{k_1+k_2}{m}}$</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/2.webp"
+        },
+        {
+            "mcqQuestion": "<div>৩. কেন্দ্রমুখী বল দ্বারা কৃতকাজ --</div>",
+            "option1": "<div>(ক) অসীম</div>",
+            "option2": "<div>(খ) শূন্য</div>",
+            "option3": "<div>(গ) ধনাত্মক</div>",
+            "option4": "<div>(ঘ) ঋণাত্মক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪. $5\\ kg$ ভরসম্পন্ন একটি বস্তুর উপর একটি বল$\\overrightarrow{F}=\\left(10\\hat{i}+3\\hat{j}-2\\hat{k}\\right)\\ N$ এর ক্রিয়ায়বস্তুটির অবস্থান$\\overrightarrow{r_1}=\\left(8\\hat{i}+7\\hat{j}-3\\hat{k}\\right)\\ m$ থেকে অপরএকটি অবস্থান$\\overrightarrow{r_2}=\\left(12\\hat{i}+2\\hat{j}+7\\hat{k}\\right)\\ m$ এস্থানান্তরিত হলো। এতে কৃতকাজ --</div>",
+            "option1": "<div>(ক) $2\\ J$</div>",
+            "option2": "<div>(খ) $3\\ J$</div>",
+            "option3": "<div>(গ) $5\\ J$</div>",
+            "option4": "<div>(ঘ) $7\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫. নিম্নের কোনটি শক্তির একক নয়?</div>",
+            "option1": "<div>(ক) $kW-h$</div>",
+            "option2": "<div>(খ) $N-m$</div>",
+            "option3": "<div>(গ) $kg\\ {ms}^{-1}\\ $</div>",
+            "option4": "<div>(ঘ) $W-s$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬. বল ধ্র্রুবক এর মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) $[ML^0T^2]$</div>",
+            "option2": "<div>(খ) $[M^2LT^{-1}]$</div>",
+            "option3": "<div>(গ) $[ML^{-2}]$</div>",
+            "option4": "<div>(ঘ) $[ML^2T^2]$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৭. বলের দ্বারা কাজের ক্ষেত্রে --</div>",
+            "option1": "<div>(ক) 0 $\\mathrm{\\le }$ $\\mathrm{\\theta }$$\\mathrm{&lt;}$90$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 90$\\mathrm{{}^\\circ}$ $\\mathrm{&lt;}$ $\\mathrm{\\theta }$ $\\mathrm{\\le}$ 180$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 0$\\mathrm{{}^\\circ}$ $\\mathrm{\\le }$ $\\mathrm{\\theta }$$\\mathrm{&lt;}$ 90$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 90$\\mathrm{{}^\\circ}$ $\\mathrm{\\le }$ $\\mathrm{\\theta }$$\\mathrm{&lt;}$ 180$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮. কাজের অভিকর্ষীয় একক --</div>",
+            "option1": "<div>(ক) $kgm$</div>",
+            "option2": "<div>(খ) $Nm$</div>",
+            "option3": "<div>(গ) ${Nm}^2$</div>",
+            "option4": "<div>(ঘ) ${kg\\ m}^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯. কোনো স্প্রিংকে $5\\ N$ বল দ্বরা টেনে $10\\ cm$ প্রসারিত করা হলে, স্প্রিংধ্র্রুবক কত হবে?</div>",
+            "option1": "<div>(ক) $0.5\\ {Nm}^{-1}$</div>",
+            "option2": "<div>(খ) $2\\ {Nm}^{-1}$</div>",
+            "option3": "<div>(গ) $50\\ {Nm}^{-1}$</div>",
+            "option4": "<div>(ঘ) $250\\ {Nm}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১০. $20\\ Watt$ ক্ষমতার শব্দের উৎস হতে $2\\ km$ দূরে শব্দের তীব্রতা হবে-</div>",
+            "option1": "<div>(ক) $3.98\\times {10}^{-7}\\ {wm}^{-2}$</div>",
+            "option2": "<div>(খ) $1.59\\times {10}^{-6}\\ {wm}^{-2}$</div>",
+            "option3": "<div>(গ) $5.0\\times {10}^{-6}\\ {wm}^{-2}$</div>",
+            "option4": "<div>(ঘ) $1.59\\times {10}^{-3}\\ {wm}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১১. $20\\ kg$ ভরের একটি স্থির বস্তুকে ঘর্ষণহীন তলের উপর দিয়ে $10\\ {ms}^{-1}$বেগে গতিশীল করতে কৃতকাজ কত?</div>",
+            "option1": "<div>(ক) $200\\ J$</div>",
+            "option2": "<div>(খ) $1000\\ J$</div>",
+            "option3": "<div>(গ) $2000\\ J$</div>",
+            "option4": "<div>(ঘ) $4000\\ J$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১২. চিত্রানুযায়ী $5\\ N$ ওজনের একটি ব্লককে 10 সে. এ $A$ থেকে $B$ নিতেপ্রযুক্ত ক্ষমতা --</div>",
+            "option1": "<div>(ক) $3\\ W$</div>",
+            "option2": "<div>(খ) $4\\ W$</div>",
+            "option3": "<div>(গ) $5\\ W$</div>",
+            "option4": "<div>(ঘ) $6\\ W$</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/12.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৩. সংকুচিত অবস্থায় স্প্রিং এর ভিতর কোন শক্তি সঞ্চিত থাকে?</div>",
+            "option1": "<div>(ক) তাপ শক্তি</div>",
+            "option2": "<div>(খ) গতি শক্তি</div>",
+            "option3": "<div>(গ) স্থিতি শক্তি</div>",
+            "option4": "<div>(ঘ) অন্তঃস্থ শক্তি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৪. একটি বস্তুর রৈখিক ভরবেগ 50% বৃদ্ধি করলে গতিশক্তি বৃদ্ধি পায় কত?</div>",
+            "option1": "<div>(ক) 25%</div>",
+            "option2": "<div>(খ) 50%</div>",
+            "option3": "<div>(গ) 125%</div>",
+            "option4": "<div>(ঘ) 225%</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৫. 1 কিলোওয়াট ঘন্টা সমান --</div>",
+            "option1": "<div>(ক) $1000\\ J$</div>",
+            "option2": "<div>(খ) $3600\\ J$</div>",
+            "option3": "<div>(গ) $6000\\ J$</div>",
+            "option4": "<div>(ঘ) $3.6\\times {10}^6\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৬. বল ও সরণের মধ্যবর্তী কোণের কোন মানের জন্য বল দ্বারা কাজ সম্পন্ন হবে?</div>",
+            "option1": "<div>(ক) 60$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 120$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 180$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 210$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭. বল ও সরণের মধ্যবর্তী কোণ $\\mathrm{\\theta }$ হলে ঋণাত্মক কাজের শর্তহবে --</div>",
+            "option1": "<div>(ক) 0 $\\mathrm{\\le }$ $\\mathrm{\\theta }$$\\mathrm{&lt;}$90$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 90$\\mathrm{{}^\\circ}$ $\\mathrm{&lt;}$ $\\mathrm{\\theta }$ $\\mathrm{\\le}$ 180$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 180$\\mathrm{{}^\\circ}$ $\\mathrm{\\le }$ $\\mathrm{\\theta }$$\\mathrm{&lt;}$ 90$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 90$\\mathrm{{}^\\circ}$ $\\mathrm{\\le }$ $\\mathrm{\\theta }$$\\mathrm{&lt;}$ 0$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮. $2\\ kg$ ভরের একটি বস্তুর ভরবেগ $2\\ kg\\ {ms}^{-1}$ হলে গতিশক্তি কত হবে?</div>",
+            "option1": "<div>(ক) $1\\ J$</div>",
+            "option2": "<div>(খ) $1.5\\ J$</div>",
+            "option3": "<div>(গ) $2\\ J$</div>",
+            "option4": "<div>(ঘ) $4\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৯. কোনো বস্তুর উপর ক্রিয়াশীল বল দ্বারা কৃত কাজ নিচের কোন রাশিটির পরিবর্তনসমান?</div>",
+            "option1": "<div>(ক) গতিশক্তি</div>",
+            "option2": "<div>(খ) তাপমাত্রা</div>",
+            "option3": "<div>(গ) ঘনত্ব</div>",
+            "option4": "<div>(ঘ) বিভবশক্তি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২০. নিচের কোনটি শক্তির মাত্রা?</div>",
+            "option1": "<div>(ক) $MLT^{-2}$</div>",
+            "option2": "<div>(খ) $ML^2T^{-2}$</div>",
+            "option3": "<div>(গ) $ML^{-1}T^{-1}$</div>",
+            "option4": "<div>(ঘ) $MLT^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২১. বস্তুর ভরবেগ ও গতিশক্তির মধ্যে সম্পর্ক হলো --</div>",
+            "option1": "<div>(ক) $K=\\frac{m}{p}$</div>",
+            "option2": "<div>(খ) $K=\\frac{2m}{p^2}$</div>",
+            "option3": "<div>(গ) $K=\\frac{p^2}{2m}$</div>",
+            "option4": "<div>(ঘ) $K=\\frac{p}{m}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২২. ভূমির সাথে 30$\\mathrm{{}^\\circ}$ কোণে আনত $5\\ m$ দীর্ঘ একটি ঢালুপতে$100\\ g$ ভরবিশিষ্ট একটি বস্তু যে গতিশক্তি প্রাপ্ত হবে --</div>",
+            "option1": "<div>(ক) $0.49\\ J$</div>",
+            "option2": "<div>(খ) $0.848\\ J$</div>",
+            "option3": "<div>(গ) $1.225\\ J$</div>",
+            "option4": "<div>(ঘ) $2.45\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৩. গতিশক্তির মাত্রা --</div>",
+            "option1": "<div>(ক) $[MLT^2]$</div>",
+            "option2": "<div>(খ) $[ML^2T^{-2}]$</div>",
+            "option3": "<div>(গ) $[ML^3T^{-1}]$</div>",
+            "option4": "<div>(ঘ) $[M^{-1}L^{-2}T^{-2}]$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৪. ${{\\mathop{\\rightarrow}\\limits_{F}}}$ ও${{\\mathop{\\rightarrow}\\limits_{S}}}$ যথাক্রমে বল ও সরণ হলে$\\mathrm{\\theta }$ এর কোন মানের জন্য কাজ শূন্য হয়?</div>",
+            "option1": "<div>(ক) 0$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 45$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 90$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 180$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/24.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৫. ধনাত্মক কাজের ক্ষেত্রে কোন বস্তুর --</div>",
+            "option1": "<div>(ক) গতিশক্তি বৃদ্ধি পায়, মন্দন হয়</div>",
+            "option2": "<div>(খ) গতিশক্তি হ্রাস পায়, মন্দন হয়</div>",
+            "option3": "<div>(গ) গতিশক্তি হ্রাস পায়, ত্বরণ হয়</div>",
+            "option4": "<div>(ঘ) গতিশক্তি বৃদ্ধি পায়, ত্বরণ হয়</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৬. বলের বিরুদ্ধে কাজ সম্পন্ন হয় যখন বল ও সরণের মধ্যবর্তী কোণ$\\mathrm{\\theta }$ এর মান --</div>",
+            "option1": "<div>(ক) 0 $\\mathrm{\\le }$ $\\mathrm{\\theta }$$\\mathrm{&lt;}$90$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 0 $\\mathrm{&lt;}$ $\\mathrm{\\theta }$ $\\mathrm{\\le }$90$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 90$\\mathrm{{}^\\circ}$ $\\mathrm{\\le }$ $\\mathrm{\\theta }$$\\mathrm{&lt;}$ 180$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 90$\\mathrm{{}^\\circ}$ $\\mathrm{&lt;}$ $\\mathrm{\\theta }$ $\\mathrm{\\le}$ 180$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৭. শূন্য কাজের জন্য প্রযুক্ত বল ও সরণের মধ্যবর্তী কোণ --</div>",
+            "option1": "<div>(ক) 90$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 180$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 360$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 0$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৮. $270\\ kg$ ভরের বস্তুকে ক্রেনের সাহায্যে $0.1\\ {ms}^{-1}$ ধ্র্রুব বেগেউপরে উঠানো হলে ক্রেনের ক্ষমতা --</div>",
+            "option1": "<div>(ক) $27\\ W$</div>",
+            "option2": "<div>(খ) $264.6\\ W$</div>",
+            "option3": "<div>(গ) $27\\ HP$</div>",
+            "option4": "<div>(ঘ) $264.6\\ HP$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৯. স্থিতিস্থাপক বলের বিরুদ্ধে সরণের মান দ্বিগুণ করলে কাজ বৃদ্ধি পাবে --</div>",
+            "option1": "<div>(ক) 100%</div>",
+            "option2": "<div>(খ) 200%</div>",
+            "option3": "<div>(গ) 300%</div>",
+            "option4": "<div>(ঘ) 400%</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩০. $1\\ cm$ পুরুত্বের ও $200\\ kg$ ভরের মিটার স্কেলকে অনুভূমিক অবস্থা থেকেখাড়া করলে বিভবশক্তি --</div>",
+            "option1": "<div>(ক) $19.60\\ J$</div>",
+            "option2": "<div>(খ) $1.960\\ J$</div>",
+            "option3": "<div>(গ) $1.940\\ J$</div>",
+            "option4": "<div>(ঘ) $0.970\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩১. বল ও সরণের মধ্যবর্তী কোণ কত হলে কাজের পরিমাণ সর্বোচ্চ হয়?</div>",
+            "option1": "<div>(ক) 0$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 45$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 90$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 180$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩২. $h$ উচ্চতা থেকে একটি বস্তুকে বিনা বাধায় পড়তে দিলে ভূমি হতে কত উচ্চতায়এর গতিশক্তি বিভবশক্তির দ্বিগুণ হবে?</div>",
+            "option1": "<div>(ক) $\\frac{h}{6}$</div>",
+            "option2": "<div>(খ) $\\frac{h}{3}$</div>",
+            "option3": "<div>(গ) $\\frac{2h}{3}$</div>",
+            "option4": "<div>(ঘ) $\\frac{5h}{3}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৩. $100\\ kg$ ভরের একটি বস্তুকে ক্রেনের সাহায্যে $10\\ {ms}^{-1}$ বেগে ছাদেরউপরে উঠালে ক্রেনের ক্ষমতা কত?</div>",
+            "option1": "<div>(ক) $0.98\\ W$</div>",
+            "option2": "<div>(খ) $10\\ W$</div>",
+            "option3": "<div>(গ) $98\\ W$</div>",
+            "option4": "<div>(ঘ) $9800\\ W$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৪. $60\\ m$ উচ্চতা হতে একটি বস্তুকে বিনা বাঁধায় পড়তে দিলে ভূমি হতে কতউচ্চতায় বিভবশক্তি গতিশক্তির অর্ধেক হবে?</div>",
+            "option1": "<div>(ক) $10\\ m$</div>",
+            "option2": "<div>(খ) $20\\ m$</div>",
+            "option3": "<div>(গ) $30\\ m$</div>",
+            "option4": "<div>(ঘ) $40\\ m$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৫. একটি মার্বেলকে সুতায় বেঁধে বৃত্তাকার পথে ঘুরালে কাজের পরিমাণ হবে --</div>",
+            "option1": "<div>(ক) সর্বোচ্চ</div>",
+            "option2": "<div>(খ) ঋণাত্মক</div>",
+            "option3": "<div>(গ) শূন্য</div>",
+            "option4": "<div>(ঘ) ধনাত্মক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৬. $200\\ g$ ভরের একটি বস্তু $10\\ m$ উপর থেকে পড়লে ভূমি স্পর্শ করার পূর্বমুহূর্তে এর গতিশক্তি কত?</div>",
+            "option1": "<div>(ক) $19.6\\ J$</div>",
+            "option2": "<div>(খ) $39.2\\ J$</div>",
+            "option3": "<div>(গ) $78.4\\ J$</div>",
+            "option4": "<div>(ঘ) $98\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৭. তাহমিদ ও তমাল দুজনেই ৭ম শ্রেণির ছাত্র। এরা দুজনই একটি স্কুল বিল্ডিং এরনিচ তলা থেকে দৌড়ে $15\\ m$ উচ্চতায় ছাদে উঠলো। এতে এদের সময় লাগে যথাক্রমে 6সে. ও 5 সে.। তাদের ভর যথাক্রমে $60\\ kg$ ও $50\\ kg$ । এদের দুজনের মধ্যে --<br>i. তাহমিদ বেশি কাজ করেছে<br>ii. তমাল কম কাজ করেছে<br>iii. তমাল বেশি ক্ষমতা প্রয়োগ করেছে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৮. একটি স্প্রিংকে প্রসারিত করা হলো --<br>i. এটি বিভব শক্তি অর্জন করে<br>ii. এটি প্রত্যয়নি বল লাভ করে<br>iii. প্রত্যয়নি বলের দ্বারা কৃত কাজেই এর বিভব শক্তি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩৯. কোনো বল কর্তৃক কৃত কাজ --<br>i. বল এবং সরণের ভটগুণণ<br>ii. ভর $\\mathrm{\\times}$ ত্বরণ<br>iii. গতিশক্তির পরিবর্তনের সমান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪০. কৃতকাজ শূন্য হবে --<br>i. বস্তু সমবেগে গতিশীল থাকলে<br>ii. বস্তু সমত্বরণে গতিশীল থাকলে<br>iii. বস্তুর উপর প্রযুক্ত কেন্দ্রমুখী বল থাকলে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪১. ক্ষমতার একক --<br>i. ${Js}^{-1}$<br>ii. $Watt$<br>iii. ${Nms}^{-1}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৪২. শূন্য কাজের শর্ত হলো --<br>i. বস্তুর উপর বল প্রয়োগে উল্লম্ব দিকে সরণ হলে<br>ii. যদি $cos\\theta =0$<br>iii. বস্তুর উপর বল প্রয়োগেও কোনো সরণ না ঘটলে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৪৩. বস্তুর আকার পরিবর্তনের জন্য স্থিতিশক্তি লাভ করে --<br>i. ধনুকে তীর লাগিয়ে টানলে<br>ii. ধাতব পাতকে বাঁকালে<br>iii. রাবারকে প্রসারিত করলে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৪৪. স্প্রিং-এ সঞ্চিত শক্তি হচ্ছে --<br>i. বিভব শক্তি<br>ii. রাসায়নিক শক্তি<br>iii. যান্ত্রিক শক্তি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৪৫ ও ৪৬ নং প্রশ্নের উত্তর দাওঃ<br>6 kg ভরের কোনো বস্তুকে ভূপৃষ্ঠ হতে 10 m উচ্চতায় উঠিয়ে অতঃপর একে অনুভূমিক বরাবর 5 m সরানো হলো।<br>৪৫. অভিকর্ষজ বলের দিকে সরণ কত?</div>",
+            "option1": "<div>(ক) $-10\\ m$</div>",
+            "option2": "<div>(খ) $-5\\ m$</div>",
+            "option3": "<div>(গ) $10\\ m$</div>",
+            "option4": "<div>(ঘ) $5\\ m$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪৬. এক্ষেত্রে --<br>i. অভিকর্ষ বল দ্বারা কৃতকাজ $-588\\ J$<br>ii. বাইরের এজেন্ট দ্বারা কৃতকাজ $+588\\ J$<br>iii. অভিকর্ষ বল দ্বারা কৃতকাজ $-3.675\\times {10}^{-20}\\ eV$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>উদ্দীপক হতে ৪৭ ও ৪৮ নং প্রশ্নের উত্তর দাওঃ<br>একটি বস্তু 20 m উচ্চতা থেকে ভূমিতে পড়ল<br>৪৭. এটি কত বেগে ভূমিতে আঘাত করবে?</div>",
+            "option1": "<div>(ক) $10\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $20\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $200\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $400\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪৮. পড়ন্ত অবস্থায় ভূমি হতে $5\\ m$ উঁচুতে বিভবশক্তি ও গতিশক্তির অনুপাতকোনটি?</div>",
+            "option1": "<div>(ক) $1\\ :2$</div>",
+            "option2": "<div>(খ) $1\\ :3$</div>",
+            "option3": "<div>(গ) $1\\ :4$</div>",
+            "option4": "<div>(ঘ) $2\\ :1$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>একটি হাতুড়ির ভর 1kg । এটি 10{ms}^{-1} বেগে চলে একটিপেরেকের মাথায় আঘাত করল। এতে পেরেকের সরণ হলো 2cm। উপরোক্ত তথ্য হতে ৪৯ ও ৫০ নং প্রশ্নের উত্তর দাও।<br>৪৯. কতক্ষণ হাতুড়িটি পেরেকের সংস্পর্শে ছিল?</div>",
+            "option1": "<div>(ক) $4\\times {10}^{-3}s$</div>",
+            "option2": "<div>(খ) 2$\\times {10}^{-3}s$</div>",
+            "option3": "<div>(গ) $1\\times {10}^{-3}s$</div>",
+            "option4": "<div>(ঘ) $0.25\\times {10}^{-3}s$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫০. হাতুড়ি দ্বারা সম্পাদিত কাজ কত?</div>",
+            "option1": "<div>(ক) $100\\ J$</div>",
+            "option2": "<div>(খ) $50\\ J$</div>",
+            "option3": "<div>(গ) $10\\ J$</div>",
+            "option4": "<div>(ঘ) $0.2\\ J$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকের আলোকে ৫১ ও ৫২ নং প্রশ্নের উত্তর দাওঃ<br>চিত্রে রোলার কোস্টারটির ট্রলিটিকে $50\\ m$ উচ্চতায় স্থিরঅবস্থা হতে ছেড়ে দেয়া হলো।<br>৫১. ঘর্ষণ বল নগণ্য হলে $A$ বিন্দুতে ট্রলিটির বেগ কত?</div>",
+            "option1": "<div>(ক) $30.2\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $31.3{ms}^{-1}$</div>",
+            "option3": "<div>(গ) $35.1\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $39.3\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/51.webp"
+        },
+        {
+            "mcqQuestion": "<div>৫২. উদ্দীপেকের আলোকে --<br>i. $A$ থেকে $C-$ তে যেতে শক্তির অপচয় ঘটে<br>ii. $B$ বিন্দুতে ও $C$ বিন্দুতে মোট শক্তির পরিমাণ সমান<br>iii. $A$ বিন্দু ও $C$ বিন্দুতে বেগ সমান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) iI ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>উদ্দীপকটি পড়ে পরবর্তী ৫৩ ও ৫৪ নং প্রশ্নের উত্তর দাওঃ<br>চিত্রে অনুভূমিকের সাথে θ কোণে আনত একটি ঘর্ষণবিহীন ঢালে একটি m kg  ভরের বস্তুকে দেখানো হলো। বক্সটিকে ঢালের উপরের দিকে ধ্র্রুববেগে গতিশীল করতে এর উপর ঢালের সমান্তরালে F বল প্রয়োগ করা হলো।<br>৫৩. বস্তুটিকে ঢালের উপরের দিকে $'x^'\\ m$ দূরত্ব অতিক্রম করার জন্য কত কাজকরতে হবে?</div>",
+            "option1": "<div>(ক) $mgx\\ sin\\theta $</div>",
+            "option2": "<div>(খ) $mgh\\ cos\\theta $</div>",
+            "option3": "<div>(গ) $mgx\\ cos\\theta $</div>",
+            "option4": "<div>(ঘ) $mgh\\ sin\\theta $</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/53.webp"
+        },
+        {
+            "mcqQuestion": "<div>৫৪. এখন যদি বক্সটিকে $v$ বেগে গতিশীল রাখার জন্য বলের দিকে $'a'$ ত্বরণসৃষ্টি করতে হয়, তবে কত ক্ষমতা প্রয়োগ করতে হবে?</div>",
+            "option1": "<div>(ক) $mgv+mav\\ sin\\theta $</div>",
+            "option2": "<div>(খ) $mav+mgv\\ sin\\theta $</div>",
+            "option3": "<div>(গ) $mav+mgv\\ cos\\theta $</div>",
+            "option4": "<div>(ঘ) $mgv+mav\\ cos\\theta $</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫৫. বল ও সরণের মধ্যকার কোণ কত হলে ধনাত্মক কাজ সম্পন্ন হবে?</div>",
+            "option1": "<div>(ক) 80$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 90$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 100$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 110$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৬. $144\\ kg$ ভরের এক ব্যক্তি $65\\ kg$ ভরের একটি বোঝা নিয়ে $2\\ m$ দীর্ঘএকটি সিড়ি বেয়ে উপরে উঠে। যদি সিড়িটি অনুভূমিকের সাথে 30$\\mathrm{{}^\\circ}$কোণে আনত থাকে, তবে ঐ ব্যক্তি কত কাজ সম্পন্ন করবে?</div>",
+            "option1": "<div>(ক) $2021\\ J$</div>",
+            "option2": "<div>(খ) $2024\\ J$</div>",
+            "option3": "<div>(গ) $2036\\ J$</div>",
+            "option4": "<div>(ঘ) $2048\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৫৭. কোনো বস্তুর উপর $F$ বল প্রয়োগে $\\mathrm{\\theta }$ কোণে সরণ $S$ হলেসম্পন্ন কাজের পরিমাণ কত?</div>",
+            "option1": "<div>(ক) $Fs{\\mathrm{cos} \\theta \\ }$</div>",
+            "option2": "<div>(খ) $Fs{\\mathrm{sin} \\theta \\ }$</div>",
+            "option3": "<div>(গ) $Fs{\\mathrm{tan} \\theta \\ }$</div>",
+            "option4": "<div>(ঘ) $Fs{\\mathrm{cot} \\theta \\ }$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৮. $B$ বিন্দুতে বল দ্বারা কৃতকাজ --</div>",
+            "option1": "<div>(ক) শূন্য কাজ</div>",
+            "option2": "<div>(খ) সর্বনিম্ন কাজ</div>",
+            "option3": "<div>(গ) ঋণাত্মক কাজ</div>",
+            "option4": "<div>(ঘ) সর্বোচ্চ কাজ</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/58.webp"
+        },
+        {
+            "mcqQuestion": "<div>৫৯. $1\\ kWh$ সমান কত জুল?</div>",
+            "option1": "<div>(ক) $3\\times {10}^5\\ J$</div>",
+            "option2": "<div>(খ) $3.6\\times {10}^5\\ J$</div>",
+            "option3": "<div>(গ) $3.6\\times {10}^6\\ J$</div>",
+            "option4": "<div>(ঘ) $3.6\\times {10}^7\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬০. এক কিলোগ্রাম পদার্ত রূপান্তরে শক্তির পরিমাণ-</div>",
+            "option1": "<div>(ক) $4.2\\times {10}^7$ জুল</div>",
+            "option2": "<div>(খ) $9\\times {10}^{16}$ জুল</div>",
+            "option3": "<div>(গ) $9\\times {10}^{28}$ আর্গ</div>",
+            "option4": "<div>(ঘ) $9\\times {10}^{11}$ জুল</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬১. একজন লোক নদীতে স্রোতের বিপরীতে সাঁতার কেটে স্থির থাকলে লোকটির কৃতকাজহবে-</div>",
+            "option1": "<div>(ক) ধনাত্মক কাজ</div>",
+            "option2": "<div>(খ) ঋণাত্মক কাজ</div>",
+            "option3": "<div>(গ) সর্বোচ্চ কাজ</div>",
+            "option4": "<div>(ঘ) শূন্য কাজ</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৬২. একটি বই টেবিলের উপর থেকে নিচে পড়লে কোন ধরনের কাজ সম্পাদিত হবে?</div>",
+            "option1": "<div>(ক) ধনাত্মক কাজ</div>",
+            "option2": "<div>(খ) ঋণাত্মক কাজ</div>",
+            "option3": "<div>(গ) শূন্য কাজ</div>",
+            "option4": "<div>(ঘ) সর্বনিম্ন কাজ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৬৩. মেঝে থেকে একটি বইকে টেবিলের উপর উঠানো হলো- এক্ষেত্রে কোন ধরনের কাজসম্পাদিত হবে?</div>",
+            "option1": "<div>(ক) শূন্য কাজ</div>",
+            "option2": "<div>(খ) ধনাত্মক কাজ</div>",
+            "option3": "<div>(গ) সর্বোচ্চ কাজ</div>",
+            "option4": "<div>(ঘ) ঋণাত্মক কাজ</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৬৪. নিচের কোনটি শূন্য কাজ --</div>",
+            "option1": "<div>(ক) খেলার মাঠে শাহেদের ছক্কা হাঁকানো</div>",
+            "option2": "<div>(খ) হীরার বোল্ড আউট হওয়া</div>",
+            "option3": "<div>(গ) শিক্ষকের হেঁটে হেঁটে ক্লাসে পড়ানো</div>",
+            "option4": "<div>(ঘ) মুক্তাকে ক্লাসে দাঁড় করিয়ে রাখা</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৬৫. একটি স্প্রিং এ সঞ্চিত বিভব শক্তির পরিমাণ --</div>",
+            "option1": "<div>(ক) $U=-\\frac{1}{2}{kx}^2$</div>",
+            "option2": "<div>(খ) $U={kx}^2$</div>",
+            "option3": "<div>(গ) $U=\\frac{1}{2}{kx}^2$</div>",
+            "option4": "<div>(ঘ) $U=-{kx}^2$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬৬. $2\\ kg$ ও $4\\ kg$ ভরের দুটি বস্তুর মধ্যকার দূরত্ব প্রথমাবস্থায় ছিল $2\\m$ এবং পরবর্তীতে দূরত্ব বাড়িয়ে $4\\ m$ করা হলো। উক্ত দূরত্ব পরিবর্তনেউল্লেখিত বলের মান পূর্বের তুলনায় কিরূপ হবে?</div>",
+            "option1": "<div>(ক) দ্বিগুণ হবে</div>",
+            "option2": "<div>(খ) অর্ধেক হবে</div>",
+            "option3": "<div>(গ) এক চতুর্থাংশ হবে</div>",
+            "option4": "<div>(ঘ) চারগুণ হবে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬৭. একটি বন্দুকের স্প্রিংকে $4\\ cm$ সংকুচিত করে $10\\ gm$ ভরের একটি গুলিছোড়া হলো। স্প্রিং ধ্র্রুবক $200\\ {Nm}^{-1}$ হলে স্প্রিংটি যকন সাম্যাবস্থায়পৌঁছে তখন সদ্যমুক্ত গুলির বেগ কত?</div>",
+            "option1": "<div>(ক) $5.657\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $6.657\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $\\ 7.657{ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $8.657\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৬৮. দূরত্ব বৃদ্ধি করা হলে অভিকর্ষ বল দ্বারা সম্পাদিত কাজ হবে --</div>",
+            "option1": "<div>(ক) শূন্য কাজ</div>",
+            "option2": "<div>(খ) ঋণাত্মক কাজ</div>",
+            "option3": "<div>(গ) ধনাত্মক কাজ</div>",
+            "option4": "<div>(ঘ) কোনটিই নয়</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬৯. কোন বলের মান সরণের উপর নির্ভর করে?</div>",
+            "option1": "<div>(ক) স্ট্রিং বল</div>",
+            "option2": "<div>(খ) মহাকর্ষীয় বল</div>",
+            "option3": "<div>(গ) আন্তঃআণবিক বল</div>",
+            "option4": "<div>(ঘ) অভিকর্ষ বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৭০. স্প্রিং বলের জন্য হুকের সূত্রটির গাণিতিক রূপ নিচের কোনটি?</div>",
+            "option1": "<div>(ক) $Fs=-x$</div>",
+            "option2": "<div>(খ) $Fs=x$</div>",
+            "option3": "<div>(গ) $Fs=kx$</div>",
+            "option4": "<div>(ঘ) $Fs\\propto -x$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৭১. গতিশক্তি ও ভরবেগের মধ্যে সম্পর্কযুক্ত সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $K=\\frac{1}{2}\\frac{p^2}{m}$</div>",
+            "option2": "<div>(খ) $K=\\frac{p^2}{m}$</div>",
+            "option3": "<div>(গ) $K=\\frac{1}{2}\\frac{p}{m^2}$</div>",
+            "option4": "<div>(ঘ) $K=\\frac{1}{2}{mp}^2$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৭২. গতিশক্তি ও কৃতকাজের সাথে সম্পর্কিত সমীকরণ হলো --</div>",
+            "option1": "<div>(ক) $W=Fs$</div>",
+            "option2": "<div>(খ) $W=\\frac{p^2}{m}$</div>",
+            "option3": "<div>(গ) $W=k_2-k_1$</div>",
+            "option4": "<div>(ঘ) $W=Fs\\ cos\\theta $</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭৩. নিচের কোনটি গতিশক্তির রাশিমালা --</div>",
+            "option1": "<div>(ক) $K=\\frac{1}{2}{mv}^2$</div>",
+            "option2": "<div>(খ) $K=\\frac{1}{2}{mp}^2$</div>",
+            "option3": "<div>(গ) $K={pv}^2$</div>",
+            "option4": "<div>(ঘ) $K=\\frac{1}{2}{mv}^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৭৪. একটি হালকা ও ভারী বস্তুর গতিশক্তি একই, কোনটির ভরবেগ বেশি হবে?</div>",
+            "option1": "<div>(ক) হালকা বস্তুর</div>",
+            "option2": "<div>(খ) ভারী বস্তুর</div>",
+            "option3": "<div>(গ) উভয় বস্তুর</div>",
+            "option4": "<div>(ঘ) তথ্য অপর্যাপ্ত</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৭৫. কোনো বস্তুতে বেগ দেওয়ার জন্য কৃতকাজই হলো বস্তুর --</div>",
+            "option1": "<div>(ক) বিভব শক্তি</div>",
+            "option2": "<div>(খ) সঞ্চিত স্থিতিশক্তি</div>",
+            "option3": "<div>(গ) রাসায়নিক শক্তি</div>",
+            "option4": "<div>(ঘ) গতিশক্তি</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৭৬. $6\\ N$ এর একটি বল অনুভূমিকভাবে $2\\ kg$ ভরের একটি বস্তুর উপর $4\\ sec$ধরে কাজ করছে। বস্তুটির গতিশক্তির পরিমাণ কত?</div>",
+            "option1": "<div>(ক) $161.61\\ J$</div>",
+            "option2": "<div>(খ) $1200\\ J$</div>",
+            "option3": "<div>(গ) $1000\\ J$</div>",
+            "option4": "<div>(ঘ) $1500\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৭৭. $100\\ g$ ভরের একটি বস্তুকে $100\\ m$ উপর হতে ছেড়ে দেওয়া হলো। ভূ-পৃষ্ঠকেস্পর্শ করার পূর্বমুহূর্তে এর গতিশক্তি কত?</div>",
+            "option1": "<div>(ক) $9800\\ J$</div>",
+            "option2": "<div>(খ) $980\\ J$</div>",
+            "option3": "<div>(গ) $98\\ J$</div>",
+            "option4": "<div>(ঘ) $9.8\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭৮. ভূপৃষ্ঠ হতে একটি বস্তুকে উপরে তোলা হলে বস্তুর মধ্যে কী ধরনের শক্তিসঞ্চিত হবে?</div>",
+            "option1": "<div>(ক) রাসায়নিক শক্তি</div>",
+            "option2": "<div>(খ) সৌরশক্তি</div>",
+            "option3": "<div>(গ) বিভব শক্তি</div>",
+            "option4": "<div>(ঘ) গতিশক্তি</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭৯. অভিকর্ষীয় বিভব শক্তির মান কোনটির উপর নির্ভর করে না?</div>",
+            "option1": "<div>(ক) অভিকর্ষীয় ত্বরণ</div>",
+            "option2": "<div>(খ) উচ্চতা</div>",
+            "option3": "<div>(গ) বস্তুর ভর</div>",
+            "option4": "<div>(ঘ) বস্তুর ওজন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮০. অভিকর্ষ বলের বিরুদ্ধে কৃতকাজ বস্তুতে কোন শক্তিরূপে সঞ্চিত থাকে?</div>",
+            "option1": "<div>(ক) স্থিতিস্থাপক স্থিতিশক্তি</div>",
+            "option2": "<div>(খ) স্থিতিস্থাপক গতিশক্তি</div>",
+            "option3": "<div>(গ) অভিকর্ষীয় স্থিতিশক্তি</div>",
+            "option4": "<div>(ঘ) অভিকর্ষীয় গতিশক্তি</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮১. নির্দিষ্ট ভরের কোন বিভবশক্তি $k_p$ এবং ভূ-পৃষ্ঠ থেকে উচ্চতা $h$ হলে --</div>",
+            "option1": "<div>(ক) $E_p\\propto h$</div>",
+            "option2": "<div>(খ) $E^2_p\\propto h$</div>",
+            "option3": "<div>(গ) $E_p\\propto h^2$</div>",
+            "option4": "<div>(ঘ) $E_p\\propto \\sqrt{h}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮২. কোনো স্প্রিংকে সংকুচিত করা হলে তার মধ্যে কোন ধরনের শক্তি সঞ্চিত থাকে?</div>",
+            "option1": "<div>(ক) গতিশক্তি</div>",
+            "option2": "<div>(খ) সৌরশক্তি</div>",
+            "option3": "<div>(গ) বিভব শক্তি</div>",
+            "option4": "<div>(ঘ) রাসায়নিক শক্তি</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮৩. ক্ষমতার সঠিক সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $p=\\omega t{\\mathrm{cos} \\theta \\ }$</div>",
+            "option2": "<div>(খ) $p=\\frac{\\overrightarrow{F}\\times \\overrightarrow{r}}{t}$</div>",
+            "option3": "<div>(গ) $p=\\frac{\\overrightarrow{F}\\times t}{\\overrightarrow{r}}$</div>",
+            "option4": "<div>(ঘ) $p=\\frac{\\overrightarrow{F}.\\overrightarrow{r}}{t}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৮৪. একটি পরিপূর্ণ কুয়ার গভীরতা $10\\ m$ এবং ব্যাস $2\\ m$। একটি পাম্প $30$মিনিটে কুয়াটিকে পানিশূন্য করতে পারে। পাম্পের অশ্বক্ষমতা কত?</div>",
+            "option1": "<div>(ক) $1.146\\ HP$</div>",
+            "option2": "<div>(খ) $2.146\\ HP$</div>",
+            "option3": "<div>(গ) $3.146\\ HP$</div>",
+            "option4": "<div>(ঘ) $4.146\\ HP$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮৫. কোনো একটি স্থান হতে এক মিনিটে একটি ইঞ্জিন $100\\ kg$ ভরের একটি বস্তুকে$20\\ m$ উপরে তুলতে পারে। যদি ইঞ্জিনটির ক্ষমতা $30%$ নষ্ট হয়, তবে ইঞ্জিনটিরক্ষমতা কত?</div>",
+            "option1": "<div>(ক) $466.67\\ Watt$</div>",
+            "option2": "<div>(খ) $566.67\\ Watt$</div>",
+            "option3": "<div>(গ) $666.67\\ Watt$</div>",
+            "option4": "<div>(ঘ) $766.67\\ Watt$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮৬. $100\\ kg$ ভর বিশিষ্ট একটি গাড়ী সমান্তরাল রাস্তায় $10\\ {ms}^{-1}$সমগতিতে চলা অবস্থায় বিপরীত দিকে $400\\ N$ বল অনুভব করে। এ অবস্থায় গাড়ীটিরইঞ্জিনের ক্ষমতা হলো --</div>",
+            "option1": "<div>(ক) $4\\ kW$</div>",
+            "option2": "<div>(খ) $4200\\ W$</div>",
+            "option3": "<div>(গ) $4500\\ W$</div>",
+            "option4": "<div>(ঘ) $400\\ W$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮৭. কোনো বলের ক্রিয়া অভিমুখে যদি বস্তুর গতি অভিমুখের উপর নির্ভর করে তবে ঐবলকে কি বলা হবে?</div>",
+            "option1": "<div>(ক) ধ্র্রুব বল</div>",
+            "option2": "<div>(খ) পরিবর্তনশীল বল</div>",
+            "option3": "<div>(গ) সংরক্ষণশীল বল</div>",
+            "option4": "<div>(ঘ) অসংর্ষণশীল বল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৮৮. ঘর্ষণ বল কোন ধরনের বল?</div>",
+            "option1": "<div>(ক) অভিকর্ষজ বল</div>",
+            "option2": "<div>(খ) স্প্রিং বল</div>",
+            "option3": "<div>(গ) সংরক্ষণশীল বল</div>",
+            "option4": "<div>(ঘ) অসংরক্ষণশীল বল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৮৯. কোন বল দ্বারা সম্পাদিত কাজের পরিমাণ শূন্য হয়?</div>",
+            "option1": "<div>(ক) সমবল</div>",
+            "option2": "<div>(খ) ত্বরণ বল</div>",
+            "option3": "<div>(গ) সংরক্ষণশীল বল</div>",
+            "option4": "<div>(ঘ) অসংরক্ষণশীল বল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৯০. কোন বল দ্বারা কৃতকাজ সম্পূর্ণরূপে উদ্ধার করা সম্ভব নয়?</div>",
+            "option1": "<div>(ক) সংরক্ষণশীল বল</div>",
+            "option2": "<div>(খ) অসংরক্ষণশীল বল</div>",
+            "option3": "<div>(গ) অভিকর্ষজ বল</div>",
+            "option4": "<div>(ঘ) তড়িৎ বল</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯১. একটি গাড়ি $36\\ {km\\ h}^{-1}$ বেগে গতিশীল। কোন গতিতে চললে গাড়িটিরগতিশক্তি দ্বিগুণ হবে?</div>",
+            "option1": "<div>(ক) $7\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $20\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $54\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $14\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৯২. পাম্পের সাহায্যে একটি পানির ট্যাঙ্কে $100\\ s$ সময়ে $1000\\ kg$ পানিউত্তোলন করা যায়। ট্যাঙ্কে পানির গড় উচ্চতা $20\\ m$ হলে পাম্পের ক্ষমতা কত?$(g=9.8\\ {ms}^{-2})$</div>",
+            "option1": "<div>(ক) $2.96\\ kW$</div>",
+            "option2": "<div>(খ) $1.546\\ kW$</div>",
+            "option3": "<div>(গ) $1.96\\ kW$</div>",
+            "option4": "<div>(ঘ) $1\\ kW$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৯৩. কোনো বিদ্যুৎ কেন্দ্রের সরবরাহকৃত বিদ্যুৎশক্তি দ্বারা প্রতি সেকেন্ড$5\\times {10}^7\\ J$ কাজ করা যায়। বিদ্যুৎ কেন্দ্রের ক্ষমতা কত?</div>",
+            "option1": "<div>(ক) $50\\ MW$</div>",
+            "option2": "<div>(খ) $100\\ MW$</div>",
+            "option3": "<div>(গ) $1000\\ MW$</div>",
+            "option4": "<div>(ঘ) $5\\ MW$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯৪. $25\\ g$ ভরের একটি বস্তু $500\\ {ms}^{-1}$ বেগে একটি লক্ষ্যবস্তুকে আঘাতকরে $100\\ {ms}^{-1}$ বেগে বের হয়ে গেল। বস্তুটির ভিতর দিয়ে যাওয়ার ফলে যেপরিমাণ শক্তি ব্যায়িত হলো --</div>",
+            "option1": "<div>(ক) $3000\\ J$</div>",
+            "option2": "<div>(খ) $3000\\ Arg$</div>",
+            "option3": "<div>(গ) $5000\\ ev$</div>",
+            "option4": "<div>(ঘ) $300\\ W-b$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯৫. $1\\ J$ গতিশক্তি একটি বস্তুর গতির বিপরীতে $1\\ N$ বল প্রয়োগ করলে বস্তুটিকত দূরে অগ্রসর হয়ে থেমে যাবে?</div>",
+            "option1": "<div>(ক) $1\\ m$</div>",
+            "option2": "<div>(খ) $2\\ cm$</div>",
+            "option3": "<div>(গ) $2\\ m$</div>",
+            "option4": "<div>(ঘ) $10\\ m$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯৬. $36000$ গ্যালন পানি $60\\ ft$ উপরে তুলতে $1$ ঘন্টা সময় লাগলে ইঞ্জিনেরঅশ্ব ক্ষমতা কত? $(1\\ গ্যালন\\mathrm{\\ }=10\\ lb)$</div>",
+            "option1": "<div>(ক) $10.91\\ অশ্ব\\mathrm{\\ }ক্ষমতা\\ $</div>",
+            "option2": "<div>(খ) $1.091\\ অশ্ব\\mathrm{\\ }ক্ষমতা$</div>",
+            "option3": "<div>(গ) $109.1\\ অশ্ব\\mathrm{\\ }ক্ষমতা$</div>",
+            "option4": "<div>(ঘ) $10.91\\ ফুট-গ্যালন\\mathrm{/}সেঃ$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯৭. $144\\ lb$ ভরের একব্যক্তি $56\\ lb$ পাউন্ড ইট $20\\ ft$ সিঁড়ি দিয়ে নিচেথেকে উপরে নিয়ে গেলেন। সিঁড়িটি অনুভূমিকের সাথে 30$\\mathrm{{}^\\circ}$ কোণউৎপন্ন করলে সম্পন্ন কাজের পরিমাণ --</div>",
+            "option1": "<div>(ক) $200\\ ft-lb$</div>",
+            "option2": "<div>(খ) $6.4\\times {10}^4\\ ft-Poundal$</div>",
+            "option3": "<div>(গ)$\\ 2000\\ ft-lb$</div>",
+            "option4": "<div>(ঘ) $200\\ ft-lb$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯৮. $10\\ kg$ ভরবিশিষ্ট একটি বন্দুকে থেকে $80\\ {cms}^{-1}$ বেগে বুলেট বেরহলো। বুলেটের ভর $40\\ g$ হলে বন্দুরেক গতিশক্তি নিচের কোনটি?</div>",
+            "option1": "<div>(ক) $0.3089\\ J$</div>",
+            "option2": "<div>(খ) $8.0\\times {10}^{-4}\\ J$</div>",
+            "option3": "<div>(গ) $0.0128\\ J$</div>",
+            "option4": "<div>(ঘ) $51\\times {10}^{-6}\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৯৯. $40\\ N$ ওজনের বস্তুকে মেঝে থেকে $3\\ m$ উঁচুতে $2\\ s$ ধরে রাখতে কাজেরপরিমাণ হবে-</div>",
+            "option1": "<div>(ক) $0\\ J$</div>",
+            "option2": "<div>(খ) $40\\ J$</div>",
+            "option3": "<div>(গ) $120\\ J$</div>",
+            "option4": "<div>(ঘ) $240\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১০০. $200\\ mg$ ভরের একটি বস্তু $10\\ m$ উচ্চতা থেকে নিচে পড়ছে। ভূ-পৃষ্ঠকেস্পর্শ করার পূর্ব মুহূর্তে এর গতিশক্তি কত হবে?</div>",
+            "option1": "<div>(ক) $196\\ J$</div>",
+            "option2": "<div>(খ) $19.6\\ J$</div>",
+            "option3": "<div>(গ) $19.6\\times {10}^3\\ J$</div>",
+            "option4": "<div>(ঘ) $19.6\\times {10}^{-3}\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১০১. পরিবর্তশীল বল দ্বরা কৃতকাজের উদাহরণ হলো --<br>i. মহাকর্ষীয় ক্ষেত্রে কৃতকাজ<br>ii. স্প্রিং বল কৃর্তৃক কৃতকাজ<br>iii. অভিকর্ষজ বল কর্তৃক কৃতকাজ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১০২. কাজ সম্পন্ন হয় --<br>i. 0$\\mathrm{{}^\\circ}$ $\\mathrm{\\le }$ $\\mathrm{\\theta }$ $\\mathrm{\\le}$ 90$\\mathrm{{}^\\circ}$ হলে<br>ii. $\\mathrm{\\theta }$ = 90$\\mathrm{{}^\\circ}$ হলে<br>iii. 90$\\mathrm{{}^\\circ}$ $\\mathrm{\\le }$ $\\mathrm{\\theta }$$\\mathrm{\\le }$ 180$\\mathrm{{}^\\circ}$ হলে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১০৩. একটি ভারী ও হালকা বস্তুর গতিশক্তি একই হলে --<br>i. ভারী বস্তুর ভরবেগ বেশি হবে<br>ii. হালকা বস্তুর ভরবেগ কম হবে<br>iii. উভয়ের ভরবেগ সমান হবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) iii</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১০৪. সংরক্ষণশীল বল হলো --<br>i. আদর্শ স্প্রিং বল<br>ii. চৌম্বক বল<br>iii. সান্দ্র বল<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১০৫. অসংরক্ষণশীল বলের বৈশিষ্ট্য -<br>i. এটি পথের উপর নির্ভর করে না<br>ii. এটি কর্তৃক কৃতকাজ সম্পূর্ণভাবে পুনরুদ্ধার করা সম্ভব নয়<br>iii. যান্ত্রিক শক্তির নিত্যতা সূত্র মেনে চলে না<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১০৬. কোনো বস্তুর গতিশক্তি চারগুণ হবে যদি --<br>i. ভর চারগুণ করা হয়<br>ii. বেগ দ্বিগুণ করা হয়<br>iii. ভর দ্বিগুণ করা হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১০৭. বিভব শক্তি --<br>i. তাপমাত্রার উপর নির্ভর করে<br>ii. ভরের উপর নির্ভর করে<br>iii. ভূ-পৃষ্ঠ থেকে উচ্চতার উপর নির্ভর করে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১০৮. ক্ষমতার একক --<br>i. অশ্বক্ষমতা<br>ii. কর্মক্ষমতা<br>iii. ওয়াট<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১০৯. $50\\ kg$ ভরের একটি বস্তু $150\\ m$ উঁচু দালানের ছাদে উঠানো হলে --<br>i. বস্তুটির ওজন $490\\ N$<br>ii. কৃতকাজ হবে $7.35\\times {10}^4J$<br>iii. বলের বিরুদ্ধে কাজ হবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১১০. বস্তুর বিভবশক্তি নির্ভর করে --<br>i. এর অণু পরমাণুগুলোর আপেক্ষিক অবস্থানের উপর<br>ii. প্রসঙ্গ বস্তু ও প্রসঙ্গতলের উপর<br>iii. বস্তুর তাৎক্ষণিক গতিবেগের উপর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১১১. ক্ষমতা হলো কাজ সম্পাদনকারী কোনো ব্যক্তি বা যন্ত্রের --<br>i. কাজ করার হার<br>ii. শক্তি সরবরাহের হার<br>iii. একক সময়ে কৃত কাজ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১১২. স্থিতিশিক্তির ক্ষেত্রে --<br>i. স্থিতিশক্তি অদিক রাশি<br>ii. উচ্চতা হ্রাসে স্থিতিশক্তি বৃদ্ধি পায়<br>iii. গতিশীল বস্তুর স্থিতিশক্তি থাকতে পারে না<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১১৩. কোনটি গতিশক্তির জন্য প্রযোজ্য --<br>i. গতিশক্তি বস্তুর অণু পরমাণুর আপেক্ষিক অবস্থানের উপর নির্ভর করে<br>ii. কোনো বস্তু গতিশীল হওয়ার জন্য যে শক্তি অর্জন করে<br>iii. বস্তুর বেগ না থাকলে, গতিশক্তি থাকে না<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১১৪. অসংরক্ষণশীল বলের উদাহরণ হলো --<br>i. মহাকর্ষ<br>ii. আবর্ত ঘর্ষণ<br>iii. প্রবাহী ঘর্ষণ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>1 kg ভরের একটি বস্তুকে A বিন্দু হতে মুক্তভাবে ছেড়ে দেয়া হলো। (AC=100 m এবং  AB=AC/2) উপরের তথ্যের আলোকে নিচের ১১৫ ও ১১৬ নং প্রশ্নের উত্তর দাওঃ<br>১১৫. $B$ বিন্দুতে বস্তুটির গতিশক্তি বিভবশক্তির --</div>",
+            "option1": "<div>(ক) এক-চতুর্থাংশ</div>",
+            "option2": "<div>(খ) অর্ধেক</div>",
+            "option3": "<div>(গ) সমান</div>",
+            "option4": "<div>(ঘ) দ্বিগুণ</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/115.webp"
+        },
+        {
+            "mcqQuestion": "<div>১১৬. উদ্দীপকের বস্তুটির ক্ষেত্রে --<br>i. $A$ বিন্দুতে মোটশক্তি $1000\\ J$<br>ii. $B$ বিন্দুতে বেগ $31.6\\ {ms}^{-1}$<br>iii. $C$ বিন্দুতে গতিশক্তি $500\\ J$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>চিত্রের আলোকে ১১৭-১২০ নং প্রশ্নের উত্তর দাওঃ<br>১১৭. বস্তুটির সরণ কত?</div>",
+            "option1": "<div>(ক) $5\\ m$</div>",
+            "option2": "<div>(খ) $10\\ m$</div>",
+            "option3": "<div>(গ) $15\\ m$</div>",
+            "option4": "<div>(ঘ) $50\\ m$</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/117.webp"
+        },
+        {
+            "mcqQuestion": "<div>১১৮. উদ্দীপকের কৃতকাজের পরিমাণ --</div>",
+            "option1": "<div>(ক) $2\\ J$</div>",
+            "option2": "<div>(খ) $10\\ J$</div>",
+            "option3": "<div>(গ) $20\\ J$</div>",
+            "option4": "<div>(ঘ) $50\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১১৯. বস্তুটির উপর প্রযুক্ত বল অর্ধেক করা হলে কাজ কতগুণ হবে?<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) দ্বিগুণ</div>",
+            "option2": "<div>(খ) চারগুণ</div>",
+            "option3": "<div>(গ) অর্ধেক</div>",
+            "option4": "<div>(ঘ) এক-চুতর্থাংশ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১২০. নিচের তথ্যগুলো লক্ষ কর --<br>i. বস্তুটির ওজন $49\\ N$<br>ii. বস্তুটির বলের দিকে কাজ করে<br>iii. বল প্রয়োগের পর বস্তুটিতে গতিশক্তির সঞ্চার হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>উপরের চিত্রের আলোকে ১২১ ও ১২২ নং প্রশ্নের উত্তর দাওঃ<br>১২১. $A$ অবস্থানে $m$ ভরের বস্তুটির স্থিতিশক্তি কত?</div>",
+            "option1": "<div>(ক) $mgx$</div>",
+            "option2": "<div>(খ) $mgh$</div>",
+            "option3": "<div>(গ) $mg\\ sin\\theta $</div>",
+            "option4": "<div>(ঘ) $mg\\ cos\\theta $</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/121.webp"
+        },
+        {
+            "mcqQuestion": "<div>১২২. অবস্থানের ক্ষেত্রে বস্তুটির --<br>i. $গতিশক্তি=mgx{\\mathrm{sin} \\theta \\ }$<br>ii. $স্থিতিশক্তি\\mathrm{\\ }=mg(h-x{\\mathrm{sin} \\theta \\ })$<br>iii. $মোট\\mathrm{\\ }শক্তি\\mathrm{\\ }=mgx$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>নিচের তথ্যের আলোকে ১২৩ ১২৪ নং প্রশ্নের উত্তর দাওঃ <br>18 m দৈর্ঘ্যের একটি মই ভূমির সাথে 60° কোণে ছাদের সাথে হেলানো অবস্থায় রাখা আছে। 80 kg ভরের এক ব্যক্তি 30 kg ভরের একটি বোঝা নিয়ে মইটিকে 1 মিনিটে অত্রিকম করে। <br>১২৩. ঐ ব্যক্তির কাজের পরিমাণ কত?</div>",
+            "option1": "<div>(ক) $318.5\\ J$</div>",
+            "option2": "<div>(খ) $1600.2\\ J$</div>",
+            "option3": "<div>(গ) $16806.02\\ J$</div>",
+            "option4": "<div>(ঘ) $17000\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১২৪. ঐ ব্যক্তির ক্ষমতা কত কিলোওয়াট?<br>i. $28\\times {10}^{-2}$ কিলোওয়াট<br>ii. $280$ কিলোওয়াট<br>iii. $2\\times {10}^3$ কিলোওয়াট<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>একজন লোক $30\\ kg$ ভরের একটি বস্তুকে ভূমি হতে $0.8\\m$ উপরে উঠাল। উপরের তথ্য থেকে নিচের ১২৫-১২৭ নং প্রশ্নের উত্তর দাওঃ<br>১২৫. লোকটির সম্পন্নকেৃতকাজের পরিমাণ নির্ণয় কর।</div>",
+            "option1": "<div>(ক) $240\\ J$</div>",
+            "option2": "<div>(খ) $24\\ J$</div>",
+            "option3": "<div>(গ) $235.2\\ J$</div>",
+            "option4": "<div>(ঘ) $294\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১২৬. অভিকর্ষ বলের কাজ কত হবে?</div>",
+            "option1": "<div>(ক) $294\\ J$</div>",
+            "option2": "<div>(খ) $-294\\ J$</div>",
+            "option3": "<div>(গ) $235.2\\ J$</div>",
+            "option4": "<div>(ঘ) $-235.2\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১২৭. বস্তুটির উপর মোট কাজের পরিমাণ কত হবে?</div>",
+            "option1": "<div>(ক) $470.4\\ J$</div>",
+            "option2": "<div>(খ) $-470.4\\ J$</div>",
+            "option3": "<div>(গ) $235.2\\ J$</div>",
+            "option4": "<div>(ঘ) $0$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১২৮. সমান আকৃতির চারটি পাত্রে রাখা পানি আছে যা নিম্নের চিত্রে দেখানো হলো।নিম্নের কোন পাত্রটি সর্বনিন্ম কম কাজে খালি করা যায়?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১২৯. একটি বস্তু সরল পথে $(3,2,-1)$ থেকে $(2,-1,4)$ বিন্দুতে গেল। এর উপরক্রিয়াশীল বল $F=4i-3j+2k$ হলে কাজ কত হবে?</div>",
+            "option1": "<div>(ক) 10 একক</div>",
+            "option2": "<div>(খ) 15 একক</div>",
+            "option3": "<div>(গ) 20 একক</div>",
+            "option4": "<div>(ঘ) 25 একক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৩০. একটি ছেলে $10\\ N$ বল প্রয়োগ করে 30$\\mathrm{{}^\\circ}$ কোণে একটি গাড়িটেনে $20\\ m$ নিয়ে গেল সে কত কাজ করবে?</div>",
+            "option1": "<div>(ক) $100\\ J$</div>",
+            "option2": "<div>(খ) $173\\ J$</div>",
+            "option3": "<div>(গ) $10\\ J$</div>",
+            "option4": "<div>(ঘ) $50\\ J$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৩১. চিত্র অনুযায়ী একটি ব্লক একটি আনত তলের উপর স্থির অবস্থানে আছে।<br>নিচের কোন জোড়া শুদ্ধ উত্তর?</div>",
+            "option1": "<div>(ক) $f=w{\\mathrm{cos} \\theta \\ },\\ R=w{\\mathrm{sin} \\theta \\ }$</div>",
+            "option2": "<div>(খ) $R=w,\\ f=R$</div>",
+            "option3": "<div>(গ) $R=w{\\mathrm{cos} \\theta \\ },\\ f=w{\\mathrm{sin} \\theta \\ }$</div>",
+            "option4": "<div>(ঘ) $w{\\mathrm{sin} \\theta \\ }=w{\\mathrm{cos} \\theta \\ },\\ R=w{\\mathrm{cos}\\theta \\ }$</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/131.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৩২. চিত্রে কৃতকাজ কত একক?</div>",
+            "option1": "<div>(ক) $100\\ \\pi $</div>",
+            "option2": "<div>(খ) $50\\ \\pi $</div>",
+            "option3": "<div>(গ) $25\\ \\pi $</div>",
+            "option4": "<div>(ঘ) $12.5\\pi $</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/132.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৩৩. শক্তির একক নিচের কোনটি?</div>",
+            "option1": "<div>(ক) $J$</div>",
+            "option2": "<div>(খ) $H.P$</div>",
+            "option3": "<div>(গ) $Wat$</div>",
+            "option4": "<div>(ঘ) ${kgm}^{-2}s^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৩৪. অনুভূমির সাথে 60$\\mathrm{{}^\\circ}$ কোণে $5\\ m$ লম্বা একটি হেলানো তলেরপাদদেশ হতে $10\\ kg$ ভরের একটি ব্লক শীর্ষবিন্দুতে টেনে তুলতে কত শক্তি লাগবে?</div>",
+            "option1": "<div>(ক) $424.35\\ J$</div>",
+            "option2": "<div>(খ) $428.35\\ J$</div>",
+            "option3": "<div>(গ) $432.35\\ J$</div>",
+            "option4": "<div>(ঘ) $442.35\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৩৫. $25\\ N$ বল প্রয়োগ করায় একটি স্প্রিং এর দৈর্ঘ্য $10\\ cm$ বৃদ্ধি পায়।স্প্রিং কে $6\\ cm$ প্রসারিত করলে কৃত কাজ কত?</div>",
+            "option1": "<div>(ক) $0.35\\ J$</div>",
+            "option2": "<div>(খ) $0.45\\ J$</div>",
+            "option3": "<div>(গ) $1.50\\ J$</div>",
+            "option4": "<div>(ঘ) $2.50\\ J$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৩৬. কোন বল প্রয়োগে সর্বোচ্চ কাজ সম্পন্ন হবে যখন বল সরণের সাথে ক্রিয়া করে--</div>",
+            "option1": "<div>(ক) লম্ব বরাবর</div>",
+            "option2": "<div>(খ) একই দিকে</div>",
+            "option3": "<div>(গ) 45$\\mathrm{{}^\\circ}$ কোণে</div>",
+            "option4": "<div>(ঘ) 30$\\mathrm{{}^\\circ}$ কোণে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৩৭. কখন বল দ্বারা কৃতকাজ শূন্য হবে? যখন --</div>",
+            "option1": "<div>(ক) $\\mathrm{\\alpha }$ = 0$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) $\\mathrm{\\alpha }$ = 30$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) $\\mathrm{\\alpha }$ = 90$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) $\\mathrm{\\alpha }$ = 120$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৩৮. একটি বস্তু সরল পথে $(3,\\ 2,\\ -1)$ থেকে $2,\\ -1,\\ 4$ বিন্দুতে গেল। এরউপর ক্রিয়াশীল বল $\\overrightarrow{F}=4\\hat{i}-3\\hat{j}+2\\hat{k}$ হলে কাজ কতহবে?</div>",
+            "option1": "<div>(ক) 10 একক</div>",
+            "option2": "<div>(খ) 15 একক</div>",
+            "option3": "<div>(গ) 20 একক</div>",
+            "option4": "<div>(ঘ) 25 একক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৩৯. $\\overrightarrow{F}=3\\hat{i}-2\\hat{j}+2\\hat{k}$ বলের ক্রিয়ার একটি কণা$(-1,\\ 1,\\ 2)$ বিন্দু হতে $(1,\\ -1,\\ 3)$ অবস্থানে গেলে কৃত কাজ নির্ণয় কর।</div>",
+            "option1": "<div>(ক) $11\\ unit$</div>",
+            "option2": "<div>(খ) $-11\\ unit$</div>",
+            "option3": "<div>(গ) $3\\sqrt{14}\\ unit$</div>",
+            "option4": "<div>(ঘ) $5\\ unit$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৪০. একটি পরিপূর্ণ কুযার ব্যাস $4\\ m$ এবং গভীরতা $12\\ m$ । একটি পাম্প $20\\min$ এটাকে পানিশূন্য করতে পারে। পাম্পের ক্ষমতা নির্ণয় কর।</div>",
+            "option1": "<div>(ক) $4.396\\ kW$</div>",
+            "option2": "<div>(খ) $5.39\\ kW$</div>",
+            "option3": "<div>(গ) $6.396\\ kW$</div>",
+            "option4": "<div>(ঘ) $7.396\\ kW$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৪১. একটি স্প্রিংকে এক অবস্থান থেকে অন্য অবস্থানে প্রসারিত করতে প্রযুক্ত বলকর্তৃক সম্পাদিত কাজ সরণের --</div>",
+            "option1": "<div>(ক) সমানুপাতিক</div>",
+            "option2": "<div>(খ) ব্যস্তানুপাতিক</div>",
+            "option3": "<div>(গ) বর্গের সমানুপাতিক</div>",
+            "option4": "<div>(ঘ) বর্গের ব্যস্তানুপাতিক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৪২. স্প্রিং এর বলকে বলা হয় --</div>",
+            "option1": "<div>(ক) সংরক্ষণশীল বল</div>",
+            "option2": "<div>(খ) অসংরক্ষণশীল বল</div>",
+            "option3": "<div>(গ) ধ্র্রুব বল</div>",
+            "option4": "<div>(ঘ) প্রত্যয়নী বল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৪৩. স্প্রিং বলের মাত্রা সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $ML^{-1}T^{-2}$</div>",
+            "option2": "<div>(খ) $MLT^{-2}$</div>",
+            "option3": "<div>(গ) $ML^{-2}$</div>",
+            "option4": "<div>(ঘ) $ML^{-2}T^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৪৪. একটি স্প্রিং এর স্প্রিং ধ্র্রুবক $K$ । একে $3\\ :2:1$ অনুপাত কেটেবিভক্ত করলে দ্বিতীয় অংশের স্প্রিং ধ্র্রুবক হবে --</div>",
+            "option1": "<div>(ক) $k$</div>",
+            "option2": "<div>(খ) $2\\ k$</div>",
+            "option3": "<div>(গ) $3\\ k$</div>",
+            "option4": "<div>(ঘ) $6\\ k$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৪৫. একটি স্প্রিংয়ের মুক্ত প্রান্তের $2\\ cn$ সরণে প্রযুক্ত বল $10\\ N$।মুক্ত প্রান্তের $4\\ cm$ সরণ হলে কৃতকাজ কত?</div>",
+            "option1": "<div>(ক) $0.1\\ J$</div>",
+            "option2": "<div>(খ) $0.2\\ J$</div>",
+            "option3": "<div>(গ) $0.3\\ J$</div>",
+            "option4": "<div>(ঘ) $0.4\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৪৬. স্প্রিং ধ্র্রুবকের একক কোনটি?</div>",
+            "option1": "<div>(ক) $N.m$</div>",
+            "option2": "<div>(খ) ${N.m}^{-1}$</div>",
+            "option3": "<div>(গ) ${kg.m}^{-3}$</div>",
+            "option4": "<div>(ঘ) ${N.m}^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৪৭. একটি বন্দুকের স্প্রিংকে $4\\ cm$ সংকুচিত করে $10\\ g$ ভরের একটি গুলিছোঁড়া হলো। স্প্রিংটি যখন সাম্যাবস্থায় পৌছে তখন সদ্যমুক্তি গুলির বেগ কত?(স্প্রিং ধ্র্রুবকের মান=$200\\ {Nm}^{-1}$)</div>",
+            "option1": "<div>(ক) $5.677$</div>",
+            "option2": "<div>(খ) $5.657$</div>",
+            "option3": "<div>(গ) $5.767$</div>",
+            "option4": "<div>(ঘ) $5.867$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৪৮. কত উচ্চতা হতে $5\\ kg$ ভরের বস্তুকে ছেড়ে দিলে গতিশক্তি $980\\ J$ হবে?</div>",
+            "option1": "<div>(ক) $50\\ m$</div>",
+            "option2": "<div>(খ) $40\\ m$</div>",
+            "option3": "<div>(গ) $30\\ m$</div>",
+            "option4": "<div>(ঘ) $20\\ m$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৪৯. একটি চলমান বস্তুর বেগ বাড়িয়ে আদি বেগের 2 গুণ করা হলে এর গতিশক্তিপ্রাথমিক গতিশক্তির কত গুণ হবে?</div>",
+            "option1": "<div>(ক) 2</div>",
+            "option2": "<div>(খ) 3</div>",
+            "option3": "<div>(গ) 4</div>",
+            "option4": "<div>(ঘ) 5</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৫০. একটি বস্তুর ভরবেগ দ্বিগুণ করলে এর গতিশক্তি হবে পূর্বের গতিশক্তির --</div>",
+            "option1": "<div>(ক) দ্বিগুণ</div>",
+            "option2": "<div>(খ) চারগুণ</div>",
+            "option3": "<div>(গ) আটগুণ</div>",
+            "option4": "<div>(ঘ) সমান</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৫১. $100\\ kg$ ভরের একটি বস্তুর ভরবেগ $200\\ kg\\ {ms}^{-1}$ হলে এর গতিশক্তিকত হবে?</div>",
+            "option1": "<div>(ক) $400\\ J$</div>",
+            "option2": "<div>(খ) $300\\ J$</div>",
+            "option3": "<div>(গ) $200\\ J$</div>",
+            "option4": "<div>(ঘ) $100\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৫২. $m$ এবং $9m$ ভরের দুটি বস্তুর গতিশক্তি একই হলে তাদের রৈখিক ভরবেগেরঅনুপাত হবে --</div>",
+            "option1": "<div>(ক) $1\\ :9$</div>",
+            "option2": "<div>(খ) $1\\ :3$</div>",
+            "option3": "<div>(গ) $9\\ :1$</div>",
+            "option4": "<div>(ঘ) $3\\ :1$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৫৩. কোন বস্তুর ভরবেগ 20% বদ্ধি করলে গতিশক্তি কত বৃদ্ধি পায়?</div>",
+            "option1": "<div>(ক) 36%</div>",
+            "option2": "<div>(খ) 40%</div>",
+            "option3": "<div>(গ) 44%</div>",
+            "option4": "<div>(ঘ) 80%</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৫৪. একটি রাইফেলের গুলির বেগ যদি তিনগুণ করা হয় তাহলে এর গতিশক্তি কত গুণহবে?</div>",
+            "option1": "<div>(ক) 2 গুণ</div>",
+            "option2": "<div>(খ) 3 গুণ</div>",
+            "option3": "<div>(গ) 9 গুণ</div>",
+            "option4": "<div>(ঘ) 16 গুণ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৫৫. একটি বস্তুর গতিশক্তি ও ভরবেগের মধ্যকার সম্পর্ক --</div>",
+            "option1": "<div>(ক) $E_k=\\frac{P}{2m}$</div>",
+            "option2": "<div>(খ) $E_k=\\frac{P^2}{2m}$</div>",
+            "option3": "<div>(গ) $E_k=2P$</div>",
+            "option4": "<div>(ঘ) $E_k=\\frac{P}{m}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৫৬. $100\\ kg$ ভরের একটি বস্তুর ভরবেগ $200\\ kg\\ {ms}^{-1}$ হলে এর গতিশক্তিহয় --</div>",
+            "option1": "<div>(ক) $400\\ J$</div>",
+            "option2": "<div>(খ) $300\\ J$</div>",
+            "option3": "<div>(গ) $200\\ J$</div>",
+            "option4": "<div>(ঘ) $100\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৫৭. $50\\ kg$ ভরের একটি বস্তুর ভরবেগ $50\\ kg\\ \\ {ms}^{-1}\\ $ হলে এরগতিশক্তি হবে --</div>",
+            "option1": "<div>(ক) $25\\ J$</div>",
+            "option2": "<div>(খ) $50\\ J$</div>",
+            "option3": "<div>(গ) $100\\ J$</div>",
+            "option4": "<div>(ঘ) $2500\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৫৮. ভর ও বেগ উভয়ই বৃদ্ধি পেয়ে দ্বিগুণ হলে গতিশক্তির বৃদ্ধির পরিমাণ কিরূপহবে?</div>",
+            "option1": "<div>(ক) 8 গুণ</div>",
+            "option2": "<div>(খ) 4 গুণ</div>",
+            "option3": "<div>(গ) দ্বিগুণ</div>",
+            "option4": "<div>(ঘ) অপরিবর্তিত</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৫৯. একটি গাড়ি $\\ v$ বেগে গতিশীল। বেগ কত গুণ করা হলে গতিশক্তি দ্বিগুণ হবে?</div>",
+            "option1": "<div>(ক) $\\frac{1}{2}$</div>",
+            "option2": "<div>(খ) $\\sqrt{2}$</div>",
+            "option3": "<div>(গ) $2$</div>",
+            "option4": "<div>(ঘ) $4$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৬০. 10 কেজি ভরের একটি কণার বেগ $\\left(7\\hat{i}-6\\hat{j}+5\\hat{k}\\right)\\{ms}^{-1}$ হলে এর গতিশক্তি কত?</div>",
+            "option1": "<div>(ক) 450</div>",
+            "option2": "<div>(খ) 500</div>",
+            "option3": "<div>(গ) 550</div>",
+            "option4": "<div>(ঘ) 600</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৬১. কোন বস্তুর গতিশক্তি 100% বৃদ্ধি পেলে, ভরবেগ বৃদ্ধি পাবে?</div>",
+            "option1": "<div>(ক) 100%</div>",
+            "option2": "<div>(খ) 150%</div>",
+            "option3": "<div>(গ) 200%</div>",
+            "option4": "<div>(ঘ) 400%</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৬২. দুটি বস্তুর ভর $5\\ kg$ ও $3\\ kg$ । প্রতিটির ভরবেগ $30\\ kg\\ m/s$ হলেগতিশক্তি কত?</div>",
+            "option1": "<div>(ক) $75\\ ও\\ 90\\ J$</div>",
+            "option2": "<div>(খ) $15\\ ও\\ 35\\ J$</div>",
+            "option3": "<div>(গ) $90\\ ও\\mathrm{\\ }150\\ J$</div>",
+            "option4": "<div>(ঘ) $30\\ ও\\mathrm{\\ }30\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৬৩. নিচের চিত্রটি লক্ষ কর এবং ১৬৩ নং প্রশ্নের উত্তর দাওঃ<br>চিত্রে $100\\ kg$ ভরের একটি বস্তু $AB$ তল বরাবর উপরে উঠানো হচ্ছে। কৃতকাজেরপরিমাণ কত?</div>",
+            "option1": "<div>(ক) $2940\\ J$</div>",
+            "option2": "<div>(খ) $3920\\ J$</div>",
+            "option3": "<div>(গ) $4900\\ J$</div>",
+            "option4": "<div>(ঘ) $6275\\ J$</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/163.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৬৪. আমরা চলাফেরার জন্য যে শক্তি পাই সেটি আসে --</div>",
+            "option1": "<div>(ক) তাপশক্তি থেকে</div>",
+            "option2": "<div>(খ) রাসায়নিক শক্তি থেকে</div>",
+            "option3": "<div>(গ) পারমাণবিক শক্তি থেকে</div>",
+            "option4": "<div>(ঘ) আলোক শক্তি থেকে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৬৫. গতিশক্তির পরিবর্তনই হলো সম্পাদিত কাজ, এটি হলো --</div>",
+            "option1": "<div>(ক) শক্তির সংরক্ষণ সূত্র</div>",
+            "option2": "<div>(খ) সমান্তরাল অক্ষ উপপাদ্য</div>",
+            "option3": "<div>(গ) লম্ব অক্ষ উপপাদ্য</div>",
+            "option4": "<div>(ঘ) কাজ শক্তি উপপাদ্য</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৬৬. $2\\ kg$ ভরের একটি বস্তু নিয়ে অনুভূমিক রাস্তায় $5\\ m$ হাঁটলে অভিকর্ষজবল দ্বারা সম্পাদিত কাজ --</div>",
+            "option1": "<div>(ক) $0$</div>",
+            "option2": "<div>(খ) $9.8\\ J$</div>",
+            "option3": "<div>(গ) $10\\ J$</div>",
+            "option4": "<div>(ঘ) $98\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৬৭. 10 মিনিটে একটি $m$ ভরের বস্তুকে $h$ উচ্চতায় উঠানো হলে, কি পরিমাণ কাজহবে?</div>",
+            "option1": "<div>(ক) $\\frac{mgh}{10\\times 60}$</div>",
+            "option2": "<div>(খ) $Fh$</div>",
+            "option3": "<div>(গ) $0$</div>",
+            "option4": "<div>(ঘ) $1\\ mgh{\\mathrm{cos} \\theta \\ }$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৬৮. স্প্রিং এর যে শক্তির মাধ্যমে কার্যসম্পাদন করা হয তা হলো --</div>",
+            "option1": "<div>(ক) গতিশক্তি</div>",
+            "option2": "<div>(খ) বিভব শক্তি</div>",
+            "option3": "<div>(গ) কাজ করার শক্তি</div>",
+            "option4": "<div>(ঘ) রাসায়নিক শক্তি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৬৯. একটি লম্বা স্প্রিংকে টেনে $5\\ cm$ দৈর্ঘ্য বৃদ্ধি করায় উহারস্থিতিস্থাপক স্থিতিশক্তি হয় $U$ যখন স্প্রিংটি টেনে $10\\ cm$ দৈর্ঘ্য বৃদ্ধিকরা হবে, উহার স্থিতিশক্তি হবে --</div>",
+            "option1": "<div>(ক) $\\frac{U}{5}$</div>",
+            "option2": "<div>(খ) $2U$</div>",
+            "option3": "<div>(গ) $4U$</div>",
+            "option4": "<div>(ঘ) $16U$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৭০. $h$ উচ্চতা থেকে একটি বস্তুকে বিনা বাধায় পড়তে দিলে ভূমি হতে কত উচ্চতায়এর গতি শক্তি বিভব শক্তির দ্বিগুণ হবে?</div>",
+            "option1": "<div>(ক) $\\frac{h}{6}$</div>",
+            "option2": "<div>(খ) $\\frac{h}{3}$</div>",
+            "option3": "<div>(গ) $\\frac{2h}{3}$</div>",
+            "option4": "<div>(ঘ) $\\frac{5h}{3}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৭১. প্রসঙ্গ তল বিবেচনায় নিচের কোন প্রকার শক্তি ঋণাত্মক হতে পারে?</div>",
+            "option1": "<div>(ক) বিভবশক্তি</div>",
+            "option2": "<div>(খ) গতিশক্তি</div>",
+            "option3": "<div>(গ) তড়িৎশক্তি</div>",
+            "option4": "<div>(ঘ) চৌম্বক শক্তি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭২. মহাকর্ষ ক্ষেত্রে মুক্তভাবে পড়ন্ত কোনো বস্তু $E_p$, বিভবশক্তি হারিয়ে$v$ বেগ প্রাপ্ত হলে বস্তুটির ভর --</div>",
+            "option1": "<div>(ক) $\\frac{E_p}{V^2}$</div>",
+            "option2": "<div>(খ) $\\frac{{2E}_2}{V^2}$</div>",
+            "option3": "<div>(গ) ${vE}_p$</div>",
+            "option4": "<div>(ঘ) ${V^2E}_p$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৭৩. এক অশ্বক্ষমতা হলো-</div>",
+            "option1": "<div>(ক) $0.000746\\ MW$</div>",
+            "option2": "<div>(খ) $0.00746\\ MW$</div>",
+            "option3": "<div>(গ) $0.0746\\ MW$</div>",
+            "option4": "<div>(ঘ) $0.746\\ MW$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭৪. $100\\ kg$ ভরের গতিশীল বস্তুর গতিশক্তি $200\\ J$ হলে বস্তুটির ভরবেগ কত?</div>",
+            "option1": "<div>(ক) $20\\ kg-m/s$</div>",
+            "option2": "<div>(খ) $200\\ kg-m/s$</div>",
+            "option3": "<div>(গ) $400\\ kg-m/s$</div>",
+            "option4": "<div>(ঘ) $40\\ kg-m/s$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৭৫. $20\\ kg$ ভরের একজন বালক প্রতিটি $25\\ cm$ উঁচু $20\\ টি$ সিড়ি $10\\ s$ এউঠতে পারে। বালকটির ক্ষমতা কত?</div>",
+            "option1": "<div>(ক) $78.4\\ W$</div>",
+            "option2": "<div>(খ) $98\\ W$</div>",
+            "option3": "<div>(গ) $121.3\\ W$</div>",
+            "option4": "<div>(ঘ) $122.5\\ W$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৭৬. একটি সরল দোলকের ববের জন্য নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) সর্বোচ্চ বিন্দুতে গতিশক্তি শূন্য</div>",
+            "option2": "<div>(খ) সাম্যাবস্থায় গতিশক্তি সর্বনিম্ন</div>",
+            "option3": "<div>(গ) সাম্যাবস্থায় বিভবশক্তি সর্বাধিক</div>",
+            "option4": "<div>(ঘ) সর্বোচ্চ বিন্দুতে মোট শক্তি শূন্য</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭৭. কোনো বিদ্যুৎ কেন্দ্রের সরবরাহ বিদ্যুৎশক্তি দ্বারা প্রতি সেকেন্ডে$5\\times {10}^7\\ J$ কাজ করা যায়। বিদ্যুৎ কেন্দ্রের ক্ষমতা কত?</div>",
+            "option1": "<div>(ক) $50\\ W$</div>",
+            "option2": "<div>(খ) $100\\ W$</div>",
+            "option3": "<div>(গ) $1000\\ W$</div>",
+            "option4": "<div>(ঘ) $5\\ W$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭৮. ক্রেনের সাহায্যে $200\\ kg$ ভরের একটি বোঝাকে $0.1\\ {ms}^{-1}\\ $ বেগেউঠানো হলে ক্রেনের ক্ষমতা কত?</div>",
+            "option1": "<div>(ক) $98\\ W$</div>",
+            "option2": "<div>(খ) $196\\ W$</div>",
+            "option3": "<div>(গ) $19.6\\ W$</div>",
+            "option4": "<div>(ঘ) $2000\\ W$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৭৯. $60\\ kg$ ভরের একলোক প্রতিটি $15\\ cm$ উঁচু $50$টি সিড়ি $20s$ সময়ে উঠতেপারে। লোকটির অশ্বক্ষমতা কত?</div>",
+            "option1": "<div>(ক) $1HP$</div>",
+            "option2": "<div>(খ) $0.72\\ HP$</div>",
+            "option3": "<div>(গ) $0.422\\ HP$</div>",
+            "option4": "<div>(ঘ) $0.296\\ HP$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৮০. ক্ষমতার মাত্রা সমীকরণ --</div>",
+            "option1": "<div>(ক) $ML^2T^3$</div>",
+            "option2": "<div>(খ) $ML^2T^2$</div>",
+            "option3": "<div>(গ) $ML^2T^{-3}$</div>",
+            "option4": "<div>(ঘ) $ML^{-2}T^3$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৮১. ক্রেনের সাহায্যে $200\\ kg$ ভরের একটি বোঝাকে $0.1\\ {ms}^{-1}$ বেগেউঠানো হলে ক্রেনের ক্ষমতা কত?</div>",
+            "option1": "<div>(ক) $98\\ W$</div>",
+            "option2": "<div>(খ) $196\\ W$</div>",
+            "option3": "<div>(গ) $19.6\\ W$</div>",
+            "option4": "<div>(ঘ) $2000\\ W$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮২. এক অশ্ব ক্ষমতা = কত ফুট-পাউন্ড/সেকেন্ড?</div>",
+            "option1": "<div>(ক) 210</div>",
+            "option2": "<div>(খ) 320</div>",
+            "option3": "<div>(গ) 550</div>",
+            "option4": "<div>(ঘ) 746</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৮৩. $270\\ lg$ ভরের একটি বোঝা একটি ক্রেনের সাহায্যে $0.1\\ {ms}^{-1}$ধ্র্রুব বেগে উঠানো হলে ক্রেনের কত ক্ষমতা ব্যয় হয়?</div>",
+            "option1": "<div>(ক) $164.6\\ W$</div>",
+            "option2": "<div>(খ) $264.6\\ W$</div>",
+            "option3": "<div>(গ) $364.6\\ W$</div>",
+            "option4": "<div>(ঘ) $464.6\\ W$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮৪. অসংর্ষণশীল বলের উদাহরণ কোনটি?</div>",
+            "option1": "<div>(ক) বৈদ্যুতিক বল</div>",
+            "option2": "<div>(খ) চুম্বক বল</div>",
+            "option3": "<div>(গ) ঘর্ষণ বল</div>",
+            "option4": "<div>(ঘ) অভিকর্ষজ বল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৮৫. কোনটি সংরক্ষণশীল বল?</div>",
+            "option1": "<div>(ক) অভিকর্ষ</div>",
+            "option2": "<div>(খ) প্রবাহী ঘর্ষণ</div>",
+            "option3": "<div>(গ) সান্দ্র বল</div>",
+            "option4": "<div>(ঘ) বিসর্প ঘর্ষণ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৮৬. নিচের কোনটি অসংরক্ষণশীল বল?</div>",
+            "option1": "<div>(ক) সান্দ্র বল</div>",
+            "option2": "<div>(খ) অভিকর্ষ বল</div>",
+            "option3": "<div>(গ) তড়িৎ বল</div>",
+            "option4": "<div>(ঘ) চৌম্বক বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৮৭. কোন বলের ক্রিয়া অভিমুখ যদি বস্তুর গতির অভিমুখ এর উপর নির্ভর না করে তবেঐ বলকে বলা হয় --</div>",
+            "option1": "<div>(ক) সংরক্ষণশীল বল</div>",
+            "option2": "<div>(খ) অসংরক্ষণশীল বল</div>",
+            "option3": "<div>(গ) পরিবর্তনশীল বল</div>",
+            "option4": "<div>(ঘ) অপরিবর্তনশীল বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৮৮. $m$ ভরের একটি কারের উপর ধ্র্রুব বল $F$ ক্রিয়া করে $v$ ধ্র্রুব বেগে আনততল বরাবর $S$ দূরত্ব অতিক্রম করে। আনত তল ভূমির সাথে $\\mathrm{\\alpha }$কোণে থাকে। এই প্রক্রিয়ায় কর্ম দক্ষতা কত?</div>",
+            "option1": "<div>(ক) $\\frac{mgS{\\mathrm{sin} \\alpha \\ }}{Fv}$</div>",
+            "option2": "<div>(খ) $\\frac{mv}{FS}$</div>",
+            "option3": "<div>(গ) $\\frac{mv^2}{2FS}$</div>",
+            "option4": "<div>(ঘ) $\\frac{mg{\\mathrm{sin} \\alpha \\ }}{F}$</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/188.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৮৯. একটি যন্ত্রের প্রযুক্ত শক্তি $E_1$ এং সিস্টেমে নষ্ট শক্তি $E_2$ হলেযন্ত্রটির কর্মদক্ষতা 100% হওয়ার শর্ত কোনটি?</div>",
+            "option1": "<div>(ক) $E_1=0$</div>",
+            "option2": "<div>(খ) $E_2=0$</div>",
+            "option3": "<div>(গ) $E_1+E_2=0$</div>",
+            "option4": "<div>(ঘ) $E_1-E_2=0$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৯০. $250\\ kg$ ভরের একটি বোঝা ক্রেনের সাহায্যে $0.1\\ {ms}^{-1}$ ধ্র্রুববেগেউঠানো হলে, ক্রেনের ক্ষমতা কত?</div>",
+            "option1": "<div>(ক) $240\\ W$</div>",
+            "option2": "<div>(খ) $245\\ W$</div>",
+            "option3": "<div>(গ) $250\\ W$</div>",
+            "option4": "<div>(ঘ) $25\\ W$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৯১. ক্রেনের সাহায্যে $50\\ kg$ ভরের বস্তু $10\\ m$ ওপরে উঠাতে $5000\\ J$শক্তি ব্যয় হয়। ক্রেনের কত শক্তি অপচয় হয়েছে?</div>",
+            "option1": "<div>(ক) $100\\ J$</div>",
+            "option2": "<div>(খ) $490\\ J$</div>",
+            "option3": "<div>(গ) $4900\\ J$</div>",
+            "option4": "<div>(ঘ) $5000\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৯২. $\\frac{কাজের\\ রূপান্তরিত\\ শক্তি}{প্রদত্ত\\ মোট\\ শক্তি}=কী\\mathrm{?}$</div>",
+            "option1": "<div>(ক) ক্ষমতা</div>",
+            "option2": "<div>(খ) কাজ</div>",
+            "option3": "<div>(গ) বিভবশক্তি</div>",
+            "option4": "<div>(ঘ) কর্মদক্ষতা</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৯৩. কৃতকাজ শূন্য হেব --<br>i. বস্তু সমবেগে গতিশীল থাকলে<br>ii. বস্তু সমত্বরণে গতিশীল থাকলে<br>iii. বস্তুর উপর প্রযুক্ত কেন্দ্রমুখী বল থাকলে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৯৪. স্থিতিস্থাপক সংঘর্ষে সংরক্ষিত হয় বস্তুর --<br>i. গতিশক্তি<br>ii. ভরবেগ<br>iii. স্থিতিশক্তি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৯৫. একটি বস্তু উপর থেকে কাদায় পড়লে --<br>i. গতিশক্তি সংরক্ষিত থাকে<br>ii. অস্থিতিস্থাপক সংঘর্ষ ঘটে<br>iii. ভরবেগ সংরক্ষিত থাকে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৯৬. বল প্রয়োগে বলের অভিমুখের সাথে বস্তুর সরণ $\\mathrm{\\theta }$ কোণে হয়।নিচের তথ্যগুলো লক্ষ্য কর --<br>i. 0$\\mathrm{{}^\\circ}$ $\\mathrm{&lt;}$ $\\mathrm{\\theta }$$\\mathrm{&lt;}$ 90$\\mathrm{{}^\\circ}$ হলে ধনাত্মককাজ সম্পন্ন হবে<br>ii. 90$\\mathrm{{}^\\circ}$ $\\mathrm{&lt;}$ $\\mathrm{\\theta }$$\\mathrm{&lt;}$ 180$\\mathrm{{}^\\circ}$ হলে বলের বিরুদ্ধে কাজ সম্পন্ন হবে<br>iii. 180$\\mathrm{{}^\\circ}$ $\\mathrm{&lt;}$ $\\mathrm{\\theta }$$\\mathrm{&lt;}$ 270$\\mathrm{{}^\\circ}$ হলে শূন্য কাজ সম্পন্ন হবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৯৭. অসংরক্ষণশীল বল --<br>i. গতিপথের উপর নির্ভর করে<br>ii. যান্ত্রিক শক্তির নিত্যতার সূত্র মেনে চলে<br>iii. এর ক্ষেত্রে কৃতকাজ পুনরুদ্ধার সম্ভব নয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৯৮. কোনো বস্তুর উপর ঋণাত্মক কাজ সম্পন্ন হলে --<br>i. বস্তুর উপর মন্দন সৃষ্টি হয়<br>ii. স্থিতিশক্তি বৃদ্ধি পায়<br>iii. এর গতিশক্তি হ্রাস পায়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৯৯. বস্তুতে বল প্রয়োগে সরণ হলে কৃত কাজ --<br>i. বল $\\mathrm{\\times}$ বলের দিকে সরণের উপাংশ<br>ii. বল $\\mathrm{\\times}$ বলের লম্ব দিকে সরণের উপাংশ<br>iii. বস্তুর গতিশক্তির পরিবর্তন<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২০০. একটি পূর্ণ চক্রে কোন কণার উপর সংরক্ষণশীল বল দ্বারা কৃতকাজ --<br>i. এর মোট পরিমাণ শূন্য হয়<br>ii. কণার গতিবেগের উপর নির্ভর করে না<br>iii. সম্পূর্ণভাবে পুনঃরুদ্ধার করা সম্ভব নয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২০১. ভূমি হতে একটি বস্তুকে উপরে নিক্ষেপ করলে সর্বোচ্চ উচ্চতায়---<br>i. বেগ শূণ্য<br>ii. গতিশক্তি সর্বোচ্চ<br>iii. বিভব শক্তি সর্বোচ্চ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকের আলোকে ২০২ ও ২০৩ নং প্রশ্নের উত্তর দাওঃ<br>$m$ ভরের কোনো বস্তুকে ভূমি থেকে $h$ উচ্চতায় অবস্থিত $A$ বিন্দু থেকেমুক্তভাবে পড়তে দেয়া হলো। ভূমিতে আঘাত করার পূর্ব মূহূর্তে এটি $C$ বিন্দুতেআসে এবং $B$ হলো AC রেখাংশের উপর অবস্থিত একটি বিন্দু। বস্তুটির যেকোনোমুহূর্তের স্থিতি শক্তি U এবং গতিশক্তিকে K দ্বারা সূচিত করা।<br>২০২. কোন বিন্দুতে বস্তুর বিভবশক্তি সর্বোচ্চ?</div>",
+            "option1": "<div>(ক) A</div>",
+            "option2": "<div>(খ) B</div>",
+            "option3": "<div>(গ) C</div>",
+            "option4": "<div>(ঘ) AC এর মধ্যবিন্দু</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২০৩. উদ্দীপকের মতে,<br>i. B বিন্দুতে বস্তুর গতিশক্তি ও স্থিতিশক্তি উভয়ই বিদ্যমান<br>ii. $U_A-U_B=K_B-K_A$<br>iii. AB অংশে বিভবশক্তি হ্রাস + BC অংশে গতিশক্তি বৃদ্ধি $=mgh$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>■ একটি ব্লকের ভর, দৈর্ঘ্য, প্রস্থ এবং উচ্চতা যথাক্রমে 10 kg, 10m, 2m এবং 5m। ব্লকটি ভূমির উপর রাখা আছে।<br>২০৪. বলটির বিভব শক্তি কত?</div>",
+            "option1": "<div>(ক) 490 J</div>",
+            "option2": "<div>(খ) 245 J</div>",
+            "option3": "<div>(গ) 196 J</div>",
+            "option4": "<div>(ঘ) 10 J</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/204.webp"
+        },
+        {
+            "mcqQuestion": "<div>২০৫. ব্লকটিকে যদি দাড় করানো হয় তাহলে বিভব শক্তির পরিবর্তন কত?</div>",
+            "option1": "<div>(ক) 0 J</div>",
+            "option2": "<div>(খ) 245 J</div>",
+            "option3": "<div>(গ) 490 J</div>",
+            "option4": "<div>(ঘ) 1735 J</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২০৬. ভূমি স্পর্শ করার মূহূর্তে বস্তুটির গতিশক্তি কত?</div>",
+            "option1": "<div>(ক) 12250 J</div>",
+            "option2": "<div>(খ) 5000 J</div>",
+            "option3": "<div>(গ) 500 J</div>",
+            "option4": "<div>(ঘ) 7250 J</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>■ নিম্নের উদ্দীপকের আলোকে ২০৭ ও ২০৮ নং প্রশ্নের উত্তর দাওঃ<br>10 kg ভরের একটি বস্তু ভূমির সাথে 30$\\mathrm{{}^\\circ}$ কোণে আনত একটি তলেস্থির আছে।<br>২০৭. বস্তুর উপর তলটির অভিলম্বিক প্রতিক্রিয়ার মান কত?</div>",
+            "option1": "<div>(ক) 98 N</div>",
+            "option2": "<div>(খ) 49 N</div>",
+            "option3": "<div>(গ) 84.87 N</div>",
+            "option4": "<div>(ঘ) 56.58 N</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২০৮. বস্তু এবং আনত তলের মধ্যকার ঘর্ষণ গুণাংক 0.3 হলে বস্তুর উপর লব্ধি বল কতহবে?</div>",
+            "option1": "<div>(ক) 23.54 N</div>",
+            "option2": "<div>(খ) 74.46 N</div>",
+            "option3": "<div>(গ) 85.98 N</div>",
+            "option4": "<div>(ঘ) 63.71 N</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>■ উদ্দীপকটি পড়ে ২০৯ ও ২১০ নং প্রশ্নের উত্তর দাও:<br>কোনো বস্তুর উপর $2i+3j+k$ নিউটন বল 10 sec ক্রিয়া করায় বলের অভিমুখের সাথে0$\\mathrm{{}^\\circ}$ কোণে সরণ $i+j+k$ হলো।<br>২০৯. নিম্পন্ন কাজ নিম্নের কোনটি?</div>",
+            "option1": "<div>(ক) 0 J</div>",
+            "option2": "<div>(খ) 3 J</div>",
+            "option3": "<div>(গ) 5 J</div>",
+            "option4": "<div>(ঘ) 6 J</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২১০. কর্ম উৎসের ক্ষমতা নিম্নের কোনটি?</div>",
+            "option1": "<div>(ক) 0.6 watt</div>",
+            "option2": "<div>(খ) 1 watt</div>",
+            "option3": "<div>(গ) 1.8 watt</div>",
+            "option4": "<div>(ঘ) 1.6 watt</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>■ 500 g ভরবিশিষ্ট কোনো বস্তু একটি জাহাজের উপর হতে 10 m নিচে পানিতে পড়ল।<br>উপরের তথ্যের আলোকে নিচের ২১১ ও ২১২ নং প্রশ্নের উত্তর দাও:<br>২১১. বস্তুটির প্রাথমিক স্থিতিশক্তি কত?</div>",
+            "option1": "<div>(ক) 9 J</div>",
+            "option2": "<div>(খ) 29 J</div>",
+            "option3": "<div>(গ) 39 J</div>",
+            "option4": "<div>(ঘ) 49 J</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২১২. বস্তুটির কতবেগে পানির তলকে স্পর্শ করবে?</div>",
+            "option1": "<div>(ক) 10 ${m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) 14 ${m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) 18 ${m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) 22 ${m\\ s}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩১৩. একটি গাড়ি v বেগে গতিশীল। বেগ কত গুণ করা হলে গতিশক্তি দ্বিগুণ হবে?</div>",
+            "option1": "<div>(ক) $\\frac{1}{2}$ গুণ</div>",
+            "option2": "<div>(খ) $\\sqrt{2}$ গুণ</div>",
+            "option3": "<div>(গ) 2 গুণ</div>",
+            "option4": "<div>(ঘ) 4 গুণ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২১৪. ক্ষমতার ব্যবহারিক একক কোনটি?</div>",
+            "option1": "<div>(ক) $J\\ s^{-2}$</div>",
+            "option2": "<div>(খ) $watt$</div>",
+            "option3": "<div>(গ) $joule$</div>",
+            "option4": "<div>(ঘ) $eV$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২১৫. একটি বস্তুকণা স্থিরাবস্থা থেকে অভিকর্ষের প্রভাবে পড়তে থাকে। ভূপৃষ্ঠেরসাপেক্ষে কণাটির স্থিতিশক্তি (PE) ও গতিশক্তি (KE) এবং সময় (t) র লেখচিত্রআঁকা হলো। সঠিক লেখ কোনটি?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/215.webp"
+        },
+        {
+            "mcqQuestion": "<div>২১৬. স্প্রিং সংকোচন ও প্রসারণের ক্ষেত্রে কাজ ও স্থিতিশক্তি প্রকাশেরসমীকরণ---<br>i. $W=\\frac{1}{2}{kx}^2$<br>ii. $U=\\frac{1}{2}\\ {kx}^2$<br>iii. $U=mgx$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>■ চিত্রে প্রদর্শিত একটি দোলকের কার্যকর দৈর্ঘ্য 50 cm এবং 4 g । বরকে টেনেঅনুভূমিক করা হলো এবং তারপর ছেড়ে দেওয়া হলো। সতাটি উল্লম্বের সঙ্গে60$\\mathrm{{}^\\circ}$ কোণ উৎপন্ন করে C বিন্দুতে আসল।<br>২১৭. C বিন্দুতে ববের বেগ ক?</div>",
+            "option1": "<div>(ক) $2\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) 2.1 ${m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) 2.2 ${m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) 2.3 ${m\\ s}^{-1}$</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/217.webp"
+        },
+        {
+            "mcqQuestion": "<div>২১৮. উক্ত অবস্থানে ববের গতিশক্তি কত?</div>",
+            "option1": "<div>(ক) $7.68\\ \\times \\ {10}^{-3}\\ J$</div>",
+            "option2": "<div>(খ) $8.68\\ \\times \\ {10}^{-3}\\ J$</div>",
+            "option3": "<div>(গ) $9.68\\ \\times \\ {10}^{-3}\\ J$</div>",
+            "option4": "<div>(ঘ) $10.68\\ \\times \\ {10}^{-3}\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২১৯. নিচের বস্তুসমূহের মধ্যে কোনটির গতিশক্তি বেশি?</div>",
+            "option1": "<div>(ক) 3m, v</div>",
+            "option2": "<div>(খ) 3m, 2v</div>",
+            "option3": "<div>(গ) 2m, 3v</div>",
+            "option4": "<div>(ঘ) m, 4v</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২২০. কোনো বস্তুর গতিশক্তি দ্বিগুণ করা হলে ভরবেগ হবে---</div>",
+            "option1": "<div>(ক) 2 গুণ</div>",
+            "option2": "<div>(খ) অর্ধেক</div>",
+            "option3": "<div>(গ) $\\sqrt{2}$ গুণ</div>",
+            "option4": "<div>(ঘ) এক চতুর্থাংশ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২২১. k স্প্রিং ধ্রবকের একটি স্প্রিংকে টেনে দ্বিগুণ লম্বা করা হলো। সম্পাদতিকাজ হবে---</div>",
+            "option1": "<div>(ক) দ্বিগুণ</div>",
+            "option2": "<div>(খ) চারগুণ</div>",
+            "option3": "<div>(গ) অর্ধেক</div>",
+            "option4": "<div>(ঘ) এক-চতুর্থাংশ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২২২. উড়োজাহাজ থেকে নিক্ষিপ্ত বোমা মাঝপথে ফেটে গেলে কী ঘটবে?</div>",
+            "option1": "<div>(ক) গতিশক্তি বাড়বে</div>",
+            "option2": "<div>(খ) মোট শক্তি বাড়বে</div>",
+            "option3": "<div>(গ) মোট শক্তি কমবে</div>",
+            "option4": "<div>(ঘ) মোট ভরবেগ কমবে</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২২৩. $200\\ mg$ ভরের একটি বস্তু 10 m উচ্চতা থেকে নিচে পড়ছে। ভূমি স্পর্শ করারমুহূর্তে গতিশক্তি কত?</div>",
+            "option1": "<div>(ক) $196\\ J$</div>",
+            "option2": "<div>(খ) $196\\ \\times {10}^3\\ J$</div>",
+            "option3": "<div>(গ) $19.6\\ \\times \\ {10}^3\\ J$</div>",
+            "option4": "<div>(ঘ) $19.6\\ \\times \\ {10}^{-3\\ }J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২২৪. ভূপৃষ্ঠের সাথে 30$\\mathrm{{}^\\circ}$ কোণে আনত মসৃণ তলের উপর অবস্থিত 10kg ভরের বস্তুকে 10${m\\ s}^{-1}$ সমবেগে গতিশীল করতে প্রয়োজনীয় ক্ষমতা---</div>",
+            "option1": "<div>(ক) $848.7\\ W$</div>",
+            "option2": "<div>(খ) $490\\ W$</div>",
+            "option3": "<div>(গ) $490\\ W$</div>",
+            "option4": "<div>(ঘ) $980\\ W$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২২৫. ইলেকট্রন ভোল্ট কীসের একক?</div>",
+            "option1": "<div>(ক) কাজের ব্যবহারিক</div>",
+            "option2": "<div>(খ) কাজের নিরপেক্ষ</div>",
+            "option3": "<div>(গ) বিদ্যুতের</div>",
+            "option4": "<div>(ঘ) বিদ্যুতিক রোধের</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২২৬. কোন কণার উপর বল ও সরণ যথাকৃমে$\\overrightarrow{F}=\\left(6\\hat{i}+3\\hat{j}-2\\hat{k}\\right)N,$$\\hat{r}=\\left(3\\hat{i}+3\\hat{j}-\\hat{k}\\right)cm$ হলে, কৃত কাজ কত?</div>",
+            "option1": "<div>(ক) 0.1 J</div>",
+            "option2": "<div>(খ) 1 J</div>",
+            "option3": "<div>(গ) 10 J</div>",
+            "option4": "<div>(ঘ) 100 J</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২২৭. কোন বস্তুর গতিশক্তি 300% বৃদ্ধি করা হলে, উক্ত বস্তুর ভরবেগ বাড়বে---</div>",
+            "option1": "<div>(ক) 100%</div>",
+            "option2": "<div>(খ) 150%</div>",
+            "option3": "<div>(গ) 200%</div>",
+            "option4": "<div>(ঘ) 400</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২২৮. 1 joule= ?</div>",
+            "option1": "<div>(ক) ${10}^7\\ erg$</div>",
+            "option2": "<div>(খ) ${10}^5erg$</div>",
+            "option3": "<div>(গ) ${10}^9erg$</div>",
+            "option4": "<div>(ঘ) ${10}^8erg$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২২৯. 6 watt ক্ষমতা একটি মোটর এক ঘন্টায় কতটুকু কাজ করবে?</div>",
+            "option1": "<div>(ক) 3.60 kJ</div>",
+            "option2": "<div>(খ) 6.06 kJ</div>",
+            "option3": "<div>(গ) 21.6 kJ</div>",
+            "option4": "<div>(ঘ) 36.0 kJ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৩০. আমরা চলাফেরার জন্য যে শক্তি পাই সেটি আসে---</div>",
+            "option1": "<div>(ক) তাপশক্তি থেকে</div>",
+            "option2": "<div>(খ) রাসায়নিক শক্তি থেকে</div>",
+            "option3": "<div>(গ) পারিমাণবিক শক্তি থেকে</div>",
+            "option4": "<div>(ঘ) আলোক শক্তি থেকে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৩১. প্রযুক্ত বল এবং সরণের দিক পরস্পর বিপরীত হলে কৃত কাজ কেমন হবে?</div>",
+            "option1": "<div>(ক) ধনাত্মক</div>",
+            "option2": "<div>(খ) ঋণাত্ম</div>",
+            "option3": "<div>(গ) শূণ্য</div>",
+            "option4": "<div>(ঘ) সর্বাধিক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৩২.চিত্রে F বলের প্রভাবে ব্লকটি আনত তল বেয়ে উপরের দিকে উঠছে। এখানে কোন বলেরবিরুদ্ধে কাজ হয়েছে।</div>",
+            "option1": "<div>(ক) F</div>",
+            "option2": "<div>(খ) mg</div>",
+            "option3": "<div>(গ) mg sin $\\mathrm{\\theta }$</div>",
+            "option4": "<div>(ঘ) mg cos $\\mathrm{\\theta }$</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/232.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৩৩. $\\mathrm{\\theta }$ এর মান ক্ষেত্রে---<br>i. $0{}^\\circ &lt;\\theta \\ge 90{}^\\circ $ হলে বলের দ্বারা কাজ সম্পন্ন হবে<br>ii. $90{}^\\circ &lt;\\theta \\ge 135{}^\\circ $ হলে বলের বিরুদ্ধে কাজ সম্পন্নহবে<br>iii. $135{}^\\circ &lt;\\theta \\ge 180{}^\\circ $ হলে ঋণাত্মক কাজ সম্পন্ন হবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৩৪. শক্তি একক---<br>i. জুল<br>ii. $kg\\ m^2s^{-2}$<br>iii. ইলেকট্রন ভোল্ট<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৩৫. একটি হালকা ও একটি ভারী বস্তুর ভরবেগ একই কোনটির গতিশক্তি বেশি?<br>i. হালকা বস্তুটির<br>ii. ভারী বস্তুটির<br>iii. উভয়ের সমান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) iii</div>",
+            "option4": "<div>(ঘ) ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৩৬. একটি রাইফেলের গুলির বেগ যদি দ্বিগুণ করা হয় তাহলে এর গতিশক্তি হবে---</div>",
+            "option1": "<div>(ক) 2 গুণ</div>",
+            "option2": "<div>(খ) 3 গুণ</div>",
+            "option3": "<div>(গ) 4 গুণ</div>",
+            "option4": "<div>(ঘ) 5 গুণ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৩৭. ওয়াট ও অশ্ব ক্ষমতার মধ্যে সম্পর্ক হলো---</div>",
+            "option1": "<div>(ক) $1\\ H.P.=746\\ W$</div>",
+            "option2": "<div>(খ) $1\\ H.P.=3.4\\ \\times {10}^5\\ W$</div>",
+            "option3": "<div>(গ) $1\\ H.P.=550\\ W$</div>",
+            "option4": "<div>(ঘ) $1\\ H.P.=946\\ W$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৩৮. একটি রাইফেলের গুলি নির্দিষ্ট পুরুত্বের একটি তক্তা ভেদ করতে পারে। ঐরূপ16 টি তক্তা ভেদ করতে গুলির বেগ কতগুণ হতে হবে?</div>",
+            "option1": "<div>(ক) 16</div>",
+            "option2": "<div>(খ) 4</div>",
+            "option3": "<div>(গ) 32</div>",
+            "option4": "<div>(ঘ) 8</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৩৯.চিত্রে 100 kg ভরের ব্লকটি AB তল বরাবর নিচের নিচে পড়ল। কৃতকাজের পরিমাণ কত?</div>",
+            "option1": "<div>(ক) 100 J</div>",
+            "option2": "<div>(খ) 200 J</div>",
+            "option3": "<div>(গ) 980 J</div>",
+            "option4": "<div>(ঘ) 1960 J</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/239.webp"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের তথ্যের আলোকে ২৪০ ও ২৪১ নং প্রশ্নের উত্তর দাওঃ<br>লেখচিত্রটিতে একটি স্প্রিং-এ প্রযুক্ত বলের সাথে দৈর্ঘ্য বৃদ্ধির পরিবর্তনদেখানো হয়েছে।<br>২৪০. ${Nm}^{-1}$ এককে স্প্রিং ধ্রবক কত?</div>",
+            "option1": "<div>(ক) 2</div>",
+            "option2": "<div>(খ) 200</div>",
+            "option3": "<div>(গ) 0.5</div>",
+            "option4": "<div>(ঘ) 18</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/240.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৪১. স্প্রিংটির দৈর্ঘ্য বৃদ্ধি 3 cm হলে স্প্রিং এ সঞ্চিত শক্তির পরিমাপ কত?</div>",
+            "option1": "<div>(ক) 0.067 J</div>",
+            "option2": "<div>(খ) 0.0576 J</div>",
+            "option3": "<div>(গ) 0.0375 J</div>",
+            "option4": "<div>(ঘ) 0.0275 J</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৪২. স্প্রিংটির দৈর্ঘ্য 3 cm হলে স্প্রিং-এ সঞ্চিত শক্তির পরিমাণ কত?</div>",
+            "option1": "<div>(ক) 15 m উচ্চতায়</div>",
+            "option2": "<div>(খ) 25 m উচ্চতায়</div>",
+            "option3": "<div>(গ) 10 m উচ্চতায়</div>",
+            "option4": "<div>(ঘ) 28 m উচ্চতায়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৪৩. কোনো বস্তুর উপর $\\overrightarrow{F}$ বল প্রয়োগে বলের দিকের সাথে$\\mathrm{\\theta }$ কোণ করে বলের প্রয়োগ বিন্দুর $\\overrightarrow{S}$ সরণহলে কাজের পরিমাণ হবে---</div>",
+            "option1": "<div>(ক) $W=FS$</div>",
+            "option2": "<div>(খ) $W=FS{\\mathrm{sin} \\theta \\ }$</div>",
+            "option3": "<div>(গ) $W=\\frac{F}{S{\\mathrm{cos} \\theta \\ }}$</div>",
+            "option4": "<div>(ঘ) $W=\\overrightarrow{F}.\\overrightarrow{S}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৪৪. নিচের কোনটি কাজের এককের সমতুল্য?</div>",
+            "option1": "<div>(ক) ${Nm}^{-1}$</div>",
+            "option2": "<div>(খ) ${mN}^{-1}$</div>",
+            "option3": "<div>(গ) $Nm$</div>",
+            "option4": "<div>(ঘ) ${Jm}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৪৫. কোনো স্প্রিং-এর মুক্ত প্রান্তের একক সরণ ঘটালে স্প্রিংটি সরণের বিপরীতদিকে যে বল প্রয়োগ করে তাকে হয়---</div>",
+            "option1": "<div>(ক) বাহ্যিক বল</div>",
+            "option2": "<div>(খ) প্রযুক্ত বল</div>",
+            "option3": "<div>(গ) স্প্রিং ধ্রবক</div>",
+            "option4": "<div>(ঘ) কোনোটিই নয়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৪৬. কিলোওয়াট-ঘন্টা নিচের কোন রাশিটির একক নয়?</div>",
+            "option1": "<div>(ক) ক্ষমতা</div>",
+            "option2": "<div>(খ) কাজ</div>",
+            "option3": "<div>(গ) শক্তি</div>",
+            "option4": "<div>(ঘ) বিদ্যুৎশক্তি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৪৭. গতিশক্তি ও ভরবেগের মধ্যে সম্পর্ক---</div>",
+            "option1": "<div>(ক) $K=\\frac{2p}{m}$</div>",
+            "option2": "<div>(খ) $K=\\frac{p}{2m}$</div>",
+            "option3": "<div>(গ) $K=\\frac{2p^2}{m}$</div>",
+            "option4": "<div>(ঘ) $K=\\frac{p^2}{2m}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৪৮. বিভব শক্তির একক কোনটি?</div>",
+            "option1": "<div>(ক) জুল</div>",
+            "option2": "<div>(খ) জুল/কেজি</div>",
+            "option3": "<div>(গ) জুল/ ${\\left(কেজি\\right)}^২$</div>",
+            "option4": "<div>(ঘ) নিউটন/কেজি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৪৯. নিচের কোনটি ক্ষমতায় একক নয়?</div>",
+            "option1": "<div>(ক) অশ্বক্ষমতা</div>",
+            "option2": "<div>(খ) জুল/সেকেন্ড</div>",
+            "option3": "<div>(গ) ওয়াট</div>",
+            "option4": "<div>(ঘ) জুল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৫০. ওয়াট-এর সাথে অশ্বক্ষমতার সম্পর্ক কোনটি?</div>",
+            "option1": "<div>(ক) $1\\ H.P.=550\\ W$</div>",
+            "option2": "<div>(খ) $1\\ H.P.\\ =746\\ W$</div>",
+            "option3": "<div>(গ) $1\\ H.P.=3.6\\ \\times \\ {10}^6\\ W$</div>",
+            "option4": "<div>(ঘ) কোনোটিই নয়</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৫১. একটি রাইফেলের গুলির বেগ যদি দ্বিগুণ করা হয় তাহলে এর গতিশক্তি কতগুণহবে?</div>",
+            "option1": "<div>(ক) 2 গুণ</div>",
+            "option2": "<div>(খ) 3 গুণ</div>",
+            "option3": "<div>(গ) 4 গুণ</div>",
+            "option4": "<div>(ঘ) 16 গুণ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৫২. 40 N ওজনের বস্তুকে মেঝে থেকে 2m উঁচুতে 2s ধরে রাখতে কাজের পরিমাপহবে---</div>",
+            "option1": "<div>(ক) 0 J</div>",
+            "option2": "<div>(খ) 40 J</div>",
+            "option3": "<div>(গ) 120 J</div>",
+            "option4": "<div>(ঘ) 240 J</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৫৩. পাম্পের সাহায্যে একটি ছাদে পানির ট্যাঙ্কে 100 s সময়ে 1000 kg পানিউঠানো যায়। ট্যাঙ্কের পানির গড় উচ্চতা 20 m হলে পাম্পের ক্ষমতা ক</div>",
+            "option1": "<div>(ক) 0.98 kW</div>",
+            "option2": "<div>(খ) 1.46 kW</div>",
+            "option3": "<div>(গ) 1.96 kW</div>",
+            "option4": "<div>(ঘ) 2.64 kW</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৫৪. ${2Nm}^{-1}$ স্প্রিং ধ্রবকের একটি আদর্শ স্প্রিং এর দৈর্ঘ্য সাম্যাবস্থাথেকে 0.1m বৃদ্ধি করলে স্প্রিং-এর বিভবশক্তি বৃদ্ধি হবে---</div>",
+            "option1": "<div>(ক) 0.1 J</div>",
+            "option2": "<div>(খ) 0.001 J</div>",
+            "option3": "<div>(গ) 1 J</div>",
+            "option4": "<div>(ঘ) 0.01 J</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৫৫. এক ব্যক্তি বস্তুকে 30 s-এ 1 m উচ্চতায় উঠায়। অপর এক ব্যক্তি একই বস্তুকে60 s-এর উচ্চতার তুলতে পারে। তাদের কাজের অনুপাত হবে---</div>",
+            "option1": "<div>(ক) 1 : 2</div>",
+            "option2": "<div>(খ) 1 : 1</div>",
+            "option3": "<div>(গ) 2 : 1</div>",
+            "option4": "<div>(ঘ) 4 : 1</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের অনুচ্ছেদটি পড় এবং ২৫৬ ও ২৫৭ নং প্রশ্নের উত্তর দাওঃ<br>20 kg ভরের একজন বালক প্রতিটি 25 cm উঁচু 20টি সিঁড়ি 10s এ উঠতে পারে।<br>২৫৬. বালকটি কর্তৃক কৃতকাজের পরিমাণ কত?</div>",
+            "option1": "<div>(ক) $900\\ J$</div>",
+            "option2": "<div>(খ) 980 J</div>",
+            "option3": "<div>(গ) 1000 J</div>",
+            "option4": "<div>(ঘ) 1080 J</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৫৭. বালকটির ক্ষমতা কত?</div>",
+            "option1": "<div>(ক) 90 W</div>",
+            "option2": "<div>(খ) 98 W</div>",
+            "option3": "<div>(গ) 100 W</div>",
+            "option4": "<div>(ঘ) 108 W</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৫৮. শক্তির একক কোনটি?</div>",
+            "option1": "<div>(ক) ওয়াট</div>",
+            "option2": "<div>(খ) অশ্বক্ষমতা</div>",
+            "option3": "<div>(গ) জুল</div>",
+            "option4": "<div>(ঘ) জুল-সেকেন্ড</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৫৯. কোনটি মিথ্যা?</div>",
+            "option1": "<div>(ক) শক্তির বিনিময় হতে পারে</div>",
+            "option2": "<div>(খ) শক্তির রূপান্তর হতে পারে</div>",
+            "option3": "<div>(গ) শক্তির ধ্বংস হতে পারে</div>",
+            "option4": "<div>(ঘ) শক্তি দ্বারা কাজ করা যায়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৬০. একজন কুলি 50 kg ভরের একটি বোঝা 10 s মাথায় ধরে রাখলে কাজের পরিমাণহবে---</div>",
+            "option1": "<div>(ক) 500 J</div>",
+            "option2": "<div>(খ) 98 J</div>",
+            "option3": "<div>(গ) 9.8 J</div>",
+            "option4": "<div>(ঘ) 0 J</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৬১. ক্রেনের সাহায্যে 200 kg ভরের একটি বোঝাকে 0-1 m $s^{-1}$ বেগে উঠানো হলেক্রেনের ক্ষমতা কত?</div>",
+            "option1": "<div>(ক) 98 W</div>",
+            "option2": "<div>(খ) 196 W</div>",
+            "option3": "<div>(গ) 19.6 W</div>",
+            "option4": "<div>(ঘ) 2000 W</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৬২. 1 kg ভরের একটি বস্তু মসৃগ অনুভূমিক সমতলের উপর দিয়ে 2 m $s^{-1}$ বেগে 1m পথ অতিক্রম করল। অভিকর্ষ বলের দ্বারা কাজের পরিমাণ কত?</div>",
+            "option1": "<div>(ক) শূণ্য</div>",
+            "option2": "<div>(খ) 2 J</div>",
+            "option3": "<div>(গ) 1 J</div>",
+            "option4": "<div>(ঘ) 0.5 J</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৬৩. একটি 600 kg ভরের বৈদ্যুতিক গাড়ি স্থির অবস্থা হতে 75-এ 30 m/s বেগেঅর্জন করে। গাড়িটিতে গড়ে যে ক্ষমতা সঞ্চালিত হয় তা প্রায়---</div>",
+            "option1": "<div>(ক) 270 kW</div>",
+            "option2": "<div>(খ) 130 kW</div>",
+            "option3": "<div>(গ) 64 kW</div>",
+            "option4": "<div>(ঘ) 3.6 kW</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৬৪. কোন বস্তুর ভরবেগ ও গতিশক্তির মান সমান হলে বস্তুটির বেগ---</div>",
+            "option1": "<div>(ক) 1 m $s^{-1}$</div>",
+            "option2": "<div>(খ) 2 m $s^{-1}$</div>",
+            "option3": "<div>(গ) 4 m $s^{-1}$</div>",
+            "option4": "<div>(ঘ) 8 m $s^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৬৫. কোন বস্তুর গতিশক্তি এর আদি গতিশক্তির দ্বিগুণ হলে এর বর্তমান ভরবেগপূর্বের ভরবেগের---</div>",
+            "option1": "<div>(ক) $\\sqrt{2}$ গুণ</div>",
+            "option2": "<div>(খ) 2 গুণ</div>",
+            "option3": "<div>(গ) 3 গুণ</div>",
+            "option4": "<div>(ঘ) 4 গুণ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৬৬. m ভরের কোনো কণার ভরবেগ p হলে এর গতিশক্তি k এর মান হবে---</div>",
+            "option1": "<div>(ক) mp</div>",
+            "option2": "<div>(খ) $p^2m$</div>",
+            "option3": "<div>(গ) $\\frac{p^2}{m}$</div>",
+            "option4": "<div>(ঘ) $\\frac{p^2}{2m}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৬৭. একটি গতিশীল বস্তুর মধ্যে যা থাকতে পারে তা হলো---<br>i. গতিশক্তি<br>ii. ভরবেগ<br>iii. বিভব শক্তি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) i ও ii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>■ এক ব্যক্তি 40 s সময়ে একটি কাঠের টুকরা 3 m উচ্চতায় তুলতে পারেন। আর একজন 20s সময়ে একই উচ্চতায় তুলতে পারেন।<br>নিচের ২৬৮ ও ২৬৯ নং প্রশ্নের উত্তর দাওঃ<br>২৬৮. তারেদ ব্যয়িত শক্তি---</div>",
+            "option1": "<div>(ক) একই</div>",
+            "option2": "<div>(খ) দ্বিতীয় জনের দ্বিগুণ বেশি</div>",
+            "option3": "<div>(গ) দ্বিতীয় জনের তিন গুণ বেশি</div>",
+            "option4": "<div>(ঘ) প্রথম জনের বেশি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৬৯. তাদের ক্ষমতা---</div>",
+            "option1": "<div>(ক) একই</div>",
+            "option2": "<div>(খ) দ্বিতীয় জনের দ্বিগুণ বেশি</div>",
+            "option3": "<div>(গ) দ্বিতীয় জনের তিন গুণ বেশি</div>",
+            "option4": "<div>(ঘ) প্রথম জনের বেশি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড় এবং পরবর্তী দুটি প্রশ্নের উত্তর দাওঃ<br>x অক্ষের দিকে চলমান সরণকে $t=\\sqrt{x}+3$ সমীকরণ দ্বারা প্রকাশ করা যায়;যেখানে x মিটারে এবং t সেকেন্ডে প্রকাশিত।<br>২৭০. বস্তুটির দ্রুতি শূণ্য হবে যখন x এর মান---</div>",
+            "option1": "<div>(ক) 0</div>",
+            "option2": "<div>(খ) 6 m</div>",
+            "option3": "<div>(গ) 12 m</div>",
+            "option4": "<div>(ঘ) 18 m</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৭১. প্রথম 6 s এ বল দ্বারা কৃতকাজ হবে---</div>",
+            "option1": "<div>(ক) 9 J</div>",
+            "option2": "<div>(খ) 6 J</div>",
+            "option3": "<div>(গ) 3 J</div>",
+            "option4": "<div>(ঘ) 0 J</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১. নিচের কোন দুটির মাত্রা একই?</div>",
+            "option1": "<div>(ক) কাজ ও শক্তি</div>",
+            "option2": "<div>(খ) কাজ ও বল</div>",
+            "option3": "<div>(গ) শক্তি ও ক্ষমতা</div>",
+            "option4": "<div>(ঘ) শক্তি ও বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২. একটি পাম্প প্রতি মিনিটে 550 গ্যালন পানি 30ft গড় উচ্চতায় তুলতে পারে।পাম্পের ক্ষমতা 80% কার্যকর হলে H.P $\\left[\\mathrm{1\\ }গ্যালন\\mathrm{=10\\lb}\\right]$ কত?</div>",
+            "option1": "<div>(ক) 6.21 H.P</div>",
+            "option2": "<div>(খ) 7.81 H.P</div>",
+            "option3": "<div>(গ) 10 H.P</div>",
+            "option4": "<div>(ঘ) 65.2 H.P</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩. অভিকর্ষজ বল কোন বলের উদাহরণ?</div>",
+            "option1": "<div>(ক) ঘর্ষণ বল</div>",
+            "option2": "<div>(খ) সংরক্ষণশীল বল</div>",
+            "option3": "<div>(গ) অসংরক্ষণশীল বল</div>",
+            "option4": "<div>(ঘ) বিদ্যুৎ বল</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪. 3 kg ভরের বস্তুকে 20 m উচ্চতা থেকে ছেড়ে দিলে ভূ-পৃষ্ঠকে স্পর্শ করার ঠিকপূর্ব মুহূর্তে এর গতিশক্তি---</div>",
+            "option1": "<div>(ক) 60 joule</div>",
+            "option2": "<div>(খ) 588 joule</div>",
+            "option3": "<div>(গ) 588 dyne</div>",
+            "option4": "<div>(ঘ) 5880 joule</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫. 100 kg ভরের একটি বস্তুর ভরবেগ 200 ${kgms}^{-1}$ হলে এর গতিশক্তি কত?</div>",
+            "option1": "<div>(ক) 400 J</div>",
+            "option2": "<div>(খ) 300 J</div>",
+            "option3": "<div>(গ) 200 J</div>",
+            "option4": "<div>(ঘ) 100 J</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬. প্রযুক্ত বল এবং সরণের মধ্যে 180$\\mathrm{{}^\\circ}$ কোণ হলে কৃতকাজ কেমনহবে?</div>",
+            "option1": "<div>(ক) ধনাত্মক</div>",
+            "option2": "<div>(খ) ঋণাত্মক</div>",
+            "option3": "<div>(গ) শূণ্য</div>",
+            "option4": "<div>(ঘ) সর্বাধিক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৭. সর্বনিম্ন কাজ হবে যখন---</div>",
+            "option1": "<div>(ক) $0{}^\\circ \\le \\theta \\le 90{}^\\circ $</div>",
+            "option2": "<div>(খ) $\\theta =90{}^\\circ $</div>",
+            "option3": "<div>(গ) $0{}^\\circ \\le \\theta \\le 180{}^\\circ $</div>",
+            "option4": "<div>(ঘ) $90{}^\\circ \\le \\theta \\le 180{}^\\circ $</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৮. ক্ষুদ্র দূরত্বের ক্ষেত্রে অভিকর্ষ বল দ্বারা সম্পাদিত কাজ---</div>",
+            "option1": "<div>(ক) ধনাত্মক কাজ</div>",
+            "option2": "<div>(খ) ঋণাত্মক কাজ</div>",
+            "option3": "<div>(গ) শূণ্য কাজ</div>",
+            "option4": "<div>(ঘ) কোনোটিই নয়</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯. নিচের কোনটি বলের বিরুদ্ধে কাজ?</div>",
+            "option1": "<div>(ক) সিঁড়ি বেয়ে নিচে নামা</div>",
+            "option2": "<div>(খ) রকেট উড্ডয়ন</div>",
+            "option3": "<div>(গ) ছাদ থেকে লাফিয়ে নিচে নামা</div>",
+            "option4": "<div>(ঘ) মুক্তভাবে পড়ন্ত বস্তু</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১০. ছাদে রাখা এক টুকরা কাঠ ভূমিতে পড়লে কী ঘটে---</div>",
+            "option1": "<div>(ক) কাঠের ভর বৃদ্ধি পায়</div>",
+            "option2": "<div>(খ) গতিশক্তি বিভব শক্তিতে রূপান্তরিত হয়</div>",
+            "option3": "<div>(গ) বিভর শক্তি গতিশক্তিতে রূপান্তরিত হয়</div>",
+            "option4": "<div>(ঘ) কাঠের ওজন বৃদ্ধি পায়</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১১. একটি চলন্ত বস্তুর গতিশক্তি নয়গুণ বৃদ্ধি করা হলে তার বেগ কত গুণ বৃদ্ধিপাবে?</div>",
+            "option1": "<div>(ক) তিন গুণ</div>",
+            "option2": "<div>(খ) ত্রক-তৃতীয়াংশ</div>",
+            "option3": "<div>(গ) এক-নবমাংশ</div>",
+            "option4": "<div>(ঘ) নয় গুণ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১২. একটি রাইফেলের গুলি একটি তক্তাকে ভেদ করতে পারে। যদি গুলি বেগ তিনগুণ করাহয় তবে অনুরূপ কয়টি তক্তা ভেদ করতে পারবে?</div>",
+            "option1": "<div>(ক) 6</div>",
+            "option2": "<div>(খ) 7</div>",
+            "option3": "<div>(গ) 8</div>",
+            "option4": "<div>(ঘ) 9</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৩. অসংরক্ষণশীল বল হলো---<br>i. ঘর্ষণ বল<br>ii. তড়িৎ বল<br>iii. সান্দ্র বল<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৪. m ভরের একটি বস্তুকে ভূপৃষ্ঠ হতে h উচ্চতায় উঠাতে প্রয়োজনীয় বলের মান কত?</div>",
+            "option1": "<div>(ক) mgh</div>",
+            "option2": "<div>(খ) mg</div>",
+            "option3": "<div>(গ) mh</div>",
+            "option4": "<div>(ঘ) $\\frac{mg}{h}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৫. $0{}^\\circ \\le \\theta \\le 90{}^\\circ $ হলে বলের দ্বারা কৃতকাজ---</div>",
+            "option1": "<div>(ক) ঋণাত্মক হবে</div>",
+            "option2": "<div>(খ) ধনাত্মক হবে</div>",
+            "option3": "<div>(গ) কোনো কাজ হবে না</div>",
+            "option4": "<div>(ঘ) উপরের কোনোটিই নয়</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৬. স্কেলার রাশি হলো---<br>i. কাজ<br>ii. ক্ষমতা<br>iii. শক্তি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৭. তাপ প্রয়োগে শক্তির স্থানান্তরকে বলা হয়---</div>",
+            "option1": "<div>(ক) কাজ</div>",
+            "option2": "<div>(খ) ক্ষমতা</div>",
+            "option3": "<div>(গ) কর্মদক্ষতা</div>",
+            "option4": "<div>(ঘ) সব কয়টি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৮. ইঞ্জিনে যে পরিমাণ শক্তি প্রদত্ত হয় সে পরিমাণ শক্তি ইঞ্জিন থেকে পাওয়াযায় না কেন?</div>",
+            "option1": "<div>(ক) ঘর্ষণের জন্য</div>",
+            "option2": "<div>(খ) শক্তি জন্য</div>",
+            "option3": "<div>(গ) কেন্দ্রমুখী বলের জন্য</div>",
+            "option4": "<div>(ঘ) ক ও গ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৯. ${300\\ Nm}^{-1}$ বল ধ্রবক সম্পন্ন একটি স্প্রিংকে কতটুকু সংকুচিত করলে1.5 J কাজ করা হবে?</div>",
+            "option1": "<div>(ক) 0.1 m</div>",
+            "option2": "<div>(খ) 1.5 m</div>",
+            "option3": "<div>(গ) 3.0 m</div>",
+            "option4": "<div>(ঘ) 1.0 m</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২০. একটি পানিপূর্ণ কুয়ার ব্যাস 4m এবং গভীরতা 12 m । একটি পাম্প 20 min এএটাকে পানি শূণ্য করতে পারে। পাম্পটির ক্ষমতা নির্ণয় কর।</div>",
+            "option1": "<div>(ক) 7.396 kW</div>",
+            "option2": "<div>(খ) 7.693 kW</div>",
+            "option3": "<div>(গ) 7.5 kW</div>",
+            "option4": "<div>(ঘ) 8.396 kW</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২১. একটি মোটরের ক্ষমতা 16.0 W । 4.0 মিনিটে এর দ্বারা কৃত কাজ কত?</div>",
+            "option1": "<div>(ক) 64 J</div>",
+            "option2": "<div>(খ) 3840 J</div>",
+            "option3": "<div>(গ) 240 J</div>",
+            "option4": "<div>(ঘ) 960 J</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২২. কোনো ব্যবস্থায় কোন ধরনের বল ক্রিয়া করলে ব্যবস্থার গতিশক্তি ও বিভবশক্তিরসমষ্টি ধ্রব থাকে?</div>",
+            "option1": "<div>(ক) সংরক্ষণশীল বল</div>",
+            "option2": "<div>(খ) অসংরক্ষণশীল বল</div>",
+            "option3": "<div>(গ) ধ্রববল</div>",
+            "option4": "<div>(ঘ) পরিবর্তনশীল বল</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/22.webp"
+        },
+        {
+            "mcqQuestion": "<div>■ 500 g ভরের একটি বল 9 m উচ্চতায় অবস্থিত 3 তলার ছাদ থেকে গড়িয়ে পড়ল<br>উপরের তথ্য ও চিত্রের আলোকে ২৩-২৫ নং প্রশ্নের উত্তর দাও:<br>২৩. ২য় তলার ছাদ বরাবর পৌঁছলে বলটির বিভব শক্তি কত হবে?</div>",
+            "option1": "<div>(ক) 29.4 J</div>",
+            "option2": "<div>(খ) 14.7 J</div>",
+            "option3": "<div>(গ) 4.9 J</div>",
+            "option4": "<div>(ঘ) 12.9 J</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/23.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৪. 2-তলার ছাদ বরাবর অবস্থানে বলটির গতিশক্তি কত হবে?</div>",
+            "option1": "<div>(ক) $9.8$ J</div>",
+            "option2": "<div>(খ) 4.9 J</div>",
+            "option3": "<div>(গ) 14.7 J</div>",
+            "option4": "<div>(ঘ) কোনোটিই নয়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৫. ঐ অবস্থানে বস্তুটির মোট যান্ত্রিক শক্তি কত হবে?</div>",
+            "option1": "<div>(ক) 9.8 J</div>",
+            "option2": "<div>(খ) 4.9 J</div>",
+            "option3": "<div>(গ) 14.7 J</div>",
+            "option4": "<div>(ঘ) কোনোটিই নয়</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৫.60kg ভরের একজন লোক প্রতিটি 15cm উঁচু 50 টি 20sec এ উঠতে পারে। লোকটিরঅশ্বক্ষমতা কত?</div>",
+            "option1": "<div>(ক)$\\ 0.396\\ HP$ </div>",
+            "option2": "<div>(খ)$0.496\\ HP$</div>",
+            "option3": "<div>(গ)$\\ 0.596\\ HP$</div>",
+            "option4": "<div>(ঘ)$\\ 0.296\\ HP$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৬. একটি পানিপূর্ণ্ কূপের গভীরতা ও ব্যাস যথাক্রমে 10m ও 4m। একটি পাম্প 20মিনিটে কূপটিকে পানিশূন্য করতে পারে। পাম্প এর অশ্ব ক্ষমতা নির্ণ্য় কর ।</div>",
+            "option1": "<div>(ক)$\\ 5.1\\ HP$</div>",
+            "option2": "<div>(খ) $51.28\\ HP$</div>",
+            "option3": "<div>(গ)$\\ 6.87\\ HP$</div>",
+            "option4": "<div>(ঘ) কোনটিই নয়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৭. 27${}^{0}$C তাপমাত্রা 1 Kw ক্ষমতার একটি ইলেকট্রিক কেতলিতে 2 লিটার পানিআছে। কেতলিটিকে 10 মিনিটের জন্য সুইচ অন করা হলো । যদি চার পাশের তাপ হ্রাসেরহার 160 J/sec হয়, তবে 10 মিনিটে কেতলির তাপমাত্রা কত হবে ?</div>",
+            "option1": "<div>(ক)$\\ \\ {87}^0C$</div>",
+            "option2": "<div>(খ)${\\ 77}^0C$</div>",
+            "option3": "<div>(গ)${\\ 67}^0C$</div>",
+            "option4": "<div>(ঘ)${\\ 27}^0C$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৮.নিজ ঘুর্ণ্ন অক্ষের সাপেক্ষে দুটি বস্তর জড়তার ভ্রামক যথাক্রমে 1 এবং 21।যদি তারের ঘুর্ণ্ন গতিশক্তি সমান হয়, তবে তাদের কৌণিক ভরবেগের অনুপাত কত ?</div>",
+            "option1": "<div>(ক)$\\ 1:2$</div>",
+            "option2": "<div>(খ)$\\ \\sqrt{2}:1$</div>",
+            "option3": "<div>(গ)$\\ 1:\\sqrt{2}$</div>",
+            "option4": "<div>(ঘ)$\\ 2:1$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৯.একটি বস্ত 4 cm বিস্তারে সরলছন্দিত স্পন্দন সম্পন্ন করছে। সাম্যাবদ্ধা থেকেকত দুরত্বে বস্তটির গতিশক্তি ও স্থিতিশক্তি সমান হবে ?</div>",
+            "option1": "<div>(ক)$\\ \\sqrt{2\\mathrm{cm}\\ }$</div>",
+            "option2": "<div>(খ)$2\\sqrt{2\\mathrm{cm}\\ }$</div>",
+            "option3": "<div>(গ)$\\ 2cm\\ $</div>",
+            "option4": "<div>(ঘ)$\\ 1cm\\ $</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২০. একটি পানিপূর্ণ্ কুপের গভীরতা ব্যাস যথাক্রমে 10m ও 4m। একটি পাম্প 20মিনিটে কূপটিকে পানি শূন্য করতে পারে। পাম্প েএর অশ্ব ক্ষমতা নির্ণ্য় কর ।</div>",
+            "option1": "<div>(ক)$\\ 5.1\\ HP$ </div>",
+            "option2": "<div>(খ)$\\ 51.28\\ HP$</div>",
+            "option3": "<div>(গ)$\\ 6.87\\ HP$</div>",
+            "option4": "<div>(ঘ)$\\ 5.87HP$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২১. ভুমির সঙ্গে 30${}^{0}$ কোণে আনত একটি মসৃণ তল AB এর সর্ব্বোচ্চ বিন্দু Aথেকে একটি বস্ত মসৃণভাবে গড়িয়ে 10 sec পরে Bবিন্দুতে আসল। ভুমি হতে এর উচ্চতাকত ?</div>",
+            "option1": "<div>(ক)$\\ 212.25\\ m\\ $</div>",
+            "option2": "<div>(খ)$\\ 122.5\\ m$</div>",
+            "option3": "<div>(গ)$\\ 368.48\\ m$</div>",
+            "option4": "<div>(ঘ)$\\ 125.5\\ m$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২২. একটি বস্তকে নির্দিষ্ট উচ্চতা থেকে ফেলে দেয়া হলো । ভূমি হতে 5.0$\\ m$উচ্চতায় গতিশক্তি বিভবশক্তির 4 গুণ হলে কত $m$ উচ্চতা হতে বস্তটিকে ফেলে দেওয়াহয়েছিল ?</div>",
+            "option1": "<div>(ক)$\\ 15$</div>",
+            "option2": "<div>(খ)$\\ 25$</div>",
+            "option3": "<div>(গ)$\\ 35$</div>",
+            "option4": "<div>(ঘ) $45$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৩. একটি মোটর একটি $120\\ m$ গভীর কূপ থেকে 5 মিনিট এ 400kg পানি উত্তোলন করতেসক্ষম। মোটরটির অশ্বক্ষমতা কত ?</div>",
+            "option1": "<div>(ক)$\\ 3.0\\ hp$ </div>",
+            "option2": "<div>(খ)$\\ 2.8\\ hp$</div>",
+            "option3": "<div>(গ)$\\ 2.5\\ hp$</div>",
+            "option4": "<div>(ঘ) $2.1\\ hp$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৪. একটি বস্তকে নির্দিষ্ট উচ্চতা থেকে ফেলে দেওয়া হলো। ভূমি হতে $5.0\\ m$উচ্চতায় গতিশক্তি বিভবশক্তির 4 গুণ হলে কত $\\ m$ উচ্চতা হতে বস্তটিকে ফেলেদেওয়া হয়েছিল ?</div>",
+            "option1": "<div>(ক)$\\ 15$</div>",
+            "option2": "<div>(খ)$\\ 25$</div>",
+            "option3": "<div>(গ)$\\ 35$</div>",
+            "option4": "<div>(ঘ)$\\ 45$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৫. 10 N বল প্রয়োগে একটি গাড়ীকে 100m সরাতে কত কাজ করতে হবে? বল ও সরণেরমধ্যবর্তি কোণ 60${}^{0}$</div>",
+            "option1": "<div>(ক)$\\ 100\\ J$ </div>",
+            "option2": "<div>(খ)$\\ 1000\\ J$</div>",
+            "option3": "<div>(গ) $500\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ 50\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৬. একটি বালক তার খেলনার উপর $\\overrightarrow{F}=\\left(9i-2j+2k\\right)N$ বলপ্রয়োগ করলে খেলনাটির সরণ $\\overrightarrow{d}=\\left(2i+2j-k\\right)m$ হয় ।বালকটির দ্বারা সম্পাদিত কাজের পরিমাণ কত ?</div>",
+            "option1": "<div>(ক)$\\ 18J$ </div>",
+            "option2": "<div>(খ)$\\ 9\\ J$</div>",
+            "option3": "<div>(গ) $6\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ 12\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৭. 80m (৮০ মি.) উচ্চতা থেকে যদি একটি বল মেঝেতে পড়ে এবং বলটির 20% শক্তিমেঝের সাথে প্রতিঘাতে হ্রা্স পায়, তবে বলটি মেঝেতে বাড়ি খেয়ে যে উচ্চতায় উঠবে-</div>",
+            "option1": "<div>(ক)$\\ 60\\ \\mathrm{m}$ </div>",
+            "option2": "<div>(খ)$\\ 64\\ \\mathrm{m}$</div>",
+            "option3": "<div>(গ) $68\\ \\mathrm{m}$</div>",
+            "option4": "<div>(ঘ)$\\ 72\\ \\mathrm{m}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৮.একটি মোটর একটি $120\\ m$ গভীর কূপ থেকে 5 মিনিট এ 400kg পানি উত্তোলন করতেসক্ষম। মোটরটির অশ্বক্ষমতা কত ?</div>",
+            "option1": "<div>(ক)$\\ 3.0\\ hp$ </div>",
+            "option2": "<div>(খ)$\\ 2.8\\ hp$</div>",
+            "option3": "<div>(গ)$\\ 2.5\\ hp$</div>",
+            "option4": "<div>(ঘ) $2.1\\ hp$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৯.k স্প্রিং ধ্রবকের্র একটি স্প্রিংকে টেনে লম্বা করা হলো। দ্বিতীয় স্প্রিংকেএর অর্ধেক পরিমাণ লম্বা করতে দ্বিগুণ কাজ করতে হভে। দ্বিতীয় স্প্রিং এরস্প্রিং ধ্রবক কত ?</div>",
+            "option1": "<div>(ক)$\\ k$</div>",
+            "option2": "<div>(খ)$\\ 2k$</div>",
+            "option3": "<div>(গ)$\\ 4k$</div>",
+            "option4": "<div>(ঘ)$\\ 8k$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩০.1kg ভর সম্পন্ন একটি বুলেটকে $400\\ m/s$ বেগ দিয়ে বন্দুক থেকে ছোঁড়া হলে এরগতিশক্তি কত ?</div>",
+            "option1": "<div>(ক)$\\ 4\\times \\ {10}^4J$</div>",
+            "option2": "<div>(খ)$\\ 8\\times \\ {10}^3J$</div>",
+            "option3": "<div>(গ)$\\ 4\\times \\ {10}^3J$</div>",
+            "option4": "<div>(ঘ)$\\ 8\\times \\ {10}^4J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩১. 25kg ভরের কোন বস্তকে $40\\ m$ উঁচুতে খাড়াভাবে তুললে বস্তটির স্থিতিশক্তিকত হবে ?</div>",
+            "option1": "<div>(ক)$\\ \\ 98.10\\ J$</div>",
+            "option2": "<div>(খ)$\\ 98.10\\ ergs\\ $</div>",
+            "option3": "<div>(গ)$\\ \\ 9810\\ egrs$</div>",
+            "option4": "<div>(ঘ)$\\ 9810\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩২. 60kg ভরের এক লোক 30 মিনিটে $600\\ m$ উঁচুতে উঠতে পারে। তার কাজ করারক্ষমতা কত ?</div>",
+            "option1": "<div>(ক)$\\ \\ 196\\ W$</div>",
+            "option2": "<div>(খ)$\\ 392\\ W\\ $</div>",
+            "option3": "<div>(গ)$\\ \\ 588\\ W$</div>",
+            "option4": "<div>(ঘ)$\\ 98\\ W$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৩.60kg ভরের কণার বেগ $\\left(4\\hat{i}+5\\hat{j}+6\\hat{k}\\right){ms}^{-1}$হলে এর গতিশক্তি কত জুল ?</div>",
+            "option1": "<div>(ক)$\\ \\ 300$</div>",
+            "option2": "<div>(খ)$\\ 600\\ $</div>",
+            "option3": "<div>(গ)$\\ \\ 770$</div>",
+            "option4": "<div>(ঘ)$\\ 1440$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৪. একটি কণার উপর$\\overrightarrow{F}=\\left(12\\hat{i}+6\\hat{j}+4\\hat{k}\\right)N\\ $ বল প্রয়োগকরলে কণাটির$\\overrightarrow{r}=\\left(4\\hat{i}+4\\hat{j}+2\\hat{k}\\right)m$সরণ হয়। কণাটির কাজের পরিমাণ কত ?</div>",
+            "option1": "<div>(ক)$\\ 30\\ J$</div>",
+            "option2": "<div>(খ)$\\ 32\\ J$</div>",
+            "option3": "<div>(গ)$\\ 28\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ 20\\ J$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৫.2 kW ক্ষমতার একটি পাম্পের দক্ষতা 80% । এটি 30 m উপরে প্রতি সেকেন্ডকতটুকু পানি তুলতে পারবে ?</div>",
+            "option1": "<div>(ক)$\\ 5.44\\ \\mathrm{kg}$</div>",
+            "option2": "<div>(খ)$\\ 54.4\\ \\mathrm{kg}$</div>",
+            "option3": "<div>(গ)$\\ 0.054\\ \\mathrm{kg}$</div>",
+            "option4": "<div>(ঘ)$\\ 52\\ \\mathrm{kg}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৬.ভুমি হতে `m' ভরের কোন বস্তকণাকে 2R (পৃথিবীর ব্যাসার্ধের দ্বিগুণ)উচ্চতায় উত্তোলন করতে কৃতকাজ-</div>",
+            "option1": "<div>(ক)$\\ 2mgR$</div>",
+            "option2": "<div>(খ)$\\ \\frac{mgR}{2}$</div>",
+            "option3": "<div>(গ)$\\ 3mgR$</div>",
+            "option4": "<div>(ঘ)$\\ \\frac{2mgR}{3}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৭.200 gm ভরের একটি কণার বেগ$\\overrightarrow{V}=\\left( \\begin{array}{c}\\curlywedge \\\\<br>2i \\end{array}+ \\begin{array}{c}\\curlywedge \\\\<br>6j \\end{array}\\right)m/s$ কণাটির গতিশক্তি কত ?</div>",
+            "option1": "<div>(ক)$\\ 0.6\\ J$</div>",
+            "option2": "<div>(খ)$\\ 8\\ J$</div>",
+            "option3": "<div>(গ)$\\ 40\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ 4\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩৮. 2kg ভরের একটি কণা $\\overrightarrow{F}=\\left( \\begin{array}{c}\\curlywedge \\\\<br>2i \\end{array}+ \\begin{array}{c}\\curlywedge \\\\<br>6j \\end{array}+ \\begin{array}{c}\\curlywedge \\\\<br>2k \\end{array}\\right)m/s$ বেগে চলছিল। বাহ্যিক বল $\\overrightarrow{F}$ এর ক্রিয়ার কণাটিথেমে গেল। $\\overrightarrow{F}$ কর্তৃ্ক কৃতকাজ কত ?</div>",
+            "option1": "<div>(ক)$\\ 24\\ J$</div>",
+            "option2": "<div>(খ)$\\ 12\\ J$</div>",
+            "option3": "<div>(গ)$-12\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ 48\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৯. একটি কণার উপর প্রযুক্ত বল $F\\left(x\\right)=\\left({6x}^1+2\\right)N;$কণাটি x=0m অবস্থান থেকে x=2m অবস্থানে সরে গেলে প্রযুক্ত বল কর্তৃক কৃতকাজ কত?</div>",
+            "option1": "<div>(ক)$\\ 10\\ J$</div>",
+            "option2": "<div>(খ)$\\ 16\\ J$</div>",
+            "option3": "<div>(গ)$12\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ 24\\ J$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪০.2 kg ভরের একটি বস্ত 3m উচ্চতা হতে পড়ে তাপে রুপান্তরিত হলে তাপের পরিমাণকত হবে ?</div>",
+            "option1": "<div>(ক)$\\ \\ 14.01\\ Cal$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 20.01\\ Cal$</div>",
+            "option3": "<div>(গ)$\\ \\ 24.01\\ Cal$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 34.01\\ Cal$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪১.30m উচ্চতা থেকে একটি বস্তকে বিনা বাধায় পড়তে দিলে কোন উচ্চতায় বস্তটিরগতিশক্তি বিভবশক্তির দ্বিগুণ হবে ?</div>",
+            "option1": "<div>(ক)$\\ \\ 10\\ m$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 15\\ m$</div>",
+            "option3": "<div>(গ)$\\ \\ 25\\ m$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 28\\ m$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪২.একটি পানিপূর্ণ্ কুয়ার গভীরতা 12m এবং ব্যাস 1.8m। একটি পাম্প 24 মিনিটেকুয়াটিকে পানিশূন্য করতে পারে। পানির ঘনত্ব $1000\\ kg/m^3$ হলে পাম্পটিরক্ষমতা কত ?</div>",
+            "option1": "<div>(ক)$\\ \\ 1.67\\ HP$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 3.34\\ HP$</div>",
+            "option3": "<div>(গ)$\\ \\ 6.68HP$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 26.72\\ HP$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪৩. 1g ভরের একটি বস্তকে 0.5m ব্যাসার্ধে্র একটি অনুভুমিক বৃত্তাকার পথে 2 m.sসমুদ্রতিতে ঘোরানো হচ্ছে। এক পূর্ণ্ ঘূর্ণনের জন্য প্রয়োজনীয় কাজের মান কত ?</div>",
+            "option1": "<div>(ক)$\\ \\ 0\\ J$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 1\\ J$</div>",
+            "option3": "<div>(গ)$\\ \\ 2\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 4\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪৪.কোন ব্যক্তি 30${}^{0}$ ঢালের 5m উঁচু ঘর্ষ্ণ বিহীন তল বরাবর একটি 100Nব্লক টেনে তুলছে। ব্লকটি সমুদ্রতিতে চললে ব্যক্তি কি পরিমাণ কাজ করবে ?</div>",
+            "option1": "<div>(ক)$\\ \\ 250\\ J$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 500\\ J$</div>",
+            "option3": "<div>(গ)$\\ 0\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 100\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪৫.চিত্রে দেখানো পথ দিয়ে একটি 4.0 N ওজনের পাথরকে পৃথিবীর অভিকর্ষীয় ক্ষেত্রেP বিন্দু থেকে R বিন্দুতে স্থানান্তরিত করা হলো। পাথরটির স্থিতিশক্তি কতবৃদ্ধি পেল?</div>",
+            "option1": "<div>(ক)$\\ \\ 120\\ J$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 200\\ J$</div>",
+            "option3": "<div>(গ)$\\ \\ 280\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 1200\\ J$</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Mcq/45.webp"
+        },
+        {
+            "mcqQuestion": "<div>৪৬.একটি তারের উপর টান F হলে দৈর্ঘ্য বৃদ্ধি হয় x. তারটি যদি হুকের সুত্র মেনেচলে এবং তারের উপাদানের ইয়ং গুণাংক Y হয় তবে তারে সঞ্চিত বিভব শক্তি কত ?</div>",
+            "option1": "<div>(ক)$\\ \\ \\frac{1}{2}Yx$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ Yx$</div>",
+            "option3": "<div>(গ)$\\ \\ \\frac{1}{2}Fx$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ Fx$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪৭. 420 m উঁচু একটি জলপ্রপাতের তলদেশ ও শীর্ষ্ দেশের তাপমাত্রা ব্যবধান কত ?</div>",
+            "option1": "<div>(ক)$\\ \\ 9.8\\ K$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 0.98\\ K$</div>",
+            "option3": "<div>(গ)$\\ \\ 98\\ K$</div>",
+            "option4": "<div>(ঘ)$\\ 196K$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪৮. 1 J গতিশক্তির একটি বস্তর গতির বিপরীতে 1 N বল প্রয়োগে বস্তটি কতদুরঅগ্রসর হয়ে থেমে যাবে ?</div>",
+            "option1": "<div>(ক)$\\ \\ 1m$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 2m$</div>",
+            "option3": "<div>(গ)$\\ \\ 3m$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 4m$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪৯. বল (force), সরণ (dispiscement), ও কাজ (work) এর মধ্যে সম্পর্ক্(relationship) হলো</div>",
+            "option1": "<div>(ক)$\\ \\ W=\\overrightarrow{F}\\ \\overrightarrow{S}$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ W=FS\\ cos\\theta $</div>",
+            "option3": "<div>(গ)$\\ \\overrightarrow{W}=\\overrightarrow{F}\\ \\times \\overrightarrow{S}$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ A\\ ও\\ B\\ উভয়ই$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৫০. 100 কেজি ভরের একটি বস্তর ভরবেগ 200 কেজি/মিটার সে. হলে এর গতিশক্তি কত ?</div>",
+            "option1": "<div>(ক)$\\ \\ 400\\ J$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 300\\ J$</div>",
+            "option3": "<div>(গ)$\\ \\ 200\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 100\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫১. রৈখিক ভরবেগ 60% বাড়লে গতিশক্তি বৃদ্ধি পায়-</div>",
+            "option1": "<div>(ক)$\\ \\ 60%$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 125%$</div>",
+            "option3": "<div>(গ)$\\ \\ 156%$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 160%$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫২. কেন্দ্রমুখী বল দ্বারা কৃত কাজ কোনটি ?</div>",
+            "option1": "<div>(ক) অসীম</div>",
+            "option2": "<div>(খ) ধনাত্মক</div>",
+            "option3": "<div>(গ) শূন্য</div>",
+            "option4": "<div>(ঘ) ঋণাত্মক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫৩.5 kg ভরের একটি বলকে উপর থেকে ছেড়ে দেওয়া হলো। মাটিতে স্পর্শ্ করারমুহূর্ত্ তার গতিশক্তি 980J হলে, বলটি কত উচ্চতার থেকে ছাড়া হয়েছিল ?</div>",
+            "option1": "<div>(ক) 20m</div>",
+            "option2": "<div>(খ) 2m</div>",
+            "option3": "<div>(গ) 20 km</div>",
+            "option4": "<div>(ঘ) 2 cm</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৪. পানিপূর্ণ্ কুয়ার গভীরতা 20 m এবং 2m। একটি পাম্প 24 মিনিটে কুয়াটিকেপানিশূন্য করতে পারে। পাম্পটির অশ্বক্ষমতা কত ?</div>",
+            "option1": "<div>(ক)$\\ \\ 6.53\\ HP$</div>",
+            "option2": "<div>(খ)$\\ \\ 5.73\\ HP$</div>",
+            "option3": "<div>(গ)$\\ 4.63\\ HP$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 1.67\\ HP$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫৫. 5kg ভরের বস্তর ত্বরণ $3ms^{-2}$ হলে 4 s পর বস্তটির গতিশক্তি-</div>",
+            "option1": "<div>(ক)$\\ \\ 3\\ J$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 5\\ J$</div>",
+            "option3": "<div>(গ)$\\ \\ 15\\ \\ J$</div>",
+            "option4": "<div>(ঘ)$\\ 360\\ J$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৫৬.30 m উচ্চতা থেকে একটি বস্তকে বিনা বাধায় পড়তে দিলে কত উচ্চতায় উহারগতিশক্তি বিভব শক্তির দ্বিগুণ হবে ?</div>",
+            "option1": "<div>(ক) $20\\ m$</div>",
+            "option2": "<div>(খ) $15\\ m$</div>",
+            "option3": "<div>(গ) $10\\ m$</div>",
+            "option4": "<div>(ঘ) $5\\ m$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫৭.25 N বল কোন স্প্রিংকে টেনে 10 cm বৃদ্ধি করে। স্প্রিংকে 6 cm প্রসারিতকরতে কত কাজ সম্পন্ন হয় ?</div>",
+            "option1": "<div>(ক)$\\ \\ 0.45\\ J$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 0.045\\ J$</div>",
+            "option3": "<div>(গ)$\\ \\ 0.25\\ \\ J$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 2.5\\ J$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৮.একটি চলন্ত বস্ত সমান ভরের অপর এটি স্থির বস্তকে আঘাত করে থেমে গেল।গতিশক্তির যে অংশ স্থানান্তরিত হবে-</div>",
+            "option1": "<div>(ক)$\\ \\ 100%$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 50%$</div>",
+            "option3": "<div>(গ)$\\ \\ 0%$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 1%$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৯.কোন নির্দিষ্ট ভরের বস্তর গতিশক্তি, এর ভরবেগের সাথে সম্পর্ক্ কি ?</div>",
+            "option1": "<div>(ক) বর্গ্ মূলের সমানুপাতিক</div>",
+            "option2": "<div>(খ) বর্গের সমানুপাতিক</div>",
+            "option3": "<div>(গ) বর্গের ব্যস্তানুপাতিক</div>",
+            "option4": "<div>(ঘ) সমানুপাতিক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬০.একটি বস্তর ভরবেগের দ্বিগুণ হয়ে গেলে উহার গতিশক্তি-</div>",
+            "option1": "<div>(ক) চারগুণ হবে</div>",
+            "option2": "<div>(খ) দ্বিগুণ হবে</div>",
+            "option3": "<div>(গ) একই থাকবে</div>",
+            "option4": "<div>(ঘ) আটগুণ হবে</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৬১. 500g ভরের একটি বস্তকে স্থির অবস্থান থেকে 2N বল প্রয়োগ করে 1 m দুরত্বেসরানো হলো। বস্তটির উপর কি পরিমান কাজ করা হলো ?</div>",
+            "option1": "<div>(ক)$\\ \\ 0.5\\ J$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 2\\ J$</div>",
+            "option3": "<div>(গ)$\\ \\ 9.8\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 4.9\\ J$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬২. কোনটি শক্তির প্রকারভেদ নয় ?</div>",
+            "option1": "<div>(ক) চুম্বক শক্তি</div>",
+            "option2": "<div>(খ) আণবিক শক্তি</div>",
+            "option3": "<div>(গ) বিদ্যুৎ শক্তি</div>",
+            "option4": "<div>(ঘ) সৌর শক্তি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬৩.74.6 kg-র একজন লোক প্রতিটি 25 cm উঁচু 20 টি সিড়ি 10s-এ উঠতে পারেন। তারক্ষমতা (w) নিচের কোনটি ?</div>",
+            "option1": "<div>(ক)$\\ \\ 367.54$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 364.54$</div>",
+            "option3": "<div>(গ)$\\ \\ 365.54$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 366.54$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬৪. একটি রাইফেলের গুলি একটি তক্তাকে ভেদ করতে পারে। যদি গুলির বেগ তিনগুন করাহয় তবে অনুরুপ কয়টি তক্তা ভেদ করতে পারবে ?</div>",
+            "option1": "<div>(ক)$\\ \\ 6$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 7$</div>",
+            "option3": "<div>(গ)$\\ \\ 8$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 9$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৬৫. 100 kgm কে joule এ প্রকাশ কর ?</div>",
+            "option1": "<div>(ক)$\\ \\ 764.00\\ J$</div>",
+            "option2": "<div>(খ)$\\ \\ \\ 981\\ J$</div>",
+            "option3": "<div>(গ)$\\ \\ 98.1\\ J$</div>",
+            "option4": "<div>(ঘ)$\\ \\ \\ 9.811\\ J$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬৬. ইলেকট্রন ভোল্ট কি ?</div>",
+            "option1": "<div>(ক) কাজের ব্যবহারিক একক</div>",
+            "option2": "<div>(খ) কাজের নিরপেক্ষ একক</div>",
+            "option3": "<div>(গ) বিদ্যুতের একক</div>",
+            "option4": "<div>(ঘ) বৈদ্যুতিক রোধের একক</div>",
+            "mcqAnswer": "a"
+        }
+    ]
+}

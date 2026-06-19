@@ -1,0 +1,3585 @@
+﻿{
+    "mcqQuestionList": [
+        {
+            "mcqQuestion": "<div>১. কোনটি জড়তার ভ্রামক সংক্রান্ত সমান্তরাল অক্ষ উপাদান?</div>",
+            "option1": "<div>(ক) $I_s=I_x+I_y\\ {MK}^2$</div>",
+            "option2": "<div>(খ) $I=I_G+{MK}^2$</div>",
+            "option3": "<div>(গ) $I=I_G+MK$</div>",
+            "option4": "<div>(ঘ) $I=I_G+{Mh}^2$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২. $2400\\ J$ গতিশক্তিবিশিষ্টি একটি চাকা প্রতি মিনিটে 602 বার ঘুরে। চাকাটিরজড়তার ভ্রামক কত?</div>",
+            "option1": "<div>(ক) $0.605\\ {kg\\ m}^2$</div>",
+            "option2": "<div>(খ) $0.828\\ {kg\\ m}^2$</div>",
+            "option3": "<div>(গ) $1.21\\ {kg\\ m}^2$</div>",
+            "option4": "<div>(ঘ) $76.14\\ {kg\\ m}^2$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩. $100\\ gm$ ভরের একটি পাথর উল্লম্বতলে $10\\ m$ ব্যাসার্ধের বৃত্ত পথে ঘুরতেঘুরতে $A$ অবস্থান হতে $B$ অবস্থানে আসল। শক্তির পরিবর্তন কত হবে?</div>",
+            "option1": "<div>(ক) $10\\ J$</div>",
+            "option2": "<div>(খ) $20\\ J$</div>",
+            "option3": "<div>(গ) $30\\ J$</div>",
+            "option4": "<div>(ঘ) $40\\ J$</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/3.webp"
+        },
+        {
+            "mcqQuestion": "<div>৪. $0.01\\ m$ দৈর্ঘ্যের একটি ঘড়ির মিনিটের কাঁটার প্রান্তীয় বিন্দুর রৈখিকবেগের মান কত?</div>",
+            "option1": "<div>(ক) $1.54\\times {10}^{-5}\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $1.64\\times {10}^{-5}\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $1.74\\times {10}^{-5}\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $1.84\\times {10}^{-5}\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫. $1\\ kg$ ও $4\\ kg$ ভরের দুটি বস্তু একই গতিশক্তি নিয়ে চলছে। এদের রৈখিকভরবেগের অনুপাত হবে --</div>",
+            "option1": "<div>(ক) $4\\ :1$</div>",
+            "option2": "<div>(খ) $\\sqrt{2}\\ :1$</div>",
+            "option3": "<div>(গ) $1\\ :2$</div>",
+            "option4": "<div>(ঘ) $1\\ :16$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬. বলের ঘাতের একক --</div>",
+            "option1": "<div>(ক) $N$</div>",
+            "option2": "<div>(খ) $Nm$</div>",
+            "option3": "<div>(গ) ${Nm}^{-1}$</div>",
+            "option4": "<div>(ঘ) $kg\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৭. সাইকেলের বেগ ও চাকার ঘর্ষণের মর্ধ্যবর্তী কোণ কত?</div>",
+            "option1": "<div>(ক) 0$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 90$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 180$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 360$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮. বস্তুর ভর ধ্র্রুবক হলে, রৈখিক ভরবেগ $(P)$ বনাম গতিশক্তি $(E_k)$লেখচিত্রটি হবে --</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/8.webp"
+        },
+        {
+            "mcqQuestion": "<div>৯. রৈখিক ভরবেগ $(P)$ ও $K$ গতিশক্তির মধ্যে সম্পর্ক কোনটি?</div>",
+            "option1": "<div>(ক) $P=\\frac{km}{2}\\ $</div>",
+            "option2": "<div>(খ) $P=2\\ km$</div>",
+            "option3": "<div>(গ) $P=\\sqrt{2\\ km}$</div>",
+            "option4": "<div>(ঘ) $P=\\sqrt{\\frac{km}{2}}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১০. বলের ঘাতের সাথে কোন রাশিটির সাংখ্যিক মান সমান?</div>",
+            "option1": "<div>(ক) কৌণিক ভরবেগের পরিবর্তন</div>",
+            "option2": "<div>(খ) রৈখিক ভরবেগের পরিবর্তন</div>",
+            "option3": "<div>(গ) জড়তার ভ্রামক</div>",
+            "option4": "<div>(ঘ) টর্ক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১১. নিচের বলগুলোর মধ্যে কোনটি সবচেয়ে শক্তিশালী বল?</div>",
+            "option1": "<div>(ক) দুর্বল নিউক্লীয় বল</div>",
+            "option2": "<div>(খ) সবল নিউক্লীয় বল</div>",
+            "option3": "<div>(গ) মহাকর্ষ বল</div>",
+            "option4": "<div>(ঘ) তড়িৎ চুম্বকীয় বল</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১২. খুব অল্প সময়ের জন্য খুব বড় মানের বল প্রযুক্ত হলে তাকে বলে-</div>",
+            "option1": "<div>(ক) সংশক্তি বল</div>",
+            "option2": "<div>(খ) ঘূর্ণন বল</div>",
+            "option3": "<div>(গ) তড়িৎ বল</div>",
+            "option4": "<div>(ঘ) ঘাত বল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৩. টর্কের মাত্রা সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $\\left[ML^2T^{-3}\\right]$</div>",
+            "option2": "<div>(খ) $\\left[ML^{-2}T^{-2}\\right]$</div>",
+            "option3": "<div>(গ) $\\left[ML^2T^{-1}\\right]$</div>",
+            "option4": "<div>(ঘ) $\\left[MLT^{-2}\\right]$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৪. রৈখিক বেগ ও কৌণিক বেগের মধ্যে সম্পর্ক হলো --</div>",
+            "option1": "<div>(ক) ${{\\overrightarrow{\\omega }}}\\ =\\overrightarrow{v}\\times\\overrightarrow{r}$</div>",
+            "option2": "<div>(খ) ${{\\overrightarrow{v}}}\\ =\\overrightarrow{\\omega }\\times\\overrightarrow{r}$</div>",
+            "option3": "<div>(গ) ${{\\overrightarrow{\\omega }}}\\ =\\overrightarrow{v}.\\overrightarrow{r}$</div>",
+            "option4": "<div>(ঘ) ${{\\overrightarrow{v}}}\\ =\\overrightarrow{\\omega }.\\overrightarrow{r}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৫. অস্থিতিস্থাপক সংঘর্ষে সংরক্ষিত হয় --</div>",
+            "option1": "<div>(ক) গতিশক্তি</div>",
+            "option2": "<div>(খ) স্থিতিশক্তি</div>",
+            "option3": "<div>(গ) কৌণিক ভেরবেগ</div>",
+            "option4": "<div>(ঘ) ভরবেগ</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৬. নির্দিষ্ট ভরের কোনো চাকতির ব্যাসার্ধ অর্ধেক করা হলে কেন্দ্রমুখী অক্ষেরসাপেক্ষে জড়তার ভ্রামক কতগুণ হবে?</div>",
+            "option1": "<div>(ক) এক-চতুর্থাংশ</div>",
+            "option2": "<div>(খ) অর্ধেক</div>",
+            "option3": "<div>(গ) দ্বিগুণ</div>",
+            "option4": "<div>(ঘ) চারগুণ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭. ঘর্ষণ বল ও বস্তুর বেগের মধ্যকার কোণ কত?</div>",
+            "option1": "<div>(ক) $\\pi $</div>",
+            "option2": "<div>(খ) $\\frac{\\pi }{2}$</div>",
+            "option3": "<div>(গ) $\\frac{\\pi }{4}$</div>",
+            "option4": "<div>(ঘ) $0{}^\\circ $</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৮. পরিবর্তশীল বলের ক্ষেত্রে --</div>",
+            "option1": "<div>(ক) শুধু বলে মান পরিবর্তন হয়</div>",
+            "option2": "<div>(খ) শুধু বলের দিক পরিবর্তন হয়</div>",
+            "option3": "<div>(গ) বলের মান ও দিক উভয়ই পরিবর্তন হয</div>",
+            "option4": "<div>(ঘ) বলের মান ও দিক উভয়ই অপরিবর্তিত থাকে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৯. $0.25\\ kg$ ভরের একটি ক্রিকেট বল $40\\ {ms}^{-1}$ বেগে আসছিল। একজনখেলোয়াড় বলটিকে $0.2$ সেকেন্ডে থামিয়ে দিল। খেলোয়াড় কর্তৃক প্রযুক্ত গড় বল কত?</div>",
+            "option1": "<div>(ক) $20\\ N$</div>",
+            "option2": "<div>(খ) $10\\ N$</div>",
+            "option3": "<div>(গ) $-20\\ N$</div>",
+            "option4": "<div>(ঘ) $-50\\ N$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২০. একটি পাখা প্রতি মিনিটে 30 বার ঘুরছে। এর কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $\\pi \\ {rad\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $2\\pi \\ {rad\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $15\\pi \\ {rad\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $60\\pi \\ {rad\\ s}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২১. কোনটি বলের মাত্রা সমীকরণ?</div>",
+            "option1": "<div>(ক) $ML^{-1}T^{-2}$</div>",
+            "option2": "<div>(খ) $MLT^{-1}$</div>",
+            "option3": "<div>(গ) $MLT^{-2}$</div>",
+            "option4": "<div>(ঘ) $M^0LT^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২২. ভরবেগের ভ্রামকের মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) $ML^2T^{-2}$</div>",
+            "option2": "<div>(খ) $MLT^{-2}$</div>",
+            "option3": "<div>(গ) $ML^2T^{-1}$</div>",
+            "option4": "<div>(ঘ) $M^0L^2T^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৩. $2\\ g$ ভরের একটি বস্তুকে $10\\ cm$ একটি সূতার সাহায্যে ঘুরানো হচ্ছে।বস্তুটির জড়তার ভ্রামক কত?</div>",
+            "option1": "<div>(ক) $0.00002\\ kg\\ m^2$</div>",
+            "option2": "<div>(খ) $0.02\\ kg\\ m^2$</div>",
+            "option3": "<div>(গ) $0.2\\ kg\\ m^2$</div>",
+            "option4": "<div>(ঘ) $100\\ kg\\ m^2$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৪. বলের ঘাতের একক নিচের কোন রাশির এককের অনুরূপ?</div>",
+            "option1": "<div>(ক) বল</div>",
+            "option2": "<div>(খ) ভরবেগ</div>",
+            "option3": "<div>(গ) কাজ</div>",
+            "option4": "<div>(ঘ) টর্ক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৫. সবল নিউক্লিয় বল কোন কণার বিনিময়ে উৎপন্ন হয়?</div>",
+            "option1": "<div>(ক) গ্রাভিটন</div>",
+            "option2": "<div>(খ) বোসন</div>",
+            "option3": "<div>(গ) ফোটন</div>",
+            "option4": "<div>(ঘ) মেসন</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৬. পৃথিবীর নিজ অক্ষে ঘূর্ণনের জন্য ''আইফেল টাওয়ারের'' কৌণিক বেগ হবে-</div>",
+            "option1": "<div>(ক) $1.99\\times {10}^{-7}\\ {rad\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $7.26\\times {10}^{-5}\\ {rad\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $4.167\\times {10}^{-3}\\ {rad\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $4.167\\times {10}^{-3}\\ {rad\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৭. কৌণিক ভরবেগের পরিবর্তনের হার --</div>",
+            "option1": "<div>(ক) বলের সমান</div>",
+            "option2": "<div>(খ) কৌণিক ত্বরণের সমান</div>",
+            "option3": "<div>(গ) টর্কের সমান</div>",
+            "option4": "<div>(ঘ) জড়তার ভ্রামকের সমান</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৮. একটি নল থেকে $2\\ {ms}^{-1}$ বেগে পানি বের করে একটি দেয়ালকে আঘাত করছে।নলের প্রস্থচ্ছেদ হচ্ছে $0.03\\ m^2$ । ধরা যাক পানি দেয়াল থেকে ফিরে আসছে না।দেয়ালের উপর পানি কি পরিমাণ বল প্রয়োগ করছে?</div>",
+            "option1": "<div>(ক) $1000\\ N$</div>",
+            "option2": "<div>(খ) $300\\ N$</div>",
+            "option3": "<div>(গ) $240\\ N$</div>",
+            "option4": "<div>(ঘ) $120\\ N$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৯. বৃত্তীয় গতির ক্ষেত্রে কৌণিক ভরবেগের রাশি কোনটি?</div>",
+            "option1": "<div>(ক) $mr\\omega $</div>",
+            "option2": "<div>(খ) $\\ {mr}^2\\omega $</div>",
+            "option3": "<div>(গ) ${mr\\omega }^2$</div>",
+            "option4": "<div>(ঘ) $m^2r\\omega $</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩০. কোনটি সংরক্ষণশীল বল?</div>",
+            "option1": "<div>(ক) বায়ুর বাধা</div>",
+            "option2": "<div>(খ) তড়িৎ বল</div>",
+            "option3": "<div>(গ) ঘর্ষণ বল</div>",
+            "option4": "<div>(ঘ) সান্দ্র বল</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩১. একটি চাকার ভর $6\\ kg$ এবং কোনো অক্ষ সাপেক্ষে চক্রগতির ব্যাসার্ধ $30\\cm$ । চাকাটিতে $3\\ {rad\\ s}^{-2}$ ত্বরণ সৃষ্টি করতে কত মানের টর্ক প্রয়োগকরতে হবে?</div>",
+            "option1": "<div>(ক) $1.62\\ Nm$</div>",
+            "option2": "<div>(খ) $1.8\\ Nm$</div>",
+            "option3": "<div>(গ) $16.2\\ Nm$</div>",
+            "option4": "<div>(ঘ) $18\\ Nm$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩২. ক্রিয়া-প্রতিক্রিয়ার মধ্যে কোণ কত?</div>",
+            "option1": "<div>(ক) $0{}^\\circ $</div>",
+            "option2": "<div>(খ) $190{}^\\circ $</div>",
+            "option3": "<div>(গ) $180{}^\\circ $</div>",
+            "option4": "<div>(ঘ) $360{}^\\circ $</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৩. নিচের কোন বলটি বিপরীত বর্গীয় সূত্র মেনে চলে না?</div>",
+            "option1": "<div>(ক) মহাকর্ষ বল</div>",
+            "option2": "<div>(খ) তড়িৎ বল</div>",
+            "option3": "<div>(গ) চৌম্বক বল</div>",
+            "option4": "<div>(ঘ) সংশক্তি বল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩৪. নিচের কোন বলটি সবচেয়ে দুর্বল বল?</div>",
+            "option1": "<div>(ক) শক্তিশালী নিউক্লিয় বল</div>",
+            "option2": "<div>(খ) তড়িৎ চৌম্বক বল</div>",
+            "option3": "<div>(গ) মহাকর্ষ বল</div>",
+            "option4": "<div>(ঘ) দূর্বল নিউক্লিয় বল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৫. টর্কের একক কোনটি?</div>",
+            "option1": "<div>(ক) $N^{-1}m$</div>",
+            "option2": "<div>(খ) ${Nm}^{-2}$</div>",
+            "option3": "<div>(গ) ${Nm}^{-1}$</div>",
+            "option4": "<div>(ঘ) $Nm$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩৬. কোনো সরু ও সুষম দন্ডের একপ্রান্ত দিয়ে লম্বভাবে গমণকারী অক্ষের সাপেক্ষেজড়তার ভ্রামক ঐ দন্ডের দৈর্ঘ্যের মধ্যবিন্দু দিয়ে লম্বভাবে গমনকারী অক্ষেরসাপেক্ষে জড়তার ভ্রামকের কত গুণ?</div>",
+            "option1": "<div>(ক) $4$</div>",
+            "option2": "<div>(খ) $2$</div>",
+            "option3": "<div>(গ) $\\frac{1}{2}$</div>",
+            "option4": "<div>(ঘ) $\\frac{1}{4}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৭. বল ও বলের ক্রিয়াকালের গুণফলকে কী বলে?</div>",
+            "option1": "<div>(ক) ঘাত বল</div>",
+            "option2": "<div>(খ) স্প্রিং বল</div>",
+            "option3": "<div>(গ) অভিকর্ষ বল</div>",
+            "option4": "<div>(ঘ) স্থিতিস্থাপক বল</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৮. কোনটি অসংরক্ষণশীল বল?</div>",
+            "option1": "<div>(ক) সান্দ্র বল</div>",
+            "option2": "<div>(খ) স্প্রিং বল</div>",
+            "option3": "<div>(গ) অভিকর্ষ বল</div>",
+            "option4": "<div>(ঘ) স্থিতিস্থাপক বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৯. একটি দেয়াল ঘড়ির মিনিটের কাঁটার দৈর্ঘ্য $18\\ cm$ এর প্রান্তের রৈখিক বেগকত?</div>",
+            "option1": "<div>(ক) $1.88\\times {10}^{-4}{ms}^{-1}$</div>",
+            "option2": "<div>(খ) $3.14\\times {10}^{-4}{ms}^{-1}$</div>",
+            "option3": "<div>(গ) $9.67\\times {10}^{-4}{ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $0.58\\times {10}^{-4}{ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪০. $1\\ rps=?$</div>",
+            "option1": "<div>(ক) $\\frac{\\pi }{2}{rad\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $\\pi \\ {rad\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $2\\pi \\ {rad\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $4\\pi \\ {rad\\ s}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪১. সবচেয়ে দুর্বল বল কোনটি?</div>",
+            "option1": "<div>(ক) মহাকর্ষ বল</div>",
+            "option2": "<div>(খ) তাড়িত চৌম্বক বল</div>",
+            "option3": "<div>(গ) সবল নিউক্লিয় বল</div>",
+            "option4": "<div>(ঘ) দুর্বল নিউক্লিয় বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪২. হাত ঘড়ির মিনিটের কাঁটার কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $\\frac{\\pi }{3600}\\ {rad\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $\\frac{\\pi }{1800}\\ {rad\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $\\frac{\\pi }{30}\\ {rad\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $2\\pi \\ {rad\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪৩. কৌণিক ভরবেগের মাত্রা সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $MLT^{-1}$</div>",
+            "option2": "<div>(খ) $ML^2T^0$</div>",
+            "option3": "<div>(গ) $ML^2T^{-1}$</div>",
+            "option4": "<div>(ঘ) $ML^2T^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪৪. একটি চাকার জড়তার ভ্রামক $10\\ kg\\ m^2$ । চাকাটিতে $10\\ {rads}^{-1}$কৌণিক ত্বরণ সৃষিট করতে কত টর্ক প্রয়োগ করতে হবে?</div>",
+            "option1": "<div>(ক) $10\\ Nm$</div>",
+            "option2": "<div>(খ) $100\\ Nm$</div>",
+            "option3": "<div>(গ) $150\\ Nm$</div>",
+            "option4": "<div>(ঘ) $200\\ Nm$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪৫. টর্কের একক হচ্ছে --</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) জুল</div>",
+            "option3": "<div>(গ) নিউটন/ মিটার</div>",
+            "option4": "<div>(ঘ) জুল/সেকেন্ড</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪৬. ভরবেগের মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) $MLT^{-2}$</div>",
+            "option2": "<div>(খ) $M^{-1}L^3T^{-2}$</div>",
+            "option3": "<div>(গ) $MLT^{-1}$</div>",
+            "option4": "<div>(ঘ) $ML^2T^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪৭. একটি চাকার ভর $10\\ kg$ এবং চক্রগতির ব্যাসার্ধ $0.5\\ m$ । জড়তার ভ্রামককত?</div>",
+            "option1": "<div>(ক) $10\\ kg\\ m^2$</div>",
+            "option2": "<div>(খ) $0.5\\ kg\\ m^2$</div>",
+            "option3": "<div>(গ) $2.5\\ kg\\ m^2$</div>",
+            "option4": "<div>(ঘ) $2.0\\ kg\\ m^2$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪৮. নিচের কোনটি ঘর্ষণ বলের উদাহরণ?</div>",
+            "option1": "<div>(ক) সংশক্তি বল</div>",
+            "option2": "<div>(খ) সংরক্ষণশীল বল</div>",
+            "option3": "<div>(গ) আসঞ্জন বল</div>",
+            "option4": "<div>(ঘ) অসংরক্ষণশীল বল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৪৯. তাড়িত চৌম্বক বল কোন কণার পারস্পারিক বিনিময়ের জন্য কার্যকর হয়?</div>",
+            "option1": "<div>(ক) ফোটন</div>",
+            "option2": "<div>(খ) মেসন</div>",
+            "option3": "<div>(গ) প্রোটন</div>",
+            "option4": "<div>(ঘ) প্রাভিটন</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫০. সমান ভরের দুটি বস্তুর মধ্যে স্থিতিস্থাপক সংঘর্ষ হলে নিচের কোনটি সত্যি?এখানে প্রথম বস্তুর আদি বেগ ও শেষ বেগ $u_1$ ও $v_1$ এবং দ্বিতয় বস্তুর আদি ওশেষ বেগ $u_2$ ও $v_2$।</div>",
+            "option1": "<div>(ক) $u_1=v_2$</div>",
+            "option2": "<div>(খ) $u_1=v_1$</div>",
+            "option3": "<div>(গ) $u_1=v_2$</div>",
+            "option4": "<div>(ঘ) $u_2=v_2$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫১. $50\\ m$ ব্যাসার্ধের রাস্তার বাঁকে $9.8\\ {ms}^{-1}\\ $ বেগে সাইকেলচালানোর সময় আরোহীর নতি কোণ হবে --</div>",
+            "option1": "<div>(ক) $1.1{}^\\circ $</div>",
+            "option2": "<div>(খ) $11{}^\\circ $</div>",
+            "option3": "<div>(গ) $88{}^\\circ $</div>",
+            "option4": "<div>(ঘ) $89{}^\\circ $</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫২. টর্কের একক --<br>i. $N-m$<br>ii. $kg\\ m^2s^{-2}$<br>iii. ${Js}^{-1}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫৩. দুটি সমান ভরের বস্তুর মধ্যে স্থিতিস্থাপক সংঘর্ষ ঘটলে --<br>i. সংঘর্ষের পূর্বের ও পরের মোট ভরবেগ একই থাকেব<br>ii. সংঘর্ষের পূর্বের ও পরের মোট গতিশক্তি একই থাকেব<br>iii. সংঘর্ষের পর বস্তুদ্বয় বেগ বিনিময় করবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৫৪. সুষম বৃত্তাকার গতির বৈশিষ্ট্য --<br>i. সমকৌণিক বেগ বিদ্যমান<br>ii. কৌণিক ত্বরণ শূন্য<br>iii. কেন্দ্রমুখী ত্বরণ থাকে না<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৫. টর্ক $(\\overrightarrow{t})$ এর জন্য --<br>i. $\\overrightarrow{t}=I\\overrightarrow{\\alpha }$<br>ii. $\\overrightarrow{t}=\\overrightarrow{r}\\times \\overrightarrow{F}$<br>iii. $\\overrightarrow{t}\\propto \\frac{d\\overrightarrow{L}}{dt}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৫৬. একটি গুলতির পাতর বা গুটির বেগ নির্ভর করে --<br>i. গুলতির ভরের উপর<br>ii. গুলতির প্রসারণের উপর<br>iii. গুলতির গুটির ভরের উপর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫৭. ক্রিয়া ও প্রতিক্রিয়া বল যথাক্রমে $\\overrightarrow{F_1}$ ও$\\overrightarrow{F_2}$ হলে --<br>i. $\\overrightarrow{F_1}$=$\\overrightarrow{F_2}$<br>ii. $|\\overrightarrow{F_1}|=|\\overrightarrow{F_2}|$<br>iii. $\\overrightarrow{F_1}.\\overrightarrow{F_2}=F_1F_2$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৮. প্রতীকগুলো প্রচলিত অর্থ বহন করলে কোন সম্পর্কটি সঠিক?<br>i. $F=\\frac{{mv}^2}{t}$<br>ii. $F=m{\\omega }^2r^2$<br>iii. $L=mvr$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫৯. ডাল ভাঙ্গার যাতাকলে --<br>i. অক্ষ সংলগ্ন কণার কৌণিক বেগ সবচেয়ে বেশি<br>ii. কিনারের কণার রৈখিক বগে বেশি<br>iii. প্রতিটি কণার কোনো মহূর্তের কৌণিক ভরবেগ সমান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬০. কোনো বস্তুর ভরবেগ বলতে বোঝায়?<br>i. বস্তুর ভর $1\\ kg$ হলে এর বেগ $40\\ {ms}^{-1}$<br>ii. বস্তুর ভর $40\\ kg$ হলে এর বেগ $10\\ {ms}^{-1}$<br>iii. বস্তুর ভর $6.3\\ kg$ হলে এর বেগ $6.36\\ {ms}^{-1}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬১. উপরের সময় বনাম বেগ লেখচিত্র অনুসারে --<br>i. বস্তুটির আদি বেগ শূন্য<br>ii. বস্তুটির উপর ক্রিয়াশীল বল সর্বদা সমান<br>iii. বস্তুটি কখনই থামবে না<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/61.webp"
+        },
+        {
+            "mcqQuestion": "<div>৬২. রকেটের গতির জন্য<br>i. আপেক্ষিক বেগ বৃদ্ধিতে ত্বরণ বৃদ্ধি পায়<br>ii. গ্যাস নির্গমনের হার বৃদ্ধিতে ত্বরণও বৃদ্ধি পায়<br>iii. রকেট যত উপরে যায় ত্বরণ তত কমে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৬৩. বলের ভ্রামক এর সমীকরণ --<br>i. $\\overrightarrow{t}=$ $\\overrightarrow{r}\\times \\overrightarrow{F}$<br>ii. $\\overrightarrow{t}=I\\overrightarrow{\\alpha }$<br>iii. $\\overrightarrow{t}\\propto \\frac{d\\overrightarrow{L}}{dt}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৬৪. রাস্তার ব্যাংকিং নির্ভর করে --<br>i. বাঁকের ব্যাসার্ধের উপর<br>ii. গাড়ির ভরের উপর<br>iii. গাড়ির বেগের উপর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬৫. বলের ঘাত হচ্ছে --<br>i. বল ও বলের ক্রিয়াকালের গুণফল<br>ii. ভরবেগের পরিবর্তন<br>iii. ভরবেগের পরিবর্তনের হার<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৬৬. সংরক্ষণশীল বল হলো-<br>i. মহাকর্ষ বল<br>ii. আদর্শ স্প্রিং বল<br>iii. সান্দ্র বল<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৬৭ ও ৬৮ নং প্রশ্নের উত্তর দাওঃ<br>$AB$ দন্ডটি $XY$ অক্ষের সাপেক্ষে ঘূর্ণনশীল। দন্ডের মোটদৈর্ঘ্য $2m$ এবং মোট ভর $2\\ kg.$<br>৬৭. চিত্র-ক এর জড়তার ভ্রামক $I_1$ এবং চিত্র-খ এর জড়তার ভ্রামক $I_2$ হলে,কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) $I_1\\ :\\ I_1=1\\ :1$</div>",
+            "option2": "<div>(খ) $I_1\\ :\\ I_1=1\\ :2$</div>",
+            "option3": "<div>(গ) $I_1\\ :\\ I_1=4\\ :1$</div>",
+            "option4": "<div>(ঘ) $I_1\\ :\\ I_1=1\\ :4$</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/67.webp"
+        },
+        {
+            "mcqQuestion": "<div>৬৮. চিত্র-খ চক্রগতির ব্যাসার্ধের মান-<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) $\\frac{1}{\\sqrt{3}}$</div>",
+            "option2": "<div>(খ) $\\frac{2}{\\sqrt{3}}$</div>",
+            "option3": "<div>(গ) $\\frac{1}{\\sqrt{12}}$</div>",
+            "option4": "<div>(ঘ) $\\sqrt{\\frac{3}{4}}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৬৯ ও ৭০ নং প্রশ্নের উত্তর দাওঃ <br>1500 kg ভরের একটি গাড়ি 400 N ঘর্ষণ বলযুক্ত সোজা রাস্তায় 5 〖ms〗^(-1) সমত্বরণে চলে – <br>৬৯. গাড়ির ইঞ্জিন কর্তৃক প্রযুক্ত বল --</div>",
+            "option1": "<div>(ক) $0.4\\ KN$</div>",
+            "option2": "<div>(খ) $7.1\\ KN$</div>",
+            "option3": "<div>(গ) $7.5\\ KN$</div>",
+            "option4": "<div>(ঘ) $7.9\\ KN$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৭০. উদ্দীপকের গাড়িটি যদি ত্বরণে না চলে ধ্র্রুব বেগে চলে তবে ইঞ্জিন কর্তৃকপ্রযুক্ত বল বনাম সময় লেখচিত্র হবে-</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/70.webp"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৭১ ও ৭২ নং প্রশ্নের উত্তর দাওঃ<br>একটি ঘড়ির সেকেন্ডের কাঁটার দৈর্ঘ্য $3\\ cm$.<br>৭১. সেকেন্ডের কাঁটার প্রান্তের রৈখিক বেগ --</div>",
+            "option1": "<div>(ক) $3.14\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $3.14\\times {10}^{-1}{ms}^{-1}$</div>",
+            "option3": "<div>(গ) $3.14\\times {10}^{-2}{ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $3.14\\times {10}^{-3}{ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৭২. সেকেন্ডের কাঁটার --<br>i. পর্যায়কাল 1 মিনিট<br>ii. কম্পাঙ্ক $1.6\\times {10}^{-3}Hz$<br>iii. কৌণিক বেগ $0.1046\\ rad/sec$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>নিচের চিত্রের আলোকে ৭৩ ও ৭৪ নং প্রশ্নের উত্তর দাওঃ<br>চিত্রে সরু ও সুষম রডটির ভর ও দৈর্ঘ্য যথাক্রমে $M$ ও$L$ ।<br>৭৩. রডটির ক্ষুদ্র অংশ $dx$ এর ভর কোনটি?</div>",
+            "option1": "<div>(ক) ${ML}^{-1}x$</div>",
+            "option2": "<div>(খ) ${MLx}^{-1}$</div>",
+            "option3": "<div>(গ) ${ML}^{-1}dx$</div>",
+            "option4": "<div>(ঘ) $MLdx$</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/73.webp"
+        },
+        {
+            "mcqQuestion": "<div>৭৪. $PQ$ ঘূর্ণন অক্ষের সাপেক্ষে রডটির জড়তার ভ্রামকের সমাকলিত রূপ কোনটি?</div>",
+            "option1": "<div>(ক) $\\frac{M}{L}\\int^L_0{x^2}dx$</div>",
+            "option2": "<div>(খ) $\\frac{M}{L}\\int^L_0{x}dx$</div>",
+            "option3": "<div>(গ) $\\frac{M}{L}\\int^L_0{x^{-1}}dx$</div>",
+            "option4": "<div>(ঘ) $\\frac{M}{L}\\int^L_0{x^{-2}}dx$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>উদ্দীপকের আলোকে ৭৫ ও ৭৬ নং প্রশ্নের উত্তর দাওঃ<br>৭৫. নিরেট চাকতির : $XY$ অক্ষের সাপেক্ষে চক্রগতির ব্যাসার্ধের ভ্রামক --</div>",
+            "option1": "<div>(ক) $\\frac{r}{2}$</div>",
+            "option2": "<div>(খ) $\\frac{r}{\\sqrt{2}}$</div>",
+            "option3": "<div>(গ) $r$</div>",
+            "option4": "<div>(ঘ) $\\sqrt{\\frac{3}{2}}r$</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/75.webp"
+        },
+        {
+            "mcqQuestion": "<div>৭৬. অক্ষের সাপেক্ষে চাকতির জড়তার ভ্রামক কত হবে?</div>",
+            "option1": "<div>(ক) $\\frac{1}{4}{Mr}^2$</div>",
+            "option2": "<div>(খ) $\\frac{1}{2}{Mr}^2$</div>",
+            "option3": "<div>(গ) ${Mr}^2$</div>",
+            "option4": "<div>(ঘ) $\\frac{3}{2}{Mr}^2$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>নিচের চিত্রের আলোকে ৭৭ ও ৭৮ নং প্রশ্নের উত্তর দাওঃ<br>৭৭. $A$ বিন্দু হতে $C$ বিন্দুতে বস্তুটি পৌছায় --</div>",
+            "option1": "<div>(ক) সমবন্দনে</div>",
+            "option2": "<div>(খ) সমত্বরণে</div>",
+            "option3": "<div>(গ) সমবেগে</div>",
+            "option4": "<div>(ঘ) অসমবেগে</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/77.webp"
+        },
+        {
+            "mcqQuestion": "<div>৭৮. $AC$ তলে নামার সময় বস্তুর উপর ক্রিয়াশীল বল কত?</div>",
+            "option1": "<div>(ক) $mg$</div>",
+            "option2": "<div>(খ) $mg\\ cos\\theta $</div>",
+            "option3": "<div>(গ) $mg\\ sin\\theta $</div>",
+            "option4": "<div>(ঘ) শূন্য</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি লক্ষ্য কর এবং ৭৯ ও ৮০ নং প্রশ্নের উত্তর দাওঃ<br>$A$ ও $B$ বস্তুদ্বয় পরস্পরের বিপরীত দিকে একই রেখা বরাবরচলে সংঘর্ষ ঘটায়। সংঘর্ষের পর তারা নিজ নিজ গতিপথের বিপরীত দিক চলছে।<br>৭৯. সংঘর্ষের পর বস্তুর বেগ কত?</div>",
+            "option1": "<div>(ক) $2.50\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $4.17\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $5.83\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $12.50\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/79.webp"
+        },
+        {
+            "mcqQuestion": "<div>৮০. উপরোক্ত সংঘর্ষের ক্ষেত্রে --<br>i. ভরবেগ সংরক্ষিত হবে<br>ii. গতিশক্তি সংরক্ষিত হবে<br>iii. সংঘর্ষটি অস্থিতিস্থাপক হবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৮১ ও ৮২ নং প্রশ্নের উত্তর দাওঃ<br>উপরের চিত্রে অনুভূমিক সমৃণ তলে একই সরলরেখা বরাবর তিনটি বস্তুউপেক্ষণীয় ভরের দুটি তার দ্বারা পরস্পর যুক্ত আছে এবং বল প্রয়োগে টানা হচ্ছে।<br>৮১. সৃষ্ট ত্বরণের মান --</div>",
+            "option1": "<div>(ক) $2\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $4.8\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $6\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $8\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/81.webp"
+        },
+        {
+            "mcqQuestion": "<div>৮২. $T_1$ ও $T_2$ এর অনুপাত-</div>",
+            "option1": "<div>(ক) $5\\ :4$</div>",
+            "option2": "<div>(খ) $4\\ :5$</div>",
+            "option3": "<div>(গ) $5\\ :9$</div>",
+            "option4": "<div>(ঘ) $9\\ :5$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৮৩ ও ৮৪ নং প্রশ্নের উত্তর দাওঃ<br>দুটি বস্তুর ভর 2 kg এবং 5 kg। এদের বেগ যথাক্রমে $6\\ {ms}^{-1}$ এবং $4\\ {ms}^{-1}$<br>৮৩. প্রথমটি $2\\ m$ দূরত্বে থামানো হলো। এর ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $-9\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $-1.5\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $1.5\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $9\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮৪. দ্বিতীয় বস্তুকে একই দূরত্বে থামাতে ককত বল লাগবে?</div>",
+            "option1": "<div>(ক) $-16\\ N$</div>",
+            "option2": "<div>(খ) $-18\\ N$</div>",
+            "option3": "<div>(গ) $-20\\ N$</div>",
+            "option4": "<div>(ঘ) $-22\\ N$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৮৫ ও ৮৬ নং প্রশ্নের উত্তর দাওঃ<br>একটি ভারী বস্তুর ভর অপর একটি হালকা বস্তুর ভরের দ্বিগুণ। বস্তু দুটিরভরবেগ সমান।<br>৮৫. হাল্কা ও ভারী বস্তুর বেগের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $1\\ :2$</div>",
+            "option2": "<div>(খ) $2\\ :1$</div>",
+            "option3": "<div>(গ) $4\\ :1$</div>",
+            "option4": "<div>(ঘ) $1\\ :4$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৮৬. হাল্কা ও ভারী বস্তু দুটির গতিশক্তির অনুপাত কত?</div>",
+            "option1": "<div>(ক) $2\\ :1$</div>",
+            "option2": "<div>(খ) $1\\ :2$</div>",
+            "option3": "<div>(গ) $1\\ :4$</div>",
+            "option4": "<div>(ঘ) $4\\ :1$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮৭. কোন বলের কারণে রাসায়নিক বিক্রিয়া সংঘটিত হয়?</div>",
+            "option1": "<div>(ক) তাড়িতচৌম্বক বল</div>",
+            "option2": "<div>(খ) দুর্বল নিউক্লিয় বল</div>",
+            "option3": "<div>(গ) অভিকর্ষ বল</div>",
+            "option4": "<div>(ঘ) ঘর্ষণ বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮৮. তাড়িত চৌম্বক বল কার্যকর করার জন্য দায়ী?</div>",
+            "option1": "<div>(ক) $\\mathrm{\\alpha }$-কণা</div>",
+            "option2": "<div>(খ) $\\mathrm{\\beta }$-কণা</div>",
+            "option3": "<div>(গ) $\\mathrm{\\gamma }$-কণা</div>",
+            "option4": "<div>(ঘ) ফোটন কণা</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৮৯. যে মৌলিক বলের পাল্লা ${10}^{-15}m$ সেটি হচ্ছে --</div>",
+            "option1": "<div>(ক) মহাকর্ষীয় বল</div>",
+            "option2": "<div>(খ) তড়িৎ চৌম্বক বল</div>",
+            "option3": "<div>(গ) সবল নিউক্লিয় বল</div>",
+            "option4": "<div>(ঘ) দুর্বল নিউক্লিয় বল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৯০. মেীলিক বলগুলোর মধ্যে দ্বিতীয় শক্তিশালী বল কোনটি?</div>",
+            "option1": "<div>(ক) তাড়িত চৌম্বক বল</div>",
+            "option2": "<div>(খ) মহাকর্ষ বল</div>",
+            "option3": "<div>(গ) দুর্বল নিউক্লিয় বল</div>",
+            "option4": "<div>(ঘ) সবল নিউক্লিয় বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯১. গ্রহসমূহের নক্ষত্রের চারদিকে ঘূর্ণনের কারণ কী?</div>",
+            "option1": "<div>(ক) মহাকর্ষ বল</div>",
+            "option2": "<div>(খ) তাড়িত চৌম্বক বল</div>",
+            "option3": "<div>(গ) সবল নিউক্লিয় বল</div>",
+            "option4": "<div>(ঘ) দুর্বল নিউক্লিয় বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯২. F.P.S পদ্ধতিতে বলের পরম একক --</div>",
+            "option1": "<div>(ক) পাউন্ড</div>",
+            "option2": "<div>(খ) পাউন্ডাল</div>",
+            "option3": "<div>(গ) ডাইন-ওজন</div>",
+            "option4": "<div>(ঘ) পাউন্ড-ওজন</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯৩. $1\\ Poundal=?$</div>",
+            "option1": "<div>(ক) $1\\ pound\\times 1\\ {fts}^{-2}$</div>",
+            "option2": "<div>(খ) $1\\ kg\\times 1\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $1\\ g\\times 1\\ {cms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $1\\ pound\\times {\\ ms}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯৪, একটি বস্তু ভূমির উপর দিয়ে মুক্তভাবে গড়িয়ে যাচ্ছে। ঘটনাক্রমে বস্তুটিথেমে যায়-</div>",
+            "option1": "<div>(ক) এর ভরের কাণে</div>",
+            "option2": "<div>(খ) ভূমির ঘর্ষণের কারণে</div>",
+            "option3": "<div>(গ) এর স্থির জড়তার কারণে</div>",
+            "option4": "<div>(ঘ) এর ভরবেগের কারণে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯৫. বল, ভর ও ত্বরণের মধ্যে সম্পর্ক স্থাপন করে নিউটন কোন সূত্রটি প্রদানকরেন?</div>",
+            "option1": "<div>(ক) গতির প্রথম সূত্র</div>",
+            "option2": "<div>(খ) গতিরি দ্বিতীয় সূত্র</div>",
+            "option3": "<div>(গ) গতির তৃতীয় সূত্র</div>",
+            "option4": "<div>(ঘ) ভরবেগ সংরক্ষণ সূত্র</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯৬. বলের ক্রিয়া বন্ধ হয়ে গেলে বস্তুর-</div>",
+            "option1": "<div>(ক) ত্বরণ কমতে থাকে</div>",
+            "option2": "<div>(খ) বস্তুর বেগ হ্রাস পায়</div>",
+            "option3": "<div>(গ) বস্তু সুষম বেগে চলে</div>",
+            "option4": "<div>(ঘ) বস্তু অসম বেগে চলে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৯৭. $p$ বস্তুর ভরবেগ হলে $\\frac{dp}{dt}=0$, দ্বারা নির্দেশ করে $p$ এর মান--</div>",
+            "option1": "<div>(ক) পরিবর্তনশীল</div>",
+            "option2": "<div>(খ) ধ্র্রুবক</div>",
+            "option3": "<div>(গ) শূন্য</div>",
+            "option4": "<div>(ঘ) বৃহৎ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯৮. বল পরিমাপ করা হয় --</div>",
+            "option1": "<div>(ক) ভর ও ত্বরণের যোগফল দ্বারা</div>",
+            "option2": "<div>(খ) ভর ও বেগের গুণফল দ্বারা</div>",
+            "option3": "<div>(গ) ভর ও ত্বরণের গুণফল দ্বারা</div>",
+            "option4": "<div>(ঘ) সময়, বেগ ও ত্বরণের গুণফল দ্বারা</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৯৯. গুলির ভর ও বেগ $m$ ও $v$ এবং বন্দুকের ভর $M$ হলে বন্দুকের বেগ $V$ কতহবে?</div>",
+            "option1": "<div>(ক) $V=\\frac{m}{M}v$</div>",
+            "option2": "<div>(খ) $V=\\frac{M}{m}v$</div>",
+            "option3": "<div>(গ) $V=-\\frac{M}{m}v$</div>",
+            "option4": "<div>(ঘ) $V=-\\frac{m}{M}v$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১০০. রকেটের চলার ক্ষেত্রে কোন সূত্র কার্যকর?</div>",
+            "option1": "<div>(ক) নিউটনের গতির ২য় সূত্র</div>",
+            "option2": "<div>(খ) নিউটনের গতির ১ম সূত্র</div>",
+            "option3": "<div>(গ) নিউটনের গতির ৩য় সূত্র</div>",
+            "option4": "<div>(ঘ) লামীর উপপাদ্য</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১০১. কোনো বস্তু অপর একটি বস্তুর সাথে যুক্ত থেকে যে বল সৃষ্টি করে তাকে বলাহয়-</div>",
+            "option1": "<div>(ক) টেনসন</div>",
+            "option2": "<div>(খ) ঘর্ষণ</div>",
+            "option3": "<div>(গ) আকর্ষণ</div>",
+            "option4": "<div>(ঘ) বিকর্ষণ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১০২. আধুনিক জেট বিমান কোন সূত্র ব্যবহার করে চালানো হয়?</div>",
+            "option1": "<div>(ক) ভরবেগের নিত্যতা সূত্র</div>",
+            "option2": "<div>(খ) নিউটনের গতির প্রথম সূত্র</div>",
+            "option3": "<div>(গ) অভিকর্ষ সূত্র</div>",
+            "option4": "<div>(ঘ) গতির দ্বিতীয় সূত্র</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১০৩. চিত্রটি নিউটনের কোন সূত্র প্রকাশ করে?</div>",
+            "option1": "<div>(ক) ১ম সূত্র</div>",
+            "option2": "<div>(খ) ২য় সূত্র</div>",
+            "option3": "<div>(গ) ৩য় সূত্র</div>",
+            "option4": "<div>(ঘ) ২য় ও ৩য় সূত্র</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/103.webp"
+        },
+        {
+            "mcqQuestion": "<div>১০৪. চিরায়ত পদার্থবিজ্ঞানের শাখা কয়টি?</div>",
+            "option1": "<div>(ক) তিনটি</div>",
+            "option2": "<div>(খ) চারটি</div>",
+            "option3": "<div>(গ) পাঁচটি</div>",
+            "option4": "<div>(ঘ) দুইটি</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১০৫. আপেক্ষিক তত্ত্বের সমীকরণ কখন চিরায়ত পদার্থবিজ্ঞানের সমীকরণে পরিণত হয়?</div>",
+            "option1": "<div>(ক) বস্তুর ভর বেশি হলে</div>",
+            "option2": "<div>(খ) বস্তুর বেগ বেশি হলে</div>",
+            "option3": "<div>(গ) বস্তুর ভর কম হলে</div>",
+            "option4": "<div>(ঘ) বস্তুর বেগ কম হলে</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১০৬. নিউটনের গতিসূত্র সীমাবদ্ধ --</div>",
+            "option1": "<div>(ক) বস্তুর কম বেগের মধ্যে</div>",
+            "option2": "<div>(খ) বস্তুর বেশি বেগের মধ্যে</div>",
+            "option3": "<div>(গ) বস্তুর বেশি দৈর্ঘ্যের মধ্যে</div>",
+            "option4": "<div>(ঘ) বস্তুর কম দৈর্ঘ্যের মধ্যে</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১০৭. মহাকর্ষীয় ক্ষেত্র প্রাবল্য $E$ হলে, $E=?$</div>",
+            "option1": "<div>(ক)$\\ E=\\frac{m}{F}$</div>",
+            "option2": "<div>(খ) $E=\\frac{mg}{S^2}$</div>",
+            "option3": "<div>(গ) $E=\\frac{F}{m}$</div>",
+            "option4": "<div>(ঘ) $E=\\frac{\\Delta m}{\\Delta t}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১০৮. কোনো বস্তুর চারদিকে যে অঞ্চলের মধ্যে এর আকর্ষণ বল অনুভূত হয় তাকে বলাহয়-</div>",
+            "option1": "<div>(ক) চৌম্বক ক্ষেত্র</div>",
+            "option2": "<div>(খ) মহাকর্ষীয় ক্ষেত্র</div>",
+            "option3": "<div>(গ) বৈদ্যুতিক ক্ষেত্র</div>",
+            "option4": "<div>(ঘ) অভিকর্ষ ক্ষেত্র</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১০৯. পৃথিবীর চারদিকে যে অঞ্চলের মধ্যে এর আকর্ষণ বল অনুভূত হয় তাকে বলা হয়-</div>",
+            "option1": "<div>(ক) মহাকর্ষীয় ক্ষেত্র</div>",
+            "option2": "<div>(খ) বৈদ্যুতিক ক্ষেত্র</div>",
+            "option3": "<div>(গ) অভিকর্ষ ক্ষেত্র</div>",
+            "option4": "<div>(ঘ) চৌম্বক ক্ষেত্র</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১১০. রৈখিক ভরবেগের নিত্যতা অনুসারে কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) $m_1u_1+m_1v_1=m_2u_2+m_2v_2$</div>",
+            "option2": "<div>(খ) $m_1u_2+m_2v_1=m_2u_1+m_2v_2$</div>",
+            "option3": "<div>(গ) $m_1v_2+m_1u_2=m_1u_1+m_1v_1$</div>",
+            "option4": "<div>(ঘ) $m_1u_1+m_2u_2=m_1v_1+m_2v_2$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১১১. এক অভিমানব তার প্রতিপক্ষের বিরুদ্ধে $2800\\ N$ বৃহৎ প্রস্তরখন্ড ছুঁড়েমারে। প্রস্তরখন্ডটিকে অনুভূমিক ${15.0\\ \\ ms}^{-2}$ ত্বরণ দিতে হলে তাকেপ্রস্তরখন্ডটিতে কত অনুভূমিক বল প্রয়োগ করতে হবে?</div>",
+            "option1": "<div>(ক) $4.29\\times {10}^3N$</div>",
+            "option2": "<div>(খ) $42.0\\times {10}^3N$</div>",
+            "option3": "<div>(গ) $2.7\\times {10}^3N$</div>",
+            "option4": "<div>(ঘ) $187\\ N$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১১২. $100\\ kg$ ভরের একটি বস্তুর ভরবেগ $200\\ kg\\ m/s$ হলে এর গতিশক্তি কত?</div>",
+            "option1": "<div>(ক) $400\\ J$</div>",
+            "option2": "<div>(খ) $300\\ J$</div>",
+            "option3": "<div>(গ) $200\\ J$</div>",
+            "option4": "<div>(ঘ) $100\\ J$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১১৩. একটি স্থির বস্তুর ভর $2200\\ kg$ একটি বল $10.5\\ s$ বস্তুটির উপর কারজকরায় বস্তুটির বেগ $13.6\\ {ms}^{-1}$ হলে বলের মান কত?</div>",
+            "option1": "<div>(ক) $2200\\ N$</div>",
+            "option2": "<div>(খ) $28500\\ N$</div>",
+            "option3": "<div>(গ) $500\\ N$</div>",
+            "option4": "<div>(ঘ) কোনটিই নয়</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১১৪. একটি বল $4\\ kg$ ভরবিশিষ্ট একটি স্থির বস্তুর উপর ক্রিয়া করে। এর ফলেবস্তুটি $6\\ s$ এ $30\\ m/s$ বেগ প্রাপ্ত হয়। বলের মান কত?</div>",
+            "option1": "<div>(ক) $30\\ N$</div>",
+            "option2": "<div>(খ) $20\\ N$</div>",
+            "option3": "<div>(গ) $18\\ N$</div>",
+            "option4": "<div>(ঘ) $10\\ N$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১১৫. অনুভূমিক দিকে গতিশীল $50\\ g$ ভরের একটি বল $20\\ cm/s$ বেগের একটি দেয়ালেলম্বভাবে ধাক্কা খেয়ে $10\\ cm/s$ বেগে বিপরীত দিকে ফিরে গেলে বলের ঘাত হবে --</div>",
+            "option1": "<div>(ক) $0.015\\ kg-m/s$</div>",
+            "option2": "<div>(খ) $0.005\\ kg-m/s$</div>",
+            "option3": "<div>(গ) $0.15\\ kg-m/s$</div>",
+            "option4": "<div>(ঘ) $0.05\\ kg-m/s$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১১৬. $10\\ kg$ ভরের কোনো বস্তু $12{\\ ms}^{-1}$ বেগে গতিশীল হলে তার ভরবেগহবে-</div>",
+            "option1": "<div>(ক) $12\\ kg{\\ ms}^{-1}$</div>",
+            "option2": "<div>(খ) $10\\ kg{\\ ms}^{-1}$</div>",
+            "option3": "<div>(গ) $120\\ kg{\\ ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $1.2\\ kg{\\ ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১১৭. $10\\ kg$ ভরের একটি স্থির বস্তুর উপর $100\\ N$ বল প্রয়োগ করলে ত্বরণ হবে-</div>",
+            "option1": "<div>(ক) $100\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $10\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $1000\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $0.1\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১১৮. একটি বস্তুর উপর $5\\ N$ বল $10\\ s$ ক্রিয়া কের। ভরবেগেরে পরিবর্তন কত?</div>",
+            "option1": "<div>(ক) $\\ 40\\ kg\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $50\\ kg\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $45\\ kg\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $49\\ kg\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১১৯. $m$ ভরের বস্তু $'v'$ বেগে চলমান অবস্থায় ভরের অপর একটি বস্তু যা $v$বেগে বিপরীত দিকে গতিশীল এর সাথে মিলিত হলে মিলিত বস্তুর বেগ --</div>",
+            "option1": "<div>(ক) $v$</div>",
+            "option2": "<div>(খ) $2v$</div>",
+            "option3": "<div>(গ) $v/2$</div>",
+            "option4": "<div>(ঘ) শূন্য</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১২০. কৌণিক সরণের একক ও মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) ${রেডিয়ান\\ সেকেন্ড}^{-1}এবং\\ \\ T^{-1}$</div>",
+            "option2": "<div>(খ) ${রেডিয়ান\\ সেকেন্ড}^{-2}এবং\\ \\ T^{-2}$</div>",
+            "option3": "<div>(গ) $রেডিয়ান\\ \\ এবং\\ L$</div>",
+            "option4": "<div>(ঘ) $নিউটনমিটার\\ \\ সেকেন্ড\\ এবং\\ \\ {ML}^3T^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১২১. ঘড়ির ঘন্টার কাঁটার কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $1.89\\times {10}^{-4}\\ {rad\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $1.45\\times {10}^{-4}\\ {rad\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $1.63\\times {10}^{-4}\\ {rad\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $1.69\\times {10}^{-4}\\ {rad\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১২২. ঘূর্ণন অক্ষের সাপেক্ষে কোনো কণার অবস্থান ভেক্টর $\\overrightarrow{r}$এবং রৈখিক ভরবেগ $\\overrightarrow{p}$ হলে কৌণিক ভরবেগ হবে --</div>",
+            "option1": "<div>(ক) $L=rp$</div>",
+            "option2": "<div>(খ) $L=rp{\\mathrm{sin} \\theta \\ }$</div>",
+            "option3": "<div>(গ) $L=rp{\\mathrm{cos} \\theta \\ }$</div>",
+            "option4": "<div>(ঘ) $L=rp{\\mathrm{tan} \\theta \\ }$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১২৩. কোনো বস্তুর ঘূর্ণন অক্ষ মধ্যবিন্দু থেকে প্রান্তের দিকে সরে গেলে এরজড়তার ভ্রামক --</div>",
+            "option1": "<div>(ক) বৃদ্ধি পায়</div>",
+            "option2": "<div>(খ) হ্রাস পায়</div>",
+            "option3": "<div>(গ) একই থাকে</div>",
+            "option4": "<div>(ঘ) যেকোনোটিই হতে পারে</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১২৪. কৌণিক বেগের একক $rad/s.\\ 1\\ rad$ এরর বা রেডিয়ান হলো প্রায় --</div>",
+            "option1": "<div>(ক) 60.3$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 33.60$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 57.3$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 53.7$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১২৫. একটি কণা প্রতি মিনিটে 300 বার আবর্তন করে। উহার কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $5\\ rad/s$</div>",
+            "option2": "<div>(খ) $300\\ rad/s\\ $</div>",
+            "option3": "<div>(গ) $10\\pi \\ rad/s$</div>",
+            "option4": "<div>(ঘ) $31.4\\ rad/s$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১২৬. কোনো নির্দিষ্ট অক্ষের চারদিকে ঘূর্ণায়মান কোনো বস্তুতে ত্বরণ সৃষ্টিরজন্য প্র্রযুক্ত দ্বন্দ্বের ভ্রামককে বলা হয়-</div>",
+            "option1": "<div>(ক) কাপল</div>",
+            "option2": "<div>(খ) টর্ক</div>",
+            "option3": "<div>(গ) জড়তার ভ্রামক</div>",
+            "option4": "<div>(ঘ) কৌণিক ত্বরণ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১২৭. টর্ক, জড়তার ভ্রামক এবং কৌণিক ত্বরণের মধ্যে সম্পর্ক হলো-</div>",
+            "option1": "<div>(ক) $t=I\\alpha $</div>",
+            "option2": "<div>(খ)$\\ t=I/\\alpha $</div>",
+            "option3": "<div>(গ) $I=\\frac{\\alpha }{t}$</div>",
+            "option4": "<div>(ঘ) $\\alpha =tI$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১২৮. টর্ক কী ধরনের রাশি?</div>",
+            "option1": "<div>(ক) মৌলিক রাশি</div>",
+            "option2": "<div>(খ) সরল রাশি</div>",
+            "option3": "<div>(গ) স্বেলার রাশি</div>",
+            "option4": "<div>(ঘ) ভেক্টর রাশি</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১২৯. নিচের কোন প্রতীকটি দ্বারা টর্ক প্রকাশ করা হয়?</div>",
+            "option1": "<div>(ক) L</div>",
+            "option2": "<div>(খ) I</div>",
+            "option3": "<div>(গ) t</div>",
+            "option4": "<div>(ঘ) $\\mathrm{\\alpha }$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৩০. কোনো কণার উপর প্রযুক্ত নিট টর্ক শূন্য হলে কণাটির কৌণিক ভরবেগ --</div>",
+            "option1": "<div>(ক) বাড়ে</div>",
+            "option2": "<div>(খ) কমে</div>",
+            "option3": "<div>(গ) সংরক্ষিত থাকে</div>",
+            "option4": "<div>(ঘ) সমহারে বাড়ে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৩১. ফ্লাই হুইলের সমগ্র ভর ঘনীভূত থাকে-</div>",
+            "option1": "<div>(ক) ফ্লাই হুইলের ভারকেন্দ্রের মধ্যে</div>",
+            "option2": "<div>(খ) এক্সেলের মধ্যে</div>",
+            "option3": "<div>(গ) চাকার বেড়ের মধ্যে</div>",
+            "option4": "<div>(ঘ) চাকার ওজনের মধ্যে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৩২. একটি ফ্লাই হুইলের সর্বোচ্চ কৌণিক বেগ $\\mathrm{\\omega }$ হলে --</div>",
+            "option1": "<div>(ক) $\\omega =\\frac{4\\pi n_1}{r}$</div>",
+            "option2": "<div>(খ) $\\omega =\\frac{4\\pi n_2}{r}$</div>",
+            "option3": "<div>(গ) $\\omega =\\frac{2\\pi n_1}{r}$</div>",
+            "option4": "<div>(ঘ) $\\omega =\\frac{2\\pi n_2}{r}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৩৩. কেন্দ্রমুখী ত্বরণের দিক-</div>",
+            "option1": "<div>(ক) বৃত্তপথের স্পর্শক বরাবর</div>",
+            "option2": "<div>(খ) বৃত্তের কেন্দ্রের অভিমুখে</div>",
+            "option3": "<div>(গ) বৃত্তপথের লম্ব বরাবর</div>",
+            "option4": "<div>(ঘ) বৃত্তের ব্যাসার্ধের অভিমুখে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৩৪. কেন্দ্রমুখী বলের রাশিমালা কোনটি?</div>",
+            "option1": "<div>(ক) $F_c=mv^2r$</div>",
+            "option2": "<div>(খ) $F_c=mv^2\\omega $</div>",
+            "option3": "<div>(গ) $F_c=m\\omega r$</div>",
+            "option4": "<div>(ঘ) $F_c=m{\\omega }^2r$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৩৫. $m$ ভরবিশিষট একটি বস্তু $r$ ব্যাসার্ধের বৃত্তাকার পথে $v$ সমদ্রুতিতেঘুরছে। কেন্দ্রমুখী বল-</div>",
+            "option1": "<div>(ক) $\\frac{mv^2}{t}$</div>",
+            "option2": "<div>(খ) $m\\times vr$</div>",
+            "option3": "<div>(গ) $\\frac{1}{2}mv^2$</div>",
+            "option4": "<div>(ঘ) $\\frac{m^2}{r^2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৩৬. ইলেকট্রন ও নিউক্লিয়াসের মধ্যকার স্থির তড়িৎ আকর্ষণ বল কোন বল হিসেবে কাজকরে?</div>",
+            "option1": "<div>(ক) কেন্দ্রমুখী বল</div>",
+            "option2": "<div>(খ) সবল নিউক্লিয় বল</div>",
+            "option3": "<div>(গ) অপকেন্দ্র বল</div>",
+            "option4": "<div>(ঘ) কেন্দ্রমুখী বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৩৭. কেন্দ্রমুখী ত্বরণের রাশিমালা কোনটি?</div>",
+            "option1": "<div>(ক) $B_c=r\\omega $</div>",
+            "option2": "<div>(খ) $B_c=\\frac{v}{t}$</div>",
+            "option3": "<div>(গ) $B_c={\\omega }^2r$</div>",
+            "option4": "<div>(ঘ) $B_c=m{\\omega }^2r$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৩৭. যখন সাইকেল চালক বৃত্ত পথে ঘুরে তখন সে কোনদিকে ঝুঁকে পড়ে?</div>",
+            "option1": "<div>(ক) ভিতরের দিকে</div>",
+            "option2": "<div>(খ) বাইরের দিকে</div>",
+            "option3": "<div>(গ) সামনের দিকে</div>",
+            "option4": "<div>(ঘ) পেছনের দিকে</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৩৯. একটি রাস্তার বাঁকে রাস্তাটি অনুভূমিকের সাথে $\\mathrm{\\theta }$ কোণআনত হলে $\\mathrm{\\theta }$ কে কী বলা হবে?</div>",
+            "option1": "<div>(ক) রাস্তার ব্যাংকিং</div>",
+            "option2": "<div>(খ) ব্যাংকিং কোণ</div>",
+            "option3": "<div>(গ) কেন্দ্রমুখী কোণ</div>",
+            "option4": "<div>(ঘ) বাঁকের ব্যাসর্ধ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৪০. রাস্তার ব্যাংকিং বলে-</div>",
+            "option1": "<div>(ক) রাস্তার বাঁকের উঁচু অংশকে</div>",
+            "option2": "<div>(খ) বাস্তার বাঁকের নিচু অংশকে</div>",
+            "option3": "<div>(গ) রাস্তার বাঁককে</div>",
+            "option4": "<div>(ঘ) রাস্তার বাঁকে দাঁড়ানো গাড়িকে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৪১. $r$ ব্যাসার্ধের বৃত্তপথে $v$ সমবেগে ঘূর্ণায়মান বস্তুর জন্য ব্যাংকিংবোণ-</div>",
+            "option1": "<div>(ক) $\\frac{v^2}{rg}$</div>",
+            "option2": "<div>(খ) ${tan}^{-1}\\left(\\frac{v^2}{rg}\\right)$</div>",
+            "option3": "<div>(গ) $\\frac{v^2}{r.g}$</div>",
+            "option4": "<div>(ঘ) শূন্য</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৪২. সাইকেল চালক নির্দিষ্ট বেগে বৃত্তপথে ঘুরছে। যদি তার বেগ দ্বিগুণ করা হয,তবে ব্যাংকিং কোণের ট্যানজেন্ট এর অনুপাত --</div>",
+            "option1": "<div>(ক) $1\\ :2$</div>",
+            "option2": "<div>(খ) $2\\ :1$</div>",
+            "option3": "<div>(গ) $4\\ :1$</div>",
+            "option4": "<div>(ঘ) $1\\ :4$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৪৩. একটি চাকার জড়তার ভ্রামক $10\\ kg\\ m^2$ । চাকাটিতে $10\\ rad\\ s^{-2}$কৌণিক ত্বরণ সৃষ্টি করতে কত টর্ক প্রয়োগ করতে হবে?</div>",
+            "option1": "<div>(ক) $10\\ Nm$</div>",
+            "option2": "<div>(খ) $100\\ Nm$</div>",
+            "option3": "<div>(গ) $50\\ Nm$</div>",
+            "option4": "<div>(ঘ) $200\\ Nm$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৪৪. $5\\ kg$ একটি বস্তু $4\\ m$ দীর্ঘ একটি সুতার এক প্রান্তে বেঁধে $2\\{ms}^{-1}$ বেগে ঘুরানো হচ্ছে। সুতার উপর টান হবে-</div>",
+            "option1": "<div>(ক) $10\\ N$</div>",
+            "option2": "<div>(খ) $20\\ N$</div>",
+            "option3": "<div>(গ) $5\\ N$</div>",
+            "option4": "<div>(ঘ) $4\\ N$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৪৫. $4\\ kg$ ভরের একটি সরু সুষম দন্ডের দৈর্ঘ্য $3\\ m$ । এর এক প্রান্ত দিয়েদৈর্ঘ্যের সাথে অভিলম্বভাবে গমনকারী অক্ষের সাপেক্ষে জড়তার ভ্রামক --</div>",
+            "option1": "<div>(ক) $4\\ kg\\ m^2$</div>",
+            "option2": "<div>(খ) $12\\ kg\\ m^2$</div>",
+            "option3": "<div>(গ) $24\\ kg\\ m^2$</div>",
+            "option4": "<div>(ঘ) $6\\ kg\\ m^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৪৬. একটি বৃত্তাকার চাকতির ভর $2\\ kg$ এবং ব্যাসার্ধ $1\\ m$ । চাকতির কেন্দ্রদিয়ে চাকতির পৃষ্ঠের অভিলম্বভাবে গমনকারী অক্ষের সাপেক্ষে জড়তার ভ্রামক-</div>",
+            "option1": "<div>(ক) $1\\ kg\\ m^2$</div>",
+            "option2": "<div>(খ) $2\\ kg\\ m^2$</div>",
+            "option3": "<div>(গ) $3\\ kg\\ m^2$</div>",
+            "option4": "<div>(ঘ) $4\\ kg\\ m^2$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৪৭. $4\\ kg$ ভরের একটি নিরেট সিলিন্ডারের ব্যাস $2\\ m$ । এর নিজ অক্ষেরসাপেক্ষে জড়তার ভ্রামক-</div>",
+            "option1": "<div>(ক) $1\\ kg\\ m^2$</div>",
+            "option2": "<div>(খ) $2\\ kg\\ m^2$</div>",
+            "option3": "<div>(গ) $3\\ kg\\ m^2$</div>",
+            "option4": "<div>(ঘ) $4\\ kg\\ m^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৪৮. সংঘর্ষের পূর্ব মুহূর্তের গতিশক্তি এবং পরবর্তী গতিশক্তি সমান হলে তাকেবলা হয়-</div>",
+            "option1": "<div>(ক) ভরবেগ সংরক্ষিত সংঘর্ষ</div>",
+            "option2": "<div>(খ) গতিশক্তি সংরক্ষিত সংঘর্ষ</div>",
+            "option3": "<div>(গ) স্থিতিস্থাপক সংঘর্ষ</div>",
+            "option4": "<div>(ঘ) অস্থিতিস্থাপক সংর্ষ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৪৯. অস্থিতিস্থাপক সংঘর্ষে কোনটি সংরক্ষিত হয়?</div>",
+            "option1": "<div>(ক) ভরবেগ</div>",
+            "option2": "<div>(খ) গতিশক্তি</div>",
+            "option3": "<div>(গ) ত্বরণ</div>",
+            "option4": "<div>(ঘ) কেন্দ্রমুখী বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৫০. একটি কঠিন বেলনের ভর $5\\ kg$ এবং ব্যাসার্ধ 30 সে.মি.। বেলনের অক্ষেরসাপেক্ষে এর জড়তার ভ্রামক কত?</div>",
+            "option1": "<div>(ক) $4.50\\times {10}^{-3}\\ kg\\ m^2$</div>",
+            "option2": "<div>(খ) $2.25\\times {10}^{-3}\\ kg\\ m^2$</div>",
+            "option3": "<div>(গ) $1.50\\times {10}^{-3}\\ kg\\ m^2$</div>",
+            "option4": "<div>(ঘ) $0.38\\times {10}^{-3}\\ kg\\ m^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৫১. ভারকেন্দ্রগামী এবং তলের সাথে লম্ব বরাবর অক্ষ সাপেক্ষে একটি আয়তাকারপাতের জড়তার ভ্রামক$\\ \\ 5\\ kg\\ m^2$ পাতটির প্রস্থ $1\\ m$ এবং ভর $12\\ kg$ হলেদৈর্ঘ্য কত?</div>",
+            "option1": "<div>(ক) $5\\ m$</div>",
+            "option2": "<div>(খ) $2.5\\ m$</div>",
+            "option3": "<div>(গ)$\\ 2\\ m$</div>",
+            "option4": "<div>(ঘ) $60\\ m$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৫২. $0.2\\ kg$ ভরের একটি বস্তুকে $0.5\\ m$ লম্বা রশিতে বেঁধে সমান্তরালবৃত্তাকারে $4\\ rad\\ s^{-1}$ বেগে ঘুরালে রশির ঘূর্ণায়মান শক্তি কত হবে?</div>",
+            "option1": "<div>(ক) $0.4\\ N$</div>",
+            "option2": "<div>(খ) $0.6\\ N$</div>",
+            "option3": "<div>(গ) $0.8\\ N$</div>",
+            "option4": "<div>(ঘ) $1.6\\ N$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৫৩. একটি বৈদ্যুতিক পাখা স্থির অবস্থা থেকে 20 বার সম্পূর্ণ ঘূর্ণনের ফলে$30\\ rad/s\\ $কৌণিক বেগ প্রাপ্ত হয়। পাখাটির কৌণিক ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $335.1\\ rad/s^2$</div>",
+            "option2": "<div>(খ) $33.51\\ rad/s^2$</div>",
+            "option3": "<div>(গ) $31.4\\ rad/s^2$</div>",
+            "option4": "<div>(ঘ) $7.16\\ rad/s^2$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৫৪. তিনটি সমান্তরাল বলের ক্রিয়ায় ভারসাম্য প্রতিষ্ঠিত হলে-<br>i. বল তিনটি একই সমতলে ক্রিয়া করবে<br>ii. বল তিনটি পরস্পর সমান্তরাল হবে<br>iii. ল্যামির উপপাদ্য প্রযোজ্য হবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৫৫. কোয়ান্টাম বলবিদ্যার সাহায্যে ব্যাখ্যা করা যায়-<br>i. রমন ক্রিয়া<br>ii. আলোর তড়িৎ ক্রিয়া<br>iii. কৃষ্ণবস্তুর বিকিরণ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৫৬. বলের মোমেন্ট এর ক্ষেত্রে --<br>i. বলের মোমেন্ট = বল $\\mathrm{\\times}$ লম্ব দূরত্ব<br>ii. বলের মোমেন্টের একক নিউটন-মিটার<br>iii. বলের মোমেন্টের মাত্রা সমীকরণ $[ML^2T^{-2}]$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৫৭. বলের ভারসাম্য নীতিকে সমর্থন করে-<br>i. $\\overrightarrow{F_1}+\\overrightarrow{F_2}=-F_3$<br>ii. $\\overrightarrow{F_1}+\\overrightarrow{F_2}+\\overrightarrow{F_3}\\neq 0$<br>iii. $\\overrightarrow{F_1}+\\overrightarrow{F_2}=0$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৫৮. কৌণিক ভরবেগের ক্ষেত্রে<br>i. $\\overrightarrow{L}=\\overrightarrow{r}\\times \\overrightarrow{p}$<br>ii. কৌণিক ভরবেগ একটি ভেক্টর রাশি<br>iii. কৌণিক ভরবেগের একক $kg\\ m^2s^{-1}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৫৯. কৌণিক গতিসূত্র সম্পর্কিত সমীকরণ-<br>i. $tan\\theta =\\frac{v^2}{rg}$<br>ii. $L=I\\omega $<br>iii. $T=I\\alpha $<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৬০. কৌণিক বেগের একক<br>i. রেডিয়ান/সে.<br>ii. রেডিয়ান-সে.<br>iii. ডিগ্রি/সে.<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) iii</div>",
+            "option4": "<div>(ঘ) I ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৬১. রাস্তার বাঁক বেশি হলে-<br>i. অভিকর্ষজ ত্বরণ কম হবে<br>ii. ব্যাংকিং কোণ বেশি হব<br>iii. আরোহীর বেগ কম হবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৬২. সংঘের্ষের উদাহরণ হলো-<br>i. ক্যারামের স্টাইকার দ্বারা গুটিকে আঘাত<br>ii. কামান হতে গোলা নিক্ষেপ<br>iii. আলফা কণার স্বর্ণ নিউক্লিয়াসের খুব নিকটে আসা<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৬৩. অস্থিতিস্থাপক সংঘর্ষে-<br>i. এর ক্ষেত্রে ভরবেগ সংরক্ষিত হয়<br>ii. এর ক্ষেত্রে গতিশক্তি সংরক্ষিত হয়<br>iii. ভরবেগের নিত্যতা সূত্র মেনে চলে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৬৪. রাস্তার বাঁকে সাইকেল চালানোর সময় আরোহীর-<br>i. নতিকোণ হবে $\\theta ={tan}^{-1}\\frac{v^2}{rg}$<br>ii. দ্রুতি হবে $v=rg{\\mathrm{tan} \\theta \\ }$<br>iii. কেন্দ্রমুখী বল হবে $R{\\mathrm{sin} \\theta \\ }\\frac{{mv}^2}{r}\\ $<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৬৫. বলের ঘাতের ক্ষেত্রে --<br>i. $\\overrightarrow{J}=\\overrightarrow{F}\\times t$<br>ii. $\\overrightarrow{J}\\times =\\Delta \\overrightarrow{p}$<br>iii. $\\overrightarrow{F}=\\overrightarrow{J}\\times t$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>$15\\ kg$ ভরের কোনো বন্দুক থেকে $0.01\\ kg$ ভরের গুলি $\\boldsymbol{60}\\boldsymbol{\\ }{ms}^{-1}$ বেগে বেরিয়ে গেল।<br>উপরের উদ্দীপকটি পড় এবং ১৬৬-১৬৮ নং প্রশ্নের উত্তর দাওঃ<br>১৬৬. বন্দুকের পশ্চাৎ বেগ কত হবে?</div>",
+            "option1": "<div>(ক) $0.6\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $60\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $-60\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $-0.04\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৬৭. একটি চাকার ভর $6\\ kg$ এবং চক্রগতির ব্যাসার্ধ $40\\ cm$ চাকাটি প্রতিমিনিটে 300 বার ঘুরলে-<br>i. এর কৌণিক বেগ $31.4\\ {rad\\ s}^{-1}$<br>ii. জড়তার ভ্রামক $0.96\\ kg\\ m^2$<br>iii. ঘূর্ণন গতিশক্তি $473.26\\ J$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৬৮. ভেলাটির সরে যাওয়ার করণ-<br>i. ভরবেগের সংরক্ষণ সূত্র<br>ii. সাতারুদ্বয় ও ভেলার ভরবেগের পরিবর্তনের হার সমান ও বিপরীত<br>iii. গতির তৃতীয় সূত্রের নিয়ম<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>$6\\ kg$ ভরবিশিষ্ট এক ব্যক্তি একটি লিফটের মধ্যে দাঁড়িয়ে আছে। লিফটটি $\\boldsymbol{4}.\\boldsymbol{9}\\boldsymbol{\\ }{ms}^{-2}$ত্বরণে বামন্দনে উঠা/নামা করছে। এজন্য লিফটটিতে একটি প্রতিক্রিয়া বলের সৃষ্টি হচ্ছে।($\\boldsymbol{g}\\boldsymbol{=}\\boldsymbol{10}\\boldsymbol{\\}{ms}^{-2}$)<br>উপরের তথ্যের আলোকে নিচের ১৬৯-১৭১ নং প্রশ্নের উত্তর দাওঃ<br>১৬৯. লিফটটি $f$ ত্বরণে উপরে উঠলে, প্রতিক্রিয়া বল কত হয়?</div>",
+            "option1": "<div>(ক) $60\\ N$</div>",
+            "option2": "<div>(খ) $70\\ N$</div>",
+            "option3": "<div>(গ) $80\\ N$</div>",
+            "option4": "<div>(ঘ) $90\\ N$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৭০. লিফটটি সমবেগে উঠলে, প্রতিক্রিয়া বল কত হয়?</div>",
+            "option1": "<div>(ক) $50\\ N$</div>",
+            "option2": "<div>(খ) $60\\ N$</div>",
+            "option3": "<div>(গ) $70\\ N$</div>",
+            "option4": "<div>(ঘ) $80\\ N$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৭১. লিফটটি $f$ মন্দনে উপরে উঠলে, প্রতিক্রিয়া বল কত হয়?</div>",
+            "option1": "<div>(ক) $30\\ N$</div>",
+            "option2": "<div>(খ) $40\\ N$</div>",
+            "option3": "<div>(গ) $60\\ N$</div>",
+            "option4": "<div>(ঘ) $90\\ N$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>$1200\\ kg$ ভরের একটি গাড়ি $\\boldsymbol{20}\\boldsymbol{\\}{ms}^{-1}$ দ্রুতিতে চলছিল। অতঃপর গাড়িটি $800\\ kg$ভরেরএকটি স্থির গাড়িকে ধাক্কা দিল। ধাক্কার পর গাড়ি দুটি একত্রিত হয়ে $120\\m$ পেছনে গিয়ে থেমে গেল।<br>এ তথ্য থেকে ১৭২-১৭৪ নং প্রশ্নের উত্তর দাওঃ<br>১৭২. গাড়ি দুটি মিলিত হওয়ার পর বেগ কত হয়?</div>",
+            "option1": "<div>(ক) $8\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $10\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $12\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $14\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৭৩. ত্বরণ কত হয়?</div>",
+            "option1": "<div>(ক) $0.6\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $-0.6\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $-1.6\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $1.6\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৭৪. বাধাদানকারী বলের মান-</div>",
+            "option1": "<div>(ক) $1000\\ N$</div>",
+            "option2": "<div>(খ) $1200\\ N$</div>",
+            "option3": "<div>(গ) $1400\\ N$</div>",
+            "option4": "<div>(ঘ) $1600\\ N$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>$0.05\\ kg$ ভরের একটি বস্তুকে $1\\ m$ দীর্ঘ একটি সুতারসাহায্যে বৃত্তপথে ঘুরানো হলো। বস্তুটি প্রতি সেকেন্ডে 4 বার বৃত্তপত আবর্তনকরে।<br>এ তথ্য থেকে নিচের ১৭৫-১৭৭ নং প্রশ্নের উত্তর দাওঃ<br>১৭৫. সুতার ও বস্তুর ক্ষেত্রে-<br>i. সুতার কম্পাঙ্ক $4\\ s^{-1}4\\ বা\\ \\ Hz$<br>ii. বস্তুটির কৌণিক বেগ $25.13\\ {rad\\ s}^{-1}$<br>iii. বস্তুটির জড়তার ভ্রামক $0.05\\ kg\\ m^2$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৭৬. সুতার টান কত হবে?</div>",
+            "option1": "<div>(ক) $31.6\\ N$</div>",
+            "option2": "<div>(খ) $32.6\\ N$</div>",
+            "option3": "<div>(গ) $33.6\\ N$</div>",
+            "option4": "<div>(ঘ) $34.6\\ N$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭৭. ঘূর্ণন গতিশক্তি কত হবে?</div>",
+            "option1": "<div>(ক) $12.78\\ J$</div>",
+            "option2": "<div>(খ) $15.78\\ J$</div>",
+            "option3": "<div>(গ) $17.78\\ J$</div>",
+            "option4": "<div>(ঘ) $19.78\\ J$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>$60\\ m$ ব্যাসের বৃত্তাকার পথে একজন সাইকেল আরোহী ঘন্টায় $24\\km$ বেগে চালিয়ে মোড় নিচ্ছে। সাইকেলসহ আরোহীর ভর $9\\ kg$।<br>এ তথ্য থেকে নিচের ১৭৮- ১৮০ নং প্রশ্নের উত্তর দাওঃ<br>১৭৮. সাইকেল আরোহীর উল্লম্বের সাথে কত কোণে হেলে থাকবে?</div>",
+            "option1": "<div>(ক) 8.605$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 15.605$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 30.605$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 45.605$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭৯. সাইকেলটিকে বৃত্তাকার পথে ঘুরানোর জন্য কেন্দ্রমুখী বল কত হবে?</div>",
+            "option1": "<div>(ক) $8.33\\ N$</div>",
+            "option2": "<div>(খ) $10.33\\ N$</div>",
+            "option3": "<div>(গ) $13.33\\ N$</div>",
+            "option4": "<div>(ঘ) $15.33\\ N$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৮০. প্রতিক্রিয়া বল উল্লম্ব উপাংশে কত হবে?</div>",
+            "option1": "<div>(ক) $0.78\\ N$</div>",
+            "option2": "<div>(খ) $0.98\\ N$</div>",
+            "option3": "<div>(গ) $1.02\\ N$</div>",
+            "option4": "<div>(ঘ) $1.08\\ N$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮১. যে আকর্ষণ বলের কারণে নিউক্লিয়াস সুদ্ধিত থাকে সেটি কোন বল?</div>",
+            "option1": "<div>(ক) মহাকর্ষ বল</div>",
+            "option2": "<div>(খ) তাড়িত চৌম্বক বল</div>",
+            "option3": "<div>(গ) সবল নিউক্লিয় বল</div>",
+            "option4": "<div>(ঘ) দুর্বল নিউক্লিয় বল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৮২. মহাকর্ষ বলের পাল্লা-</div>",
+            "option1": "<div>(ক) ${10}^{-15}m$</div>",
+            "option2": "<div>(খ) ${10}^{-16}m$</div>",
+            "option3": "<div>(গ) অসীম</div>",
+            "option4": "<div>(ঘ) কোনটিই নয়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৮৩. কোন বলের কারণে তেজস্ক্রিয় ভাঙন ঘটে?</div>",
+            "option1": "<div>(ক) তাড়িত চৌম্বক বল</div>",
+            "option2": "<div>(খ) দুর্বল নিউক্লিয় বল</div>",
+            "option3": "<div>(গ) পারমাণবিক বল</div>",
+            "option4": "<div>(ঘ) সবল নিউক্লিয় বল</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮৪. মহাকর্ষ বল কোন কণার বিনিময়ের ফলে কার্যকর হয়?</div>",
+            "option1": "<div>(ক) গ্রাভিটন</div>",
+            "option2": "<div>(খ) মেসন</div>",
+            "option3": "<div>(গ) ফোটন</div>",
+            "option4": "<div>(ঘ) নিউট্রন</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৮৫. দুর্বল নিউক্লিয় বল নিম্নের কোন ঘটনার জন্য দায়ী?</div>",
+            "option1": "<div>(ক) প্রোটন ক্ষয়ের জন্য</div>",
+            "option2": "<div>(খ) নিউট্রন ক্ষয়ের জন্য</div>",
+            "option3": "<div>(গ) বিটা ক্ষয়ের জন্য</div>",
+            "option4": "<div>(ঘ) গামা ক্ষয়ের জন্য</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৮৬. কেন্দ্রমুখী বল হলো --</div>",
+            "option1": "<div>(ক) মহাকর্ষ বল</div>",
+            "option2": "<div>(খ) দুর্বল বল</div>",
+            "option3": "<div>(গ) সবল বল</div>",
+            "option4": "<div>(ঘ) অপ্রকৃত বল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৮৭. মহাকর্ষ বল সবল নিউক্লিয় বলের তুলনায় কতগুণ তীব্র?</div>",
+            "option1": "<div>(ক) ${10}^{30}$</div>",
+            "option2": "<div>(খ) ${10}^{40}$</div>",
+            "option3": "<div>(গ) ${10}^{42}$</div>",
+            "option4": "<div>(ঘ) ${10}^{41}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৮৮. যখন কোনো বস্তু কোনো আনত তলের উপর দিয়ে গতিশীল থাকে তখন কতটি বল কাজ করে?</div>",
+            "option1": "<div>(ক) 1</div>",
+            "option2": "<div>(খ) 2</div>",
+            "option3": "<div>(গ) 3</div>",
+            "option4": "<div>(ঘ) 4</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৮৯. $4\\ {ms}^{-1}$ বেগে চলমান $2\\ kg$ ভরের একটি বস্তু $2\\ s$ পরে থেমে যায়।বস্তুটিকে $4\\ {ms}^{-1}$ বেগে গতিশীল রাখতে হলে প্রয়োজনীয় বলের মান হবে-</div>",
+            "option1": "<div>(ক) $1\\ N$</div>",
+            "option2": "<div>(খ) $2\\ N$</div>",
+            "option3": "<div>(গ) $4\\ N$</div>",
+            "option4": "<div>(ঘ) $8\\ N$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৯০. $10\\ N$ মানের একটি বল কোনো বস্তুর উপর $2s$ ক্রিয়া করলে বলের ঘাত কত?</div>",
+            "option1": "<div>(ক) $10\\ Ns$</div>",
+            "option2": "<div>(খ) $15\\ Ns$</div>",
+            "option3": "<div>(গ) $20\\ Ns$</div>",
+            "option4": "<div>(ঘ) $25\\ Ns$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৯১. বলের ঘাতের ক্ষেত্রে কোনটি সঠিক নয়?</div>",
+            "option1": "<div>(ক) ভরবেগের পরিবর্তন</div>",
+            "option2": "<div>(খ) বল ও বলের ক্রিয়াকালের গুণফল</div>",
+            "option3": "<div>(গ) ভরবেগের পরিবর্তনের হার</div>",
+            "option4": "<div>(ঘ) এটি একটি ভেক্টর রাশি</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৯২. ভরবেগের পরিবর্তন হলো-</div>",
+            "option1": "<div>(ক) কাজ</div>",
+            "option2": "<div>(খ) বলের ঘাত</div>",
+            "option3": "<div>(গ) ঘাত বল</div>",
+            "option4": "<div>(ঘ) ক্ষমতা</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৯৩. কোনো বস্তুর উপর প্রযুক্ত বল শূন্য হলে বস্তুটি সরল পথে-</div>",
+            "option1": "<div>(ক) সমত্বরণে চলতে থাকে</div>",
+            "option2": "<div>(খ) সমমন্দনে চলতে থাকে</div>",
+            "option3": "<div>(গ) সমদ্রুতিতে চলতে থাকে</div>",
+            "option4": "<div>(ঘ) সমবেগে চলতে থাকে</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৯৪. একটি বস্তু সমবেগে সরলরেখায় গতিশীল আছে। কোনো বল প্রয়োগের দরকার নেই যদি-</div>",
+            "option1": "<div>(ক) ভরবেগ হ্রাস করা হয়</div>",
+            "option2": "<div>(খ) দিক পরিবর্তন করা হয়</div>",
+            "option3": "<div>(গ) বেগ বৃদ্ধি করা হয়</div>",
+            "option4": "<div>(ঘ) সমবেগ রক্ষা করা হয়</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৯৫. $60\\ kg$ ভরের এক ব্যক্তি একটি লিফটে আছে যেটি $1\\ {ms}^{-2}$ সমত্বরণেনীচে নামছে। ঐ ব্যক্তি কত বল অনুভব করবেন?</div>",
+            "option1": "<div>(ক) $60\\ N$</div>",
+            "option2": "<div>(খ) $528\\ N$</div>",
+            "option3": "<div>(গ) $588\\ N$</div>",
+            "option4": "<div>(ঘ) $648\\ N$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৯৬. একটি কাঠবিড়াল গাছের লতা বেয়ে নিচে নামছে। লতাটি যদি সর্বোচ্চ কাঠবিড়ালেরওজনের $\\frac{3}{4}$ অংশ টান বল সহ্য করতে পারে তাহলে লতাটি না ছিড়ে বিড়ালটিসর্বনিম্ন কত ত্বরণে নিচে নামতে পারবে?</div>",
+            "option1": "<div>(ক) $0$</div>",
+            "option2": "<div>(খ) $\\frac{g}{4}$</div>",
+            "option3": "<div>(গ) $\\frac{g}{2}$</div>",
+            "option4": "<div>(ঘ) $g$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৯৭. বস্তুকণাগুলোর ত্বরণ যথাক্রমে $a_A$, $a_B$ ও $a_C$ হলে নিচের কোনটিসঠিক?</div>",
+            "option1": "<div>(ক) $a_C$$\\mathrm{&gt;}$ $a_A$ $\\mathrm{&gt;}$ $a_B$</div>",
+            "option2": "<div>(খ) $a_A$$\\mathrm{&gt;}$ $a_B$ $\\mathrm{&gt;}$ $a_C$</div>",
+            "option3": "<div>(গ) $a_C$$\\mathrm{&gt;}$ $a_B$ $\\mathrm{&gt;}$ $a_A$</div>",
+            "option4": "<div>(ঘ) $a_B$$\\mathrm{&gt;}$ $a_A$ $\\mathrm{&gt;}$ $a_C$</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/197.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৯৮. একটি বস্তুর ত্বরণ থাকবে কতক্ষণ?</div>",
+            "option1": "<div>(ক) বেগ থাকলে</div>",
+            "option2": "<div>(খ) গতিশক্তি থাকলে</div>",
+            "option3": "<div>(গ) বল প্রযুক্ত থাকলে</div>",
+            "option4": "<div>(ঘ) ভরবেগ থাকলে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৯৯. $2\\ kg$ ভরের একটি বস্তু সুতায় ঝুলানো আছে। সুতার টান $27.6\\ N$ হলেবস্তুটির ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $9.8\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $4.9\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $4\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $13.8\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২০০. একক ভরের কোনো বস্তুতে একক ত্বরণ সৃষ্টি করতে প্রয়োজনীয় বলকে কী বলে?</div>",
+            "option1": "<div>(ক) মহাকর্ষ বল</div>",
+            "option2": "<div>(খ) ঘাত বল</div>",
+            "option3": "<div>(গ) একক বল</div>",
+            "option4": "<div>(ঘ) প্রতিক্রিয়া বল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২০১. একটি মেশিনগান প্রতি সেকেন্ডে প্রতিটি $\\ m$ ভরের $\\ n$ সংখ্যক বুলেটছুড়ছে। বুলেটের বেগ $\\ v$ হলে মেশিনগানের পশ্চাৎমুখী বল কত?</div>",
+            "option1": "<div>(ক) $mvg$</div>",
+            "option2": "<div>(খ) $mnv$</div>",
+            "option3": "<div>(গ) $mnvg$</div>",
+            "option4": "<div>(ঘ) $mnv/g$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২০২. যদি বস্তুর বেগ দ্বিগুণ করা হয়, তবে সমান দূরত্বে উহাকে থামাতেবাধাদানকারী বলের মান কত করতে হবে?</div>",
+            "option1": "<div>(ক) দ্বিগুণ</div>",
+            "option2": "<div>(খ) অর্ধেক</div>",
+            "option3": "<div>(গ) চারগুণ</div>",
+            "option4": "<div>(ঘ) এক-চতুর্থাংশ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২০৩. 5 টনের একটি ট্রাক ঘন্টায় $\\ 36\\ km$ বেগে চলছে। এটি $\\ 4\\ m$ দূরত্বথামাতে হলে কত বলের প্রয়োজন?</div>",
+            "option1": "<div>(ক) $62500\\ N$</div>",
+            "option2": "<div>(খ) $52600\\ N$</div>",
+            "option3": "<div>(গ) $2236\\ N$</div>",
+            "option4": "<div>(ঘ) $2040\\ N$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২০৪. মহাকর্ষ ক্ষেত্রে প্রাবল্যের একক-</div>",
+            "option1": "<div>(ক) ${Jkg}^{-1}$</div>",
+            "option2": "<div>(খ) $Nm$</div>",
+            "option3": "<div>(গ) ${Nkg}^{-1}$</div>",
+            "option4": "<div>(ঘ) ${kg\\ ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২০৫. মহাকর্ষীয় ক্ষেত্রের কোনো বিন্দুতে একক ভরের কোনো বস্তু স্থাপন করলে যেবল অনুভব করবে তাকে কী বলে?</div>",
+            "option1": "<div>(ক) বিভব পার্থক্য</div>",
+            "option2": "<div>(খ) বিভব</div>",
+            "option3": "<div>(গ) ক্ষেত্রের তীব্রতা</div>",
+            "option4": "<div>(ঘ) মহাকর্ষীয় ধ্র্রুবক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২০৬. $1\\ kg$ ও $\\ 4\\ kg$ ভরের দুটি গতিশীল বস্তুর গতিশক্তি একই হলে তাদেররৈখিক ভরবেগের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $1\\ :1$</div>",
+            "option2": "<div>(খ) $4\\ :1$</div>",
+            "option3": "<div>(গ) $1\\ :4$</div>",
+            "option4": "<div>(ঘ) $1\\ :2$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২০৭. $1\\ kg$ ও $\\ 4\\ kg$ ভরের দুটি গতিশীল বস্তুর গতিশক্তি একই হলে তাদেররৈখিক ভরবেগের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $1\\ :1$</div>",
+            "option2": "<div>(খ) $4\\ :1$</div>",
+            "option3": "<div>(গ) $1\\ :4$</div>",
+            "option4": "<div>(ঘ) $1\\ :2$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২০৮. $3\\ kg$ এবং $5\\ kg$ ভরের বস্তুদ্বয় $30\\ {kg\\ ms}^{-1}$ এবং $50\\ {kg\\ms}^{-1}$ ভরবেগ নিয়ে একই দিকে চলছে।</div>",
+            "option1": "<div>(ক) সংঘর্ষের পর তারা একই দিকে চলবে</div>",
+            "option2": "<div>(খ) সংঘর্ষের পর তারা বিপরীত দিকে চলবে</div>",
+            "option3": "<div>(গ) সংঘর্ষের পর তারা স্থির হয়ে যাবে</div>",
+            "option4": "<div>(ঘ) তাদের মধ্যে কোনো সংঘর্ষ ঘটবে না</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২০৯. $4\\ kg$ ও $6\\ kg$ ভরের দুটি বস্তু যথাক্রমে ${10\\ ms}^{-1}$ এবং ${5\\ms}^{-1}$ বেগে একই দিকে চলার সময় একে অপরকে ধাক্কা দিল। ধাক্কার পর একত্রেযুক্ত হয়ে চললে কত বেগ প্রাপ্ত হবে?</div>",
+            "option1": "<div>(ক) ${7\\ ms}^{-1}$</div>",
+            "option2": "<div>(খ) ${5\\ ms}^{-1}$</div>",
+            "option3": "<div>(গ) ${6\\ ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) ${4\\ ms}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২১০. একটি ভারী বস্তুর ভর একটি হালকা বস্তুর ভরের দ্বিগুণ। এদের প্রত্যেকের${1000\\ kg\\ ms}^{-1}$ভরবেগ। ভারী ও হালকা বস্তুর বেগের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $1\\ :2$</div>",
+            "option2": "<div>(খ) $2\\ :1$</div>",
+            "option3": "<div>(গ) $1\\ :4$</div>",
+            "option4": "<div>(ঘ) $4\\ :1$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২১১. নিউটনের গতির ৩য় মাত্রানুসারে ক্রিয়া ও প্রতিক্রিয়ার মধ্যকার কোণ কত?</div>",
+            "option1": "<div>(ক) 0$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 90$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 45$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 180$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২১২. নিম্নের কোন উদাহরণটি রৈখিক বেগের সংরক্ষণ সূত্র মেনে চলে?</div>",
+            "option1": "<div>(ক) ঘোড়ার গাড়ির চলাচল</div>",
+            "option2": "<div>(খ) নৌকার গুণ টান</div>",
+            "option3": "<div>(গ) লন রোলার ঠেলা</div>",
+            "option4": "<div>(ঘ) নৌকা থেকে লাফ দেওয়া</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২১৩. সমকৌণিক বেগে ঘূর্ণায়মান বস্তুর গতিশক্তি ও জড়তার ভ্রামকের অনুপাত কিরূপ?</div>",
+            "option1": "<div>(ক) কৌণিক বেগের সমানুপাতিক</div>",
+            "option2": "<div>(খ) কৌণিক বেগের বর্গের সমানুপাতিক</div>",
+            "option3": "<div>(গ) রৈখিক বেগের সমানুপাতিক</div>",
+            "option4": "<div>(ঘ) রৈখিক বেগের বর্গের ব্যস্তানুপাতিক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২১৪. $200\\ kg\\ m^2$ জড়তার ভ্রামকবিশিষ্ট কোনো বস্তুর কৌণিক বেগ $4\\ rad\\s^{-1}$ হলে কৌণিক ভরবেগ কত?</div>",
+            "option1": "<div>(ক) $200\\ kg\\ m^2s^{-1}$</div>",
+            "option2": "<div>(খ) $400\\ kg\\ m^2s^{-1}$</div>",
+            "option3": "<div>(গ) $600\\ kg\\ m^2s^{-1}$</div>",
+            "option4": "<div>(ঘ) $800\\ kg\\ m^2s^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২১৫. $3\\ m$ লম্বা একটি সরু ও সুষম দন্ড এর মধ্য বিন্দু দিয়ে অতিক্রান্তউল্লম্ব অক্ষের অনুভূমিক তলে ঘুরছে। এর চক্রগতির ব্যাসার্ধ কত?</div>",
+            "option1": "<div>(ক) $1.15\\ m$</div>",
+            "option2": "<div>(খ) $1.414\\ m$</div>",
+            "option3": "<div>(গ) $0.87\\ m$</div>",
+            "option4": "<div>(ঘ) $0.75\\ m$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২১৬. একটি চাকার ভর $5\\ kg$ এবং কোন অক্ষের সাপেক্ষে চক্রগতির ব্যাসার্ধ $0.2\\m$ হলে জড়তার ভ্রামক কত?</div>",
+            "option1": "<div>(ক) $0.1\\ kg\\ m^2$</div>",
+            "option2": "<div>(খ) $0.2\\ kg\\ m^2$</div>",
+            "option3": "<div>(গ) $0.3\\ kg\\ m^2$</div>",
+            "option4": "<div>(ঘ) $0.4\\ kg\\ m^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২১৭. একটি চাকার ভর $10\\ kg$ এবং চক্রগতির ব্যাসার্ধ $0.5\\ m$ । চাকাটির জড়তারভ্রামক কত?</div>",
+            "option1": "<div>(ক) $25\\ {kg\\ m}^2$</div>",
+            "option2": "<div>(খ) $2.5\\ {kg\\ m}^2$</div>",
+            "option3": "<div>(গ) $0.25\\ {kg\\ m}^2$</div>",
+            "option4": "<div>(ঘ) $50\\ {kg\\ m}^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২১৮. কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) $\\overrightarrow{t}=\\overrightarrow{r}\\times \\overrightarrow{\\omega }$</div>",
+            "option2": "<div>(খ) $\\overrightarrow{L}=\\overrightarrow{r}\\times \\overrightarrow{p}$</div>",
+            "option3": "<div>(গ) $\\overrightarrow{a}={\\omega }^2\\times \\overrightarrow{\\omega }$</div>",
+            "option4": "<div>(ঘ) $\\overrightarrow{v}=\\overrightarrow{r}\\times \\overrightarrow{\\omega }$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২১৯. (i) নং (ii) নং দন্ড অনুরূপ দন্ড AB অক্ষের সাপেক্ষে কার জড়তার ভ্রামকবেশি?</div>",
+            "option1": "<div>(ক) নং দন্ড</div>",
+            "option2": "<div>(খ) নং দন্ড</div>",
+            "option3": "<div>(গ) সমান হবে</div>",
+            "option4": "<div>(ঘ) নির্ণয় করা যায় না</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/219.webp"
+        },
+        {
+            "mcqQuestion": "<div>২২০. একটি রড়ের ভারকেন্দ্রগামী দৈর্ঘ্যের সাথে লম্ব অক্ষ সাপেক্ষে চক্রগতিরব্যাসার্ধ কত?</div>",
+            "option1": "<div>(ক) $\\frac{1}{12}mf$</div>",
+            "option2": "<div>(খ) $\\frac{1}{12}f$</div>",
+            "option3": "<div>(গ) $\\frac{1}{\\sqrt{12}}$</div>",
+            "option4": "<div>(ঘ) $\\frac{12}{\\sqrt{l}}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২২১. কোন বিন্দুতে বস্তুর মোট ওজন ক্রিয়াশীল?</div>",
+            "option1": "<div>(ক) ভরকেন্দ্র</div>",
+            "option2": "<div>(খ) ভারকেন্দ্র</div>",
+            "option3": "<div>(গ) ভূকেন্দ্র</div>",
+            "option4": "<div>(ঘ) মধ্যবিন্দুতে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২২২. ঘূর্ণন গতির ক্ষেত্রে $P$ -এর অনুরূপ রাশি কোনটি?</div>",
+            "option1": "<div>(ক) $T$</div>",
+            "option2": "<div>(খ) $I$</div>",
+            "option3": "<div>(গ) $L$</div>",
+            "option4": "<div>(ঘ) $\\alpha $</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২২৩. হাত ঘড়ির মিনিটের কাঁটার কম্পাঙ্ক-</div>",
+            "option1": "<div>(ক) $2.78\\ Hz$</div>",
+            "option2": "<div>(খ) $2.78\\times {10}^{-3}Hz$</div>",
+            "option3": "<div>(গ) $2.78\\times {10}^{-2}Hz$</div>",
+            "option4": "<div>(ঘ) $2.78\\times {10}^{-4}Hz$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২২৪. একটি ঘড়ির সেকেন্ড, মিনিট ও ঘন্টার কাঁটার কৌণিক বেগের অনুপাত-</div>",
+            "option1": "<div>(ক) $720\\ :60\\ :1$</div>",
+            "option2": "<div>(খ) $1\\ :60\\ :720$</div>",
+            "option3": "<div>(গ) $1\\ :12\\ :720$</div>",
+            "option4": "<div>(ঘ) $720\\ :12\\ :1$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২২৫. উপরের লেখচিত্র হতে বোঝা যায় বস্তুটি-</div>",
+            "option1": "<div>(ক) ঘূর্ণন ধ্র্রুব রয়েছে</div>",
+            "option2": "<div>(খ) সুষম কৌণিক ত্বরণে ঘুরছে</div>",
+            "option3": "<div>(গ) অসম কৌণিক ত্বরণে ঘুরছে</div>",
+            "option4": "<div>(ঘ) ঘূর্ণনশীল নয়</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/225.webp"
+        },
+        {
+            "mcqQuestion": "<div>২২৬. সমকৌণিক দ্রুতিতে একটি কণা একবার ঘুরে আসতে যে সময় লাগে তাকে বলা হয়-</div>",
+            "option1": "<div>(ক) বিচরণ কাল</div>",
+            "option2": "<div>(খ) উড্ডয়ন কাল</div>",
+            "option3": "<div>(গ) পতন কাল</div>",
+            "option4": "<div>(ঘ) পর্যায়কাল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২২৭. ক্ষমতা ও টর্কের মধ্যে সম্পর্ক হলো-</div>",
+            "option1": "<div>(ক) $\\overrightarrow{P}=\\frac{\\overrightarrow{t}}{\\overrightarrow{\\omega}}$</div>",
+            "option2": "<div>(খ) $\\overrightarrow{P}=t^2\\omega $</div>",
+            "option3": "<div>(গ) $\\overrightarrow{P}=\\overrightarrow{t}\\times \\overrightarrow{\\omega }$</div>",
+            "option4": "<div>(ঘ) $\\overrightarrow{P}=\\overrightarrow{t}.\\overrightarrow{\\omega }$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২২৮. কোনটি কৌণিক ভরবেগের পরিবর্তনের হার?</div>",
+            "option1": "<div>(ক) কেন্দ্রমুখী বল</div>",
+            "option2": "<div>(খ) টর্ক</div>",
+            "option3": "<div>(গ) জড়তার ভ্রামক</div>",
+            "option4": "<div>(ঘ) কেন্দ্রমুখী বল</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২২৯. একটি চাকার ভর $4\\ kg$ এবং চক্রগতির ব্যাসার্ধ $0.6\\ m$ । চাকাটি $4\\{rad\\ s}^{-2}$ কৌণিক ত্বরণে ঘুরে। চাকাটির উপর কত টর্ক ক্রিয়া করবে?</div>",
+            "option1": "<div>(ক) $5.76\\ Nm$</div>",
+            "option2": "<div>(খ) $9.6\\ Nm$</div>",
+            "option3": "<div>(গ) $16\\ Nm$</div>",
+            "option4": "<div>(ঘ) $24\\ Nm$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৩০. 1টি চাকার কৌণিক ত্বরণ সৃষ্টি করতে কত মানের টর্ক দিতে হবে, $m=10\\ kg,\\k=0.5\\ m?$</div>",
+            "option1": "<div>(ক) $50\\ Nm$</div>",
+            "option2": "<div>(খ) $0.5\\ Nm$</div>",
+            "option3": "<div>(গ) $5\\ Nm$</div>",
+            "option4": "<div>(ঘ) $100\\ Nm$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৩১. একটি চাকার জড়তার ভ্রামক $10\\ {kg\\ m}^2$ কৌণিক ত্বরণ $10\\ {rad\\s}^{-2}$ হলে এর টর্কের মান কত হবে?</div>",
+            "option1": "<div>(ক) $10\\ Nm$</div>",
+            "option2": "<div>(খ) $100\\ Nm$</div>",
+            "option3": "<div>(গ) $150\\ Nm$</div>",
+            "option4": "<div>(ঘ) $200\\ Nm$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৩২. $2.4\\ kg$ ভর ও $2\\ m$ চক্রগতির ব্যাসর্ধবিশিষ্ট একটি চাকতিতে কী পরিমাণটর্ক ক্রিয়া করলে কৌণিক ত্বরণ $3\\ {rad\\ s}^{-2}$ হবে?</div>",
+            "option1": "<div>(ক) $28.8\\ Nm$</div>",
+            "option2": "<div>(খ) $14.4\\ Nm$</div>",
+            "option3": "<div>(গ) $3.6\\ Nm$</div>",
+            "option4": "<div>(ঘ) $7.2\\ Nm$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৩৩. $I,\\ \\alpha $ ও $t$ এর মধ্যে সম্পর্ক কোনটি?</div>",
+            "option1": "<div>(ক) $t=\\frac{I}{\\alpha }$</div>",
+            "option2": "<div>(খ) $t=\\sqrt{I\\alpha }$</div>",
+            "option3": "<div>(গ) $t=I^2\\alpha $</div>",
+            "option4": "<div>(ঘ) $t=I\\alpha $</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৩৪. নিচের কোন সম্পর্কটি সঠিক?</div>",
+            "option1": "<div>(ক) $\\overrightarrow{v}=\\overrightarrow{\\omega }\\times \\overrightarrow{r}$</div>",
+            "option2": "<div>(খ) $\\overrightarrow{L}=\\overrightarrow{r}\\times \\overrightarrow{F}$</div>",
+            "option3": "<div>(গ) $\\overrightarrow{F}=\\overrightarrow{r}\\times \\overrightarrow{L}$</div>",
+            "option4": "<div>(ঘ) $I=L\\omega $</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৩৫. সমকৌণিক বেগে ঘূর্ণনরত কোন বস্তুর চক্রগতির ব্যাসার্ধ দ্বিগুণ হলে টর্ককতগুণ হবে?</div>",
+            "option1": "<div>(ক) 2</div>",
+            "option2": "<div>(খ) 4</div>",
+            "option3": "<div>(গ) 6</div>",
+            "option4": "<div>(ঘ) 8</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৩৬. কৌণিক ত্বরণ এক একক হলে এবং এর মধ্যে সম্পর্ক কোনটি?</div>",
+            "option1": "<div>(ক) $t=\\frac{1}{4}$</div>",
+            "option2": "<div>(খ)$\\ t=\\frac{1}{2}$</div>",
+            "option3": "<div>(গ) $t=1$</div>",
+            "option4": "<div>(ঘ) $t=2I$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৩৭. কেীণিক ত্বরণের একক হলো-</div>",
+            "option1": "<div>(ক) ${ms}^{-1}$</div>",
+            "option2": "<div>(খ) ${rad\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) ${ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) ${rad\\ s}^{-2}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৩৮. কোনো অক্ষের সাপেক্ষে কোনো দৃঢ় বস্তুকে একক সমকৌণিক বেগে ঘুরানোর জন্যযে গতশক্তির প্রয়োজন হয় তা জড়তার ভ্রামকের-</div>",
+            "option1": "<div>(ক) অর্ধেক</div>",
+            "option2": "<div>(খ) সমান</div>",
+            "option3": "<div>(গ) দ্বিগুণ</div>",
+            "option4": "<div>(ঘ) বর্গের সমান</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৩৯. কোনটি কৌণিক ভরবেগের সংরক্ষণ সূত্র?</div>",
+            "option1": "<div>(ক) $\\sum{\\overrightarrow{L}}=ধ্র্রুবক$</div>",
+            "option2": "<div>(খ) $\\sum{\\overrightarrow{P}}=ধ্র্রুবক$</div>",
+            "option3": "<div>(গ) $\\sum{\\overrightarrow{F}}=ধ্র্রুবক$</div>",
+            "option4": "<div>(ঘ) $\\sum{\\overrightarrow{t}}=ধ্র্রুবক$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৪০. প্যারাশুটকে শূন্যে ভাসাতে কার্যকরী বল যোগান দেয়?</div>",
+            "option1": "<div>(ক) $Mgsin\\ \\theta $</div>",
+            "option2": "<div>(খ) $-Mgsin\\ \\theta $</div>",
+            "option3": "<div>(গ) $Mgcos\\ \\theta $</div>",
+            "option4": "<div>(ঘ) $-Mgcos\\ \\theta $</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৪১. $m$ ভরের একটি বস্তুকে $l$ দৈর্ঘ্যের সুতার এক প্রান্তে বেঁধে $\\omega $কৌণিক বেগে বৃত্ত পতে ঘোরনো হলে সুতার টান হবে?</div>",
+            "option1": "<div>(ক) $m\\omega l$</div>",
+            "option2": "<div>(খ) $2m{\\omega }^2l$</div>",
+            "option3": "<div>(গ) $m{\\omega }^2l$</div>",
+            "option4": "<div>(ঘ) $\\frac{m{\\omega }^2}{l}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৪২. কেন্দ্রমুখী বল দ্বারা কৃত কাজ কত হবে?</div>",
+            "option1": "<div>(ক) ধনাত্মক</div>",
+            "option2": "<div>(খ) ঋণাত্মক</div>",
+            "option3": "<div>(গ) শূন্য</div>",
+            "option4": "<div>(ঘ) অসীম</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৪৩. $m$ ভরের বস্তুকে $r$ ব্যাসার্ধের বৃত্তাকার পথে অনুভূমিক হলে ঘুরানোহচ্ছে। কেন্দ্রমুখী বল $F$ হলে বস্তুর রৈখিক ভরবেগ-</div>",
+            "option1": "<div>(ক) $\\frac{Fr}{m}$</div>",
+            "option2": "<div>(খ) $\\frac{Fv}{m}$</div>",
+            "option3": "<div>(গ) $\\frac{Fr}{v}$</div>",
+            "option4": "<div>(ঘ) $\\frac{Fm}{v}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৪৪. $0.15\\ kg$ ভরের একটি পাতর খন্ডকে $0.7\\ m$ লম্ব একটি সুতার এক প্রান্তেবেঁধে বৃত্তাকার পথে প্রতি মিনিটে 90 বার ঘুরালে সুতার উপর টান কত?</div>",
+            "option1": "<div>(ক) $4.49\\ N$</div>",
+            "option2": "<div>(খ) $9.98\\ N$</div>",
+            "option3": "<div>(গ) $18.76\\ N$</div>",
+            "option4": "<div>(ঘ) $9.33\\ N$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৪৫. একটি লন রোলারকে ঠেলা বা টানার সময় অনুভূমিকের সাতে30$\\mathrm{{}^\\circ}$ কোণে $19.6\\ N$ বল প্রয়োগ করা হয়। এটা টান অপেক্ষাকৃতসহজ কারণ এর ওজন কমে-</div>",
+            "option1": "<div>(ক) $\\sqrt{3}\\ kg$</div>",
+            "option2": "<div>(খ) $19.6\\ kg$</div>",
+            "option3": "<div>(গ) $9.8\\ N$</div>",
+            "option4": "<div>(ঘ) $9.8\\ kg$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৪৬. একটি কণা $40\\ cm$ ব্যাসার্ধের বৃত্তাকার পথে প্রতি মিনিটে 45 বার আবর্তনকরে। কণাটির কেন্দ্রমুখী ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $8.88\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $1.41\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $33.35\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $2.82\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৪৭. একটি রাস্তা $40\\ m$ ব্যাসার্ধের বাঁক নিচ্ছে। ঐ রাস্তাটি $4\\ m$ চওড়াএবং উহার ভিতরের কিনারা হতে বাইরের কিনারা $0.8\\ m$ উঁচু। সর্বোচ্চ কত বেগেবাঁক নেওয়া সম্ভব?</div>",
+            "option1": "<div>(ক) $1.92\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $9.92\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $8.85\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $5.92\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৪৮. উদ্দীপকের সাইকেলটিকে কোন বল বৃত্তাকার পথে গতিশীল রাখে?</div>",
+            "option1": "<div>(ক) $R{\\mathrm{cos} \\theta \\ }\\ $</div>",
+            "option2": "<div>(খ) $R{\\mathrm{sin} \\theta \\ }$</div>",
+            "option3": "<div>(গ) $R$</div>",
+            "option4": "<div>(ঘ) $mg$</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/248.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৪৯. $100\\ m$ ব্যাসার্ধের বৃত্তাকার পথে $16.67\\ m/sec$ বেগে গাড়ি চালাতে হলেপথকে কত কোণে আনত রাখতে হবে?</div>",
+            "option1": "<div>(ক) 5.83$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 15.83$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 70.2$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 78$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৫০. 1টি সাইকেলের বেগ $20\\ {km\\ h}^{-1}$। $10\\ m$ ব্যাসার্ধের 1টি মোড়নেওয়ার সময় কত কোণে হেলতে হবে?</div>",
+            "option1": "<div>(ক) 17.45$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 0.3134$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 20$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 10$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৫১. সমান ভরের দুটি বস্তু যথাক্রমে $4\\ m/s$ এবং $2\\ m/s$ বেগে চলা অবস্থায়পূর্ণ স্থিতিস্থাপক সংঘর্ষ ঘটলে সংঘর্ষের পর ১ম ও ২য় বস্তুর বেগ হবে যথাক্রমে-</div>",
+            "option1": "<div>(ক) $4\\ m/s\\ ও\\ $ $2\\ m/s$</div>",
+            "option2": "<div>(খ) $4\\ m/s$ $ও$ $0\\ m/s$</div>",
+            "option3": "<div>(গ) $2\\ m/s$ $ও$ $4\\ m/s$</div>",
+            "option4": "<div>(ঘ)$\\ 2\\ m/s$ $ও$ $0\\ m/s$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৫২. কোনটি সংরক্ষণশীল বল?</div>",
+            "option1": "<div>(ক) ঘর্ষণ</div>",
+            "option2": "<div>(খ) মহাকর্ষ</div>",
+            "option3": "<div>(গ) বৈদ্যুতিক</div>",
+            "option4": "<div>(ঘ) চুম্বকীয়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৫৩. সংঘর্ষ কয় প্রকার?</div>",
+            "option1": "<div>(ক) 3</div>",
+            "option2": "<div>(খ) 2</div>",
+            "option3": "<div>(গ) 1</div>",
+            "option4": "<div>(ঘ) 4</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৫৪. বৈদ্যুতিক পাখার সুইচ অন করলে প্রথমাবস্থায়-<br>i. রৈখিক বেগ ক্রমান্বয়ে বাড়তে থাকে<br>ii. এতে কৌণিক ত্বরণের সৃষ্টি হয়<br>iii. কৌণিক বেগ ক্রমান্বয়ে বাড়তে থাকে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৫৫. ভরবেগ-<br>i. একটি ভেক্টর রাশি<br>ii. ব্যাসার্ধ ভেক্টর ও রৈখিক ভরবেগের ভেক্টর গুণফল<br>iii. জড়তার ভ্রামক এবং কৌণিক বেগের গুণফল<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৫৬. ক্রিয়া-প্রতিক্রিয়া একই বস্তুর উপর ক্রিয়া করলে-<br>i. বস্তুর লব্ধি শূন্য হয়<br>ii. বল প্রয়োগে কোন বস্তুর ত্বরণ ঘটত না<br>iii. বস্তুর বেগের পরিবর্তন ঘটে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৫৭. কোনো বস্তুর ভরবেগ 40 kg ${m\\ s}^{-1}$ বলতে বোঝায়?<br>i. বস্তুর ভর 1 kg হলে এর বেগ $40\\ m\\ s^{-1}$<br>ii. বস্তুর ভর 40 kg হলে এর বেগ $10\\ m\\ s^{-1}$<br>iii. বস্তুর ভর 6.3 kg হলে এর বেগ$\\ \\ 6.36m\\ s^{-1}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৫৮. একটি বস্তুর সাম্যাবস্থায় বা স্থির থাকবে যদি এর---<br>i. বেগ শূণ্য হয়<br>ii. সরণ শূণ্য হয়<br>iii. ত্বরণ শূণ্য হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৫৯. জড়তার ভ্রামক হলো---<br>i. কৌণিক ভরবেগ ও কৌণিক বেগের অনুপাত<br>ii. চক্রগতির ব্যসার্ধের বর্গ ও মোট ভরের গুণফল<br>iii. গতিশক্তির অর্ধেক<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৬০. বলের ঘাতের ক্ষেত্রে---<br>i. বলের ঘাত= বল $\\mathrm{\\times}$ সময়<br>ii. বলের ঘাতের দিক প্রদত্ত বলের দিকে<br>iii. বলের ঘাত=ভরবেগেরে পরিবর্তনের হার<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও iii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও ii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৬১. সবল নিউক্লিয় বলের ক্ষেত্রে প্রযোজ্য---<br>i. আধান নিরপেক্ষ<br>ii. বোসন কণার বিনিময়ে উদ্ভব হয়<br>iii. মেসন কণার বিনিময়ে উদ্ভব হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৬২. একটি কণা একটি বৃত্তাকার পথে প্রতি মিনিটে 300 বার আবর্তন কেরলে---<br>i. পর্যায়কাল $0.2\\ s$<br>ii. কৌণিক বেগ $31.4\\ rad\\ s^{-1}$<br>iii. কৌণিক ত্বরণ শূণ্য<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৬৩. রাস্তার বাঁকে সাইকেল চালানোর সময় আরোহীর নতি কোণ হবে?<br>i. $\\theta ={tan}^{-1}\\frac{v^2}{rg}$<br>ii. $\\theta ={tan}^{-1}\\frac{{\\omega }^2r}{g}$<br>iii. $\\theta ={tan}^{-1}\\frac{v}{g}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৬৪. নিউটনের গতি সূত্রের সীমাবদ্ধতা কোনটি?<br>i. বস্তুর ভরকে ধ্রব বিবেচনা করা হয়<br>ii. বেগ আলোর বেগের কাছাকাছি হলে নিউটনের সূত্র ব্যর্থ<br>iii. পরমাণুর মতো ক্ষুদ্র কণার ক্ষেত্রেও নিউটনের সূত্র ব্যবহারোপযোগী<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) iii</div>",
+            "option4": "<div>(ঘ) i, ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৬৫. আংশিক স্থিতিস্থাপক সংঘর্ষের ক্ষেত্রে---<br>i. মোট গতিশক্তি সংরক্ষিত থাকে<br>ii. ভরবেগ সংরক্ষিত থাকে<br>iii. সংঘর্ষে লিপ্ত বস্তুদ্বয়ের আপেক্ষিক বেগ অপরিবর্তিত থাকে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) ii</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৬৬. যদি কোনো কপার উপর ক্রিয়াশীল বলের লব্ধি শূণ্য হয় তবে---<br>i. কণাটি স্থির থাকবে<br>ii. কণাটি সমকৌণিক বেগে বৃত্তাকার ঘরতে থাকবে<br>iii. কণাটি সমবেগে সরল পথে চলবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৬৭. নিউক্লিও সবল বল---<br>i. আকর্ষণধর্মী<br>ii. আধানযুক্ত<br>iii. স্বল্পপাল্লা বিশিষ্ট<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৬৮. বস্তুর উপর ধ্রব বল দ্বারা যখন কোন কাজ করা হয় তখন<br>i. বস্তুকে কোণ ত্বরণ থাকে না<br>ii. বস্তুর গতিশক্তি বৃদ্ধি পায়<br>iii. বস্তুর স্থিতিশক্তি বৃদ্ধি পায়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) iii</div>",
+            "option4": "<div>(ঘ) i ও ii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৬৯. যে বলের কারণে কোন বস্তু বৃত্তাকার পথে ঘোরে সেই বল যদি প্রত্যাহার করেনেওয়া হয় তাহলে বস্তুটি গতি জড়তার কারণে---<br>i. ঐ সময়ে বেগের দিক বরাবর ছুটে যাবে<br>ii. বৃত্তপথের স্পর্শক বরাবর ছুটে যাবে<br>iii. ব্যাসার্ধ বরাবর কেন্দ্রে বিপরীত দিকে ছুটে যাবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) iii</div>",
+            "option4": "<div>(ঘ) i ও ii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৭০. ক্রিয়া ও প্রতিক্রিয়া বল---<br>i. সমান সময়কাল ধরে ক্রিয়া করে<br>ii. একই বস্তুর ক্রিয়া করে<br>iii. এর মান সমান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপক অনুসারে ২৭১ ও ২৭২ এর উত্তর দাও:<br>একটি সুষম সূক্ষ্ম দন্ডকে যার দের্ঘ্য 50 cm এবং ভর 1 kg তাকে দন্ডেরমধ্যবিন্দুর সাপেক্ষে ঘুরানো হলো এবং পরবর্তীতে প্রান্তের সাপক্ষে ঘুরানো হলোযেখানে অক্ষটি দন্ডের দৈর্ঘ্যের সাথে লম্ব---<br>২৭১. প্রথম ঘটনায় দন্ডের জড়তার ভ্রামক---</div>",
+            "option1": "<div>(ক) ${0.25\\ kg\\ m}^2$</div>",
+            "option2": "<div>(খ) ${0.083\\ kg\\ m}^2$</div>",
+            "option3": "<div>(গ) ${0.042\\ kg\\ m}^2$</div>",
+            "option4": "<div>(ঘ) ${10.021\\ kg\\ m}^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৭২. ২য় ঘটনায় সমান মানের জড়তার ভ্রামক পেতে হলে দন্ডের দৈর্ঘ্য কত পরিবর্তনকরতে হবে?</div>",
+            "option1": "<div>(ক) 0.175 cm</div>",
+            "option2": "<div>(খ) 0.7 cm</div>",
+            "option3": "<div>(গ) 25.1 cm</div>",
+            "option4": "<div>(ঘ) 150 cm</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>■ 100 kg ভরের একটি বস্তুর বেগ বনাম সময়ের লেখচিত্র নিম্নরূপ<br>উপরের তথ্যের আলোকে ২৭৩ ও ২৭৪ নং প্রশ্নের উত্তর দাওঃ<br>২৭৩. বস্তুর উপর ক্রিয়াশীল বাধাদানকারী বল কত?</div>",
+            "option1": "<div>(ক) 0 N</div>",
+            "option2": "<div>(খ) 3 N</div>",
+            "option3": "<div>(গ) 10 N</div>",
+            "option4": "<div>(ঘ) 50 N</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/273.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৭৪. সস্তুটির মোট ভরবেগের পরিবর্তন কত?</div>",
+            "option1": "<div>(ক) 0 N sec</div>",
+            "option2": "<div>(খ) 10 N sec</div>",
+            "option3": "<div>(গ) 30 N sec</div>",
+            "option4": "<div>(ঘ) 50 N sec</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড় এবং ২৭৫ ও ২৭৬ নং প্রশ্নের উত্তর দাওঃ<br>3 kg ভরের একটি 2m দীর্ঘ একটি সরু সুষম দন্ড এর মধ্য বিন্দু দিয়ে গমণকারী একটিঅক্ষকে কেন্দ্র করে ঘুরছে।<br>২৭৫. দন্ডটির জড়তার ভ্রামক কত kg $m^2$?</div>",
+            "option1": "<div>(ক) 1</div>",
+            "option2": "<div>(খ) 4</div>",
+            "option3": "<div>(গ) 12</div>",
+            "option4": "<div>(ঘ) 24</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৭৬. দন্ডটির চক্রগতির ব্যসার্ধ কত?</div>",
+            "option1": "<div>(ক) $\\frac{1}{\\sqrt{12}}\\ m$</div>",
+            "option2": "<div>(খ) $\\frac{2}{\\sqrt{12}}m$</div>",
+            "option3": "<div>(গ) $\\frac{3}{\\sqrt{12}}m$</div>",
+            "option4": "<div>(ঘ) $\\frac{4}{\\sqrt{12}}m$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড় এবং ২৭৭ ও ২৭৮ নং প্রশ্নের উত্তর দাওঃ<br>10 g ভরের বস্তু 10 cm ব্যাসার্ধের সুতার সাহায্যে উল্লম্ব বৃত্ত পথে 10 m/sবেগে ঘুরছে $1\\ g=10\\ m/s^2$<br>২৭৭. সর্বনিম্ন বিন্দুতে সুতার টান কত?</div>",
+            "option1": "<div>(ক) 7N</div>",
+            "option2": "<div>(খ) 10.9 N</div>",
+            "option3": "<div>(গ) 10.1 N</div>",
+            "option4": "<div>(ঘ) 100 N</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৭৮. সর্বোচ্চ বিন্দুতে সুতার টান কত?</div>",
+            "option1": "<div>(ক) 100 N</div>",
+            "option2": "<div>(খ) 10.1 N</div>",
+            "option3": "<div>(গ) 100.1 N</div>",
+            "option4": "<div>(ঘ) 9.9 N</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড় এবং ২৭৯ ও ২৮০ নং প্রশ্নের উত্তর দাওঃ<br>${10}^4$ kg জ্বালানিসহ একটি রকেটের ভর $1.5\\ \\times \\ {10}^4\\ kg$ । রকেটেরসাপেক্ষে 2000 $m\\ s^{-1}$ দ্রুতিতে জ্বালানি $200\\ kg\\ s^{-1}$ হারে ব্যয় হয়।রকেটটি খাড়া উপর দিকে নিক্ষিপ্ত হলো। <br>২৭৯. রকেটের ধাক্কা---</div>",
+            "option1": "<div>(ক) $5\\ \\times \\ {10}^3\\ N$</div>",
+            "option2": "<div>(খ) $4\\ \\times \\ {10}^5\\ N$</div>",
+            "option3": "<div>(গ) $5\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "option4": "<div>(ঘ) $4\\ \\times \\ {10}^{-5}\\ N$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৮০. রকেটটির ত্বরণ বেশি হবে---<br>i. গ্যাসের আপেক্ষিক বেগ বেশি হলে<br>ii. গ্যাস নির্গমনের হার বেশি হলে<br>iii. রকেটের মোট ভর বেশি হলে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) i ও ii</div>",
+            "option4": "<div>(ঘ) iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>■ ঘূর্ণনরত একটি বস্তুকণার কৌণিক সরণকে $\\theta \\left(t\\right)={3t}^s-5t$সমীকরণ দ্বারা প্রকাশ করা হয়।<br>উদ্দীপকের আলোকে ২৮১ ও ২৮২ নং প্রশ্নের উত্তর দাওঃ<br>২৮১. নিচের কোনটি কৌণিক বেগ নির্দেশ করে?</div>",
+            "option1": "<div>(ক) 15t+5</div>",
+            "option2": "<div>(খ) $6t-5$</div>",
+            "option3": "<div>(গ) $3t-5$</div>",
+            "option4": "<div>(ঘ) $3t+5$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৮২. $t=3s$ সময়ে---<br>i. কৌণিক সরণ $12\\ rad$<br>ii. কৌণিক বেগ $13\\ rad\\ s^{-1}$<br>iii. কৌণিক ত্বরণ $4\\ rad\\ s^{-2}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>■ দুটি বস্তুর ভর 2 kg ও 5 kg । এদের বেগ যথাক্রমে ${6\\ m\\ s}^{-1}$ এবং $4\\m\\ s^{-1}$ ।<br>উদ্দীপকটি পড় এবং ২৮৩ ও ২৮৪ নং প্রশ্নের উত্তর দাওঃ<br>২৮৩. প্রথমটি 2 m দূরত্বে থামানো হলো। এর ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $-9\\ m\\ s^{-2}$</div>",
+            "option2": "<div>(খ) $-1.5\\ m\\ s^{-2}$</div>",
+            "option3": "<div>(গ) $1.5\\ m\\ s^{-2}$</div>",
+            "option4": "<div>(ঘ) $9\\ m\\ s^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৮৪. দ্বিতীয় বস্তুকে একই দূরত্বে থামাতে কত বল লাগবে?</div>",
+            "option1": "<div>(ক) $-16\\ N$</div>",
+            "option2": "<div>(খ) $-18\\ N$</div>",
+            "option3": "<div>(গ) $-20\\ N$</div>",
+            "option4": "<div>(ঘ) $-22\\ N$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>■ 6 m চওড়া ও 36 m ব্যাসার্ধবিশিষ্ট বাঁকা পথে একজন চালক নিরাপদে $12\\{ms}^{-1}$ বেগে গাড়ি চালিয়ে যাচ্ছে।<br>উদ্দীপকটি পড় এবং ২৮৫ ও ২৮৬নং প্রশ্নের উত্তর দাওঃ<br>২৮৫. পথটি কত কোণে বাঁকা করে রাখতে হবে?</div>",
+            "option1": "<div>(ক) $2.22{}^\\circ $</div>",
+            "option2": "<div>(খ) $22.2{}^\\circ $</div>",
+            "option3": "<div>(গ) $2.41{}^\\circ $</div>",
+            "option4": "<div>(ঘ) $24.1{}^\\circ $</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৮৬. ভূমির সমান্তরালে রাস্তার অভিক্ষেপ কত হবে?</div>",
+            "option1": "<div>(ক) $5.55\\ m$</div>",
+            "option2": "<div>(খ) $6.55\\ m$</div>",
+            "option3": "<div>(গ) $2.27\\ m$</div>",
+            "option4": "<div>(ঘ) $2.45\\ m$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড়ে ২৮৭ ও ২৮৮ নং প্রশ্নের উত্তর দাও:<br>একটি চাকার ভর 5 kg এবং চক্রগতির ব্যাসার্ধ 25 cm । চাকাটিতে একটি টর্ক প্রয়োগকরায় এটি 4 ${rads}^{-2}$ কৌণিক ত্বরণ সৃষ্টি করে।<br>২৮৭. চাকাটির জড়তার ভ্রামক কত?</div>",
+            "option1": "<div>(ক) $0.2125\\ kg\\ m^2$</div>",
+            "option2": "<div>(খ) $0.3125\\ kg\\ m^2$</div>",
+            "option3": "<div>(গ) $0.4125\\ kg\\ m^2$</div>",
+            "option4": "<div>(ঘ) $0.5125\\ kg\\ m^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৮৮. চাকাটিতে কত টর্ক প্রয়োগ করা হয়েছিল?</div>",
+            "option1": "<div>(ক) $1.25\\ N$</div>",
+            "option2": "<div>(খ) $2.25\\ N$</div>",
+            "option3": "<div>(গ) $3.25\\ N$</div>",
+            "option4": "<div>(ঘ) $5.5\\ N$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৮৯. উদ্দীপক অনুযায়ী সংঘর্ষের পর বস্তুদ্বয় কোনদিকে চলবে?</div>",
+            "option1": "<div>(ক) A বস্তু যেদিকে চলছে সে দিকে</div>",
+            "option2": "<div>(খ) B বস্তু যেদিকে চলছে সে দিকে</div>",
+            "option3": "<div>(গ) বস্তুদ্বয় স্থির থাকবে</div>",
+            "option4": "<div>(ঘ) পরস্পর বিপরীত দিকে চলবে</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/289.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৯০. উদ্দীপকের বস্তুদয় যদি প্রারম্ভিক অবস্থায় একই দিকে চলত তাহলে বস্তুর বেগহবে---</div>",
+            "option1": "<div>(ক) $0\\ m\\ s^{-1}$</div>",
+            "option2": "<div>(খ) $1.33\\ m\\ s^{-1}$</div>",
+            "option3": "<div>(গ) $2\\ m\\ s^{-1}$</div>",
+            "option4": "<div>(ঘ) $2.34\\ m\\ s^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৯১. রকেট কোন নীতির উপর ভিত্তি করে কাজ করে?</div>",
+            "option1": "<div>(ক) ভর</div>",
+            "option2": "<div>(খ) শক্তি</div>",
+            "option3": "<div>(গ) রৈখিক ভরবেগ</div>",
+            "option4": "<div>(ঘ) কৌণিক ভরবেগ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৯২. গাছ থেকে $2.0\\ kg$ ভরের একটি কাঁঠাল সোজা নিচের দিকে পড়ছে। কাঁঠালটিনিচের দিকে পড়ার সময় যদি $5.5\\ m/s^2$ ত্বরণ হয়, তাহলে বাতাসের বাধা কত নিউটন?</div>",
+            "option1": "<div>(ক) 4.3 N</div>",
+            "option2": "<div>(খ) 6.8 N</div>",
+            "option3": "<div>(গ) 8.6 N</div>",
+            "option4": "<div>(ঘ) 5.5 N</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৯৩. 100 kg ভরের একজন লোক লিফটে দাঁড়িয়ে আছে। লিফটটি যদি 2 $ms^{-2}$ ত্বরণেউপরে উঠে তাহলে লোকটির উপর ঊর্ধ্বমুখী প্রতিক্রিয়া বল কত?</div>",
+            "option1": "<div>(ক) 980 N</div>",
+            "option2": "<div>(খ) 780 N</div>",
+            "option3": "<div>(গ) 1180 N</div>",
+            "option4": "<div>(ঘ) 1380 N</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৯৪. একটি কণা 25 cm ব্যাসার্ধবিশিষ্ট একটি বৃত্তকে প্রতি সেকেন্ডে 2 বারআবর্তন করে। কণাটির ত্বরণ কত ${ms}^{-2}$ ?</div>",
+            "option1": "<div>(ক) ${\\pi }^2$</div>",
+            "option2": "<div>(খ) $8{\\pi }^2$</div>",
+            "option3": "<div>(গ) $4{\\pi }^2$</div>",
+            "option4": "<div>(ঘ) ${2\\pi }^2$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৯৫. M ভর ও r ব্যাসার্ধের বৃত্তাকার চাকতির যেকোনো ব্যাসের সাপেক্ষে জড়তারভ্রামকের মান কোনটি?</div>",
+            "option1": "<div>(ক) $\\frac{3}{2}{Mr}^2$</div>",
+            "option2": "<div>(খ) ${Mr}^2$</div>",
+            "option3": "<div>(গ) $\\frac{1}{2}{Mr}^2$</div>",
+            "option4": "<div>(ঘ) $\\frac{1}{4}{Mr}^2$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৯৬. মহাকর্ষ বল কার্যকর হয় যে কণার বিনিময়ের ফলে---</div>",
+            "option1": "<div>(ক) গ্রাভিটন</div>",
+            "option2": "<div>(খ) মেসন</div>",
+            "option3": "<div>(গ) ফোটন</div>",
+            "option4": "<div>(ঘ) নিউট্রন</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৯৭. কৌণিক ভরবেগের মাত্রা সশীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) ${MLT}^{-1}$</div>",
+            "option2": "<div>(খ) ${ML}^2T{}^\\circ $</div>",
+            "option3": "<div>(গ) ${ML}^2T^{-1}$</div>",
+            "option4": "<div>(ঘ) ${ML}^2T^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৯৮. রাস্তার ব্যাংকিং নির্ভর করে---<br>i. বাঁকের ব্যাসার্ধের উপর<br>ii. গাড়ির ভরের উপরে<br>iii. গাড়ির বেগের উপর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৯৯. ক্রিয়া ও প্রতিক্রিয়া বল যথাক্রমে $\\overrightarrow{F_1}$ ও$\\overrightarrow{F_2}$ হলে---<br>i. $\\overrightarrow{F_1}$ $=$ $\\overrightarrow{F_2}$<br>ii. $\\left|\\overrightarrow{F_1}\\right|$ $=$$\\left|\\overrightarrow{F_2}\\right|$<br>iii. $\\overrightarrow{F_1}$. $\\overrightarrow{F_2}$ $=$$\\overrightarrow{F_1}$. $\\overrightarrow{F_2}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৩০০ ও ৩০১ নং পশ্নের উত্তর দাওঃ<br>একটি ঘড়ির কাঁটার দৈর্ঘ্য 3 cm<br>৩০০. সেকেন্ডের কাঁটার প্রান্তের রৈখিক বেগ---</div>",
+            "option1": "<div>(ক) $3.14\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $3.14\\ \\times \\ {10}^{-1}\\ {m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $3.14\\ \\times \\ {10}^{-2}\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $3.14\\ \\times \\ {10}^{-3}\\ {m\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩০১. সেকেন্ডের কাঁটার---<br>i. পর্যায়কাল 1 মিনিট<br>ii. কম্পাঙ্ক $1.6\\ \\times \\ {10}^{-3}\\ Hz$<br>iii. কৌণিক $0.1046\\ rad/sec$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩০২. সবচেয় শক্তিশালী বল হচ্ছে---</div>",
+            "option1": "<div>(ক) মহাকর্ষ বল</div>",
+            "option2": "<div>(খ) তড়িৎ চুম্বকীয় বল</div>",
+            "option3": "<div>(গ) সবল নিউক্লিয় বল</div>",
+            "option4": "<div>(ঘ) দুর্বল নিউক্লিয় বল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩০৩. বলের মাত্রা সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $\\left[{MLT}^{-2}\\right]$</div>",
+            "option2": "<div>(খ) $\\left[{MLT}^{-1}\\right]$</div>",
+            "option3": "<div>(গ) $\\left[ML^2T^{-2}\\right]$</div>",
+            "option4": "<div>(ঘ) $\\left[ML^2T^2\\right]$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩০৪.চিত্রটি নিউটনের কোন সূত্র প্রকাশ করে?</div>",
+            "option1": "<div>(ক) ১ম সূত্র</div>",
+            "option2": "<div>(খ) ২য় সূত্র</div>",
+            "option3": "<div>(গ) ৩য় সূত্র</div>",
+            "option4": "<div>(ঘ) ২য় ও ৩য় সূত্র</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/304.webp"
+        },
+        {
+            "mcqQuestion": "<div>৩০৫.বলের ভারসাম্য নির্দেশ করে---<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/305.webp"
+        },
+        {
+            "mcqQuestion": "<div>৩০৬. নিউটনের গড়ির সূত্র থেকে আমরা জানতে পারি---<br>i. বস্তুর উপর বল ক্রিয়া করলে বস্তুটি ত্বরণ নিয়ে চলতে থাকে<br>ii. বস্তুর ত্বরণ প্রযুক্ত বলের বর্গের সমানুপাতিক<br>iii. বলের অভিমুখই ত্বরণের অভিমুখ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩০৭. নিম্নের তত্ত্বের ভিত্তিতে জানা যায়---<br>i. ভর বৃদ্ধি পেলে স্থিতি জড়তা বৃদ্ধি পায়<br>ii. সবচেয়ে শক্তিশালী বল মহাকর্ষ বল<br>iii. মেসন নামে এক প্রকার কণার পরস্পরিক বিনিময় দ্বারা দুর্বল নিউক্লিয় বলক্রিয়াশীল হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের তথ্য থেকে নিচের ৩০৮ ও ৩০৯ নং প্রশ্নের উত্তর দাওঃ<br>6 kg ভরের একটি বন্দুক থেকে 10 g ভরের একটি বুলেট 300 ${m\\ s}^{-1}$ বের হয়েগেল, বুলেটটি বের হওয়ার সময় একটি বল পেছনের দিকে ধাক্কা দিল।<br>৩০৮. বন্দুকের আদি ভরবেগ কত?</div>",
+            "option1": "<div>(ক) $0.4\\ {kg\\ m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $0.8\\ {kg\\ m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $0.18\\ {kg\\ m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $0\\ {kg\\ m\\ s}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩০৯. বন্দুকটি কত বেগে পেছনে সরে আসবে?</div>",
+            "option1": "<div>(ক) $-0.5\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $0.5\\ {m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $5\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $50\\ {m\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩১০. কৌণিক গতি সূত্র সম্পর্কিত সমীকরণ---<br>i. ${\\mathrm{tan} \\theta =\\frac{v^2}{rg}\\ }$<br>ii. $L=l\\omega $<br>iii. $t=l\\alpha $<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩১১. কোনটি সমান্তরাল অক্ষ উপপাদ্য?</div>",
+            "option1": "<div>(ক) $L=I_x+I_y$</div>",
+            "option2": "<div>(খ) $I=I_G+MK$</div>",
+            "option3": "<div>(গ) $I=I_G+{Mh}^2$</div>",
+            "option4": "<div>(ঘ) $I_G=I+{MK}^2$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩১২. কোনো অক্ষ সাপেক্ষে একটি লৌহ নির্মিত বস্তুর চক্রগতির ব্যাসার্ধ 0.5 m ।বস্তুটির ভর $0.5\\ kg$ হলে এর জড়তার ভ্রামক কত?</div>",
+            "option1": "<div>(ক) $0.050\\ kg\\ m^2$</div>",
+            "option2": "<div>(খ) $0.025\\ kg\\ m^2$</div>",
+            "option3": "<div>(গ) $7.25\\ kg\\ m^2$</div>",
+            "option4": "<div>(ঘ) কোনোটিই নয়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩১৩. কেন্দ্রমূখী বল---<br>i. একটি কার্যহীন বল<br>ii. এটি বস্তুর গতিপথের দিকে ক্রিয়া করে<br>iii. এর মান $\\frac{{mv}^2}{r}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩১৪. একটি গাড়ির নিরাপদে বাঁক দ্ওেয়ার শর্ত হলো---</div>",
+            "option1": "<div>(ক) $v\\le {\\left({\\mathrm{tan} \\alpha \\ rg\\ }\\right)}^{\\frac{1}{2}}$</div>",
+            "option2": "<div>(খ) $v\\ \\le \\left({\\mathrm{tan} \\theta \\ rg\\ }\\right)$</div>",
+            "option3": "<div>(গ) $v\\ &gt;{\\mathrm{tan} \\theta \\ rg\\ }$</div>",
+            "option4": "<div>(ঘ) $v\\ &gt;{\\left({\\mathrm{tan} \\theta \\ \\ rg\\ }\\right)}^{\\frac{1}{2}}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩১৫. 10 kg ভরের কোনো বস্তু 12 ${m\\ s}^{-1}$ বেগে গতিশীল হলে তার ভরবেগহবে---</div>",
+            "option1": "<div>(ক) ${12\\ kg\\ m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) ${10\\ kg\\ m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) ${120\\ kg\\ m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) ${1.2\\ kg\\ m\\ s}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩১৬. 10 kg ভরের একটি স্থির বস্তুর উপর 100 N বল প্রয়োগ করলে ত্বরণ হবে---</div>",
+            "option1": "<div>(ক) $100\\ {m\\ s}^{-2}$</div>",
+            "option2": "<div>(খ) $10\\ {m\\ s}^{-2}$</div>",
+            "option3": "<div>(গ) ${1000\\ m\\ s}^{-2}$</div>",
+            "option4": "<div>(ঘ) $0.1\\ {m\\ s}^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩১৭. বরেল মাত্রা হচ্ছে---</div>",
+            "option1": "<div>(ক) ${MLT}^2$</div>",
+            "option2": "<div>(খ) ${ML}^{-2}T^{-1}$</div>",
+            "option3": "<div>(গ) ${MLT}^{-1}$</div>",
+            "option4": "<div>(ঘ) $M^{-1}{LT}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২১৮. যখন কোনো ব্যবস্থার উপর প্রযুক্ত মোট বাহ্যিক বল শূণ্য হয় তখন নিচের কোনরাশিটির কোনো পরিবর্তন হয় না?</div>",
+            "option1": "<div>(ক) ঘাত বল</div>",
+            "option2": "<div>(খ) ব্যবস্থার কৌণিক ভরবেগ</div>",
+            "option3": "<div>(গ) ব্যবস্থার রৈখিক ভরবেগ</div>",
+            "option4": "<div>(ঘ) কোনোটিই নয়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩১৯. $20\\ {m\\ s}^{-1}$ বেগে চলমান $100\\ kg\\ $ ভরের একটি ট্রাক $150\\ kg\\ $ভরের একটি স্থির ট্রাককে ধাক্কা দিয়ে একসাথে যুক্ত হয়ে যে বেগে চলতে থাকবে তাহলো---</div>",
+            "option1": "<div>(ক) $12.5\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $10\\ {m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $8\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $7.5\\ {m\\ s}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩২০. একটি বল $4\\ kg$ ভরের স্থির বস্তুর উপর ক্রিয়া করায় বস্তু 6 সেকেন্ডে 30${m\\ s}^{-1}$ বেগ প্রাপ্ত হয়। বলের মান কত?</div>",
+            "option1": "<div>(ক) 30 N</div>",
+            "option2": "<div>(খ) 20 N</div>",
+            "option3": "<div>(গ) 18 N</div>",
+            "option4": "<div>(ঘ) কোনোটিই নয়</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩২১. জড়তার ভ্রামকের একক---</div>",
+            "option1": "<div>(ক) $kg\\ m$</div>",
+            "option2": "<div>(খ) $kg\\ m^{-1}$</div>",
+            "option3": "<div>(গ) $kg\\ m^{-2}$</div>",
+            "option4": "<div>(ঘ) $kg\\ m^2$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩২২. জড়তার ভ্রামকের মাত্রা---</div>",
+            "option1": "<div>(ক)$ML^2T^0$</div>",
+            "option2": "<div>(খ) ${ML}^0T^2$</div>",
+            "option3": "<div>(গ) $M^2L^2T^0$</div>",
+            "option4": "<div>(ঘ) ${ML}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩২৩. কোনো দৃঢ় বস্তুর চক্রগতির ব্যাসার্ধ---</div>",
+            "option1": "<div>(ক) $K=\\frac{I}{M}$</div>",
+            "option2": "<div>(খ) $K=\\frac{M}{I}$</div>",
+            "option3": "<div>(গ) $K=\\sqrt{\\frac{I}{M}}$</div>",
+            "option4": "<div>(ঘ) $K=\\sqrt{\\frac{M}{I}}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩২৪. একটি চাকার জড়তার ভ্রামক 2 kg $m^2$ । চাকাটির মিনিটে 30 বার ঘরছে। এরকৌণিক ভরবেগ কত?</div>",
+            "option1": "<div>(ক) $\\pi $</div>",
+            "option2": "<div>(খ) $2\\pi $</div>",
+            "option3": "<div>(গ) $3\\pi $</div>",
+            "option4": "<div>(ঘ) $4\\pi $</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩২৫. টর্ক ${\\mathrm{\\tau }}_1\\ $জড়তার ভ্রামক $I$ এবং কৌণিক ত্বরণ $\\alpha$ এর মধ্যবর্তী সম্পর্ক কোনটি?</div>",
+            "option1": "<div>(ক) $\\tau =\\frac{I}{\\alpha }$</div>",
+            "option2": "<div>(খ) $\\tau =\\sqrt{I\\alpha }$</div>",
+            "option3": "<div>(গ) $\\tau =I^2\\alpha $</div>",
+            "option4": "<div>(ঘ) $\\tau =I\\alpha $</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩২৬. $2\\ kg$ ভরের একটি বস্তুকে 3m দীর্ঘ একটি সুতার প্রান্তে বেঁধে 4 $rad\\s^{-1}$ কৌণিক বেগে ঘুরানো হচ্ছে। সুতার উপর টান হবে---</div>",
+            "option1": "<div>(ক) 50 N</div>",
+            "option2": "<div>(খ) 48 N</div>",
+            "option3": "<div>(গ) 100 N</div>",
+            "option4": "<div>(ঘ) 96 N</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩২৭. M ভরের একটি বস্তু ধ্রব বেগে $X$ অক্ষের সমান্তরালে গতিশীল। মূলবিন্দুরসাপেক্ষে এর কৌণিক ভরবেগ---</div>",
+            "option1": "<div>(ক) শূণ্য</div>",
+            "option2": "<div>(খ) ধ্রব থাকে</div>",
+            "option3": "<div>(গ) বেড়ে যায়</div>",
+            "option4": "<div>(ঘ) কমে যায়</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩২৮. নিউটনে গতির দ্বিথীয় সূত্রে লেখা যায়$m\\overrightarrow{a}=k\\overrightarrow{a}$, এখানে,<br>i. k হচ্ছে একটি সমানুপাতিক ধ্রবক<br>ii. kএর মান রাশিগুলোর এককের উপর নির্ভর করে<br>iii. k এর মান S.I পদ্ধিতিতে 1<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩২৯. দুটি বস্তুর মধ্যে সংঘর্ষ হলে এদের---<br>i. নিজস্ব ভরবেগের পরিবর্তন ঘটে<br>ii. মোট ভরবেগের কোনো পরিবর্তন ঘটে না<br>iii. এদের প্রত্যেকের উপর ঘাত বল ক্রিয়া করে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩৩০. রাস্তার বাঁকে সাইকেল চালানোর সময় আরোহীর গতি কোণ হবে---<br>i. $\\theta ={tan}^{-1}\\frac{v^2}{rg}$<br>ii. $\\theta ={tan}^{-1}\\frac{{\\omega }^2r}{g}$<br>iii. $\\theta ={sin}^{-1}\\frac{v^2}{rg}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৩১. নিচের কোনটি বলের একক প্রকাশ করে?</div>",
+            "option1": "<div>(ক) $kg\\ m\\ s^{-1}$</div>",
+            "option2": "<div>(খ) $kg\\ m\\ s^{-2}$</div>",
+            "option3": "<div>(গ) $kg\\ m\\ $</div>",
+            "option4": "<div>(ঘ) $N\\ m$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৩২. ঘাত-এর একক কিসের অনুরূপ?</div>",
+            "option1": "<div>(ক) $1\\ kg\\ \\times g$</div>",
+            "option2": "<div>(খ) $1\\ kg\\ \\times 1m$</div>",
+            "option3": "<div>(গ) $1\\ kg\\ \\times 1\\ {m\\ s}^{-2}$</div>",
+            "option4": "<div>(ঘ) $1\\ kg\\ {m\\ s}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৩৩. ঘাত-এর একক কিসের অনুরূপ?</div>",
+            "option1": "<div>(ক) বল</div>",
+            "option2": "<div>(খ) ভর</div>",
+            "option3": "<div>(গ) ত্বরণ</div>",
+            "option4": "<div>(ঘ) ভরবেগ</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩৩৪. কৌণিক ভরবেগ কিসের সমান?</div>",
+            "option1": "<div>(ক) ভরবেগ</div>",
+            "option2": "<div>(খ) বল</div>",
+            "option3": "<div>(গ) ভরবেগের ভ্রামক</div>",
+            "option4": "<div>(ঘ) টর্ক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৩৫. রৈখিক বেগ, কৌণিক বেগ ও বৃত্তের ব্যাসার্ধের মধ্যে সম্পর্ক কোনটি?</div>",
+            "option1": "<div>(ক) $\\omega =vr$</div>",
+            "option2": "<div>(খ) $\\omega =\\frac{r}{v}$</div>",
+            "option3": "<div>(গ) $v={\\omega }^2r$</div>",
+            "option4": "<div>(ঘ) $v=\\omega r$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩৩৬. S.I. পদ্ধতিতে জড়তার ভ্রামকের একক কোনটি?</div>",
+            "option1": "<div>(ক) $kg.m^2$</div>",
+            "option2": "<div>(খ) $kg.m$</div>",
+            "option3": "<div>(গ) ${kg}^2.m\\ $</div>",
+            "option4": "<div>(ঘ) $joule$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৩৭. রৈখিক গতির ক্ষেত্রে ভরের যে ভূমিকা, ঘূর্ণনন গতির ক্ষেত্রে কিসের সেভূমিকা?</div>",
+            "option1": "<div>(ক) ওজন</div>",
+            "option2": "<div>(খ) জড়তার ভ্রামক</div>",
+            "option3": "<div>(গ) কৌণিক বেগ</div>",
+            "option4": "<div>(ঘ) কৌণিক ভরবেগ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৩৮. ক্রিয়া ও প্রতিক্রিয়া বল---<br>i. একটি বস্তুর উপর ক্রিয়া করে<br>ii. দ্রটি ভিন্ন বস্তুর ক্রিয়া করে<br>iii. পরস্পরের বিপরীতমুখী<br>iv. এদের যোগফল শূণ্য<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>■ 4 kg ভরবিশিষ্ট একটি বস্তুর উপর 40 N বল 10 s ধরে ক্রিয়া করে।<br>উপরিউক্ত তথ্য থেকে ৩৩৯ ও ৩৪০ নং প্রশ্নের উত্তর দাওঃ<br>৩৩৯. বস্তুটির ভরবেগের পরিবর্তন কত?</div>",
+            "option1": "<div>(ক) $40\\ kg\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $40\\ Ns$</div>",
+            "option3": "<div>(গ) $400\\ kg\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $4\\ kg\\ m\\ s^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৪০. যদি বস্তুর ভর 8 kg হয় তাহলে বস্তুর ভরবেগের পরিবর্তন কত হবে?</div>",
+            "option1": "<div>(ক) $800\\ kg\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $400\\ kg\\ {m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $200\\ kg\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $320\\ kg\\ {m\\ s}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১. বলের ঘাতের একক কোনটি?</div>",
+            "option1": "<div>(ক) $N\\ s$</div>",
+            "option2": "<div>(খ) ${N\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $N\\ m\\ s$</div>",
+            "option4": "<div>(ঘ) $N\\ m\\ s^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২. চক্রগতির ব্যসার্ধের S.I. একক হলো---</div>",
+            "option1": "<div>(ক) কিলোগ্রাম</div>",
+            "option2": "<div>(খ) নিউটন</div>",
+            "option3": "<div>(গ) মিটার</div>",
+            "option4": "<div>(ঘ) ${\\left(সময়\\right)}^২$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩. তিনটি অসমান্তরাল বলের মধ্যে ভারসাম্য প্রতিষ্ঠিত হলে---<br>i. বল তিনটি একই সমতলে থাকবে<br>ii. বল তিনটির ক্রিয়ারেখা একই বিন্দু দিয়ে যাবে<br>iii. যেকোন দুটি বলের লব্ধি তৃতীয় বলের সমান এবং একমুখী হবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪. নিউক্লিয়াস বলতে বুঝায়---</div>",
+            "option1": "<div>(ক) প্রোটন ও ইলেকট্রনকে</div>",
+            "option2": "<div>(খ) ইলেকট্রন ও নিউট্রনকে</div>",
+            "option3": "<div>(গ) প্রোটন ও বেরিয়নকে</div>",
+            "option4": "<div>(ঘ) প্রোটন ও নিউট্রনকে</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৫. বল কোন ধরনের ধর্ম?</div>",
+            "option1": "<div>(ক) বাহ্যিক</div>",
+            "option2": "<div>(খ) অব্যন্তরীণ</div>",
+            "option3": "<div>(গ) প্রাকৃতিক</div>",
+            "option4": "<div>(ঘ) তড়িৎ চৌম্বকীয়</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৬. S.I. পদ্ধতিতে বলের অভিকর্ষীয় একক কী?</div>",
+            "option1": "<div>(ক) গ্রাম-ওজন</div>",
+            "option2": "<div>(খ) নিউটন</div>",
+            "option3": "<div>(গ) কিলোগ্রাম-ওজন</div>",
+            "option4": "<div>(ঘ) পাউন্ড-ওজন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭. কোনো সাইকেল আরোহী 100 মিটার ব্যসার্ধবিশিষ্ট বৃত্তাকার পথে কত বেগে ঘরলেতিনি উল্লম্ব তলের সাথে 30$\\mathrm{{}^\\circ}$ কোণে আনত থাকবেন?</div>",
+            "option1": "<div>(ক) 27.79 m/s</div>",
+            "option2": "<div>(খ) 23.79 m/s</div>",
+            "option3": "<div>(গ) 23.79 m</div>",
+            "option4": "<div>(ঘ) 27.79 s</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮. আপেক্ষিক তত্ত্ব প্রদান করেন কে?</div>",
+            "option1": "<div>(ক) আইজ্যাক নিউটন</div>",
+            "option2": "<div>(খ) আর্কিমিডিস</div>",
+            "option3": "<div>(গ) অ্যালবার্ট আইনস্টাইন</div>",
+            "option4": "<div>(ঘ) ম্যাক্স প্ল্যাঙ্ক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৯. 40 N বল 5 kg ভরের একটি স্থির বস্তুর উপর 4 sec ক্রিয়া করলে বস্তুটি কত বেগপ্রাপ্ত হবে?</div>",
+            "option1": "<div>(ক) $24\\ m\\ s^{-1}$</div>",
+            "option2": "<div>(খ) $32\\ m\\ s^{-1}$</div>",
+            "option3": "<div>(গ) $36\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $40\\ {m\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১০. কোনো বস্তুর জড়তার ভ্রামক নিচের রাশির উপর নির্ভর করে না?</div>",
+            "option1": "<div>(ক) ভর</div>",
+            "option2": "<div>(খ) ভরের বন্টন</div>",
+            "option3": "<div>(গ) কৌণিক বেগ</div>",
+            "option4": "<div>(ঘ) ঘূর্ণন অক্ষ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১১. গতির দ্বিতীয় সূত্রানুসারে কোন সম্পর্কটি সঠিক?</div>",
+            "option1": "<div>(ক) $Fk=ma$</div>",
+            "option2": "<div>(খ) $F\\propto \\sqrt{ma}$</div>",
+            "option3": "<div>(গ) $\\overrightarrow{F}=ma$</div>",
+            "option4": "<div>(ঘ) $J=\\Delta p$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১২. বলের ক্রিয়া রেখা যদি ঘূর্ণন অক্ষকে ছেদ করে তাহলে $\\tau =Fd$ সমীকরণে---</div>",
+            "option1": "<div>(ক) $d=0$</div>",
+            "option2": "<div>(খ) $d=5$</div>",
+            "option3": "<div>(গ) $d=\\propto $</div>",
+            "option4": "<div>(ঘ) $d=10$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৩. যে বল বৃত্তের কেন্দ্রের উপর ব্যসার্ধ বরাবর কেন্দ্রের বাইরের দিকে ক্রিয়াকরে তাকে বলা হয়---</div>",
+            "option1": "<div>(ক) অভিকেন্দ্র</div>",
+            "option2": "<div>(খ) কেন্দ্রমুখী বল</div>",
+            "option3": "<div>(গ) কেন্দ্রাভিগ বল</div>",
+            "option4": "<div>(ঘ) কেন্দ্রবিমুখী বল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৪. সার্কাসে মোটর সাইকেল চাল $`r'$ ব্যাসার্ধের উল্লম্ব বৃত্তে ঘুরছে।সর্বোচ্চ বিন্দুতে বেগ সর্বনিম্ন কত হলে সে পড়ে যাবে না?</div>",
+            "option1": "<div>(ক) $\\sqrt{2gr}$</div>",
+            "option2": "<div>(খ) $\\sqrt{5gr}$</div>",
+            "option3": "<div>(গ) $\\sqrt{3gr}$</div>",
+            "option4": "<div>(ঘ) $\\sqrt{gr}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৫. ব্যাংকিং কোণের রাশিমালা নিচের কোনটি?</div>",
+            "option1": "<div>(ক) $\\theta ={\\mathrm{tan} \\left(\\frac{v^2}{rg}\\right)\\ }$</div>",
+            "option2": "<div>(খ) $\\theta ={\\mathrm{t}{\\mathrm{an}}^{-1} \\left(\\frac{rg}{v^2}\\right)\\ }$</div>",
+            "option3": "<div>(গ) $\\theta ={{sin}^{-1} \\frac{v^2}{rg}\\ }$</div>",
+            "option4": "<div>(ঘ) $\\theta ={\\mathrm{t}{\\mathrm{an}}^{-1} \\left(\\frac{v^2}{rg}\\right)\\ }$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৬. লিফট $3\\ m\\ s^{-2}$ ত্বরণে উপরে উঠলে লিফটে অবস্থিত ব্যক্তিরওজন---$\\left(g=10\\ m\\ s^{-2}\\right)$</div>",
+            "option1": "<div>(ক) 30% কমবে</div>",
+            "option2": "<div>(খ) 15% বাড়বে</div>",
+            "option3": "<div>(গ) 30% বাড়বে</div>",
+            "option4": "<div>(ঘ) 15% কমবে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৭. মহাকর্ষ বল ও বস্তু দুটির---<br>i. ভরের গুণফলের বর্গের সমানুপাতিক<br>ii. মধ্যবর্তী দূরত্বের বর্গের ব্যস্তানুপাকি<br>iii. সংযোগকারীর সরলরেখা বরাবর ক্রিয়াশীল<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮. কোনো বস্তুর উপর প্রযুক্ত নীট বল শূণ্য হলে বস্তুটি সরল পথে---</div>",
+            "option1": "<div>(ক) সমত্বরণে চলতে থাকে</div>",
+            "option2": "<div>(খ) সমমন্দনে চলতে থাকে</div>",
+            "option3": "<div>(গ) সমদ্রুতিতে চলতে থাকে</div>",
+            "option4": "<div>(ঘ) সমবেগে চলতে থাকে</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৯. 36 kg ভরের একটি বস্তুর উপর কত বল প্রয়োগ করলে 1.0 মিনিটে বস্তুটির বেগ 15km/h বৃদ্ধি পাবে?</div>",
+            "option1": "<div>(ক) 2.4 N</div>",
+            "option2": "<div>(খ) 2.5 N</div>",
+            "option3": "<div>(গ) 14.4 N</div>",
+            "option4": "<div>(ঘ) 28.8 N</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২০. তড়িৎ চৌম্বক বলের পাল্লা---</div>",
+            "option1": "<div>(ক) অসীম</div>",
+            "option2": "<div>(খ) ${10}^{-15}\\ m$</div>",
+            "option3": "<div>(গ) ${10}^{-16}\\ m$</div>",
+            "option4": "<div>(ঘ) কোনোটিই নয়</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২১. টর্কের মাত্রা হলো---</div>",
+            "option1": "<div>(ক) ${MLT}^{-2}$</div>",
+            "option2": "<div>(খ) ${ML}^2T^{-1}$</div>",
+            "option3": "<div>(গ) ${ML}^2T^{-2}$</div>",
+            "option4": "<div>(ঘ) $ML^2T^{-3}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২২. রাস্তার ব্যাংকিং নির্ভর করে---<br>i. গাড়ির দ্রুতির উপর<br>ii. বাঁকের ব্যাসার্ধের উপর<br>iii. গাড়ির ভরের উপর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>■ একটি রাস্তা 40 m ব্যাসার্ধে বাঁক নিয়েছে। ঐ স্থানে রাস্তাটি 4m চওড়া এবংউহার ভেতরের কিনারা হতে বাইরের কিনারা 0.8 m উঁচু।<br>উপরের তথ্য ও চিত্র হতে নিচের ২৩-২৫ নং প্রশ্নের উত্তর দাওঃ<br>২৩. ঐ স্থানে কোনো বাহনের আনত কোণ কত হবে?</div>",
+            "option1": "<div>(ক) $0.55{}^\\circ $</div>",
+            "option2": "<div>(খ) $1.55{}^\\circ $</div>",
+            "option3": "<div>(গ) $11.536{}^\\circ $</div>",
+            "option4": "<div>(ঘ) $21.55{}^\\circ $</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/23-25.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৪. ঐ স্থানে রাস্তার ব্যাংকিং কত হবে?</div>",
+            "option1": "<div>(ক) $0.104$</div>",
+            "option2": "<div>(খ) $0.204$</div>",
+            "option3": "<div>(গ) $0.404$</div>",
+            "option4": "<div>(ঘ) $0.804$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৫. সর্বোচ্চ কত বেগে ঐ স্থানে নিরাপদে বাঁক নেওয়া সম্ভব?</div>",
+            "option1": "<div>(ক) $8.85\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $9.94\\ {m\\ s\\ }^{-1}$</div>",
+            "option3": "<div>(গ) $10.94\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $12.94\\ m\\ s^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭. একটি দেয়াল ঘড়ির মিনিটের কাঁটার দৈর্ঘ্য 20 cm হলে, এর প্রান্তের রৈখিকবেগ কত?</div>",
+            "option1": "<div>(ক) $3.49\\ \\times \\ {10}^{-4}\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $9.34\\ \\times \\ {10}^{-4}\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $3.94\\ \\times \\ {10}^{-3}\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $8.34\\ \\times \\ {10}^{-4}\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৮. 10 kg ভরের পড়ন্ত বস্তুর ত্বরণ কত, যখন বাতাসের বাধা 78 N ?</div>",
+            "option1": "<div>(ক) $2.2\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $2.5\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $3.0\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) None</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৯. একজন সাইকেল আরোহী ঘন্টায় 24 km বেগে 30 m ব্যাসার্ধের একটি বৃত্তাকার পথেমোড় নিচ্ছে। তাঁকে উল্লম্বের সাথে কত কোণে হেলে থাকতে হবে?</div>",
+            "option1": "<div>(ক) $8{}^\\circ 30'$</div>",
+            "option2": "<div>(খ) $7{}^\\circ 56'$</div>",
+            "option3": "<div>(গ) $9{}^\\circ 2'$</div>",
+            "option4": "<div>(ঘ) $8{}^\\circ 41'$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২০. M ভরের একটি গতিশক্তি E. এর ভরবেগ হলো---</div>",
+            "option1": "<div>(ক) $\\sqrt{2ME}$</div>",
+            "option2": "<div>(খ) $2ME$</div>",
+            "option3": "<div>(গ) $\\sqrt{\\frac{ME}{2}}$</div>",
+            "option4": "<div>(ঘ) $\\frac{2E}{M}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২১. টর্কের মাত্রা ও বলের মাত্রার অনুপাত কত?</div>",
+            "option1": "<div>(ক) ${MLT}^{-2}$</div>",
+            "option2": "<div>(খ) $L$</div>",
+            "option3": "<div>(গ) ${ML}^2T^{-2}$</div>",
+            "option4": "<div>(ঘ) ${ML}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২২. 500 kg ভরের একটি গাড়ি 60 km/hr বেগে চলে। ব্রেক চেপে গাড়িটিকে 50 m দূরেথামানো হলো। যদি রাস্তার ঘর্ষণজনিত বল 100 N হয়, তবে ব্রেকজনিত বলের মান কত N?</div>",
+            "option1": "<div>(ক) 510</div>",
+            "option2": "<div>(খ) 720</div>",
+            "option3": "<div>(গ) 828</div>",
+            "option4": "<div>(ঘ) 1290</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৩. 0.02 kg ভরের একটি কণা 0.50 m ব্যাসার্ধের বৃত্তের চারিদিকে 3$\\mathrm{\\pi }$ rad/s কৌণিক বেগে ঘুরছে। এই গতির জন্য কোন দিকে কত N বলপ্রয়োজন?</div>",
+            "option1": "<div>(ক) কেন্দ্রমুখী 0.03 $\\mathrm{\\pi }$</div>",
+            "option2": "<div>(খ) কেন্দ্রমুখী 0.003 $\\mathrm{\\pi }$</div>",
+            "option3": "<div>(গ) কেন্দ্রমুখী 0.09 ${\\mathrm{\\pi }}^2$</div>",
+            "option4": "<div>(ঘ) কেন্দ্রবিমুখী 0.09 ${\\mathrm{\\pi }}^2$</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Mcq/23.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৪. 500 kg ভরের একটি গাড়ি 60 km/hr বেগে চলে। ব্রেক চেপে গাড়িটিকে 50 m দূরেথামানো হলো। যদি রাস্তার ঘর্ষণজনিত বল 100 N হয়, তবে ব্রেকজনিত বলের মান কত N?</div>",
+            "option1": "<div>(ক) $510$</div>",
+            "option2": "<div>(খ) $720$</div>",
+            "option3": "<div>(গ) $828$</div>",
+            "option4": "<div>(ঘ) $1190$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৫. একজন সাইকেল চালক 25 সেকেন্ডে 600 m দূরত্বের একটি মোড়ে বাঁক নেয়।উল্লম্বের সাথে তার কোণের মান নির্ণয় কর।</div>",
+            "option1": "<div>(ক) $31{}^\\circ 26'$</div>",
+            "option2": "<div>(খ) $31.62{}^\\circ $</div>",
+            "option3": "<div>(গ) $30{}^\\circ 62'$</div>",
+            "option4": "<div>(ঘ) $31.5{}^\\circ $</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৬. কোন সাইকেল আরোহীকে 60 m দূরত্বের মোড়ে বাঁক নেয়। উল্লম্বের সাথে তারকোণের মান নির্ণয় কর।</div>",
+            "option1": "<div>(ক) $8.18\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $1.88\\ {m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $81.84\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $18.43\\ {m\\ s}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৭. 5kg ভর ও 0.25 m ব্যাসার্ধ বিশিষ্ট একটি বেলন 50 rad/sec কৌণিক বেগে গড়াতেথাকলে তার গতিশক্তি কত?</div>",
+            "option1": "<div>(ক) $0.078\\ J$</div>",
+            "option2": "<div>(খ) $390.63\\ J$</div>",
+            "option3": "<div>(গ) $0.78\\ J$</div>",
+            "option4": "<div>(ঘ) 585.94 J</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৮. 5.0 N এর একটি আনুভূমিক বল একটি 0.50 kg ভরের আয়তাকার বস্তুকে একটিউল্লম্ব দেওয়ালে ধাক্কা দিচ্ছে। বস্তুটি আদিতে স্থির ছিল। যদি স্থৈতিক ও গভীয়ঘর্ষণ গুণাঙ্ক যথাক্রমে ${\\mu }_a=0.6$ এবং ${\\mu }_a=0.8$ হয়, তবে m/s এককেবস্তুটির ত্বরণ কত?</div>",
+            "option1": "<div>(ক) 1.8</div>",
+            "option2": "<div>(খ) 2.0</div>",
+            "option3": "<div>(গ) 6.0 ${ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $8.0$ ${ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৯. কিৗণিক ভরবেগের একক কোনটি?</div>",
+            "option1": "<div>(ক) ${kg\\ m}^2s^{-1}$</div>",
+            "option2": "<div>(খ) $\\mathrm{kg\\ m\\ }s^{-2}$</div>",
+            "option3": "<div>(গ) $\\mathrm{kg\\ m\\ }s^{-1}$</div>",
+            "option4": "<div>(ঘ) ${kg\\ m}^2s^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩০. টর্কের মাত্রা সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $\\left[{ML}^2T^{-1}\\right]$</div>",
+            "option2": "<div>(খ) $\\left[{ML}^2T^{-2}\\right]$</div>",
+            "option3": "<div>(গ) $\\left[{ML}^3T^{-2}\\right]$</div>",
+            "option4": "<div>(ঘ) $\\left[M^2{LT}^{-2}\\right]$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩১. M ভরের এবং R ব্যসার্ধের একটি চাকতি তার কেন্দ্র দিয়ে গষণকারী কোণ অক্ষেরসাপেক্ষে ঘুরছে। চাকতির জড়তার ভ্রামক কত?</div>",
+            "option1": "<div>(ক) ${MR}^2$</div>",
+            "option2": "<div>(খ) ${2MR}^2$</div>",
+            "option3": "<div>(গ) $\\frac{1}{2}{MR}^2$</div>",
+            "option4": "<div>(ঘ) $\\frac{3}{2}{MR}^2$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩২. কৌণিক ভরবেগের মাত্রা সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $\\left[{ML}^2T^{-1}\\right]$</div>",
+            "option2": "<div>(খ) $\\left[{MLT}^{-1}\\right]$</div>",
+            "option3": "<div>(গ) $\\left[{LT}^{-2}\\right]$</div>",
+            "option4": "<div>(ঘ) $\\left[{MLT}^{-2}\\right]$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৩. ক্রিয়া ও প্রতিক্রিয়ার মধ্যবর্তী কোণের মান কত?</div>",
+            "option1": "<div>(ক) 0$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 60$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 90$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 180$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩৪. একটি চাকার ভর 5 kg এবং চক্রগতির ব্যাসার্ধ 25 cm । এর জড়তার ভ্রামক কত?</div>",
+            "option1": "<div>(ক) $0.4125\\ kg\\ m^2$</div>",
+            "option2": "<div>(খ) 0.7125 $kg\\ m^2$</div>",
+            "option3": "<div>(গ) 0.3125 $kg\\ m^2$</div>",
+            "option4": "<div>(ঘ) 0.9125 $kg\\ m^2$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৫. 4 kg ভরের একটি বস্তু খাড়া নিচের দিকে পড়ছে। বাতাসের বাধা 6.2 N হলেবস্তুটির ত্বরণ কত ${ms}^{-2}$ ?</div>",
+            "option1": "<div>(ক) 8.25</div>",
+            "option2": "<div>(খ) 12.25</div>",
+            "option3": "<div>(গ) 24.8</div>",
+            "option4": "<div>(ঘ) 33</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৬. একটি দেয়াল ঘড়ির মিনিটের কাঁটার কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $\\frac{\\pi }{180}rad\\ s^{-1}$</div>",
+            "option2": "<div>(খ) $\\frac{\\pi }{360}rad\\ s^{-1}$</div>",
+            "option3": "<div>(গ) $\\frac{\\pi }{1800}rad\\ s^{-1}$</div>",
+            "option4": "<div>(ঘ) $\\frac{\\pi }{3600}rad\\ s^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৭. কোন সম্পর্ক সঠিক?</div>",
+            "option1": "<div>(ক) $\\overrightarrow{L}=\\overrightarrow{P}\\times \\overrightarrow{r}$</div>",
+            "option2": "<div>(খ) $\\overrightarrow{L}=\\overrightarrow{r}\\times \\overrightarrow{P}$</div>",
+            "option3": "<div>(গ) $\\overrightarrow{L}=\\overrightarrow{r}\\times \\overrightarrow{F}$</div>",
+            "option4": "<div>(ঘ) $\\overrightarrow{L}=\\overrightarrow{P}\\times \\overrightarrow{F}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৮. M ভর এবং a প্রান্তবিশিষ্ট একটি সুষম বর্গাকৃতির চাকতির একটি কর্ণেরসাপেক্ষে এর জড়তার ভ্রামক:</div>",
+            "option1": "<div>(ক) $\\frac{{Ma}^2}{3}$</div>",
+            "option2": "<div>(খ) $\\frac{{Ma}^2}{6}$</div>",
+            "option3": "<div>(গ) $\\frac{{Ma}^2}{9}$</div>",
+            "option4": "<div>(ঘ) $\\frac{{Ma}^2}{12}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩৯. ঘাতবলের (Impulse) মাত্রা কী?</div>",
+            "option1": "<div>(ক) $\\left[{MLT}^{-1}\\right]$</div>",
+            "option2": "<div>(খ) $\\left[{MLT}^{-2}\\right]$</div>",
+            "option3": "<div>(গ) $\\left[{{ML}^{-1}T}^{-1}\\right]$</div>",
+            "option4": "<div>(ঘ) $\\left[{{ML}^{-1}T}^{-2}\\right]$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪০. চাপের মাত্রা---</div>",
+            "option1": "<div>(ক) $\\left[{{ML}^{-1}T}^{-1}\\right]$</div>",
+            "option2": "<div>(খ) $\\left[{{ML}^{-1}T}^{-2}\\right]$</div>",
+            "option3": "<div>(গ) $\\left[{{ML}^{-2}T}^{-2}\\right]$</div>",
+            "option4": "<div>(ঘ) $\\left[{{ML}^{-2}T}^{-1}\\right]$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪১. একটি অক্ষের সাপেক্ষে 1.5 kg ভরের একটি কণার জড়তার ভ্রামক $3.1\\ kg\\ m^2$;অক্ষ থেকে কণাটির লম্ব দূরত্ব কত?</div>",
+            "option1": "<div>(ক) 1.44 m</div>",
+            "option2": "<div>(খ) 3.43 m</div>",
+            "option3": "<div>(গ) 2.07 m</div>",
+            "option4": "<div>(ঘ) 2.44 m</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪২. n ধনাত্মক পূর্ণ সংখ্যা হলে কোনো স্থায়ী কক্ষেপথে আবর্তনশীল ইলেকট্রনেরকৌণিক $l$ ভরবেগ?</div>",
+            "option1": "<div>(ক) nh</div>",
+            "option2": "<div>(খ) nh</div>",
+            "option3": "<div>(গ) $\\frac{nh}{2\\pi }$</div>",
+            "option4": "<div>(ঘ) $\\frac{n2\\pi }{h}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪৩. 3kg ভরের একটি বস্তুর ভরকেন্দের মধ্য দিয়ে গমণকারী একটি অক্ষের সাপেক্ষেবস্তুটির জড়তার ভ্রামক 2.5 kg/$m^2;$ এই অক্ষ থেকে 1.2 m লম্ব দূরত্বে অবস্থিতসমান্তরাল অক্ষের সাপেক্ষে বস্তুটির জড়তার ভ্রামক, ${kg/m}^2$ এককে, কত হবে?</div>",
+            "option1": "<div>(ক) 2.12</div>",
+            "option2": "<div>(খ) 3.94</div>",
+            "option3": "<div>(গ) $\\mathrm{6.82}$</div>",
+            "option4": "<div>(ঘ) $\\mathrm{5.51}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪৪. একটি লিভারের দৈর্ঘ্যের সাথে 30$\\mathrm{{}^\\circ}$ কোণে 10 kg${ms}^{-1}$ বলের ভরবেগে ক্রিয়াশীল লিভারের কৌণিক ভরবেগ 5kg $m^2s^{-2}$ হলেদৈর্ঘ্য কত?</div>",
+            "option1": "<div>(ক) 1m</div>",
+            "option2": "<div>(খ) 2 m</div>",
+            "option3": "<div>(গ) 3 m</div>",
+            "option4": "<div>(ঘ) 4 m</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪৫. 3 kg ভরের একটি গিতিশীল কণার গতিবেগ$\\overrightarrow{v}=2\\hat{i}-2\\hat{j}-\\hat{k}$ । কণার অবস্থান ভেক্টর$\\hat{r}=\\hat{i}-\\hat{j}$ হলে মুলবিন্দু সাপেক্ষে এর কৌণিক ভরবেগ (L) কত?</div>",
+            "option1": "<div>(ক) $\\overrightarrow{L}=-3\\hat{i}+3\\hat{j}$</div>",
+            "option2": "<div>(খ) $\\overrightarrow{L}=3\\hat{i}-2\\hat{j}-\\hat{k}$</div>",
+            "option3": "<div>(গ) $\\overrightarrow{L}=2\\hat{i}-4\\hat{j}-\\hat{k}$</div>",
+            "option4": "<div>(ঘ) $\\overrightarrow{L}=4\\hat{i}-2\\hat{j}-\\hat{k}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪৬. একটি হাত ঘড়ির সেকেন্ড কাঁটার দৈর্ঘ্য 1.7 cm এর প্রান্তের রৈখিক বেগ কত?</div>",
+            "option1": "<div>(ক) $1.178\\ {cm\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $1.78\\ {cm\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $17.8\\ {cm\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $178\\ {cm\\ s}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪৭. 100 kg ভরের একটি লিফট 1.8 ${ms}^{-2}$ ত্বরণে নিচে নামছে। লিফটটির মধ্যেদাঁড়ানো 60 kg ভরের একজন ব্যক্তি কত বল অনুভব করবে?</div>",
+            "option1": "<div>(ক) $340\\ N$</div>",
+            "option2": "<div>(খ) 480$\\ N$</div>",
+            "option3": "<div>(গ) 500 $N$</div>",
+            "option4": "<div>(ঘ) 550 $N$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪৮. একটি বুলেট একটি কাঠের তক্তা ভেদ-করতে পারে। বুলেটটির গতি 4 গুণ বৃদ্ধিকরলে ইহা কয়টি ঐ একই মাপের তক্তা ভেদ করতে পারবে?</div>",
+            "option1": "<div>(ক) 8</div>",
+            "option2": "<div>(খ) 16</div>",
+            "option3": "<div>(গ) 32</div>",
+            "option4": "<div>(ঘ) 64</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪৯. একটি কাঠের খন্ডকে অনুভূমিকের সাথে 60$\\mathrm{{}^\\circ}$ কোণে 200 N বলদ্বারা টানা হচ্ছে। বস্তুটির উপর অনুভূমিকের দিকে কার্যকরী বল কত?</div>",
+            "option1": "<div>(ক) 50 N</div>",
+            "option2": "<div>(খ) 100 N</div>",
+            "option3": "<div>(গ) 300 N</div>",
+            "option4": "<div>(ঘ) 400 N</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫০. 30 kg ভরের একটি স্থির বস্তুর বেগ 2 মিনিটে বৃদ্ধি করে 36 km/hr এ উন্নীতকরার জন্য বস্তুটির উপর কত বল প্রয়োগ করতে হবে?</div>",
+            "option1": "<div>(ক) 2 N</div>",
+            "option2": "<div>(খ) 2.5 N</div>",
+            "option3": "<div>(গ) 300 N</div>",
+            "option4": "<div>(ঘ) 5 N</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫১. একটি কৃত্রিম উপগ্রহ 7000 km ব্যাসার্ধবিশিষ্ট বৃত্তাকার কক্ষপথে পৃথিবীকেপ্রদক্ষিণ করছে। উপগ্রহটির পর্যায়কাল 2 h হলে কেন্দ্রমুখী ত্বরণ কত?</div>",
+            "option1": "<div>(ক) 1.331 ${m/s}^2$</div>",
+            "option2": "<div>(খ) 2.663 ${m/s}^2$</div>",
+            "option3": "<div>(গ) 5.325 ${m/s}^2$</div>",
+            "option4": "<div>(ঘ) 10.650 ${m/s}^2$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫২. ঘড়ির মিনিটের কাঁটার কৌণিক বেগের মান---</div>",
+            "option1": "<div>(ক) 60/$\\mathrm{\\pi }$ rad/s</div>",
+            "option2": "<div>(খ) 1800/$\\mathrm{\\pi }$ rad/s</div>",
+            "option3": "<div>(গ) $\\mathrm{\\pi }$ rad/s</div>",
+            "option4": "<div>(ঘ) $\\mathrm{\\pi }$/180 rad/s</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৫৩. 10,000 kg জ্বালানীসহ একটি রকেটের ভর 15000 kg । জ্বালানী যদি 200 kg/sহারে পুড়ে রকেটের সাপেক্ষে 2000 m/s বেগে নির্গত হয়, তাহলে রকেটের উপরপ্রযুক্ত ধাক্কা যা থ্রাষ্ট কত?</div>",
+            "option1": "<div>(ক) $4\\ \\times \\ {10}^5\\ N$</div>",
+            "option2": "<div>(খ) $4\\ \\times \\ {10}^{-5}\\ N$</div>",
+            "option3": "<div>(গ) $4\\ \\times \\ {10}^4\\ N$</div>",
+            "option4": "<div>(ঘ) $4\\ \\times \\ {10}^6\\ N$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৪. একটি কণা 2.0 ব্যাসার্থের বৃত্তাকার পথে প্রতি মিনিটে 30 বার আবর্তন করে।এর রৈখিক বেগ কত?</div>",
+            "option1": "<div>(ক) $\\pi \\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $2\\pi \\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $4\\ \\pi \\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $0.5\\ \\pi \\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫৫. একটি 13 N ওজনের ও একটি 12 N ওজনের দুইটি বস্তু একটি ভরবিহীন দড়ির দ্বারাঘর্ষণ বিহীন কপিকলের উপর ঝুলন্ত। 13 N ওজনের বস্তুর নিম্নমুখী ত্বরণ মুক্তভাবেপড়ন্ত বস্তুর ত্বরণের যতগুণ তা হলো---</div>",
+            "option1": "<div>(ক) 1/12</div>",
+            "option2": "<div>(খ) 1/13</div>",
+            "option3": "<div>(গ) 1/25</div>",
+            "option4": "<div>(ঘ) 13/25</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫৬. কৌণিক ভরবেগ (angular momentum) এর ক্ষেত্রে কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) $\\overrightarrow{L}=\\overrightarrow{r}\\times \\overrightarrow{p}$</div>",
+            "option2": "<div>(খ) $\\overrightarrow{L}$$=\\overrightarrow{p}\\times \\ \\overrightarrow{r}$</div>",
+            "option3": "<div>(গ) $\\overrightarrow{L}=\\overrightarrow{r}.\\overrightarrow{p}$</div>",
+            "option4": "<div>(ঘ) $\\overrightarrow{L}=\\overrightarrow{p}.\\ \\overrightarrow{r}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৭. 5 টনের একটি ট্রাক ঘন্টায় 36 km বেগে চলছে। এটি 4 m দূরত্বে থামতে হলে কতবলের প্রয়োজন হবে?</div>",
+            "option1": "<div>(ক) 62, 500 N</div>",
+            "option2": "<div>(খ) 63,500 N</div>",
+            "option3": "<div>(গ) 64,500 N</div>",
+            "option4": "<div>(ঘ) 65,500 N</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৮. একটি গাড়ির নিরাপদে বাঁক নেয়ার শর্ত হলো---</div>",
+            "option1": "<div>(ক) $v\\le {\\left({\\mathrm{tan} \\theta \\ }\\ rg\\right)}^{\\frac{1}{2}}$</div>",
+            "option2": "<div>(খ) $v\\le \\left({\\mathrm{tan} \\theta \\ }\\ rg\\right)$</div>",
+            "option3": "<div>(গ) $v&gt;\\left({\\mathrm{tan} \\theta \\ }\\ rg\\right)$</div>",
+            "option4": "<div>(ঘ) $v&gt;{\\left({\\mathrm{tan} \\theta \\ }\\ rg\\right)}^{\\frac{1}{2}}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫৯. একটি কণা 4.5 m বৃত্তাকার পথে প্রতি মিনিটে 225 বার আবর্তন করে। এর রৈখিকবেগ কত?</div>",
+            "option1": "<div>(ক) ${107\\ ms}^{-1}$</div>",
+            "option2": "<div>(খ) ${106\\ ms}^{-1}$</div>",
+            "option3": "<div>(গ) ${108\\ ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) ${109\\ ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬০. 100 kg ভরের এক ব্যক্তি লিফট এ দাঁড়িয়ে আছে। লিফট যদি 2 ${ms}^{-2}$ত্বরণে উপরে উঠতে থাকে তাহলে লোকটির উপর উর্ধ্বমুখী প্রতিক্রিয়া বল হবে---</div>",
+            "option1": "<div>(ক) 1000 N</div>",
+            "option2": "<div>(খ) 1280 N</div>",
+            "option3": "<div>(গ) 1180 N</div>",
+            "option4": "<div>(ঘ) কোনটিই নয়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬১. ${2\\ m\\ s}^{-2}$ ত্বরণে উপরে উঠন্ত একটি লিফটে একটি লোক দাঁড়ানোর ফলেঊর্ধ্বমুখী বল 1180 N হলে লোকটির ভর হচ্ছে---</div>",
+            "option1": "<div>(ক) 50 kg</div>",
+            "option2": "<div>(খ) 100 kg</div>",
+            "option3": "<div>(গ) 60 kg</div>",
+            "option4": "<div>(ঘ) কোনোটিই নয়</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬২. মহাকাশে অবস্থিত একটি শাটল মহাকাশ যানের ভর $3\\ \\times \\ {10}^3kg$ এবংজ্বালানির ভর 80 kg। জ্বালানির 10 ${kg\\ s}^{-1}$ হারে ব্যবহৃত হলে এবং 125${m\\ s}^{-1}$ সুসম দ্রুতিতে নির্গত হলে শাটল যানের উপর ধাক্কার মান নির্ণয়কর।</div>",
+            "option1": "<div>(ক) 750 N</div>",
+            "option2": "<div>(খ) 1000 N</div>",
+            "option3": "<div>(গ) 1500 N</div>",
+            "option4": "<div>(ঘ) 1250 N</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৬৩. 50 g ভরের একটি বস্তুকে একটি 20 cm দৈর্ঘ্যের সুতার এক প্রান্তে বেঁধেবৃত্তাকার পথে প্রতি সেকেন্ডে 3 বার ঘুরানো হচ্ছে বস্তুটির ভর অপরিবর্তিত রেখেসুতার দৈর্ঘ্য দ্বিগুণ করে ঘুরানোর হার অর্ধেক করা হলে ত্বরণ কত গুণ হবে?</div>",
+            "option1": "<div>(ক) 0.5 গুণ</div>",
+            "option2": "<div>(খ) 2 গুণ</div>",
+            "option3": "<div>(গ) অপরিবর্তিত থাকবে</div>",
+            "option4": "<div>(ঘ) 4 গুণ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৬৪. অক্ষের উপর অবস্থিত চারটি বিন্দু-ভরের ভর 1 kg, 2 kg, 3 kg ও 4 kg । ঐঅক্ষ সাপেক্ষে ভরের বিন্যাসটির জড়তার ভ্রামক---</div>",
+            "option1": "<div>(ক) 10 ${kg\\ m}^2$</div>",
+            "option2": "<div>(খ) 30 ${kg\\ m}^2$</div>",
+            "option3": "<div>(গ) 0 ${kg\\ m}^2$</div>",
+            "option4": "<div>(ঘ) কোনটিই নয়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬৫. নিউক্লিয়াসের মধ্যে কোন কণার পারস্পরিক বিনিময়ের দ্বারা সকল নিউক্লিয় বলেরউৎপত্তি হয়?</div>",
+            "option1": "<div>(ক) গ্রাভিটন</div>",
+            "option2": "<div>(খ) নিউট্রিনো</div>",
+            "option3": "<div>(গ) মেসন</div>",
+            "option4": "<div>(ঘ) ইলেকট্রন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬৬. 1200 kg ভরের একটি গাড়ি 20 m/sec দ্রুতিতে চলছিল। অতঃপর গাড়িটি 800 kgভরের একটি স্থির গাড়িকে ধাক্কা দিল। ধাক্কার পর গাড়ি দুটি একত্রিত হয়ে 120 mপিছলায়ে থেমে গেল। বাধাদানকারী বলের মান কত?</div>",
+            "option1": "<div>(ক) 600 N</div>",
+            "option2": "<div>(খ) 800 N</div>",
+            "option3": "<div>(গ) 1000 N</div>",
+            "option4": "<div>(ঘ) 12000 N</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৬৭. চাঁদের রৈখিক বেগ কোনটি?</div>",
+            "option1": "<div>(ক) $2.044\\ {kms}^{-1}$</div>",
+            "option2": "<div>(খ) 1.55 ${kms}^{-1}$</div>",
+            "option3": "<div>(গ) 1.022 ${kms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $5\\ \\times {10}^3\\ {kms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬৮. একটি বৈদ্যুতিক পাখা মিনিটে 3000 বার ঘুরে। সুইচ বন্ধ করার 4 মিনিট পরপাখাটি বন্ধ হয়ে যায়। থেমে যাবার আগে পাখাটি কতবার ঘরবে?</div>",
+            "option1": "<div>(ক) 1500</div>",
+            "option2": "<div>(খ) 3000</div>",
+            "option3": "<div>(গ) 4500</div>",
+            "option4": "<div>(ঘ) 6000</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৬৯. 30 কেজি ভরের একটি বস্তুর উপর কত বল প্রয়োগ করলে 1 মিনিটে এর বেগ 36${kmh}^{-1}$ বৃদ্ধি পাবে?</div>",
+            "option1": "<div>(ক) 4 N</div>",
+            "option2": "<div>(খ) 5 N</div>",
+            "option3": "<div>(গ) 6 N</div>",
+            "option4": "<div>(ঘ) 10 N</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৭০. কোন বৃত্তের ব্যসার্ধের সমান বৃত্তচাপ বৃত্তের কেন্দ্রে যে কোণ উৎপন্ন করেতাকে বলে---</div>",
+            "option1": "<div>(ক) $\\mathrm{\\pi }$ রেডিয়ান</div>",
+            "option2": "<div>(খ) 1 ডিগ্রী</div>",
+            "option3": "<div>(গ) 1 রেডিয়ান</div>",
+            "option4": "<div>(ঘ) কোনটিই নয়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭১. একটি চাকার জড়তার ভ্রামক 2 ${kgm}^2$ । চাকাটি মিনিটে 30 বার ঘরছে। এরকৌণিক ভর বেগ কত?</div>",
+            "option1": "<div>(ক) $\\pi $</div>",
+            "option2": "<div>(খ) 2$\\ \\pi $</div>",
+            "option3": "<div>(গ) 3$\\ \\pi $</div>",
+            "option4": "<div>(ঘ) 4$\\ \\pi $</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৭২. একটি 7.0 kg ভরের বস্তু একটি লিফট এর মেঝের উপর স্থির অবস্থায় আছে। লিফটএর ঊর্ধ্বগামী ত্বরণ 2 ${ms}^{-3}$ হলে বস্তুর মেঝে কর্তৃক বল কত?</div>",
+            "option1": "<div>(ক) 54.6 N</div>",
+            "option2": "<div>(খ) 0.0 N</div>",
+            "option3": "<div>(গ) 68.6 N</div>",
+            "option4": "<div>(ঘ) 82.6 N</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৭৩. অনুভূমিক দিকে গতিশীল 5 kg ভরের একটি লৌহ গোলক 5 ${ms}^{-1}$ বেগে একটিদেয়ালে লম্ভভাবে ধাক্কা খেয়ে 3 ${ms}^{-1}$ বেগে বিপরীত দিকে ফিরে গেলে। বলেরঘাত কত?</div>",
+            "option1": "<div>(ক) $30\\ \\ kg\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $40\\ kg\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $10\\ kg\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $16\\ kg\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৭৪. একটি পানি ভর্তি বালতিকে 160 cm ব্যাসের বৃত্তাকার পথে উলম্বভাবে ঘরানোহচ্ছে যে বালতি উপর হওয়া সত্ত্বেও পানি পড়ছে না। এর বেগ কত?</div>",
+            "option1": "<div>(ক) 270 ${cms}^{-1}$</div>",
+            "option2": "<div>(খ) 160 ${cms}^{-1}$</div>",
+            "option3": "<div>(গ) 280 ${cms}^{-1}$</div>",
+            "option4": "<div>(ঘ) 160 ${cms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭৫. কৌণিক ভরবেগ ও কৌণিক বেগের মধ্যে সম্পর্ক কোনটি?</div>",
+            "option1": "<div>(ক) $L=I\\omega $</div>",
+            "option2": "<div>(খ) $L=\\frac{I}{\\omega }$</div>",
+            "option3": "<div>(গ) $L=\\frac{\\omega }{I}$</div>",
+            "option4": "<div>(ঘ) $L=I{\\omega }^2$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৭৬. 5 N বল কোন বস্তুর উপর 6 s ক্রিয়া করে। বস্তুর ভরবেগের পরিবর্তন কত?</div>",
+            "option1": "<div>(ক) 15 ${kgms}^{-1}$</div>",
+            "option2": "<div>(খ) 30 ${kgms}^{-1}$</div>",
+            "option3": "<div>(গ) 60 ${kgms}^{-1}$</div>",
+            "option4": "<div>(ঘ) 30 ${kgms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৭৭. 30 kg ভরের একটি বস্তুর উপর কত বল প্রয়োগ করলে 1 মিনিটে এর বেগ 36${kmh}^{-1}$ বৃদ্ধি পাবে?</div>",
+            "option1": "<div>(ক) 5 N</div>",
+            "option2": "<div>(খ) 300 N</div>",
+            "option3": "<div>(গ) 108 N</div>",
+            "option4": "<div>(ঘ) 10 N</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৭৮. একটি চাকার ভর 10 kg এবং চক্রগতির ব্যাসার্ধ 0.5 m এর জড়তা ভ্রামক কোনটি?</div>",
+            "option1": "<div>(ক) 1.5 ${kg\\ m}^2$</div>",
+            "option2": "<div>(খ) 2.5 ${kg\\ m}^2$</div>",
+            "option3": "<div>(গ) 2.5 N</div>",
+            "option4": "<div>(ঘ) 0</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৭৯. 4 N এর একটি বল 2 kg ভরের একটি স্থির বস্তুর উপর ক্রিয়া করলে 5 s-এবস্তুটি কত দূরত্ব অতিক্রম করবে?</div>",
+            "option1": "<div>(ক) 15 m</div>",
+            "option2": "<div>(খ) 10 m</div>",
+            "option3": "<div>(গ) 20 m</div>",
+            "option4": "<div>(ঘ) 5 m</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৮০. 0.2 kg ভরের একটি পাথরকে 0.6 m লম্বা একটি সুতার সাহায্যে বেঁধে আনুভূমিকবৃত্তাকার পথে প্রতি সেকেন্ডে 2.5 বার ঘুরানো হচ্ছে। সুতার টান কত?</div>",
+            "option1": "<div>(ক) 30 N</div>",
+            "option2": "<div>(খ) 29.6 N</div>",
+            "option3": "<div>(গ) 28.8 N</div>",
+            "option4": "<div>(ঘ) 27 N</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৮১. একটি ধাতব গোলকের ভর 6 g । এটিকে 3 m দীর্ঘ একটি সুতার এক প্রান্তে বেঁধেপ্রতি সেকেন্ডে 4 বার ঘরানো হচ্ছে। এর কৌণিক ভরবেগ কত ${kgm}^2s^{-1}$?</div>",
+            "option1": "<div>(ক) 0.36</div>",
+            "option2": "<div>(খ) 0.46</div>",
+            "option3": "<div>(গ) 0.54</div>",
+            "option4": "<div>(ঘ) 0.86</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮২. একটি চাকতির ব্যাস 2 m ও ভর 20 kg । 1000 rpm কৌণিক দ্রুতিতে চাকতিরকৌণিক ভরবেগ---</div>",
+            "option1": "<div>(ক) 1200 $\\mathrm{\\pi }$ ${kgm}^2s$</div>",
+            "option2": "<div>(খ) 1400 $\\mathrm{\\pi }$ ${kgm}^2s$</div>",
+            "option3": "<div>(গ) 1400 $\\mathrm{\\pi }$ ${kgm}^2s^{-1}$</div>",
+            "option4": "<div>(ঘ) 1200 $\\mathrm{\\pi }$ ${kgm}^2s^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৮৩. কৌণিক ভরবেগের সংরক্ষণ সূত্রের জন্য কোনটি সত্য?</div>",
+            "option1": "<div>(ক) $L=ধ্রবক$</div>",
+            "option2": "<div>(খ) $P=ধ্রবক$</div>",
+            "option3": "<div>(গ) $\\tau =ধ্রবক$</div>",
+            "option4": "<div>(ঘ) $D=ধ্রবক$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮৪. কোনটি লম্ব অক্ষ উপপাদ্য?</div>",
+            "option1": "<div>(ক) $L=lx+ly$</div>",
+            "option2": "<div>(খ) $lz=lx+ly$</div>",
+            "option3": "<div>(গ) $l=l_o+MK$</div>",
+            "option4": "<div>(ঘ) $l=l_0+{Mh}^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৮৫. সর্বাপেক্ষা দুর্বল মৌলিক বল কোনটি?</div>",
+            "option1": "<div>(ক) তড়িৎ চুম্বক বল</div>",
+            "option2": "<div>(খ) সবল নিউক্লিয় বল</div>",
+            "option3": "<div>(গ) মহাকর্ষ বল</div>",
+            "option4": "<div>(ঘ) দুর্বল নিউক্লিয় বল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮৬. কোন ধরনের কণার বিনিময়ের ফলে মহাকর্ষ বল ক্রিয়াশীল হয়?</div>",
+            "option1": "<div>(ক) নিউট্রন</div>",
+            "option2": "<div>(খ) মেসন</div>",
+            "option3": "<div>(গ) প্রাতিটন</div>",
+            "option4": "<div>(ঘ) ফোটন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮৭. 60 kg ভরের একটি বস্তুর উপর কত বল প্রয়োগ করলে ১ মিনিটে এর বেগ $10\\{ms}^{-1}$ বৃদ্ধি পাবে?</div>",
+            "option1": "<div>(ক) 20 N</div>",
+            "option2": "<div>(খ) 40 N</div>",
+            "option3": "<div>(গ) 10 N</div>",
+            "option4": "<div>(ঘ) 50 N</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৮৮. 10 kg ভরের একটি বস্তু 12 ${ms}^{-1}$ বেগে চললে ভরবেগের পরিমাণ কত?</div>",
+            "option1": "<div>(ক) 12 kg ${ms}^{-1}$</div>",
+            "option2": "<div>(খ) 10 kg ${ms}^{-1}$</div>",
+            "option3": "<div>(গ) 1.2 kg ${ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) 120 kg ${ms}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৮৯. পিচ্ছিল বরফের উপর ১ কেজি ওজনের একটি পাথর ${2ms}^{-1}$ বেগের চলার ১০সে.পর ঘর্ষণের ফলে থেমে গেল, এখানে ঘর্ষণ বল কত?</div>",
+            "option1": "<div>(ক) 2 N</div>",
+            "option2": "<div>(খ) 0.2 N</div>",
+            "option3": "<div>(গ) 20 N</div>",
+            "option4": "<div>(ঘ) কোনটিই সঠিক নয়</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯০. যদি একটি হাতঘড়ির সেকেন্ডের কাঁটার দৈর্ঘ্য 1 cm হয়। তাহলে এর প্রান্তেররৈখিক বেগ কত হবে?</div>",
+            "option1": "<div>(ক) $0.1047\\ cm/sec$</div>",
+            "option2": "<div>(খ) 0.1052 $cm/sec$</div>",
+            "option3": "<div>(গ) 0.0105 $cm/sec$</div>",
+            "option4": "<div>(ঘ) 0.1470 $cm/sec$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯১. কোনটি মহাবিশ্বের মৌলিক বলের অন্তর্ভুক্ত নয়?</div>",
+            "option1": "<div>(ক) মহাকর্ষ বল</div>",
+            "option2": "<div>(খ) তড়িৎ চৌম্বক বল</div>",
+            "option3": "<div>(গ) নিউক্লীয় দুর্বল বল</div>",
+            "option4": "<div>(ঘ) ঘাত বল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৯২. রেলপথ যেখানে বেঁকে গেছে, সেখানে বাঁকে বাইরের দিকের লাইনটিকে একটু উঁচুকরা হয়। কোন বলের যোগান দিতে এটি করা হয়ে থাকে?</div>",
+            "option1": "<div>(ক) কেন্দ্রমুখী</div>",
+            "option2": "<div>(খ) ঘর্ষণ বল</div>",
+            "option3": "<div>(গ) মহাকর্ষ বল</div>",
+            "option4": "<div>(ঘ) তড়িৎ চৌম্বক বল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯৩. দ্বন্দের ভ্রামকের ক্ষেত্রে কোনটি সঠিক নয়?</div>",
+            "option1": "<div>(ক) দ্বন্দের ভ্রামক= বল $\\mathrm{\\times}$ দূরত্ব</div>",
+            "option2": "<div>(খ) ঘড়ি সমাবর্তী ঘূণন সৃষ্টিকারী দ্বন্দের ভ্রামক হলো ঋণাত্মক</div>",
+            "option3": "<div>(গ) মাত্রা সীমাকরণ $\\left[{ML}^1I^{-2}\\right]$</div>",
+            "option4": "<div>(ঘ) ঘূর্ণন অক্ষের অবস্থানের উপর নির্ভরশীল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৯৪. একটি চাকার ভর 10 kg এবং চক্রগতির ব্যাসার্ধ 0.5 m এর জড়তার ভ্রামক কত?</div>",
+            "option1": "<div>(ক) 50 kg $m^2$</div>",
+            "option2": "<div>(খ) 50 kg $m^2$</div>",
+            "option3": "<div>(গ) 2.5 kg $m^2$</div>",
+            "option4": "<div>(ঘ) 2.5 kg m</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৯৫. বলের মোমেন্টের একক কোনটি?</div>",
+            "option1": "<div>(ক) নিউটন মিটার</div>",
+            "option2": "<div>(খ) নিউটন ${মিটার}^{\\mathrm{\\ \\ }২}$</div>",
+            "option3": "<div>(গ) নিউটন/মিটার</div>",
+            "option4": "<div>(ঘ) নিউটন/${মিটার}^{\\mathrm{\\ \\ }২}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯৬. একটি চাকার ভর 10 kg এবং চক্রগতির ব্যাসার্ধ 0.5 m এর জড়তার ভ্রামক কত?</div>",
+            "option1": "<div>(ক) 2.5 kg $m^2$</div>",
+            "option2": "<div>(খ) 2.5 kg $m^2$</div>",
+            "option3": "<div>(গ) 5 kg $m^2$</div>",
+            "option4": "<div>(ঘ) 50 kg m</div>",
+            "mcqAnswer": "a"
+        }
+    ]
+}

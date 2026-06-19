@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "title": "Formation Change",
+      "text": "1. Change Formation on the Right\n2. Change Formation on the Left"
+    },
+    {
+      "text": ""
+    },
+    {
+      "title": "Change Formation on the Left",
+      "text": "Command: Squad, threes by the left, on the left, form squad.",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/OnTheLeft.gif"
+    },{
+      "title": "Change Formation on the Right",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/OnTheRIght.gif"
+    }
+  ]
+}

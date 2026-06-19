@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "title": "Squad",
+      "text": "A squad is a small group of people, often 8-14 in number, organized for a specific purpose, such as military operations, law enforcement, sports, or business projects."
+    },
+    {
+      "text": "Squad Formartions can be 2 types-"
+    },
+    {
+      "title": "1. Squad In-Line Formation",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInLine.png"
+    },
+    {
+      "title": "2. Squad In-Threes Formation",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInThrees.png"
+    }
+  ]
+}

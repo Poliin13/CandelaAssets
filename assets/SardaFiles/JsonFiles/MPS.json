@@ -1,0 +1,417 @@
+{
+  "subjectName": "MPS Course",
+  "chapters": [
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterName": "Jurisprudence and Criminal Justice System",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_Jurisprudence.png",
+      "topicsData": [
+        {
+          "id": "1727794499718",
+          "topicName": "Jurisprudence - Polin",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/101.Jurisprudence/JurisprudencePolin.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727965088593",
+          "topicName": "Criminal Justice - Polin",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/101.Jurisprudence/CriminalJustice-Polin.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727964620359",
+          "topicName": "Jurisprudence & Criminal Justice - Manash ",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/101.Jurisprudence/JurisprudenceManoshDa.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "173020311532315",
+          "topicName": "Jurisprudence - Sohel",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/101.Jurisprudence/Jurisprudence-Sohel.pdf",
+          "htmlLink": null
+        }
+      ]
+    },
+    {
+      "id": "beb3ed3c-de11-4570-8042-4480ff04d8af",
+      "chapterName": "Constitution of BD",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_Constitution.png",
+      "topicsData": [
+        {
+          "id": "1727965205363",
+          "topicName": "Constitution - Manas",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/102.Constitution/Constitution-Manas.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727965225752",
+          "topicName": "Constitution - Polin",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/102.Constitution/Constitution-polin.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727965251646",
+          "topicName": "Constitution - Sohel",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/102.Constitution/Constitution-Shohel.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727965dafd251646",
+          "topicName": "Constitution Classification - Sohel",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/102.Constitution/ClassificationOfConstitution-sohel.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727965268605",
+          "topicName": "Constitution Full PDF",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/102.Constitution/Constitution-full.pdf",
+          "htmlLink": null
+        }
+      ]
+    },
+    {
+      "id": "c566e677-8913-42a6-9b72-cd3d33a49cf3",
+      "chapterName": "Criminology and Criminal Psychology",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_Criminology.png",
+      "topicsData": [
+        {
+          "id": "1727965733223",
+          "topicName": "Criminology - Polin",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/103.Criminology/Polin-Criminology.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727965749606",
+          "topicName": "Criminology - Manash",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/103.Criminology/Manas-Criminology.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727965758692",
+          "topicName": "Criminology - Sohel",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/103.Criminology/Sohel-Criminoligy.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "172796572312358692",
+          "topicName": "Parole & Probation - Sohel",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/103.Criminology/SohelParoleAndProbation.pdf",
+          "htmlLink": null
+        }
+      ]
+    },
+    {
+      "id": "7962cb45-2f19-4f74-a4ac-f8db9f7f0eaf",
+      "chapterName": "Human Rights",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_HR.png",
+      "topicsData": [
+        {
+          "id": "1727969268921",
+          "topicName": "HR - Polin",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/104.HumanRights/Polin-HR.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727969280298",
+          "topicName": "HR - Manas",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/104.HumanRights/Manas-HR.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727969296156",
+          "topicName": "HR(Biswajit Sir) - Manas",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/104.HumanRights/Manas-Biswajit.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727969314766",
+          "topicName": "HR - Sohel",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/104.HumanRights/Shohel-HR.pdf",
+          "htmlLink": null
+        }
+      ]
+    },
+    {
+      "id": "0d8c24d7-f9dc-41c0-8068-96de8ea23c5b",
+      "chapterName": "The Penal Code",
+     "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_PenalCode.png",
+      "topicsData": [
+        {
+          "id": "1727970467833",
+          "topicName": "Penal - Polin",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/105.PenalCode/Polin-PenalCode.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727970482143",
+          "topicName": "Penal - Manas-1",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/105.PenalCode/Manas-Penal-1.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727970495442",
+          "topicName": "Penal - Manas-2",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/105.PenalCode/Manas-Penal-2.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727970509151",
+          "topicName": "Full Penal Code",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/105.PenalCode/PenalCode-full.pdf",
+          "htmlLink": null
+        }
+      ]
+    },
+    {
+      "id": "1725114434442",
+      "chapterName": "The Code of Criminal Procedure",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_CrPC.png",
+      "topicsData": [
+        {
+          "id": "1727970694460",
+          "topicName": "CrPC - Polin",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/106.CrPC/Polin-CrPC.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727970706767",
+          "topicName": "CrPC - Manas",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/106.CrPC/Manas-CrPC.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "17279707062313767",
+          "topicName": "CrPC - Sohel",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/106.CrPC/Sohel-CrPC.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727970717283",
+          "topicName": "Full CrPC",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/106.CrPC/CrPC-full.pdf",
+          "htmlLink": null
+        }
+      ]
+    },
+    {
+      "id": "1725114448692",
+      "chapterName": "The Evidence Act",
+     "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_EvidenceAct.png",
+      "topicsData": [
+        {
+          "id": "1727970qweqw831015",
+          "topicName": "EA - Polin (Basic & MPS)",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/107.EvidenceAct/EA-Combined.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727970831015",
+          "topicName": "EA - Polin",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/107.EvidenceAct/Polin-EA.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727970848166",
+          "topicName": "EA - Manas",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/107.EvidenceAct/Manas-EA.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727970848123213166",
+          "topicName": "EA - Sohel",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/107.EvidenceAct/Evidence_Act_sohel.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727970868044",
+          "topicName": "EA - Full",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/107.EvidenceAct/EA-Full.pdf",
+          "htmlLink": null
+        }
+      ]
+    },
+    {
+      "id": "1725377000056",
+      "chapterName": "Other Penal Laws",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_Other.png",
+      "topicsData": [
+        {
+          "id": "1727971396534",
+          "topicName": "Minor Acts - Polin",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/108.OtherPenalLaws/Polin-MinorActs.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727971423420",
+          "topicName": "Minor Acts - Manas",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/108.OtherPenalLaws/Manas-MinorActs.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "17279714234234230",
+          "topicName": "Minor Acts - Sohel",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/108.OtherPenalLaws/Sohel-OtherPenalLaws.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727971489185",
+          "topicName": "Anti - Terrorism",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/108.OtherPenalLaws/AntiTerrorism_Act2009.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1728012311720",
+          "topicName": "Anti-Corruption ",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/108.OtherPenalLaws/Anti-corruption%20Commission%20act.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1728012354264",
+          "topicName": "Childrens Act, 2013",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/108.OtherPenalLaws/children%20act%20-%20english.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1728012407518",
+          "topicName": "Cyber Security Act, 2023",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/108.OtherPenalLaws/Cyber%20Security%20Act%202023%20english%20version.pdf.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1728012447305",
+          "topicName": "Police Act, 1861",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/108.OtherPenalLaws/Police%20act,%201861.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1728012481821",
+          "topicName": "RTI Act, 2009",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/108.OtherPenalLaws/RTI%20act,%202009.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1728012509020",
+          "topicName": "Special Powers Act, 1974",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/108.OtherPenalLaws/special%20powers%20act%201974.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1728012577767",
+          "topicName": "Human Trafficking Act, 2012",
+          "contentData": []
+        },
+        {
+          "id": "1728012617538",
+          "topicName": "Nari-o-shishu, 2000",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/108.OtherPenalLaws/Nari%20o%20shishu%20nirjaton%20domon%20ain,%202000.pdf",
+          "htmlLink": null
+        }
+      ]
+    },
+    {
+      "id": "1725377139854",
+      "chapterName": "Research Methodology and Assignment",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_Research.png",
+      "topicsData": [
+        {
+          "id": "1727971008376",
+          "topicName": "Research Assaignment",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/109.Research/Report%20on%20Legal%20Research.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727971077480",
+          "topicName": "Research Theory - Polin",
+          "contentData": [],
+          "pdfLink": "##/SardaFiles/MPS/109.Research/Polin-Research.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727971102553",
+          "topicName": "Research Theory - Manas",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/109.Research/Manas-Research.pdf",
+          "htmlLink": null
+        }
+      ]
+    },
+    {
+      "id": "1727793063869",
+      "chapterName": "Police Regulations of Bengal",
+
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/Logo_PRB.png",
+      "topicsData": [
+        {
+          "id": "1727971177467",
+          "topicName": "PRB - Polin",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/110.PRB/PRB-Polin.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727971207139",
+          "topicName": "PRB - Manas",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/110.PRB/PRB-ManoshDa.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727971213084",
+          "topicName": "PRB - Sohel",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/110.PRB/PRB_Shohel_Shefat_Vai_65.pdf",
+          "htmlLink": null
+        },
+        {
+          "id": "1727971220812",
+          "topicName": "PRB - Full",
+          "contentData": [],
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/MPS/110.PRB/PRB-full.pdf",
+          "htmlLink": null
+        }
+      ]
+    }
+  ]
+}

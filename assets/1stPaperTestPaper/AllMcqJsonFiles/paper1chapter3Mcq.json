@@ -1,0 +1,2961 @@
+﻿{
+    "mcqQuestionList": [
+        {
+            "mcqQuestion": "<div>১. নিচের লেখচিত্র অনুযায়ী $t=0\\ s$ হতে $t=10\\ s$ সময়ে বস্তুটির অতিক্রান্তদূরত্ব কত হবে?</div>",
+            "option1": "<div>(ক) $60\\ m$</div>",
+            "option2": "<div>(খ) $50\\ m$</div>",
+            "option3": "<div>(গ) $40\\ m$</div>",
+            "option4": "<div>(ঘ) $30\\ m$</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/1.webp"
+        },
+        {
+            "mcqQuestion": "<div>২. আনুভূমিকের সাথে 45$\\mathrm{{}^\\circ}$ কোণে নিক্ষিপ্ত একটি বস্তুরআনুভূমিক পাল্লা $100\\ m$ । সর্বোচ্চ উচ্চতা কত?</div>",
+            "option1": "<div>(ক) $14.43\\ m$</div>",
+            "option2": "<div>(খ) $17.68\\ m$</div>",
+            "option3": "<div>(গ) $25.00\\ m$</div>",
+            "option4": "<div>(ঘ) $43.00\\ m$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩. কোন লেকচিত্রটি স্থির অবস্থান হতে সমত্বরণে গতিশীল বস্তুর চলার পথ নির্দেশকরে?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/3.webp"
+        },
+        {
+            "mcqQuestion": "<div>৪. প্রাসের গতিপথের সর্বোচ্চ উচ্চতায়-</div>",
+            "option1": "<div>(ক) বেগ শূন্য</div>",
+            "option2": "<div>(খ) স্থিতিশক্তি শূ্ন্য</div>",
+            "option3": "<div>(গ) বেগ ও ত্বরণের ডট গুণফল শূন্য</div>",
+            "option4": "<div>(ঘ) বেগ ও ত্বরণের ক্রম গুণফল শূন্য</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫. $t$ সময় পরে $x=6t$ এবং $y=8t-5t^2$ হলে ঐ মুহূর্তে প্রাসের নিক্ষেপণ বেগহবে-</div>",
+            "option1": "<div>(ক) $10\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $5\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $6\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $8\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৬. একটি বস্তুকে $180\\ m$ উঁচু একটি মিনারের চূড়া হতে ছেড়ে দেয়া হলো। একই সময়েঅন্য একটি বস্তুকে $60\\ {ms}^{-1}$ বেগে খাড়া উপরের দিকে নিক্ষেপ করা হলো। কখনবস্তুদ্বয় পরস্পর মিলিত হবে?</div>",
+            "option1": "<div>(ক) $1\\ sec$</div>",
+            "option2": "<div>(খ) $2\\ sec$</div>",
+            "option3": "<div>(গ) $3\\ sec$</div>",
+            "option4": "<div>(ঘ) $4\\ sec$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭. একটি ফুটবলকে অনুভূমিকের সাথে 30$\\mathrm{{}^\\circ}$ কোণে $40\\ {ms}^{-1}$বেগে কিক করা হলো। $2\\ sec$ পর এর বেগ কত হবে?</div>",
+            "option1": "<div>(ক) $30.64\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $32.64{ms}^{-1}$</div>",
+            "option3": "<div>(গ) $34.64\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ)$\\ 36.64\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮. খাড়া উপরের দিকে নিক্ষিপ্ত বস্তুর অনুভূমিক দূরত্ব $R$ এর মান কত?</div>",
+            "option1": "<div>(ক) $R=R_{max}$</div>",
+            "option2": "<div>(খ) $R=\\frac{v_0}{2}$</div>",
+            "option3": "<div>(গ) $R=\\frac{v_0}{g}$</div>",
+            "option4": "<div>(ঘ) $R=0$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৯. বেগের মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) $LT^{-1}$</div>",
+            "option2": "<div>(খ) $L^{-1}T$</div>",
+            "option3": "<div>(গ) $L^2T$</div>",
+            "option4": "<div>(ঘ) $L^2T^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১০. প্রাসের গতিপথের যে কোনো বিন্দুতে ত্বরণের অনুভূমিক উপাংশ-</div>",
+            "option1": "<div>(ক) $g$</div>",
+            "option2": "<div>(খ) $-g$</div>",
+            "option3": "<div>(গ) $\\frac{g}{2}$</div>",
+            "option4": "<div>(ঘ) শূন্য</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১১. তির্যকভাবে ক্ষিপ্ত বস্তুর গতি কীরূপ?</div>",
+            "option1": "<div>(ক) একমাত্রিক অসমত্বরণ সম্পন্ন</div>",
+            "option2": "<div>(খ) একমাত্রিক সমত্বরণ সম্পন্ন</div>",
+            "option3": "<div>(গ) দ্বিমাত্রিক অসমত্বরণ সম্পন্ন</div>",
+            "option4": "<div>(ঘ) দ্বিমাত্রিক সমত্বরণ সম্পন্ন</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১২. চিত্রে সমৃণ আনত তল বেয়ে গড়িয়ে পড়া বস্তুর ত্বরণ-</div>",
+            "option1": "<div>(ক) $g$</div>",
+            "option2": "<div>(খ) $g{\\mathrm{sin} \\theta \\ }$</div>",
+            "option3": "<div>(গ) $g{\\mathrm{cos} \\theta \\ }$</div>",
+            "option4": "<div>(ঘ) শূন্য</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/12.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৩. নিচের কোন লেখচিত্রটি (দূরত্ব $s$ বনাম সময় $t$) সম্ভব নয়?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/13.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৪. প্রক্ষেপের বিচরণকালের সমীকরণ-</div>",
+            "option1": "<div>(ক) $T=\\frac{v_0{\\mathrm{sin} {\\theta }_0\\ }}{g}$</div>",
+            "option2": "<div>(খ) $T=\\frac{2v_0{\\mathrm{sin} {\\theta }_0\\ }}{g}$</div>",
+            "option3": "<div>(গ) $T=\\frac{v^2_0{\\mathrm{sin} {\\theta }_0\\ }}{g}$</div>",
+            "option4": "<div>(ঘ) $T=\\frac{v^2_0\\ {{sin}^2_0 {\\theta }_0\\ }}{g}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৫. স্থিরাবস্থা থেকে যাত্রা শুরু করে একটি বস্তু প্রথম সেকেন্ডে $2\\ m$দূরত্ব অতিক্রম করে, পরবর্তী $2\\ m$ দূরত্ব অতিক্রম করতে কত সময় লাগবে?</div>",
+            "option1": "<div>(ক) $0.41$ সে.</div>",
+            "option2": "<div>(খ) $1.0$ সে.</div>",
+            "option3": "<div>(গ) $1.41$ সে.</div>",
+            "option4": "<div>(ঘ) $2.0$ সে.</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৬. একটি গতিশীল বস্তুকণার বেগ $v=(10+{4t}^2)$ সমীকরণ দ্বারা প্রকাশ করা হয়।3 সেকেন্ড পরে বস্তুটির ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $34\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $34\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $24\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $24\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৭. $4\\ kg$ ভরের একটি পাথরকে $100\\ m$ উঁচু বিল্ডিংয়ের উপর থেকে ছেড়ে দেওয়াহলে ভূমিতে পতিত হতে কত সময় লাগবে?</div>",
+            "option1": "<div>(ক) 3.2 সে.</div>",
+            "option2": "<div>(খ) 4.5 সে.</div>",
+            "option3": "<div>(গ) 10.2 সে.</div>",
+            "option4": "<div>(ঘ) 20.4 সে.</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮. ঘড়ির মিনিটের কাঁটার দৈর্ঘ্য কমলে-</div>",
+            "option1": "<div>(ক) রৈখিক বেগ বাড়ে, কৌণিক বেগ বাড়ে</div>",
+            "option2": "<div>(খ) রৈখিক বেগ কমে, কৌণিক বেগ কমে</div>",
+            "option3": "<div>(গ) রৈখিক বেগ স্থির থাকে, কৌণিক বেগ বাড়ে</div>",
+            "option4": "<div>(ঘ) রৈখিক বেগ কমে, কৌণিক বেগ স্থির থাকে</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৯. একটি বস্তুকে আদিবেগে খাড়া উপরের দিকে নিক্ষেপ করা হলো। নিচের কোন রাশিটিএর সর্বোচ্চ উচ্চতা নির্দেশ করে?</div>",
+            "option1": "<div>(ক) $H=\\frac{v_0}{g}$</div>",
+            "option2": "<div>(খ) $H=\\frac{v_0}{2g}$</div>",
+            "option3": "<div>(গ) $H=\\frac{v^2_0}{2g}$</div>",
+            "option4": "<div>(ঘ) $H=\\frac{v^2_0}{g}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২০. একটি বস্তুর বেগ $v\\left(t\\right)=({6t}^2+2t)\\ {ms}^{-1}$. $2s$ পরবস্তুটির সরণ কত?</div>",
+            "option1": "<div>(ক) $20\\ m$</div>",
+            "option2": "<div>(খ) $26\\ m$</div>",
+            "option3": "<div>(গ) $28\\ m$</div>",
+            "option4": "<div>(ঘ) $56\\ m$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২১. স্থিরাবস্থা থেকে কোনো বস্তুকণা সুষম ত্বরণে আনুভূমিক সরলরেখা বরাবরযাত্রা শুরু করল। চতুর্থ ও তৃতীয় সেকেন্ডে অতিক্রান্ত দূরত্বের অনুপাত হবে-</div>",
+            "option1": "<div>(ক) $\\frac{4}{3}$</div>",
+            "option2": "<div>(খ) $\\frac{26}{9}$</div>",
+            "option3": "<div>(গ) $\\frac{7}{5}$</div>",
+            "option4": "<div>(ঘ) $2$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২২. বৃত্তাকার পথে সমান সময়ে সমান কৌণিক দূরত্ব অতিক্রমকারী কোনো কণার রৈখিকবেগের-</div>",
+            "option1": "<div>(ক) শুধু মানের পরিবর্তন হবে</div>",
+            "option2": "<div>(খ) ধ্র্রুবক হবে</div>",
+            "option3": "<div>(গ) শুধু দিকের পরিবর্তন হবে</div>",
+            "option4": "<div>(ঘ) মান ও দিক উভয়ই পরিবর্তন হবে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৩. $3\\ {ms}^{-2}$ ত্বরণে একটি লিফট নিচের দিকে নামছে। লিফটটি যখন ভূমি থেকে$13.6\\ m$ উপরে ছিল তখন একটি বল লিফট থেকে ছেড়ে দেওয়া হলো। ভূমি স্পর্শ করতেবলেটির কত সময় লাগবে?</div>",
+            "option1": "<div>(ক) $1\\ s$</div>",
+            "option2": "<div>(খ) $2\\ s$</div>",
+            "option3": "<div>(গ) $3\\ s$</div>",
+            "option4": "<div>(ঘ) $4\\ s$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৪. বিনা বাধায় খাড়াভাবে নিক্ষিপ্ত বস্তুর সর্বাধিক উচ্চতায় উঠবার প্রয়োজনীয়সময়ের ক্ষেত্রে কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) $\\frac{u^2}{2g}$</div>",
+            "option2": "<div>(খ) $\\frac{u}{2g}$</div>",
+            "option3": "<div>(গ) $\\frac{2u}{g}$</div>",
+            "option4": "<div>(ঘ) $\\frac{u}{g}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৫. একটি গাড়ির প্রথম $x$ মিনিটে $y\\ km$ এবং পরবর্তী $y$ মিনিটে $x\\ km$ যায়।গাড়িটির গড় দ্রুতি-</div>",
+            "option1": "<div>(ক) $60\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $60\\ k{ms}^{-1}$</div>",
+            "option3": "<div>(গ) $60\\ {mh}^{-1}$</div>",
+            "option4": "<div>(ঘ) $60\\ {kmh}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৬. প্রাসের নিক্ষেপণ বিন্দু ও পতন বিন্দুর মধ্যবর্তী দূরত্ব হলো-</div>",
+            "option1": "<div>(ক) সরণ</div>",
+            "option2": "<div>(খ) দূরত্ব</div>",
+            "option3": "<div>(গ) পাল্লা</div>",
+            "option4": "<div>(ঘ) অভিক্ষেপ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৭. প্রাসের সর্বাধিক উচ্চতার রাশিমালা-</div>",
+            "option1": "<div>(ক) $\\frac{v_0{\\mathrm{sin} {\\theta }_0\\ }}{g}$</div>",
+            "option2": "<div>(খ) $\\frac{v^2_0\\ {{sin}^2_0 {\\theta }_0\\ }}{2g}$</div>",
+            "option3": "<div>(গ) $\\frac{v^2_0\\ {{sin}^2_0 {\\theta }_0\\ }}{g}$</div>",
+            "option4": "<div>(ঘ) $\\frac{v^2_0\\ {{sin}^2_0 {\\theta }_0\\ }}{2g}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৮. এক ব্যক্তি $5\\ km/h$ বেগে তার গন্তব্যে পৌছায় এবং $4\\ km/h$ বেগে পূর্বেরঅবস্থানে ফিরে আসে। তার আপেক্ষিক বেগ কত?</div>",
+            "option1": "<div>(ক) $0.50\\ km/h$</div>",
+            "option2": "<div>(খ) $1.00\\ km/h$</div>",
+            "option3": "<div>(গ) $4.50\\ km/h$</div>",
+            "option4": "<div>(ঘ) $9.00\\ km/h$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৯. ঘড়ির কাঁটার কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $\\pi /30\\ rad/s$</div>",
+            "option2": "<div>(খ) $\\pi /30\\ rad/min$</div>",
+            "option3": "<div>(গ) $\\pi /360\\ rad/min$</div>",
+            "option4": "<div>(ঘ) $\\pi /720\\ rad/min$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩০. $9.8\\ {ms}^{-1}$ বেগে খাড়া উপরের দিকে একটি পাথরকে ছোঁড়া হলে কত সেকেন্ডপর এটি ভূ-পৃষ্ঠে ফিরে আসবে?</div>",
+            "option1": "<div>(ক) $1\\ s$</div>",
+            "option2": "<div>(খ) $2\\ s$</div>",
+            "option3": "<div>(গ) $4.9\\ s$</div>",
+            "option4": "<div>(ঘ) $9.8\\ s$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩১. কোনো একটি বস্তুর আদিবেগ $3\\hat{i}+4\\hat{j}$ এবং ত্বরণ$0.4\\hat{i}+0.3\\hat{j}$ হলে $10\\ s$ পরে বেগ কত হবে?</div>",
+            "option1": "<div>(ক) $7$</div>",
+            "option2": "<div>(খ) $8.5$</div>",
+            "option3": "<div>(গ) $9.2$</div>",
+            "option4": "<div>(ঘ) $10$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩২. স্থির অবস্থান থেকে $100\\ kg$ ভরের একটি গাড়ি অনুভূমিকের সাথে30$\\mathrm{{}^\\circ}$ কোণে $20\\ m$ দূরত্বের একটি আনত তল বেয়ে নামবে। গাড়িটিরবেগ-</div>",
+            "option1": "<div>(ক) $9.8\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $14\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $98\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $196\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৩. প্রাসের ক্ষেত্রে নিক্ষেপণ কোণ কত হলে অনুভূমিক পাল্লা সর্বাধিক হবে?</div>",
+            "option1": "<div>(ক) 0$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 45$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 60$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 90$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৪. একটি গতিশীল বস্তুর সরণের সমীকরণ $x=({4t}^2+3t)\\ m$. $2\\ s$ পর বস্তুটিরবেগ কত?</div>",
+            "option1": "<div>(ক) $3\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $8\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $11\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $19\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩৫. খাড়া উপরের দিকে নিক্ষিপ্ত বস্তুর $v-t$ লেখচিত্র কোনটি?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৬. উপরের উদ্দীপক থেকে নিক্ষেপণ কোণ $\\mathrm{\\theta }$, কত যখন অনুভূমিকপাল্লা ও সর্বাধিক উচ্চতা সমান?</div>",
+            "option1": "<div>(ক) 45$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 30 $\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 76$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 90$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৭. প্রাসের গতিপথের যে কোনো বিন্দুতে ত্বরণের অনুভূমিক উপাংশ-</div>",
+            "option1": "<div>(ক) শূন্য</div>",
+            "option2": "<div>(খ) $g$</div>",
+            "option3": "<div>(গ) $\\frac{g}{2}$</div>",
+            "option4": "<div>(ঘ) $-g$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৮. মুক্তভাবে পড়ন্ত কোনো বস্তুর $1\\ s,\\ 2\\ s$ ও $3\\ s$ এ অতিক্রান্তদূরত্বের অনুপাত</div>",
+            "option1": "<div>(ক) $1\\ :2\\ :3$</div>",
+            "option2": "<div>(খ) $1\\ :4\\ :9$</div>",
+            "option3": "<div>(গ) $1\\ :3\\ :9$</div>",
+            "option4": "<div>(ঘ) $1\\ :3\\ :5$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৯. অনুভূমিক বরাবর নিক্ষিপ্ত বস্তুর গতিপথ-</div>",
+            "option1": "<div>(ক) উপবৃত্তকার</div>",
+            "option2": "<div>(খ) পরাবৃত্তকার</div>",
+            "option3": "<div>(গ) বৃত্তাকার</div>",
+            "option4": "<div>(ঘ) সরলরৈখিক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪০. প্রাসের ক্ষেত্রে-<br>i. প্রাসের উপর একমাত্র ক্রিয়াশীল বল অভিকর্ষ বল<br>ii. প্রাসের গতির ক্ষেত্রে এর মান স্থির ধরা হয়<br>iii. প্রাসের গতিপথ ত্রিমাত্রিক<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪১. একটি বস্তুর গতিপথের লেকচিত্র নিম্নরূপ-<br>i. OB অংশে বস্তুটি সমত্বরণে চলে<br>ii. BC অংশে ত্বরণ শূন্য<br>iii. 10 sec এ বস্তুটির অতিক্রান্ত দূরত্ব 62.5 m.<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/41.webp"
+        },
+        {
+            "mcqQuestion": "<div>৪২. রাস্তার ব্যাংকিং কোণ নির্ভর করে-<br>i. গাড়ির বেগের উপর<br>ii. বাঁকের ব্যাসার্ধের উপর<br>iii.অভিকর্ষজ ত্বরণের উপর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৪৩. উপরের চিত্রটি অবস্থান (s) বনাম সময় (t) লেখচিত্র নির্দেশ করে। চিত্রে-<br>i. বস্তুটির বেগ OP অঞ্চলে ধ্র্রুব এবং সরণ বৃদ্ধি পাচ্ছে<br>ii. বস্তুটির বেগ PQ অঞ্চলে শূন্য এবং সরণ ধ্র্রুবক<br>iii. বস্তুটির বেগ QR অঞ্চলে ধ্র্রুব এবং সরণ হ্রাস পাচ্ছে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/43.webp"
+        },
+        {
+            "mcqQuestion": "<div>৪৪. একটি কণার v-t লেকচিত্র দেখানো হলো। উপরের লেখচিত্র প্রকাশ করতে পারে-<br>i. $v=v_0+at$<br>ii. $a&lt;0$<br>iii. $F&gt;0$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) ii</div>",
+            "option4": "<div>(ঘ) i ও iii</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/44.webp"
+        },
+        {
+            "mcqQuestion": "<div>৪৫. প্রাসের গতিপথের সর্বোচ্চ বিন্দুতে শূন্য হবে-<br>i. বেগের অনুভূমিক উপাংশ<br>ii. বেগের উল্লম্ব উপাংশ<br>iii. ত্বরণের অনুভূমিক উপাংশ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪৬. প্রাসের ক্ষেত্রে লেখচিত্র হচ্ছে-<br>i.<br>ii.<br>iii.<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/46.webp"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি আলোকে ৪৭ ও ৪৮ নং প্রশ্নের উত্তর দাওঃ<br>ইশান একটি ক্রিকেট বলকে 30$\\boldsymbol{\\mathrm{{}^\\circ}}$ কোণে$\\boldsymbol{25}\\boldsymbol{\\}{\\boldsymbol{ms}}^{\\boldsymbol{-}\\boldsymbol{1}}$ বেগে ব্যাটদ্বারা আঘাত করল।$\\boldsymbol{(}\\boldsymbol{g}\\boldsymbol{=}\\boldsymbol{9}.\\boldsymbol{8}\\boldsymbol{\\}{\\boldsymbol{ms}}^{\\boldsymbol{-}\\boldsymbol{2}}\\boldsymbol{)}$\\textit{}<br>৪৭. বলটি কত সময় পরে ভূমিতে ফিরে আসবে?</div>",
+            "option1": "<div>(ক) $1.27\\ sec$</div>",
+            "option2": "<div>(খ) $2.21\\ sec$</div>",
+            "option3": "<div>(গ) $2.55\\ sec$</div>",
+            "option4": "<div>(ঘ) $5.10\\ sec$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪৮. ব্যাটসম্যান থেকে $80\\ m$ দূরে থাকা একজন ফিল্ডার ন্যূনতম কতবেগে দৌড়ালেবলটি মাটিতে পড়ার পূর্বে ধরতে পারবে?</div>",
+            "option1": "<div>(ক) $9.27\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $11.22\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $31.37\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $36.23\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকের আলোকে ৪৯ ও ৫০ নং প্রশ্নের উত্তর দাওঃ<br>ভূমির সাথে 30$\\boldsymbol{\\mathrm{{}^\\circ}}$ কোণে এবং $\\boldsymbol{50}\\boldsymbol{\\ }{ms}^{-1}$ বেগে উপরের দিকে একটিবস্তুকে নিক্ষেপ করা হলো।<br>৪৯. নিক্ষেপ করায় $2\\ sec$ পর বস্তুটির বেগ কত?</div>",
+            "option1": "<div>(ক) $62.6\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $43.63\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $31.89\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $5.4\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫০. উদ্দীপকের প্রাসটির-<br>i. অনুভূমিক পাল্লা $220.92\\ m$<br>ii. সর্বাধিক উচ্চতা $63.77\\ m$<br>iii. সর্বাধিক উচ্চতায় বেগের উল্লম্ব উপাংশ শূন্য<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>একটি গাড়ি স্থির অবস্থা থেকে $2\\ {ms}^{-1}$ সমত্বরণে চলতে শুরু করে।<br>এ তথ্যের আলোকে ৫১ ও ৫২ নং প্রশ্নের উত্তর দাওঃ<br>৫১. 2s পরে এটি কত দূর যাবে?</div>",
+            "option1": "<div>(ক) $1\\ m$</div>",
+            "option2": "<div>(খ) $2\\ m$</div>",
+            "option3": "<div>(গ) $4\\ m$</div>",
+            "option4": "<div>(ঘ) $8\\ m$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫২. $4\\ s$ পরে তার অতিক্রান্ত দূরত্ব $2\\ s$ এ অতিক্রান্ত দূরত্বের কতগুণ?<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) 16 গুণ</div>",
+            "option2": "<div>(খ) 8 গুণ</div>",
+            "option3": "<div>(গ) 4 গুণ</div>",
+            "option4": "<div>(ঘ) 2 গুণ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকের আলোকে ৫৩ ও ৫৪ নং প্রশ্নের উত্তর দাওঃ<br>৫৩. $OQ=$ কত?</div>",
+            "option1": "<div>(ক) $9.94\\ m$</div>",
+            "option2": "<div>(খ) $9.95\\ m$</div>",
+            "option3": "<div>(গ) $9.96\\ m$</div>",
+            "option4": "<div>(ঘ) $9.97\\ m$</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/53.webp"
+        },
+        {
+            "mcqQuestion": "<div>৫৪. উদ্দীপকে পাথরটির-<br>i. $P$ বিন্দুতে পৌছাতে $0.765\\ sec$ সময় লাগে<br>ii. $OP$ এবং $OQ$ এর দৈর্ঘ্য সমান হয়<br>iii. $P$ বিন্দুতে বেগের উল্লম্ব উপাংশ শূন্য<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>$45\\ m$ উচ্চতায় অবস্থিত নল হতে সমান সময় ব্যবধানে পানির ফোঁটা ভূমিতেপতিত হচ্ছে। প্রথম ফোঁটা যখন ভূমিতে পড়ে তখন চতুর্থ ফোঁটা নল হতে পড়ার উপক্রমহয়। g = $10\\ {ms}^{-2}$<br>উদ্দীপকটি হতে ৫৫ ও ৫৬ নং প্রশ্নের উত্তর দাওঃ<br>৫৫. প্রথম ফোঁটা ভূমিতে পড়ার মুহূর্তে তৃতীয় ফোঁটা ভূমি হতে কত উচ্চতায় থাকবে?</div>",
+            "option1": "<div>(ক) $10\\ m$</div>",
+            "option2": "<div>(খ) $15\\ m$</div>",
+            "option3": "<div>(গ) $20\\ m$</div>",
+            "option4": "<div>(ঘ) $25\\ m$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৫৬. প্রথম ফোঁটা ভূমিতে পড়ার মুহূর্তে তৃতীয় ফোঁটা ও দ্বিতীয় ফোঁটার বেগেরঅনুপাত-</div>",
+            "option1": "<div>(ক) $4\\ :1$</div>",
+            "option2": "<div>(খ) $2\\ :1$</div>",
+            "option3": "<div>(গ) $1\\ :2$</div>",
+            "option4": "<div>(ঘ) $1\\ :4$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>একটি বস্তুকে অনুভূমিকের সাথে 60$\\boldsymbol{\\mathrm{{}^\\circ}}$কোণে $\\boldsymbol{10}\\boldsymbol{\\ }{ms}^{-1}$ বেগে নিক্ষেপ করাহলো।<br>তথ্যের আলোকে ৫৭ ও ৫৮ নং প্রশ্নের উত্তর দাওঃ<br>৫৭. নিক্ষিপ্ত বস্তুর অনুভূমিক বেগ কত?</div>",
+            "option1": "<div>(ক) $3\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $4\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $5\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $6\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫৮. সর্বোচ্চ উচ্চতায় বিভব শক্তি ও গতিশক্তির অনুপাত কত?</div>",
+            "option1": "<div>(ক) $1\\ :2$</div>",
+            "option2": "<div>(খ) $1\\ :1$</div>",
+            "option3": "<div>(গ) $3\\ :2$</div>",
+            "option4": "<div>(ঘ) $3\\ :1$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>নিচের লেখ চিত্রের আলোকে ৫৯ ও ৬০ নং প্রশ্নের উত্তর দাওঃ<br>৫৯. $AB$ অংশের ত্বরণ-</div>",
+            "option1": "<div>(ক) $2\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $5\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $8\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $10\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/59.webp"
+        },
+        {
+            "mcqQuestion": "<div>৬০. $5\\ sec$ এ অতিক্রান্ত দূরত্ব-</div>",
+            "option1": "<div>(ক) $10\\ m$</div>",
+            "option2": "<div>(খ) $100\\ m$</div>",
+            "option3": "<div>(গ) $125\\ m$</div>",
+            "option4": "<div>(ঘ) $150\\ m$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>উদ্দীপক হতে ৬১ ও ৬২ নং প্রশ্নের উত্তর দাওঃ<br>৬১. $PQ$ লেখচিত্রের জন্য প্রযোজ্য সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $s=vt$</div>",
+            "option2": "<div>(খ) $v=at$</div>",
+            "option3": "<div>(গ) $v=v_0+at$</div>",
+            "option4": "<div>(ঘ) $v=v_0-at$</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/61.webp"
+        },
+        {
+            "mcqQuestion": "<div>৬২. $PQ$ রেখা বরাবর গতিশীল কণার মন্দন-</div>",
+            "option1": "<div>(ক) $20\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $10\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $4\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $2\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৬৩ ও ৬৪ নং প্রশ্নের উত্তর দাওঃ<br>কোনো বস্তুর অবস্থান, যেখানে অবস্থান সময় এর উপর নির্ভরশীল।<br>৬৩. $t=3s$ সময়ে বস্তুটির বেগরে মান কত হবে?</div>",
+            "option1": "<div>(ক) $4.4\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $4.8\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $10.8\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $25.2\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬৪. বস্তুটির ত্বরণ কত হবে?</div>",
+            "option1": "<div>(ক) $-2.4\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $-4.8\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $9.6\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $+2.4\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড়ে ৬৫ ও ৬৬ নং প্রশ্নের উত্তর দাওঃ<br>একটি বোমারু বিমান ভূমি হতে $490\\ m$ উচ্চতায় ভূমিরসমান্তরালে $\\boldsymbol{120}\\boldsymbol{\\ }{ms}^{-1}$ বেগে বোমাফেলে দিল। ভূ-পৃষ্ঠের উপর $P$ একটি বিন্দু।<br>৬৫. বোমাটি কখন $P$ বিন্দুতে আঘাত হানবে?</div>",
+            "option1": "<div>(ক) $0.24\\ s$</div>",
+            "option2": "<div>(খ) $4.08\\ s$</div>",
+            "option3": "<div>(গ) $10\\ s$</div>",
+            "option4": "<div>(ঘ) $29.38\\ s$</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/65.webp"
+        },
+        {
+            "mcqQuestion": "<div>৬৬. $Y$ ও $P$ এর মধ্যবর্তী দূরত্ব কত?</div>",
+            "option1": "<div>(ক) $120\\ m$</div>",
+            "option2": "<div>(খ) $490\\ m$</div>",
+            "option3": "<div>(গ) $1200\\ m$</div>",
+            "option4": "<div>(ঘ) $4900\\ m$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>উপরের লেখচিত্র $v-t$ লক্ষ কর এবং ৬৭ ও ৬৮ নং প্রশ্নের উত্তর দাওঃ<br>৬৭. যখন $t=0$ থেকে $t=5$ সে. এ বস্তুর অতিক্রান্ত দূরত্ব কত হবে?</div>",
+            "option1": "<div>(ক) $30\\ m$</div>",
+            "option2": "<div>(খ) $40\\ m$</div>",
+            "option3": "<div>(গ) $50\\ m$</div>",
+            "option4": "<div>(ঘ) $60\\ m$</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/67.webp"
+        },
+        {
+            "mcqQuestion": "<div>৬৮. যখন $t=0$ থেকে $t=5$ সে. এ বস্তুটির সরণ কত?</div>",
+            "option1": "<div>(ক) $30\\ m$</div>",
+            "option2": "<div>(খ) $40\\ m$</div>",
+            "option3": "<div>(গ) $50\\ m$</div>",
+            "option4": "<div>(ঘ) $60\\ m$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৬৯. জড় কাঠামো নীতির উপর নির্ভরশীল?</div>",
+            "option1": "<div>(ক) বস্তুর জড়তা নীতি</div>",
+            "option2": "<div>(খ) বস্তুর গতির নীতি</div>",
+            "option3": "<div>(গ) বস্তুর স্থিরাবস্থা নীতি</div>",
+            "option4": "<div>(ঘ) বস্তুর পরম স্থিতি নীতি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৭০. প্রসঙ্গ কাঠামো কত প্রকার?</div>",
+            "option1": "<div>(ক) ২</div>",
+            "option2": "<div>(খ) ৩</div>",
+            "option3": "<div>(গ) ৪</div>",
+            "option4": "<div>(ঘ) ৫</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৭১. পড়ন্ত বস্তুর ক্ষেত্রে যে বিন্দু হতে বস্তুটি পড়তে শুরু করে তাকে বলা হয়?</div>",
+            "option1": "<div>(ক) সমাপ্তি বিন্দু</div>",
+            "option2": "<div>(খ) অন্তবিন্দু</div>",
+            "option3": "<div>(গ) প্রসঙ্গ বিন্দু</div>",
+            "option4": "<div>(ঘ) শেষ বিন্দু</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭২. যে বিন্দুর সাপেক্ষে কোনো স্থির বস্তু বা গতিশীল বস্তুর অবস্থান নির্ণয়করা হয় তা হলো-</div>",
+            "option1": "<div>(ক) জড় কাঠামো</div>",
+            "option2": "<div>(খ) প্রসঙ্গ কাঠামো</div>",
+            "option3": "<div>(গ) প্রসঙ্গ বিন্দু</div>",
+            "option4": "<div>(ঘ) জড় বিন্দু</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭৩. নিচের কোনটি বস্তুর গতিপথের উপর নির্ভর করে না?</div>",
+            "option1": "<div>(ক) দূরত্ব</div>",
+            "option2": "<div>(খ) বেগ</div>",
+            "option3": "<div>(গ) সরণ</div>",
+            "option4": "<div>(ঘ) ত্বরণ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭৪. নিচের কোনটি দ্বারা তাৎক্ষণিক বেগ বুঝায়?</div>",
+            "option1": "<div>(ক) $\\overrightarrow{v}=\\frac{d\\overrightarrow{r}}{dt}$</div>",
+            "option2": "<div>(খ) $\\overrightarrow{v}=\\frac{u+v}{2}$</div>",
+            "option3": "<div>(গ) $\\overrightarrow{v}=\\frac{s}{t}$</div>",
+            "option4": "<div>(ঘ) $\\overrightarrow{v}=at$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৭৫. একটি ট্রেন $2\\ {ms}^{-2}$ সমত্বরণে $10\\ {ms}^{-1}$ আদিবেগে চলছে, এটিযখন $60\\ m\\ $অতিক্রম করবে তখন এর বেগ কত?</div>",
+            "option1": "<div>(ক) $14.88\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $17.44\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $18.44{ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $12.44\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭৬. কোনো গতিশীল বস্তু একক সময়ে যে দূরত্ব অতিক্রম করে তাকে বলা হয়-</div>",
+            "option1": "<div>(ক) দ্রুতি</div>",
+            "option2": "<div>(খ) সরণ</div>",
+            "option3": "<div>(গ) তাৎক্ষণিক ত্বরণ</div>",
+            "option4": "<div>(ঘ) তাৎক্ষণিক বেগ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৭৭. একটি ট্রেন চলা শুরুর $5\\ s$ পরের বেগ $8\\ {ms}^{-1}$ এবং $8\\ s$ পরের বেগ$25\\ {ms}^{-1}$ হলে, ট্রেনটি গড় ত্বরণ কত ছিল?</div>",
+            "option1": "<div>(ক) $5.33\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $5.667\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $6\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $6.33\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৭৮. একটি গাড়ি স্থির অবস্থা হতে যাত্রা আরম্ভ করে প্রথম সেকেন্ডে $12\\ m.$দূরত্ব অতিক্রম করে। গাড়িটির ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $2.2\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $3.1\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $2.4\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $3.5\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৭৯. একটি গাড়ি $10\\ {ms}^{-1}$ বেগে চলতে শুরু $2\\ {ms}^{-2}$ করে সুষম ত্বরণেচলতে লাগল। কত সময় পরে এর $15\\ {ms}^{-1}$ বেগ হবে?</div>",
+            "option1": "<div>(ক) $2\\ s$</div>",
+            "option2": "<div>(খ) $2.5\\ s$</div>",
+            "option3": "<div>(গ) $2.8\\ s$</div>",
+            "option4": "<div>(ঘ) $3\\ s$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৮০. $X-$ অক্ষে গতিশীল একটি বস্তুকণার $t\\ s$ এর অবস্থান $x=\\frac{t^2}{2}-2$দ্বারা নির্দেশিত হলে, $2\\ s$ পরে কণাটির তাৎক্ষণিক বেগ কেত?</div>",
+            "option1": "<div>(ক) 2 একক</div>",
+            "option2": "<div>(খ) 2.5 একক</div>",
+            "option3": "<div>(গ) 2.8 একক</div>",
+            "option4": "<div>(ঘ) 3.2 একক</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮১. $s=\\frac{1}{3}t^2+3t$ সূত্রানুসারে একটি বস্তু সরলরেখায় চলছে। $2\\ s$ পরেএর তাৎক্ষণিক বেগ কত?</div>",
+            "option1": "<div>(ক) 2 একক</div>",
+            "option2": "<div>(খ) 3 একক</div>",
+            "option3": "<div>(গ) 7 একক</div>",
+            "option4": "<div>(ঘ) 8 একক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮২. দ্রুতি কী ধরনের রাশি?</div>",
+            "option1": "<div>(ক) দিক রাশি</div>",
+            "option2": "<div>(খ) ভেক্টর রাশি</div>",
+            "option3": "<div>(গ) স্কেলার রাশি</div>",
+            "option4": "<div>(ঘ) মৌলিক রাশি</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮৩. দ্রুতির মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) $LT$</div>",
+            "option2": "<div>(খ) $L^{-1}T$</div>",
+            "option3": "<div>(গ) ${LT}^{-1}$</div>",
+            "option4": "<div>(ঘ) ${LT}^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮৪. দ্রুতির একক কোনটি?</div>",
+            "option1": "<div>(ক) ${ms}^{-1}$</div>",
+            "option2": "<div>(খ) $ms$</div>",
+            "option3": "<div>(গ) $m^{-1}$</div>",
+            "option4": "<div>(ঘ) ${ms}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮৫. একটি ট্রেন $40\\ {km\\ h}^{-1}$ বেগে চলছে। একে ব্রেক কষে $30\\ s$ এ থামানোহলো্ মন্দন কত?</div>",
+            "option1": "<div>(ক) $\\frac{10}{27}{ms}^{-2}$</div>",
+            "option2": "<div>(খ) $\\frac{4}{3}{ms}^{-2}$</div>",
+            "option3": "<div>(গ) $\\frac{10}{23}{ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $\\frac{20}{27}{ms}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮৬. একটি বস্তুর অবস্থান থেকে সমত্বরণে চলতে লাগলে এবং সপ্তম সেকেন্ডে $91\\ft$দূরত্ব অতিক্রম করলে, বস্তুটির ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $10\\ {ft\\ s}^{-2}$</div>",
+            "option2": "<div>(খ) $14\\ {ft\\ s}^{-2}$</div>",
+            "option3": "<div>(গ) $40\\ {ft\\ s}^{-2}$</div>",
+            "option4": "<div>(ঘ) $24\\ {ft\\ s}^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৮৭. একটি গাড়ি $50\\ {ms}^{-1}$ বেগে চলছিল গাড়ির চালক ব্রেক চেপে $5\\{ms}^{-2}$ মন্দন সৃষ্টি করলে এর বেগ $8\\ s$ পর কত হবে?</div>",
+            "option1": "<div>(ক) $10\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $15\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $20\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $12.5\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮৮. একটি জীপ গাড়ি ঘন্টায় $60\\ Miles$ বেগে চলছে। ব্রেক চাপার ফলে $10\\ s$ এথেমে গেল। মন্দন কত?</div>",
+            "option1": "<div>(ক) $8.8\\ {ft\\ s}^{-2}$</div>",
+            "option2": "<div>(খ) $6.4\\ {ft\\ s}^{-2}$</div>",
+            "option3": "<div>(গ) $3.2\\ {ft\\ s}^{-2}$</div>",
+            "option4": "<div>(ঘ) $9.8\\ {ft\\ s}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৮৯. ত্বরণ কী ধরনের রাশি?</div>",
+            "option1": "<div>(ক) স্কেলার</div>",
+            "option2": "<div>(খ) ভেক্টর</div>",
+            "option3": "<div>(গ) মৌলিক</div>",
+            "option4": "<div>(ঘ) অদিক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯০. $10\\ {ms}^{-1}$ সমবেগে চলমান $1\\ kg$ বস্তুর ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $0\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $10\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $9.8\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $98\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯১. একটি গাড়ির বেগ $36\\ {ms}^{-1}$ থেকে সুষমভাবে হ্রাস পেয়ে $9\\ s$ এ$18{ms}^{-1}$ হয়, তবে গাড়ির ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $2\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $-2\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $4\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $-4\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯২. একটি ট্রেন $22.5\\ {ms}^{-1}$ গতিবেগ নিয়ে যাত্রা করে $10s$ এ $325\\ m$গেল। এর ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $2\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $3\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $4\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $2.5\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯৩. একটি বস্তু স্থির অবস্থান থেকে সমত্বরণে চলে অষ্টম সেকেন্ডে $60\\ m$দূরত্ব অতিক্রম করল। ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $8\\ {cms}^{-2}$</div>",
+            "option2": "<div>(খ) $4\\ {cms}^{-2}$</div>",
+            "option3": "<div>(গ) $8\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $10\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৯৪. একটি ট্রেন $3\\ {ms}^{-2}$ সমত্বরণে $10\\ {ms}^{-1}$ আদিবেগে চলছে্।ট্রেনটি যখন $60\\ m$ পথ অতিক্রম করে তখন এর বেগ কত?</div>",
+            "option1": "<div>(ক) $16\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $21.45\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $23\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ)$\\ 24.5\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯৫. সমবেগে চলমান বস্তুর ত্বরণের মান কোনটি?</div>",
+            "option1": "<div>(ক) সর্বোচ্চ</div>",
+            "option2": "<div>(খ) সর্বনিম্ন</div>",
+            "option3": "<div>(গ) শূন্য</div>",
+            "option4": "<div>(ঘ) কোনটিই নয়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৯৬. $72\\ km\\ h^{-1}$ বেগে চলন্ত একটি গাড়িতে 4 সেকেন্ড যাবৎ $1.5\\ {ms}^{-2}$ত্বরণ প্রয়োগ করা হলো। গাড়ির শেষ বেগ কত?</div>",
+            "option1": "<div>(ক) $20\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $26\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $39\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $3.9\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯৭. $S=\\frac{1}{2}t^3+2t$ সূত্রানুসারে একটি বস্তু সরলরেখা বরাবর গতিশীল, $4\\s$ সময়ে বস্তুটির বেগ কত?</div>",
+            "option1": "<div>(ক) 46 একক</div>",
+            "option2": "<div>(খ) 34 একক</div>",
+            "option3": "<div>(গ) 16 একক</div>",
+            "option4": "<div>(ঘ) 26 একক</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৯৮. প্রাসের সর্বোচ্চ অত্রিকান্ত উচ্চতার সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $H=\\frac{v^2_0}{g}$</div>",
+            "option2": "<div>(খ) $H=\\frac{v^2_0}{2g}$</div>",
+            "option3": "<div>(গ) $H=\\frac{2v^2_0}{g}$</div>",
+            "option4": "<div>(ঘ) $H=\\frac{v_0}{g}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৯৯. অনুভূমিকের সাথে 30$\\mathrm{{}^\\circ}$ কোণ করে ভূ-পৃষ্ঠ থেকে $40\\{ms}^{-1}$ বেগে একটি বুলেট ছোড়া হলে বুলেটটির $30\\ m$ দূরে অবস্থিত কোনদেওয়ালকে কত উচ্চতায় আঘাত করবে?</div>",
+            "option1": "<div>(ক) $13.65\\ m$</div>",
+            "option2": "<div>(খ) $14.25\\ m$</div>",
+            "option3": "<div>(গ) $15.09\\ m$</div>",
+            "option4": "<div>(ঘ) $16.03\\ m$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১০০. $v$ বেগে নিক্ষিপ্ত প্রাসের পাল্লা সর্বোচ্চ উচ্চতার দ্বিগুণ হলে পাল্লারমান-</div>",
+            "option1": "<div>(ক) $\\frac{v^2}{g}$</div>",
+            "option2": "<div>(খ) $\\frac{3}{5}\\frac{v^2}{g}$</div>",
+            "option3": "<div>(গ) $\\frac{4}{5}\\frac{v^2}{g}$</div>",
+            "option4": "<div>(ঘ) $\\frac{1}{5}\\frac{v^2}{g}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১০১. কোনো প্রাসের নিক্ষেপণ কোণ $(45{}^\\circ +\\theta )$ ও $\\left(45-\\theta\\right){}^\\circ $ হলে অনুভূমিক পাল্লার অনুপাত হবে-</div>",
+            "option1": "<div>(ক) $1\\ :2$</div>",
+            "option2": "<div>(খ) $2\\ :1$</div>",
+            "option3": "<div>(গ) $1\\ :1$</div>",
+            "option4": "<div>(ঘ) $3\\ :1$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১০২. একটি বস্তুকে $30\\ {ms}^{-1}$ বেগে খাড়া উপরের দিকে ছুড়ে দিলে তা কতক্ষণশূন্যে থাকবে?</div>",
+            "option1": "<div>(ক) $6.03\\ s$</div>",
+            "option2": "<div>(খ) $6.04\\ s$</div>",
+            "option3": "<div>(গ) $6.10\\ s$</div>",
+            "option4": "<div>(ঘ) $6.12\\ s$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১০৩. একটি গাড়ি স্থির অবস্থা থেকে $10\\ {ms}^{-2}$ সমত্বরণে চলতে শুরু করল।$10\\ s$ পরে এটি কত দূর যাবে?</div>",
+            "option1": "<div>(ক) $10\\ m$</div>",
+            "option2": "<div>(খ) $20\\ m$</div>",
+            "option3": "<div>(গ) $500\\ m$</div>",
+            "option4": "<div>(ঘ) $100\\ m$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১০৪. একটি টাওয়ারের উপর হতে এক টুকরো পাথর খাড়া উপরের দিকে $v_0$ আদিবেগেনিক্ষেপ করা হলো। পাথরটি ${3v}_0$ বেগে ভূমিতে পৌছালে টাওয়ারটির উচ্চতা-</div>",
+            "option1": "<div>(ক) $\\frac{3v^2_0}{g}$</div>",
+            "option2": "<div>(খ) $\\frac{4v^2_0}{g}$</div>",
+            "option3": "<div>(গ) $\\frac{6v^2_0}{g}$</div>",
+            "option4": "<div>(ঘ) $\\frac{9v^2_0}{g}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১০৫. একটি বস্তুকে ভূমি হতে খাড়া উর্ধ্বে নিক্ষেপ করলে এবং তাহা $10\\ s$বায়ুতে থাকলে, সর্বোচ্চ স্থানে পৌছাতে বস্তুটির কত সময় লাগবে?</div>",
+            "option1": "<div>(ক) $7\\ s$</div>",
+            "option2": "<div>(খ) $4\\ s$</div>",
+            "option3": "<div>(গ) $5\\ s$</div>",
+            "option4": "<div>(ঘ) $6\\ s$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১০৬. একটি কনা প্রতি মিনিটে বৃত্তাকার পথে 10 বার আবর্তন করলে এর কৌণিক বেগনিচের কোনটি?</div>",
+            "option1": "<div>(ক) $1.003\\ rad\\ s^{-1}$</div>",
+            "option2": "<div>(খ) $1.046\\ rad\\ s^{-1}$</div>",
+            "option3": "<div>(গ) $2.003rad\\ s^{-1}$</div>",
+            "option4": "<div>(ঘ) $2.003\\ rad\\ s^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১০৭. $10\\ g$ ভরের একটি বস্তুকে $40\\ cm$ দীর্ঘ একটি সুতার একপ্রান্তে বেঁধেবৃত্তপথে $20\\ {ms}^{-1}$ সমদ্রুতিতে ঘুরানো হচ্ছে। কেন্দ্রমুখী ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $1100\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $1000\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $1010\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $0\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১০৮. একটি গ্রামোফোন রেকর্ড প্রতি মিনিটে 78 বার ঘুরছে, সুইচ বন্ধ করে একে $3\\s$এ থামানো হলে কৌণিক ত্বরণ হবে-</div>",
+            "option1": "<div>(ক) $0.272\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $0.272\\ rad\\ s^{-1}$</div>",
+            "option3": "<div>(গ) $-0.272\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $-0.272\\ rad\\ s^{-2}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১০৯. কোনো বস্তুর দ্রুতির মান নির্ভর করে-<br>i. বস্তুর ভরের উপর<br>ii. সময়ের উপর<br>iii. অতিক্রান্ত দূরত্বের উপর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১১০. কোনো বস্তুর দ্রুতি অতিক্রান্ত দূরত্ব এবং সময় হলে-<br>i. $v=d/t$<br>ii. $d=\\frac{v}{t}$<br>iii. $t=\\frac{d}{v}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১১১. রুবেল 5 সেকেন্ডে $50\\ m$ দূরত্ব অতিক্রম করলে-<br>i. তার অতিক্রান্ত দূরত্ব $50\\ m$<br>ii. তার দ্রুতি $10\\ {ms}^{-1}$<br>iii. তার বেগ $10\\ {ms}^{-2}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১১২. অসম বেগের ক্ষেত্রে-<br>i. বেগের মান পরিবর্তন হয়<br>ii. সমান সময়ে সমান দূরত্ব অতিক্রম করে না<br>iii. লেখচিত্রটি মূল বিন্দুগামী সরলরেখা হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১১৩. বস্তুর অসমবেগের ক্ষেত্রে-<br>i. সময়ের সাথে সরণের হারের মান পরিবর্তিত হবে<br>ii. সময়ের সাথে সরণের দিক পরিবর্তিত হবে<br>iii. ভিন্ন ভিন্ন সময়ে বস্তুর বেগ একই হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১১৪. ত্বরণ এর ক্ষেত্রে-<br>i. গতিশীল বস্তুর উপর বল ক্রিয়া না করলে ত্বরণ হয়<br>ii. বস্তুর ত্বরণ বলের ব্যস্তানুপাতিক<br>iii. সময় ব্যবধান শূন্যের কাছাকাছি হতে হবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১১৫. ত্বরণের ক্ষেত্রে-<br>i. ত্বরণের একক ${মিটার\\mathrm{/}সময়}^2$<br>ii. ত্বরণের মাত্রা ${LT}^2$<br>iii. ত্বরণ একটি অদিক রাশি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) i ও ii</div>",
+            "option4": "<div>(ঘ) I ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১১৬. দ্রুতির সাথে নিচের যে বিষয়গুলো মানানসই-<br>i. দ্রুতি স্কেলার রাশি<br>ii. বস্তুর বেগের মানেই দ্রুতি<br>iii. শুধু সরল পথে বস্তুর অবস্থানের পরিবর্তনের হারই দ্রুতি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) i ও ii</div>",
+            "option4": "<div>(ঘ) ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১১৭. দ্রুতির ক্ষেত্রে-<br>i. শুধু মানের পরিবর্তনে দ্রুতির পরিবর্তন হয়<br>ii. পরিমাপের জন্য ভেলাটোমিটার ব্যবহার করা হয়<br>iii. বস্তুর বেগের মান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১১৮. অসম ত্বরণের ক্ষেত্রে-<br>i. বস্তুর গতিকালে তার ত্বরণের মান বা দিক বা উভয়ই পরিবর্তিত হয়<br>ii. বস্তুর বেগ পরিবর্তনের হার সমান থাকবে<br>iii. ভূ-পৃষ্ঠে সচরাচর যেসব গতিশীল বস্তু দেখা যায় তাদের ত্বরণ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১১৯. $50\\ m$ উঁচু দালানের ছাদ থেকে কোনো বস্তু ছেড়ে দিলে-<br>i. বস্তুটি $31.3\\ {ms}^{-1}$ বেগে ভূমিকে আঘাত করবে<br>ii. বস্তুটির আদিবেগ 0<br>iii. অতিক্রান্ত দূরত্ব $50\\ m$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>উপরের লেখচিত্রের আলোকে ১২০-১২২ নং প্রশ্নগুলোর উত্তর দাওঃ<br>১২০. চিত্রের $AB$ অংশের সরণ কত?</div>",
+            "option1": "<div>(ক)$\\ 4\\ m$</div>",
+            "option2": "<div>(খ) $8\\ m$</div>",
+            "option3": "<div>(গ) $12\\ m$</div>",
+            "option4": "<div>(ঘ) $20\\ m$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১২১. লেখচিত্রটির ঢাল $=\\frac{AB}{AC}$ গতিবিষয়ক কোন রাশিটি প্রকাশ করে?</div>",
+            "option1": "<div>(ক) ত্বরণ</div>",
+            "option2": "<div>(খ) বেগ</div>",
+            "option3": "<div>(গ) দ্রুতি</div>",
+            "option4": "<div>(ঘ) সরণ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১২২. লেখচিত্রটির নিম্নলিখিত বৈশিষ্ট্য দেখা যায়-<br>i. $s$ বনাম $t$ লেখচিত্রটি একটি সরলরেখা হবে<br>ii. আদিবেগ শূন্য হলে লেখচিত্রটি মূল বিন্দুগামী সরলরেখা হবে<br>iii. লেখচিত্রটির $Y-$ অক্ষের ছেদক আদি দূরত্ব প্রকাশ করে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>একটি বন্দুকের গুলি কোনো দেওয়ালের মধ্যে $0.02\\ m$ ভেদ করারপর অর্ধেক বেগ হারায়।<br>উপরের তথ্যের আলোকে ১২৩-১২৫ নং প্রশ্নগুলোর উত্তর দাওঃ<br>১২৩. গুলিটির শেষ বেগ কত হবে?</div>",
+            "option1": "<div>(ক) $0\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) অসীম</div>",
+            "option3": "<div>(গ) $2\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $5\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১২৪. গুলিটি যে ত্বরণ নিয়ে চলবে-</div>",
+            "option1": "<div>(ক) $18.75\\ v^2_0$</div>",
+            "option2": "<div>(খ) $19.75\\ v^2_0$</div>",
+            "option3": "<div>(গ) $20.75v^2_0$</div>",
+            "option4": "<div>(ঘ) $22.75\\ v^2_0$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১২৫. এ ত্বরণে চলে গুলিটি দেওয়ালের কতদূর প্রবেশ করবে?</div>",
+            "option1": "<div>(ক) $0.067\\ m$</div>",
+            "option2": "<div>(খ) $0.0067\\ m$</div>",
+            "option3": "<div>(গ) $67\\ cm$</div>",
+            "option4": "<div>(ঘ) $6.7\\ cm$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>চিত্রে একটি মোটর গাড়ির $v$ বনাম $t$ লেখচিত্রদেখানো হয়েছে।<br>উপরের লেখচিত্রের আলোকে ১২৬-১২৮ নং প্রশ্নগুলোর উত্তর দাওঃ<br>১২৬. গাড়িটির আদিবেগ কত?</div>",
+            "option1": "<div>(ক) $20\\ {km\\ h}^{-1}$</div>",
+            "option2": "<div>(খ) $15\\ {km\\ h}^{-1}$</div>",
+            "option3": "<div>(গ) $18\\ {km\\ h}^{-1}$</div>",
+            "option4": "<div>(ঘ) $72\\ {km\\ h}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১২৭. গাড়িটির মন্দন কত?</div>",
+            "option1": "<div>(ক) $2\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $2\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $0.5\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $4\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১২৮. গাড়িটি $10\\ s$ এ কত দূরত্ব অতিক্রম করবে?</div>",
+            "option1": "<div>(ক) $200\\ m$</div>",
+            "option2": "<div>(খ) $50\\ m$</div>",
+            "option3": "<div>(গ) $400\\ m$</div>",
+            "option4": "<div>(ঘ) $100\\ m$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>একটি কণা $1.5\\ m$ বৃত্তাকার পথে প্রতি মিনিটে 120 বারআবর্তন করে।<br>উপরের তথ্যের আলোকে ১২৯-১৩১ নং প্রশ্নগুলোর উত্তর দাওঃ<br>১২৯. কণাটির রৈখিক বেগ কত?</div>",
+            "option1": "<div>(ক) $8.858\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $18.858\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $8.855\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $18.858\\ {rad\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৩০. কণাটির পর্যায়কাল কত?</div>",
+            "option1": "<div>(ক) $0.5\\ s$</div>",
+            "option2": "<div>(খ) $1\\ s$</div>",
+            "option3": "<div>(গ) $1.5\\ s$</div>",
+            "option4": "<div>(ঘ) $2\\ s$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৩১. কণাটির কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $9.568\\ {rad\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $10.568\\ {rad\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $11.568\\ {rad\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $12.568\\ {rad\\ s}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>একটি হাত ঘড়ির সেকেন্ড, মিনিট ও ঘন্টার কাঁটার দৈর্ঘ্য যথাক্রমে$0.015\\ m,\\ 0.0125\\ m$ এবং $0.01\\ m$<br>উপরের তথ্যের আলোকে ১৩২-১৩৪ নং প্রশ্নগুলোর উত্তর দাওঃ<br>১৩২. সেকেন্ডের কাঁটার শেষ প্রান্তের রৈখিক বেগ কত?</div>",
+            "option1": "<div>(ক) $15.7\\times {10}^{-2}\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $15.7\\times {10}^{-3}\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $15.7\\times {10}^{-4}\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $15.7\\times {10}^{-5}\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৩৩. সেকেন্ড ও মিনিটের কাঁটার প্রান্তের রৈখিক বেগের পার্থক্য নিচের কোনটি?</div>",
+            "option1": "<div>(ক) $0.548\\times {10}^{-3}$</div>",
+            "option2": "<div>(খ) $1.548\\times {10}^{-3}$</div>",
+            "option3": "<div>(গ) $0.548\\times {10}^{-4}$</div>",
+            "option4": "<div>(ঘ) $1.548\\times {10}^{-4}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৩৪. ঘন্টার কাঁটার শেষ প্রান্তের রৈখিক বেগ কত?</div>",
+            "option1": "<div>(ক) $1.45\\times {10}^{-3}\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $1.45\\times {10}^{-4}\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $1.45\\times {10}^{-5}\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $1.45\\times {10}^{-6}\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>ভূমির সাথে 30$\\boldsymbol{\\mathrm{{}^\\circ}}$ কোণে আনত একটি মসৃণ তলবরাবর একটি বস্তু অভিকর্ষের টানে স্থিরাবস্থা হতে সরল চলন গতিতে $9.8\\m$ দূরত্ব অতিক্রম করে। <br>এ তথ্য থেকে নিচের ১৩৫ ও ১৩৬ নং প্রশ্নের উত্তর দাওঃ<br>১৩৫. বস্তুটির ত্বরণ-</div>",
+            "option1": "<div>(ক) $2\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $2.9\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $4.9\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $4\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৩৬. বস্তুটির বেগ-</div>",
+            "option1": "<div>(ক) $2.9\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $4.9\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $9.4\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $9.8\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৩৭. একটা রকেট হতে গ্যাস নির্গমনের হার $\\frac{\\Delta m}{\\Delta t}=200\\ {kg\\s}^{-1}$ এবং গ্যাস নির্গমনের বেগ $v_r=2500\\ {ms}^{-1}$ হলে রকেট উর্ধ্বমুখীথাকার মান-</div>",
+            "option1": "<div>(ক) $49\\times {10}^3\\ N$</div>",
+            "option2": "<div>(খ) $500\\ N$</div>",
+            "option3": "<div>(গ) $125\\ N$</div>",
+            "option4": "<div>(ঘ) $50\\times {10}^4\\ N$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৩৮. কোন বস্তুর আদিবেগ $3\\hat{i}+4\\hat{j}$ এবং ত্বরণ$0.4\\hat{i}+0.3\\hat{j}$ হলে $10\\ s$ পরে বেগ কত হবে?</div>",
+            "option1": "<div>(ক) $7$</div>",
+            "option2": "<div>(খ) $8.5$</div>",
+            "option3": "<div>(গ) $9.2$</div>",
+            "option4": "<div>(ঘ) $9.9$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৩৯. $a$ ও $b$ দুটি গাড়ি পরস্পর বিপরীত দিক থেকে যথাক্রমে $10\\ m/s$ ও $15\\m/s$ বেগে আসছে। উহাদের আপেক্ষিক বেগ কত $m/s$?</div>",
+            "option1": "<div>(ক) 5</div>",
+            "option2": "<div>(খ) 10</div>",
+            "option3": "<div>(গ) 15</div>",
+            "option4": "<div>(ঘ) 25</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৪০. $200\\ m$ দীর্ঘ একটি ট্রেন $\\ 36\\ km\\ {hr}^{-1}$ গতিতে চলে $600\\ m$দীর্ঘ একটি ব্রিজ অতিক্রম করে। ব্রিজটি অতিক্রম করতে ট্রেনটির কত সময় লাগবে?</div>",
+            "option1": "<div>(ক) $80\\ s$</div>",
+            "option2": "<div>(খ) $100\\ s$</div>",
+            "option3": "<div>(গ) $120\\ s$</div>",
+            "option4": "<div>(ঘ) $140\\ s$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৪১. যদি একটি বস্তু ২য় সেকেন্ডে $10\\ m$, ৩য় সেকেন্ডে $20\\ m$ সমত্বরণেঅতিক্রম করে তবে এর ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $8\\ m/s^2\\ $</div>",
+            "option2": "<div>(খ) $10{\\ m/s}^2$</div>",
+            "option3": "<div>(গ) $15\\ {m/s}^2$</div>",
+            "option4": "<div>(ঘ) $20\\ {m/s}^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৪২. স্থির অবস্থান থেকে $100\\ kg$ ভরের একটি গাড়ি অনুভূমিকের সাথে30$\\mathrm{{}^\\circ}$ কোণে $20\\ m$ দূরত্বের একটি আনত তল বেয়ে নামছে। গাড়িটিরবেগ কত?</div>",
+            "option1": "<div>(ক) $9.8\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $14\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $98\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $196\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৪৩. এক ব্যক্তি রাস্তা পার হওয়ার সময় অর্ধেক রাস্তা $7\\ {ms}^{-1}$ বেগে এবংবাকি অর্ধেক $8\\ {ms}^{-1}$ বেগে পার হলে, তার গড় বেগ কত?</div>",
+            "option1": "<div>(ক) $7.40\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $7.47\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $7.50\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $7.56\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৪৪. স্থিরাবস্থা হতে সমত্বরণে চলমান বস্তু ১ম 10 সেকেন্ড $S_1$ ও পরের 10সেকেন্ডে $S_2$ দূরত্ব অতিক্রম করলে $S_1$ ও $S_2$ এর মধ্যে সম্পর্ক কী হবে?</div>",
+            "option1": "<div>(ক) $S_2=S_1$</div>",
+            "option2": "<div>(খ) $S_2={2S}_1$</div>",
+            "option3": "<div>(গ) $S_2=3S_1$</div>",
+            "option4": "<div>(ঘ) $S_2={4S}_1$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৪৫. কোন নৌকা প্রথমে $4\\ {km\\ h}^{-1}$ দ্রুতিতে $12\\ km$ এবং পরে $6\\ {km\\h}^{-1}$ বেগে $18\\ km$ পথ অতিক্রম করলে গড় দ্রুতি কত?</div>",
+            "option1": "<div>(ক) $3\\ {km\\ h}^{-1}$</div>",
+            "option2": "<div>(খ) $3.33\\ {km\\ h}^{-1}$</div>",
+            "option3": "<div>(গ) $5\\ {km\\ h}^{-1}$</div>",
+            "option4": "<div>(ঘ) $15.6\\ {km\\ h}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৪৬. $x=3t^3+4t^2+3t$ দ্বারা সরণ প্রকাশ করলে $4\\ s$ পরে ত্বরণ কত হবে?</div>",
+            "option1": "<div>(ক) $20\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $40\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $60\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $80\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৪৭. এব ব্যক্তি $4\\ {km\\ h}^{-1}$ বেগে গন্তব্য স্থানে পৌঁছে $5\\ {km\\h}^{-1}$ বেগে পূর্ব অবস্থানে ফিরে আসে। তার গড়বেগ কত?</div>",
+            "option1": "<div>(ক) $4.44\\ {km\\ h}^{-1}$</div>",
+            "option2": "<div>(খ) $4.46\\ {km\\ h}^{-1}$</div>",
+            "option3": "<div>(গ) $3.9\\ {km\\ h}^{-1}$</div>",
+            "option4": "<div>(ঘ) $4.5\\ {km\\ h}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৪৮. $s=\\frac{1}{3}t^3+3t$ সূত্রানুসারে একটি বস্তু সরলরেখায় চলছে $2\\ s$ পরেএর তাৎক্ষণিক বেগ কত?</div>",
+            "option1": "<div>(ক) 2 একক</div>",
+            "option2": "<div>(খ) 3 একক</div>",
+            "option3": "<div>(গ) 7 একক</div>",
+            "option4": "<div>(ঘ) 8 একক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৪৯. একটি বন্দুকের গুলি নির্দিষ্ট পুরুত্বের দেয়ালের মধ্যে $3\\ cm$ প্রবেশকরার পর অর্ধেক বেগ হারায়। গুলিটি দেয়ালের মধ্যে আর কতদূর প্রবেশ করতে পারবে?</div>",
+            "option1": "<div>(ক) $3\\ cm$</div>",
+            "option2": "<div>(খ) $1.5\\ cm$</div>",
+            "option3": "<div>(গ) $1\\ cm$</div>",
+            "option4": "<div>(ঘ) $0.5\\ cm$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৫০. সৌভিক $8\\ {ms}^{-1}$ বেগে সাইকেল চালিয়ে কলেজে যাচ্ছে। রাস্তার উপর দিয়েএকটি ছোট বাচ্চা দৌড় দেওয়ায় সে $16\\ m$ দূর থেকে ব্রেক চেপে থেমে গেল। সৌভিকেরবেগের পরিবর্তনের হার কত?</div>",
+            "option1": "<div>(ক) $-2\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $2\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $-2\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $2\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৫১. $200\\ m$ ও $300\\ m$ দৈর্ঘ্যের দুইটি ট্রেন একটি স্টেশন থেকে একই দিকেদুইটি সমান্তরালে রেল পথে যথাক্রমে $40\\ {km\\ h}^{-1}$ ও $30\\ {km\\ h}^{-1}$বেগে যাত্রা করে। কত সময় পর এরা পরস্পরকে অতিক্রম করবে?</div>",
+            "option1": "<div>(ক) $3\\ min$</div>",
+            "option2": "<div>(খ) $4\\ min$</div>",
+            "option3": "<div>(গ) $5\\ min$</div>",
+            "option4": "<div>(ঘ) $6\\ min$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৫২. একটি গাড়ি সমবেগে চলছিল কিন্তু যান্ত্রিক ত্রুটির কারণে সমমন্দনে থেমেগেছে। কোনটি বেগ-সময়-লেখচিত্র-</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/152.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৫৩. 200 মিটার দীর্ঘ একটি ট্রেন ঘন্টায় 36 কি.মি./ঘন্টা বেগে চলে 600 মিটারদীর্ঘ একটি ব্রীজ অতিক্রম করে। ব্রীজটি অতিক্রম করতে টেনের কত সেকেন্ড সময়লাগবে?</div>",
+            "option1": "<div>(ক) 80</div>",
+            "option2": "<div>(খ) 100</div>",
+            "option3": "<div>(গ) 120</div>",
+            "option4": "<div>(ঘ) 140</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৫৪. একটি বস্তুর অবস্থান $s\\left(t\\right)=2t-4t^3$ মিটার। $t=2\\ s$ এবস্তুটির ত্বরণ হবে-</div>",
+            "option1": "<div>(ক) $-24\\ {m/s}^2$</div>",
+            "option2": "<div>(খ) $48\\ {m/s}^2$</div>",
+            "option3": "<div>(গ) $24\\ {m/s}^2$</div>",
+            "option4": "<div>(ঘ) $-48\\ {m/s}^2$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৫৫. এক ব্যক্তি একটি নির্দিষ্ট দূরত্বের প্রথম অর্ধেক যায় $v_1$ দ্রুতিতে এবংবাকী অর্ধেক যায় $v_2$ দ্রুতিতে। তাহলে ঐ ব্যক্তির গড় দ্রুতি কত?</div>",
+            "option1": "<div>(ক) $\\frac{v_{1+}v_2}{2}$</div>",
+            "option2": "<div>(খ) $\\frac{{2v}_1v_2}{{2v}_1+v_2}$</div>",
+            "option3": "<div>(গ) $\\sqrt{\\frac{v_{1+}v_2}{2}}$</div>",
+            "option4": "<div>(ঘ) $\\frac{v_{1+}v_2}{{2v}_1v_2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৫৬. সমত্বরণে গতিশীল বস্তুর দূরত্ব সময়ের লেখচিত্র কোনটি?</div>",
+            "option1": "<div>(ক) সরলরেখা</div>",
+            "option2": "<div>(খ) প্যারাবোলা</div>",
+            "option3": "<div>(গ) বৃত্তাকার</div>",
+            "option4": "<div>(ঘ) উপবৃত্তাকার</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৫৭. $x-x_4=\\frac{1}{2}\\ {at}^2$ সমবেগে গতিশীল একটি কণার কোনটির পরিবর্তনঘটে?</div>",
+            "option1": "<div>(ক) অবস্থান ভেক্টর</div>",
+            "option2": "<div>(খ) দ্রুতি</div>",
+            "option3": "<div>(গ) বেগ</div>",
+            "option4": "<div>(ঘ) ত্বরণ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৫৮. দ্বারা অঙ্কিত পরাবৃত্তের যেকোনো বিন্দুতে অঙ্কিত স্পর্শকের ঢাল নিলে তাহবে ঐ বিন্দুর --</div>",
+            "option1": "<div>(ক) তাৎক্ষণিক দ্রুতি</div>",
+            "option2": "<div>(খ) তাৎক্ষণিক বেগ</div>",
+            "option3": "<div>(গ) তাৎক্ষণিক ত্বরণ</div>",
+            "option4": "<div>(ঘ) অতিক্রান্ত দূরত্ব</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৫৯. স্থির অবস্থান থেকে একটি ব্যাস $10\\ {ms}^{-2}$ সুষম ত্বরণে চলার সময়$125\\ m$ দূরত্বে অবস্থিত একটি মাইলপোস্টকে কত বেগে অতিক্রম করবে?</div>",
+            "option1": "<div>(ক) $50\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $75\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $100\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $500\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৬০. প্রাসের গতিপথের সর্বাধিক বিন্দুতে বেগ ও ত্বরণের মধ্যবর্তী কোণ হলো-</div>",
+            "option1": "<div>(ক) 0$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 90$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 120$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 180$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৬১. প্রক্ষেপকের সর্বোচ্চ উচ্চতা অনুভূমিক পাল্লার সমান হতে হলে তাকে কৃতকোণে নিক্ষেপ করতে হবে?</div>",
+            "option1": "<div>(ক) ${cot}^{-1}\\eqref{GrindEQ__4_}$</div>",
+            "option2": "<div>(খ) ${cot}^{-1}\\eqref{GrindEQ__2_}$</div>",
+            "option3": "<div>(গ) ${cot}^{-1}(1/2)$</div>",
+            "option4": "<div>(ঘ) ${cot}^{-1}(1/4)$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৬২. একটি বস্তু $t$ সময়ে $H$ দূরত্ব অতিক্রম কর ভূ-পৃষ্ঠে পতিত হয়। এর অর্ধেকসময়ে বস্তুটি কত উচ্চতায় থাকবে?</div>",
+            "option1": "<div>(ক) $\\frac{1}{4}\\ H$</div>",
+            "option2": "<div>(খ) $\\frac{H}{2}$</div>",
+            "option3": "<div>(গ) $\\frac{3H}{4}$</div>",
+            "option4": "<div>(ঘ) $2\\ H$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৬৩. সর্বোচ্চ উচ্চতা অনুভূমিক পাল্লার এক-চতুর্থাংশ হলে, প্রক্ষেপকেরনিক্ষেপণ কোণ কত?</div>",
+            "option1": "<div>(ক) 30$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 45$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 50$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 90$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৬৪. একটা বস্তু $V_0$ বেগে এবং ${\\theta }_0$ কোণে নিক্ষেপ করা হলো সর্বোচ্চউচ্চতা কত?</div>",
+            "option1": "<div>(ক) $\\frac{v^2_{0\\ }{{sin}^2\\theta }_0\\ }{2g}$</div>",
+            "option2": "<div>(খ) $\\frac{v^2_{0\\ }{sin\\ \\theta }_0\\ }{g}$</div>",
+            "option3": "<div>(গ) $\\frac{v^2_{0\\ }{{sin}^2\\theta }_0\\ }{2g}$</div>",
+            "option4": "<div>(ঘ) $\\frac{{2V}_0\\ }{g}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৬৫. একটি প্রাসকে 15$\\mathrm{{}^\\circ}$ কোণে নিক্ষেপ করায় অনুভূমিক পাল্লা$1.5\\ km$ হলো। 45$\\mathrm{{}^\\circ}$ কোণে নিক্ষেপ করলে পাল্লা কত হবে?</div>",
+            "option1": "<div>(ক) $1.5\\ km$</div>",
+            "option2": "<div>(খ) $3.0\\ km$</div>",
+            "option3": "<div>(গ) $6.0\\ km$</div>",
+            "option4": "<div>(ঘ) $0.75\\ km$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৬৬. যদি $y=bt+{ct}^2$ হয়, তবে এর একক কি হবে? এখানে, $y=$সরণ, $t=$ সময়(সে.)</div>",
+            "option1": "<div>(ক) ${ms}^{-1}$</div>",
+            "option2": "<div>(খ) $ms$</div>",
+            "option3": "<div>(গ) ${ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $m^{-1}s^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৬৭. একটি বালক $20\\ m$ উঁচু দালানের ছাদ হতে $9.8\\ {ms}^{-1}$ বেগে একটি বলকেউপরে নিক্ষেপ করলো। বলটি ভূমি হতে সর্বোচ্চ কত উচ্চতায় উঠবে?</div>",
+            "option1": "<div>(ক) $4.9\\ m$</div>",
+            "option2": "<div>(খ) $15.1\\ m$</div>",
+            "option3": "<div>(গ) $24.9\\ m$</div>",
+            "option4": "<div>(ঘ) $30.5\\ m$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৬৮. কোন বস্তুকে অনুভূমিকের সাথে তির্যকভাবে শূন্যে নিক্ষেপের কতক্ষণ পর সেটিপ্রসঙ্গতলে ফিরে আসবে?</div>",
+            "option1": "<div>(ক) $\\frac{v_0\\ {sin\\ \\theta }_0\\ }{g}$</div>",
+            "option2": "<div>(খ) $\\frac{v_0\\ {sin\\ \\theta }_0\\ }{2g}$</div>",
+            "option3": "<div>(গ) $\\frac{{2v}_0\\ {sin\\ \\theta }_0\\ }{g}$</div>",
+            "option4": "<div>(ঘ) $\\frac{v^2_{0\\ }{sin\\ \\theta }_0\\ }{2g}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৬৯. একটি বন্দুকের গুলির সর্বাধিক পাল্লা $16\\ km$ যদি $g=10\\ {ms}^{-2}$ হয়,তবে গুলির আদি বেগ কত ছিল?</div>",
+            "option1": "<div>(ক) $400$</div>",
+            "option2": "<div>(খ) $200$</div>",
+            "option3": "<div>(গ) $800$</div>",
+            "option4": "<div>(ঘ) $256$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭০. $9.8\\ {ms}^{-1}$ বেগে খাড়া উপরের দিকে একটি পাথরকে ছোঁড়া হলে কত সেকেন্ডপর এটি ভূ-পৃষ্ঠে ফিরে আসবে?</div>",
+            "option1": "<div>(ক) $1\\ s$</div>",
+            "option2": "<div>(খ) $2\\ s$</div>",
+            "option3": "<div>(গ) $3\\ s$</div>",
+            "option4": "<div>(ঘ) $4\\ s$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৭১. একটি ফুটবলকে ভূমির সাথে 30$\\mathrm{{}^\\circ}$ কোণে $40\\ {ms}^{-1}$বেগে কিক করা হলে $2\\ sec$ পরে ফুটবলের বেগের মান কত হবে?</div>",
+            "option1": "<div>(ক) $32.64\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $33.64\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $34.64\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $35.64\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৭২. একটি পাহাড়ের চূড়া থেকে একটি বস্তুকে ভূমির সমান্তরালে $30\\ {ms}^{-1}$বেগে নিক্ষেপ করলে $3\\ s$ পর অতিক্রান্ত আনুভূমিক ও উল্লম্ব দূরত্বের অনুপাতহবে-</div>",
+            "option1": "<div>(ক) 2.04</div>",
+            "option2": "<div>(খ) 2.05</div>",
+            "option3": "<div>(গ) 2.06</div>",
+            "option4": "<div>(ঘ) 2.07</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭৩. একজন ক্রিকেটার একটি বলকে সর্বোচ্চ $100\\ m$ অনুভূমিক দূরত্বে ছুড়তে পার্একই বেগে সে বলকে মাটি হতে খাড়া কত উচ্চতায় ছুড়তে পারবে?</div>",
+            "option1": "<div>(ক) $50\\ m$</div>",
+            "option2": "<div>(খ) $75\\ m$</div>",
+            "option3": "<div>(গ) $100\\ m$</div>",
+            "option4": "<div>(ঘ) $125\\ m$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭৪. কত বেগে একটি প্রস্তর খন্ডকে খাড়াভাবে উপরে নিক্ষেপ করলে এটি $20\\ m$উপরে উঠবে? [$g=10\\ {ms}^{-2}$]</div>",
+            "option1": "<div>(ক) $10\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $15\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $20\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $25\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৭৫. একটি প্রাসের সর্বাধিক পাল্লা $100m$ এর সর্বাধিক উচ্চতা কত?</div>",
+            "option1": "<div>(ক) $50\\ m$</div>",
+            "option2": "<div>(খ) $25\\ m$</div>",
+            "option3": "<div>(গ) $20\\ m$</div>",
+            "option4": "<div>(ঘ) $10\\ m$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭৬. একটি প্রাসের ক্ষেত্রে সর্বোচ্চ উচ্চতা ও বিচরণ কালের বর্গেরঅনুপাত($g=10\\ {ms}^{-2}$).</div>",
+            "option1": "<div>(ক) $5\\ :4$</div>",
+            "option2": "<div>(খ) $5\\ :2$</div>",
+            "option3": "<div>(গ) $5\\ :1$</div>",
+            "option4": "<div>(ঘ) $10\\ :1$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৭৭. একটি বস্তু $60\\ {ms}^{-1}$ বেগে খাড়া উপরের দিকে ছুঁড়ে দিলে তা কতক্ষণশূন্যে থাকবে?</div>",
+            "option1": "<div>(ক) $6.12\\ s$</div>",
+            "option2": "<div>(খ) $12.24\\ s$</div>",
+            "option3": "<div>(গ) $3.06\\ s$</div>",
+            "option4": "<div>(ঘ) $183.67\\ s$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৭৮. একজন বালক একটি বাড়ির ছাদ হতে একটি বল $12.9\\ {ms}^{-1}$ বেগে উপরের দিকেনিক্ষেপ করে $6\\ s$ সময়ে মাটিতে পড়ার মুহূর্তে বলটিকে ধরতে পারে। বাড়ির উচ্চতাকত?</div>",
+            "option1": "<div>(ক) $76\\ m$</div>",
+            "option2": "<div>(খ) $91\\ m$</div>",
+            "option3": "<div>(গ) $99\\ m$</div>",
+            "option4": "<div>(ঘ) $196\\ m$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৭৯. $9.2\\ {ms}^{-1}$ বেগে একটি ক্ষুদ্র বস্তুকে উপরের দিকেনিক্ষেপ করলে কতসময় পরে বস্তুটি ফিরে আসবে?</div>",
+            "option1": "<div>(ক) $3.4543\\ s$</div>",
+            "option2": "<div>(খ) $1.878\\ s$</div>",
+            "option3": "<div>(গ) $2.433\\ s$</div>",
+            "option4": "<div>(ঘ) $4.293\\ s$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮০. একটি প্রক্ষেপককে অনুভূমিকের 60$\\mathrm{{}^\\circ}$ সাথে কোণে $30\\{ms}^{-1}$ বেগে নিক্ষেপ কর হলো। সর্বোচ্চ উচ্চতায় প্রক্ষেপকটির বেগ কত হবে?</div>",
+            "option1": "<div>(ক) $15\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $\\frac{\\sqrt{15}}{2}\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $0\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $30\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৮১. 45$\\mathrm{{}^\\circ}$ কোণে নিক্ষিপ্ত প্রাসের সর্বাধিক উচ্চতা $H$ ওপাল্লা $R$ হলে, কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) $R=2H$</div>",
+            "option2": "<div>(খ) $H=3R$</div>",
+            "option3": "<div>(গ) $H=4R$</div>",
+            "option4": "<div>(ঘ) $H=\\frac{R}{4}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৮২. প্রাসের উচ্চতা সর্বাধিক হয় যখন নিক্ষেপণ কোণ, $\\mathrm{\\theta }$ =</div>",
+            "option1": "<div>(ক) 45$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 90$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 30$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 60 $\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮৩. একটি সুউচ্চ দালানের উপর থেকে অভিকর্ষজ ত্বরণের প্রভাবে একটি বল নিচেপড়লো। কোনটি $(h-t)$ লেখচিত্র হবে এই গতির জন্য?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/183.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৮৪. মুক্তভাবে পড়ন্ত বস্তুর $1s,\\ 2s$ এবং $3s$ অতিক্রান্ত দূরত্বের অনুপাতকত?</div>",
+            "option1": "<div>(ক) $1\\ :2\\ :3$</div>",
+            "option2": "<div>(খ) $1\\ :4\\ :9$</div>",
+            "option3": "<div>(গ) $1\\ :3\\ :9$</div>",
+            "option4": "<div>(ঘ) $1\\ :3\\ :5$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮৫. বস্তুর উত্থান পতনের অতিবাহিত মোট সময় বা ভ্রমণকাল কোনটি?</div>",
+            "option1": "<div>(ক) $T=\\frac{v_0\\ }{g}$</div>",
+            "option2": "<div>(খ) $T=\\frac{{2v}_0\\ }{g}$</div>",
+            "option3": "<div>(গ) $T=\\frac{v^2_{0\\ }\\ }{g}$</div>",
+            "option4": "<div>(ঘ) $T=\\frac{v^2_{0\\ }\\ }{2g}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮৬. বস্তুটি কখন সর্বাধিক উচ্চতা থেকে 125 মিটার নিচে থাকবে?</div>",
+            "option1": "<div>(ক) $5,\\ 15$</div>",
+            "option2": "<div>(খ) $15,\\ 5$</div>",
+            "option3": "<div>(গ) $10+5\\sqrt{3},\\ 10-5\\sqrt{}3$</div>",
+            "option4": "<div>(ঘ) $10-5\\sqrt{3},\\ 10+5\\sqrt{}3$ সেকেন্ডে</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৮৭. মুক্তভাবে পড়ন্ত কোনো বস্তুর $1s,\\ 2s\\ ও\\ \\ 3s$ অতিক্রান্ত দূরত্বেরঅনুপাত-</div>",
+            "option1": "<div>(ক) $1\\ :2\\ :3$</div>",
+            "option2": "<div>(খ) $1\\ :4\\ :9$</div>",
+            "option3": "<div>(গ) $1\\ :3\\ :9$</div>",
+            "option4": "<div>(ঘ) $1\\ :3\\ :\\ 5$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮৮. পড়ন্ত বস্তুর $2^{nd}\\ ও\\ \\ 3^{rd}$ এ অতিক্রান্ত দূরত্বের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $1\\ :1$</div>",
+            "option2": "<div>(খ) $3\\ :5$</div>",
+            "option3": "<div>(গ) $4\\ :9$</div>",
+            "option4": "<div>(ঘ) $2\\ :3$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৮৯. একটি বস্তু $h$ উচ্চতা হতে $ts$ সময়ে পড়ে, তাহলে $s\\frac{t}{2}$ ভূমি হতেকত উচ্চতায় ছিল?</div>",
+            "option1": "<div>(ক) $\\frac{h}{4}$</div>",
+            "option2": "<div>(খ) $\\frac{2h}{4}$</div>",
+            "option3": "<div>(গ) $\\frac{3h}{4}$</div>",
+            "option4": "<div>(ঘ) $\\frac{h}{6}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৯০. $100\\ m$ উচ্চতা হতে পড়ন্ত কোন বস্তুর ভূমিতে পতনের মুহূর্তে বেগ কত?</div>",
+            "option1": "<div>(ক) $31.3\\ {ms}^{-1}$</div>",
+            "option2": "<div>(খ) $38.9\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $44.27\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $1960\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৯১. একটি সেকেন্ডের কাঁটার কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $\\frac{\\pi }{50}$</div>",
+            "option2": "<div>(খ) $\\frac{\\pi }{40}$</div>",
+            "option3": "<div>(গ) $\\frac{\\pi }{30}$</div>",
+            "option4": "<div>(ঘ) $\\frac{\\pi }{20}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৯২. হাত ঘড়ির সেকেন্ডের কাঁটার কম্পাংক-</div>",
+            "option1": "<div>(ক) $1.67\\times {10}^{-2}\\ Hz$</div>",
+            "option2": "<div>(খ) $1.67\\times {10}^{-3}\\ Hz$</div>",
+            "option3": "<div>(গ) $2.8\\times {10}^{-4}\\ Hz$</div>",
+            "option4": "<div>(ঘ)$\\ 2.0\\times {10}^{-5}\\ Hz$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৯৩. ঘড়ির মিনিটের কাঁটার পর্যায়কাল $T=1\\ hr$ হলে এর কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $1.047\\times {10}^{-4}\\ {ms}^{-1}\\ $</div>",
+            "option2": "<div>(খ) $1.74\\times {10}^{-3}\\ {rad\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $3600\\ \\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $3600\\ \\ \\pi {ms}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৯৪. ঘড়ির ঘন্টার কাঁটার কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $1.89\\times {10}^{-4}\\ {rad\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $1.63\\times {10}^{-4}\\ {rad\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $1.69\\times {10}^{-4}\\ {rad\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $1.45\\times {10}^{-4}\\ {rad\\ s}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৯৫. $15\\ cm$ দীর্ঘ একটি ঘড়ির ঘন্টার কাঁটার প্রান্তের রৈখিক বেগ কত?</div>",
+            "option1": "<div>(ক) $2.18\\times {10}^{-3}\\ {cms}^{-1}$</div>",
+            "option2": "<div>(খ) $2.18\\times {10}^{-4}\\ {cms}^{-1}$</div>",
+            "option3": "<div>(গ) $1.31\\times {10}^{-3}\\ {cms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $1.31\\times {10}^{-4}\\ {cms}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৯৬. একটি বৈদ্যুতিক পাখার সুইচ অন করলে 10 বার পূর্ণ ঘূর্ণনের পর পাখাটিরকৌণিক বেগ $20\\ rad/s$ হয়। কৌণিক ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $1.83\\ {rad/s}^2$</div>",
+            "option2": "<div>(খ) $3.18\\ {rad/s}^2$</div>",
+            "option3": "<div>(গ) $5.17\\ {rad/s}^2$</div>",
+            "option4": "<div>(ঘ) $8.13\\ {rad/s}^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৯৭. কেন্দ্রমুখী ত্বরণ $a$ এর মান কত?</div>",
+            "option1": "<div>(ক) $a=\\frac{v^2}{2}$</div>",
+            "option2": "<div>(খ) $a=\\frac{v}{r^2}$</div>",
+            "option3": "<div>(গ) $a=\\frac{v^2}{2r}$</div>",
+            "option4": "<div>(ঘ) $a=\\frac{{2v}^2}{r}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৯৮. হাতঘড়ির সেকেন্ডের কাঁটার কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $\\pi \\ rad-s^{-1}$</div>",
+            "option2": "<div>(খ) $\\frac{\\pi }{2}\\ rad-s^{-1}$</div>",
+            "option3": "<div>(গ) $\\frac{\\pi }{3}\\ rad-s^{-1}$</div>",
+            "option4": "<div>(ঘ) $\\frac{\\pi }{30}\\ rad-s^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৯৯. রকেটের গতির জন্য --<br>i. আপেক্ষিক বেগ বৃদ্ধিতে ত্বরণ বৃদ্ধি পায়<br>ii. গ্যাস নির্গমনের হার বৃদ্ধিতে ত্বরণ ও বৃদ্ধি পায়<br>iii. রকেট যত উপরে যায় ত্বরণ তত কমে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২০০. একটি বস্তু সেকেন্ডে এবং সেকেন্ডে দূরত্ব অতিক্রম করে। বস্তুটির-<br>i. ত্বরণ $10\\ {ms}^{-2}$<br>ii. আদিবেগ $5\\ {ms}^{-1}$<br>iii. $20\\ s$ এ অতিক্রান্ত দূরত্ব $2100\\ m$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২০১. সুষম বৃত্তীয় গতিতে-<br>i. ত্বরণ থাকে না<br>ii. বেগের অভিমুখে বৃত্তের স্পর্শক বরাবর<br>iii. ত্বরণের অভিমুখ বৃত্তের কেন্দ্রমুখী<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২০২. স্পর্শী ত্বরণের ক্ষেত্রে-<br>i. এটি বৃত্তের স্পর্শক বরাবর ক্রিয়া করে<br>ii. কেন্দ্রমুখী ত্বরণের লম্ব দিকে ক্রিয়া করে<br>iii. এর মান $\\frac{v^2}{p}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২০৩. প্রাসের অনুভূমিক পাল্লা নির্ভর করে-<br>i. নিক্ষেপণ বেগ<br>ii. নিক্ষেপণ বিন্দু<br>iii. অভিকর্ষজ ত্বরণ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২০৪. প্রাসের ক্ষেত্রে লেখচিত্র হলো-<br>i.<br>ii.<br>iii.<br>নিচেরে কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/204.webp"
+        },
+        {
+            "mcqQuestion": "<div>২০৫. একটি বস্তুর নিক্ষেপণ বেগ ও নিক্ষেপণ কোণ বস্তুটির --<br>i. সর্বোচ্চ উচ্চতা $1.28\\ m$<br>ii. পাল্লা $8.84\\ m$<br>iii. বিচরণ কাল $2\\ s$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২০৬. একটি বস্তুকে অনুভূমিকের সাথে কোণে বেগে নিক্ষেপ করা হলো। নিচের কোনটিসঠিক?<br>i. সর্বোচ্চ উচ্চতা $5.1\\ m$<br>ii.পাল্লা $35.347\\ m$<br>iii. বিচরণকাল $2.04\\ s$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২০৭. একটি ট্রেন স্থির অবস্থান হতে $10\\ {ms}^{-1}$ ত্বরণে চলতে আরম্ভ করল একইসময়ে একটি গাড়ি $100\\ {ms}^{-1}$ সমবেগে টেনের সমান্তরাল চলা শুরু করল।<br>i. $20\\ s$ সময় পর ট্রেন গাড়িটিকে অতিক্রম করবে।<br>ii. গাড়িটি $2\\ km$ যাওয়ার পর ট্রেন গাড়িটিকে অতিক্রম করবে<br>iii. ট্রেন কর্তৃক গাড়িকে অতিক্রম করা সম্ভব নয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২০৮. দুটি গাড়ি যথাক্রমে এবং বেগে সমান্তরালে চলা শুরু করল। গাড়ি দুটিরআপেক্ষিক বেগ হবে-<br>i. $5\\ {ms}^{-1}$<br>ii. $25\\ {ms}^{-1}$<br>iii. $-5\\ {ms}^{-1}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২০৯. গরু দ্বারা ধান মাড়াইয়ের সময় সর্বাধিক বেগে দৌড়াতে হয়-<br>i. নিকটবর্তী<br>ii. দূরবর্তী গরুকে<br>iii. সবগুলো সমান বেগে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii</div>",
+            "option4": "<div>(ঘ) ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২১০. বৃত্তপথে কপার যেকোনো অবস্থানে কেন্দ্রমুখী ত্বরণ-<br>i. কেন্দ্র হতে বাহির দিকে ক্রিয়া করে<br>ii. ব্যাসার্ধ বরাবর ক্রিয়া করে<br>iii. কণার রৈখিক বেগের অভিমুখে লম্বভাবে ক্রিয়া করে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২১১. একটি বস্তু ব্যাসার্ধের বৃত্তকার পথে সমদ্রুতিতে ঘুরছে। এক্ষেত্রে-<br>i. বস্তুটির ত্বরণ নেই<br>ii. বস্তুটির ত্বরণ আছে<br>iii. বস্তুটির কৌণিক বেগ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২১২. স্থিরাবস্থা হতে পড়ন্ত বস্তুর বেগ-<br>i. সময়ের বর্গের সমানুপাতিক<br>ii. সময়ের সমানুপাতিক<br>iii. দূরত্বের বর্গমূলের সমানুপাতিক<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২১৩. 150 m উঁচ হতে একটি পাথর ভূমিতে পতিত হয়। তাহলে---<br>i. ভূমিতে পৌঁছাতে এর 5.53s সময় লাগে<br>ii. ভূমি স্পর্শ করার মুহূর্তে এর বেগ হবে ${54.2\\ m\\ s}^{-1}$<br>iii. ভূমি স্পর্শ করার মুহূর্তে এর বেগ সর্বনিম্ন হবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>■ লেখচিত্রে সময়ের সাথে একটি বস্তুর পরিবর্তন দেখানো হলো।<br>উদ্দীপক হতে ২১৪, ২১৫ এবং ১১৬ নং প্রশ্নের উত্তর দাওঃ<br>২১৪. লেখচিত্রের P বিন্দুর ত্বরণ---</div>",
+            "option1": "<div>(ক) $2\\ m\\ s^{-2}$</div>",
+            "option2": "<div>(খ) $4\\ m\\ s^{-2}$</div>",
+            "option3": "<div>(গ) $6\\ m\\ s^{-2}$</div>",
+            "option4": "<div>(ঘ) $8\\ m\\ s^{-2}$</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/214.webp"
+        },
+        {
+            "mcqQuestion": "<div>২১৫. 4 s এর বস্তুটি কত দূরত্ব অতিক্রম করবে?</div>",
+            "option1": "<div>(ক) 64 m</div>",
+            "option2": "<div>(খ) 32 m</div>",
+            "option3": "<div>(গ) 21.33 m</div>",
+            "option4": "<div>(ঘ) 100 m</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২১৬. উদ্দীপকের ফাংশনটি যদি $v\\propto t^2$ হয়, তবে সমানুপাতিক ধ্রবক হবে---</div>",
+            "option1": "<div>(ক) 1 $m\\ s^{-1}$</div>",
+            "option2": "<div>(খ) 1 $m^{-1}\\ s^{-2}$</div>",
+            "option3": "<div>(গ) 1 $m\\ s^{-2}$</div>",
+            "option4": "<div>(ঘ) 1 $m\\ s^{-3}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের চিত্রটি লক্ষ কর এবং এর আলোকে ২১৭ ও ২১৮ নং প্রশ্নের উত্তর দাওঃ<br>\\[\\theta =45{}^\\circ ,\\ v_0=40\\ {m\\ s}^{-1}\\]<br>২১৭. H এর মান কত হবে?</div>",
+            "option1": "<div>(ক) 81.63 m</div>",
+            "option2": "<div>(খ) 40.82 m</div>",
+            "option3": "<div>(গ) 115.45 m</div>",
+            "option4": "<div>(ঘ) 57.72 m</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/217.webp"
+        },
+        {
+            "mcqQuestion": "<div>২১৮. $\\theta =90{}^\\circ $ হলে নিপেক্ষেপের কতক্ষণ বস্তুটি ভূমিতে ফিরে আসবে?</div>",
+            "option1": "<div>(ক) 8.16 s</div>",
+            "option2": "<div>(খ) 2.04 s</div>",
+            "option3": "<div>(গ) 4.08 s</div>",
+            "option4": "<div>(ঘ) 81.63 s</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের চিত্র হতে ২১৯ ও ২২০ নং প্রশ্নের উত্তর দাওঃ<br>২১৯. প্রথম 2 সেকেন্ডে অতিক্রান্ত দূরত্ব কত?</div>",
+            "option1": "<div>(ক) 20 m</div>",
+            "option2": "<div>(খ) 30 m</div>",
+            "option3": "<div>(গ) 50 m</div>",
+            "option4": "<div>(ঘ) 120 m</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/219.webp"
+        },
+        {
+            "mcqQuestion": "<div>২২০. প্রথম 5 সেকেন্ডে সরণ কত?</div>",
+            "option1": "<div>(ক) 20 m</div>",
+            "option2": "<div>(খ) 30 m</div>",
+            "option3": "<div>(গ) 50 m</div>",
+            "option4": "<div>(ঘ) 80 m</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>■ উদ্দীপকটি পড়ে ২২১ ও ২২২ নং প্রশ্নের উত্তর দাওঃ<br>একটি দেয়াল ঘড়ির মিনিটের কাঁটার দৈর্ঘ্য 18 cm ।<br>২২১. মিনিটের কাঁটার কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $1.74\\ \\times \\ {10}^{-3}\\ {rad\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $2.36\\ \\times \\ {10}^{-3}\\ {rad\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $1.92\\ \\times \\ {10}^{-3}\\ {rad\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $1.52\\ \\times \\ {10}^{-3}\\ {rad\\ s}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২২২. এর প্রান্তের রৈখিক বেগ কত?</div>",
+            "option1": "<div>(ক) $2.31\\ \\times \\ {10}^{-4}\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $2.81\\ \\times \\ {10}^{-4}\\ {m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $3\\ \\times \\ {10}^{-4}\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $3.13\\ \\times \\ {10}^{-4}\\ {m\\ s}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড় এবং ২২৩ ও ২২৪ নং প্রশ্নের উত্তর দাওঃ<br>সরল পথে গতিশীল কোন বস্তুর সরণ নিম্নের সমীকরণ মেনে ঘটে।<br>\\[s=\\left({5t}^2+t+3\\right)m\\]<br>২২৩. বস্তুটির আদিবেগ কত?</div>",
+            "option1": "<div>(ক) $5\\ m/s$</div>",
+            "option2": "<div>(খ) 300 $m/s$</div>",
+            "option3": "<div>(গ) 2 $m/s$</div>",
+            "option4": "<div>(ঘ) 100 $cm/s$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২২৪. নিচের কোন লেখচিত্রটি বস্তুটির সময়ের সাথে ত্বরণের সঠিক সম্পর্ক নিদেশকরে?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/224.webp"
+        },
+        {
+            "mcqQuestion": "<div>■ একজন ফুটবলার গোলপোস্টের 20 মিটার দূর হতে অনুভূমিকের সাথে30$\\mathrm{{}^\\circ}$ কোণে 30 মিটার/সেকেন্ড বেগে বল কিক করল।<br>উদ্দীপক অনুসারে ২২৫ ও ২২৬ নং প্রশ্নের উত্তর দাওঃ<br>২২৫. বলটি সর্বোচ্চ কত উচ্চতায় উঠবে?</div>",
+            "option1": "<div>(ক) 11.48 m</div>",
+            "option2": "<div>(খ) 10.48 m</div>",
+            "option3": "<div>(গ) 12.48 m</div>",
+            "option4": "<div>(ঘ) 11.88 m</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২২৬. 1 সেকেন্ড পর বলটির বেগ কত হবে?</div>",
+            "option1": "<div>(ক) 29.6 ${m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) 26.5 ${m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) 27.6 ${m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) 28.5 ${m\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>■ 10 kg ভরের স্থির উপর 40 N বল অনুভূমিকের সাথে 30$\\mathrm{{}^\\circ}$ কোণেক্রিয়াশীল। $\\left[g={10\\ m\\ s}^{-2}\\right]$<br>উদ্দীপক হতে ২২৭ ও ২২৮ নং প্রশ্নের উত্তর দাওঃ<br>২২৭. অনুভূমিক বরাবর বস্তুর ত্বরণ কত ${m\\ s}^{-2}$ হবে?</div>",
+            "option1": "<div>(ক) 0</div>",
+            "option2": "<div>(খ) $2\\sqrt{3}$</div>",
+            "option3": "<div>(গ) 4</div>",
+            "option4": "<div>(ঘ) 20$\\sqrt{3}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২২৮. খাড়া নিচের দিকে ক্রিয়াশীল বলের মান কত N হবে?</div>",
+            "option1": "<div>(ক) 80</div>",
+            "option2": "<div>(খ) 98</div>",
+            "option3": "<div>(গ) 100</div>",
+            "option4": "<div>(ঘ) 140</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের অনুচ্ছেদটি পড় এবং ২২৯ ও ২৩০ নং প্রশ্নের উত্তর দাওঃ<br>ভূমি হতে 20 m উচ্চতা থেকে 10 kg ভরের একটি বস্তুকে মুক্তভাবে পড়তে ও দেওয়াহলো---<br>২২৯. বস্তুটি ভূমিতে আঘাত করবে---</div>",
+            "option1": "<div>(ক) ${16.79\\ m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) ${18.79\\ m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) ${17.79\\ m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) ${19.79\\ m\\ s}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৩০. বস্তটি কত সেকেন্ড পর ভূমিতে আঘাত করবে?</div>",
+            "option1": "<div>(ক) 4.02 s</div>",
+            "option2": "<div>(খ) 3.02 s</div>",
+            "option3": "<div>(গ) 2.02 s</div>",
+            "option4": "<div>(ঘ) 1.02 s</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>■ $x=\\frac{1}{3}t^2+3t$ সমীকরণটি থেকে ২৩১ ও ২৩২ নং প্রশ্নের উত্তর দাওঃ<br>২৩১. 2 s পরে বেগ কত?</div>",
+            "option1": "<div>(ক) 15 ${m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) 10 ${m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) 7 ${m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) 5 ${m\\ s}^{-1}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৩২. 2 s পরে ত্বরণ কত?</div>",
+            "option1": "<div>(ক) 4 ${m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) 5 ${m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) 6 ${m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) 7 ${m\\ s}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>■ উদ্দীপকটি পড়ে ২৩৩ ও ২৩৪ নং প্রশ্নের উত্তর দাওঃ<br>\\[x=\\frac{1}{2}t^2+2t\\]<br>২৩৩. 2s পরে বেগ কত ${m\\ s}^{-1}$?</div>",
+            "option1": "<div>(ক) 6</div>",
+            "option2": "<div>(খ) 6</div>",
+            "option3": "<div>(গ) 4</div>",
+            "option4": "<div>(ঘ) 3</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৩৪. $\\left(t-x\\right)$ লেখচিত্রটি হবে?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/234.webp"
+        },
+        {
+            "mcqQuestion": "<div>■ উদ্দীপকটি পড়ে ২৩৫ ও ২৩৬ নং প্রশ্নের উত্তর দাওঃ<br>2 kg ভরের একটি বস্তুকে ভূমি হতে খাড়া ঊর্ধ্বে নিক্ষেপ করা হলো এবং বস্তুটি 8s পর পুনরায় ভূমিতে ফির এলো।<br>২৩৫. নিক্ষেপন বেগ কত?</div>",
+            "option1": "<div>(ক) 9.8 ${m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) 19.6 ${m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) 29.4 ${m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) 39.2 ${m\\ s}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৩৬. 2s পর বস্তুটি---<br>i. বেগ অধিক হয়ে যাবে<br>ii. গতি শক্তি কমবে<br>iii. স্থিতিশক্তি বাড়বে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>■ উদ্দীপকটি পড়ে ৩৩৭ ও ২৩৮নং প্রশ্নের উত্তর দাওঃ<br>m ভরের বস্তুকে 98 ${m\\ s}^{-1}$ বেগে খাড়া উপরের দিকে নিক্ষেপ করা হলো।<br>২৩৭. বস্তুটির উড্ডয়নকাল কোনটি?</div>",
+            "option1": "<div>(ক) 10s</div>",
+            "option2": "<div>(খ) 15s</div>",
+            "option3": "<div>(গ) 20s</div>",
+            "option4": "<div>(ঘ) 25s</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৩৮. বেগ বনাম সময় লেখচিত্র কোনটি?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/238.webp"
+        },
+        {
+            "mcqQuestion": "<div>■ উদ্দীপকটি পড়ে ২৩৯ ও ২৪০ নং প্রশ্নের উত্তর দাওঃ<br>কোনো বস্তুর অবস্থান $x=\\left(12\\ {m\\ s}^{-1}\\right)t-\\left(1.2\\ {m\\s}^{-1}\\right)t^2$ যেখানে, x অবস্থান, সময় t এর উপর নির্ভলশীল।<br>২৩৯. $t=3\\ s$ সময়ে বস্তুটির বেগের মান কত?</div>",
+            "option1": "<div>(ক) 4.4 ${m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) 4.8 ${m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) 10.8 ${m\\ s}^{-2}$</div>",
+            "option4": "<div>(ঘ) 25.2 ${m\\ s}^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৪০. বস্তুটির ত্বরণ কত হবে?</div>",
+            "option1": "<div>(ক) $-48\\ {m\\ s}^{-2}$</div>",
+            "option2": "<div>(খ) $-2.4\\ {m\\ s}^{-2}$</div>",
+            "option3": "<div>(গ) $9.6\\ {m\\ s}^{-2}$</div>",
+            "option4": "<div>(ঘ) $14.4\\ {m\\ s}^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>■ উদ্দীপকটি পড়ে ২৪১ ও ২৪২ নং প্রশ্নের উত্তর দাওঃ<br>একটি রকেটকে $85\\ {m\\ s}^{-1}$ বেগে 45$\\mathrm{{}^\\circ}$ কোণে ছোঁড়া হয়। এটিছোঁড়ার 45$\\mathrm{{}^\\circ}$ পর বিস্ফোরিত হয়।<br>২৪১. রকেটটি কত উচ্চতায় বিস্ফোরিত হয়?</div>",
+            "option1": "<div>(ক) 176.4 m</div>",
+            "option2": "<div>(খ) 184.22 m</div>",
+            "option3": "<div>(গ) 260.65 m</div>",
+            "option4": "<div>(ঘ) 737.24 m</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৪২. রকেটটি কত কোণে ছোঁড়া হলে এটি ভূমিতে গিয়ে বিস্ফোরিত হবে?</div>",
+            "option1": "<div>(ক) 20.24$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 30$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 43.77$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 90$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৪৩. একটি কণার সরণের সমীকরণ, $x=at+{bt}^2-{ct}^3,\\ a,\\ b,\\ c$ ধ্রবক ও tসময়। যখন ত্বরণ শূণ্য তখন বেগ কত?</div>",
+            "option1": "<div>(ক) $a+\\frac{b^2}{c}$</div>",
+            "option2": "<div>(খ) $a+\\frac{b^2}{2c}$</div>",
+            "option3": "<div>(গ) $a+\\frac{b^2}{3c}$</div>",
+            "option4": "<div>(ঘ) $a+\\frac{b^2}{4c}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৪৪. স্থির অবস্থান থেকে 100 kg ভরের একটি গাড়ি অনুভূমিকের সাথে30$\\mathrm{{}^\\circ}$ কোণে 20 m দূরত্বের একটি আনত তল বেয়ে নামছে। গাড়িটিরবেগ---</div>",
+            "option1": "<div>(ক) 9.8 ${m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) 14 ${m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) 98 ${m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) 196 ${m\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৪৫. প্রাসের ক্ষেত্রে নিক্ষেপণ কোণ কত হলে অনুভূমিক পাল্লা সর্বাধিক হবে?</div>",
+            "option1": "<div>(ক) 0$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 45$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 60$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 90$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৪৬. একটি পাথর খন্ডকে ভূপৃষ্ঠ থেকে খাড়া উপরের দিকে তুলতে থাকলে এর পর কয়টিবল ক্রিয়া করে?</div>",
+            "option1": "<div>(ক) 1</div>",
+            "option2": "<div>(খ) 2</div>",
+            "option3": "<div>(গ) 3</div>",
+            "option4": "<div>(ঘ) 4</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৪৭. সময়ের সঙ্গে কোনো বস্তুকণার গতিবেগের সম্পর্ক হলো $v=0.4k+{4t}^2$ ।তাহলে বস্তুটির গতি হবে---</div>",
+            "option1": "<div>(ক) সমমন্দন যুক্ত</div>",
+            "option2": "<div>(খ) অবসমত্বরণ যুক্ত</div>",
+            "option3": "<div>(গ) সমত্বরণ যুক্ত</div>",
+            "option4": "<div>(ঘ) ত্বরণহীন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৪৮. $x-x_0=\\frac{1}{2}6{at}^2$ দ্বারা অঙ্কিত পরাবৃত্তের যেকোনো বিন্দুতেঅঙ্কিত স্পর্শকের ঢাল নিলে তা হবে ঐ বিন্দুর---</div>",
+            "option1": "<div>(ক) তাৎক্ষণিক দ্রুতি</div>",
+            "option2": "<div>(খ) তাৎক্ষণিক বেগ</div>",
+            "option3": "<div>(গ) তাৎক্ষণিক ত্বরণ</div>",
+            "option4": "<div>(ঘ) অভিক্রান্ত দূরত্ব</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৪৯. $x={3t}^2+{4t}^2+3t$ দ্বারা সরণ প্রকাশ করলে 4sec পরে ত্বরণ হবে---</div>",
+            "option1": "<div>(ক) 20 ${m\\ s}^{-2}$</div>",
+            "option2": "<div>(খ) 40 ${m\\ s}^{-2}$</div>",
+            "option3": "<div>(গ) 60 ${m\\ s}^{-2}$</div>",
+            "option4": "<div>(ঘ) 80 ${m\\ s}^{-2}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৫০. সময়ের ব্যবধান শূণ্যের কাছাকাছি হলে বস্তুর সরণের হারকে বলা হয়---</div>",
+            "option1": "<div>(ক) অসমবেগ</div>",
+            "option2": "<div>(খ) তাৎক্ষনিকবেগ</div>",
+            "option3": "<div>(গ) গড়বেগ</div>",
+            "option4": "<div>(ঘ) সুষমবেগ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৫১. স্থিরাবস্থা হতে সমত্বরণে চলমান বস্তু ১ম 10 সেকেন্ড $S_1$ ও পরের 10কেসেন্ডে $S_2$ দূরত্বে অতিক্রম করলে $S_1$ ও $\\ S_2$ এর মধ্যে সম্পর্ক কীহবে?</div>",
+            "option1": "<div>(ক) $S_2=S_1$</div>",
+            "option2": "<div>(খ) $S_2=2S_1$</div>",
+            "option3": "<div>(গ) $S_2={3S}_1$</div>",
+            "option4": "<div>(ঘ) $S_2={4S}_1$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৫২. A এবং B বিস্দুতে ত্বরণদ্বয় $a_A$ এবং $a_B$ হলে কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) $aA&gt;aB$</div>",
+            "option2": "<div>(খ) $aB&gt;aA$</div>",
+            "option3": "<div>(গ) $aA=aB$</div>",
+            "option4": "<div>(ঘ) $aB&lt;&lt;aA$</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/252.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৫৩. বেগ বনাম সময় লিখচিত্রের ঢাল বস্তুর কি নিদের্শ করে?</div>",
+            "option1": "<div>(ক) সরণ</div>",
+            "option2": "<div>(খ) দ্রুতি</div>",
+            "option3": "<div>(গ) বেগ</div>",
+            "option4": "<div>(ঘ) ত্বরণ</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৫৪. একটি বস্তু স্থিতিশীল অবস্থা হতে যাত্রা করে 5 m $s^{-2}$ সমত্বরণে ছলতেলাগল। 5 s এ বস্তুটি কত পথ অতিক্রম করবে?</div>",
+            "option1": "<div>(ক) 50 m</div>",
+            "option2": "<div>(খ) 55 5</div>",
+            "option3": "<div>(গ) 60.5 m</div>",
+            "option4": "<div>(ঘ) 62.5 m</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>■ চিত্র থেকে ২৫৫ ও ২৫৬ নং প্রশ্নের উত্তর দাওঃ<br>২৫৫. লেখচিত্রটির ঢাল =$\\frac{AB}{AC}$ , গতিবিষয়ক কোন রাশিটি প্রকাশ করে?</div>",
+            "option1": "<div>(ক) ত্বরণ</div>",
+            "option2": "<div>(খ) বেগ</div>",
+            "option3": "<div>(গ) দ্রুতি</div>",
+            "option4": "<div>(ঘ) সরণ</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/255.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৫৬. লেখচিত্রটির নিম্নলিখিত বৈশিষ্ট্য দেখা যায়---<br>i. s বনাম t লিখচিত্রটি একটি সরলরেখা হবে<br>ii. আদিবেগ শূন্য হলে লেখচিত্রটি মূল বিন্দুগামী সরলরেখা হবে<br>iii. লৈখচিত্রটির Y-অক্ষের ছেদক আদি দূরত্ব প্রকাশ করে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৫৭. লেখটি গতিশীল বস্তুর কোন অবস্থা নির্দেশ করে?</div>",
+            "option1": "<div>(ক) সমবেগ</div>",
+            "option2": "<div>(খ) সমত্বরণ</div>",
+            "option3": "<div>(গ) সমমন্দন</div>",
+            "option4": "<div>(ঘ) অসম ত্বরণ</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/257.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৫৮. প্রাসের নিক্ষেপণ বেগের---<br>i. অনুভূমিক উপাংশের মান সময়ের সাথে পরিবর্তন হয় না<br>ii. উলম্ব উপাংশের মান সময়ের সাথে পরিবর্তন হয় না<br>iii. সার্বিক মান সময়ের সাথে পরিবর্তন হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৫৯. প্রক্ষেপকের গতিপথ কোন ধরনের হয়?</div>",
+            "option1": "<div>(ক) সরলরেখা</div>",
+            "option2": "<div>(খ) প্যারাবোলা</div>",
+            "option3": "<div>(গ) বদ্ধবক্র রেখা</div>",
+            "option4": "<div>(ঘ) বৃত্তাকার</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৬০. একটি প্রাসকে অনুভূমিকের সাথে তির্যকভাবে নিক্ষেপ করলে---<br>i. প্রাসের অনুভূমিক দিকে ত্বরণ সর্বাধিক হবে<br>ii. নিক্ষেপ কোণ 45$\\mathrm{{}^\\circ}$ হলে অনুভূমিক পাল্লা সর্বাধিক<br>iii. প্রাসের গতি দ্বিমাত্রিক<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৬১. একটি বস্তুকে অনুভূমিকের সাথে 45$\\mathrm{{}^\\circ}$ কোণে 20 ${m\\s}^{-1}$ বেগে নিক্ষেপ করলে কত দূরে গিয়ে পড়বে?</div>",
+            "option1": "<div>(ক) 10 m</div>",
+            "option2": "<div>(খ) 40.8 m</div>",
+            "option3": "<div>(গ) 5 m</div>",
+            "option4": "<div>(ঘ) 20 m</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৬২. প্রাসের সর্বোচ্চ অতিক্রান্ত উচ্চতার সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $H=\\frac{v^2_0}{g}$</div>",
+            "option2": "<div>(খ) $H=\\frac{v^2_0}{2g}$</div>",
+            "option3": "<div>(গ) $H=\\frac{2v^2_0}{g}$</div>",
+            "option4": "<div>(ঘ) $H=\\frac{v_0}{g}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৬৩.প্রক্ষিপ্ত বিন্দু ও বিচরণ পথের শেষ প্রাপ্ত বিন্দুর মধ্যবর্তী অনুভূমিকদূরত্বকে অনুভূমিক পাল্লা বলে। অনুভূমিক পাল্লা $R=v^2_0\\bullet \\\\frac{{\\mathrm{sin} 2\\alpha \\ }}{t}$ ---\\eqref{GrindEQ__1_}\\eqref{GrindEQ__1_} নং সমীকরণটিতে R এর সর্বোচ্চ মান হবে---<br>i. sin 2$\\mathrm{\\alpha }$ এর মান সর্বোচ্চ হলে<br>ii. $\\mathrm{\\alpha }$$=45{}^\\circ $ হলে<br>iii. $\\mathrm{\\alpha }\\mathrm{=}\\left(\\frac{\\pi }{4}\\right)$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/263.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৬৪. বাধাহীন পথে পড়ন্ত বস্তুর নির্দিষ্ট সময়ে প্রাপ্ত বেগ ঐ সময়ের---</div>",
+            "option1": "<div>(ক) সমানুপাতিক</div>",
+            "option2": "<div>(খ) ব্যস্তানুপাতিক</div>",
+            "option3": "<div>(গ) বর্গের সমানুপাতিক</div>",
+            "option4": "<div>(ঘ) বর্গের ব্যষ্তানুপাতিক</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৬৫. একটি বস্তুকে খাঁড়া উপরের দিকে নিক্ষেপ করলে সর্বোচ্চ উচ্চতার এর বেগহবে---</div>",
+            "option1": "<div>(ক) সর্বাধিক</div>",
+            "option2": "<div>(খ) শূণ্য</div>",
+            "option3": "<div>(গ) আদিবেগ</div>",
+            "option4": "<div>(ঘ) অসীম</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৬৬. সময়ের ব্যবধান শূণ্যের কাছাকাছি হলে বস্তুর সরণের হারকে বলা হয়---</div>",
+            "option1": "<div>(ক) গড়বেগ</div>",
+            "option2": "<div>(খ) তাৎক্ষণিক বেগ</div>",
+            "option3": "<div>(গ) সুষম বেগ</div>",
+            "option4": "<div>(ঘ) অসম বেগ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৬৭. সময়ের ব্যবধান শূণ্যের কাছাকছি হলে সময়ের সাথে বস্তুর বেগের পরিবর্তনেরহারকে বলা হয়---</div>",
+            "option1": "<div>(ক) গড়ত্বরণ</div>",
+            "option2": "<div>(খ) সমত্বরণ</div>",
+            "option3": "<div>(গ) অসম ত্বরণ</div>",
+            "option4": "<div>(ঘ) ত্বরণ</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৬৮. বেগের মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) $M^0{LT}^{-1}$</div>",
+            "option2": "<div>(খ) ${LT}^2$</div>",
+            "option3": "<div>(গ) $L^tT$</div>",
+            "option4": "<div>(ঘ) $M^2LT^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৬৯. ত্বরণের মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) ${MLT}^{-2}$</div>",
+            "option2": "<div>(খ) ${ML}^2T^2$</div>",
+            "option3": "<div>(গ) $M^0{LT}^{-2}$</div>",
+            "option4": "<div>(ঘ) ${ML}^0T^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৭০. স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত বস্তুর নির্দিষ্ট সময়ে অতিক্রান্তদূরত্ব ঐ সময়ের---</div>",
+            "option1": "<div>(ক) সমানুপাতিক</div>",
+            "option2": "<div>(খ) ব্যস্তানুপাতিক</div>",
+            "option3": "<div>(গ) বর্গের সমানুপাতিক</div>",
+            "option4": "<div>(ঘ) বর্গের ব্যস্তানুপাতিক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৭১. স্থির অবস্থান থেকে সমত্বরণ চলমান বস্তুর বেগ অতিক্রান্ত দূরত্বের---</div>",
+            "option1": "<div>(ক) সমানুপাতিক</div>",
+            "option2": "<div>(খ) ব্যস্তানুপাতিক</div>",
+            "option3": "<div>(গ) বর্গমূলের সমানুপাতিক</div>",
+            "option4": "<div>(ঘ) বর্গমূলের ব্যস্তানুপাতিক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৭২. $4.9\\ m\\ s^{-1}$ বেগে একটি বস্তুর খাড়া ওপরের দিকে নিক্ষেপ করা হলো। এটিকতক্ষণ শুণ্যে থাকবে?</div>",
+            "option1": "<div>(ক) 1 s</div>",
+            "option2": "<div>(খ) 2 s</div>",
+            "option3": "<div>(গ) 3 s</div>",
+            "option4": "<div>(ঘ) 4 s</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৭৩. 9.8 ${m\\ s}^{-1}$ বেগে একখন্ড পাথর উপরের দিকে ছোড়া হলো, কত সময় পর এটিভূপৃষ্ঠে ফিরে আসবে?</div>",
+            "option1": "<div>(ক) 1 s</div>",
+            "option2": "<div>(খ) 2 s</div>",
+            "option3": "<div>(গ) 3 s</div>",
+            "option4": "<div>(ঘ) 4 s</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৭৪. 100 m দীর্ঘ একটি ট্রেন $45\\ km\\ h^{-1}$ বেগে চলে 1 km দীর্ঘ একটি ব্রিজঅতিক্রম করে। ব্রিজটি অতিক্রম করে। ব্রিজটি অতিক্রম করতে ট্রেনটির কত সময়লাগবে?</div>",
+            "option1": "<div>(ক) 10 s</div>",
+            "option2": "<div>(খ) 20 s</div>",
+            "option3": "<div>(গ) 40 s</div>",
+            "option4": "<div>(ঘ) 88 s</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৭৫. এক ব্যক্তি 7 $km\\ h^{-1}$ বেগে তার গন্তব্যে পৌঁছায় এবং 8 $km\\ h^{-1}$বেগে পূর্বের স্থানে ফিরে আসে। তার গড়বেগ কত?</div>",
+            "option1": "<div>(ক) $7.5\\ km\\ h^{-1}$\\textit{}</div>",
+            "option2": "<div>(খ) 7.66 $km\\ h^{-1}$</div>",
+            "option3": "<div>(গ) 7.33 $km\\ h^{-1}$</div>",
+            "option4": "<div>(ঘ) 7.47 $km\\ h^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৭৬. একটি বস্তুকে 196 ${m\\ s}^{-1}$ বেগে খাড়া উপরের দিকে নিক্ষেপ করা হলো।20 s পরে বস্তুটির বেগ হবে---</div>",
+            "option1": "<div>(ক) 10.0 ${m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) 0.0 ${m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) 50 ${m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) 60.0 ${m\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৭৭. গতিশীল বস্তুর অবস্থান (x) এবং সময় (t) এর সম্পর্কে $x=18m+\\left(12\\ m\\s^{-1}\\right)\\ t-\\left(1.2\\ {m\\ s}^{-2}\\right)t^2$ সময়ের বিপরীতে নিম্নেনিয়ে প্রদত্ত কোন অবস্থানের মান সঠিক নয়?[সময়(t),অবস্থান(x)]</div>",
+            "option1": "<div>(ক) 0s, 18 m</div>",
+            "option2": "<div>(খ) 1s, 28.8 m</div>",
+            "option3": "<div>(গ) 2s, 37.2 m</div>",
+            "option4": "<div>(ঘ) 3s, 45.2 m</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৭৮. একটি বস্তুকে অনুভূমিকের সাথে 45$\\mathrm{{}^\\circ}$ কোণে 9.8 ${m\\s}^{-1}$ বেগে নিক্ষেপ করলে কত দূরে গিয়ে পড়বে?</div>",
+            "option1": "<div>(ক) 19.6 m</div>",
+            "option2": "<div>(খ) 9.8 m</div>",
+            "option3": "<div>(গ) 10 m</div>",
+            "option4": "<div>(ঘ) 1 m</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৭৯. এক রেড্রিয়ান কোনটি প্রায় সমান?</div>",
+            "option1": "<div>(ক) 10$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 50.3$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 120$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 57.3$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৮০. একটি চাকার ব্যাস 1 m । এটি মিনিটে 30 বার ঘরলে এর প্রান্তের রৈখিক বেগ$m\\ s^{-1}\\ $এ কত হবে?</div>",
+            "option1": "<div>(ক) $\\mathrm{\\pi }$</div>",
+            "option2": "<div>(খ) $\\frac{\\pi }{2}$</div>",
+            "option3": "<div>(গ) 30 $\\mathrm{\\pi }$</div>",
+            "option4": "<div>(ঘ) 60 $\\mathrm{\\pi }$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৮১. একটি ঘড়ির সেকেন্ডের কাঁটার কৌণিক বেগ কত?</div>",
+            "option1": "<div>(ক) $\\pi \\ rad\\ s^{-1}$</div>",
+            "option2": "<div>(খ) $\\frac{\\pi }{3}rad\\ s^{-1}$</div>",
+            "option3": "<div>(গ) $\\frac{\\pi }{2}rad\\ s^{-1}$</div>",
+            "option4": "<div>(ঘ) $\\frac{\\pi }{30}rad\\ s^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৮২. কৌণিক বেগের মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) $M^0L^0T^{-1}$</div>",
+            "option2": "<div>(খ) $ML^{-1}T$\\textit{}</div>",
+            "option3": "<div>(গ) $M_{-1}L^{-1}T^{-1}$</div>",
+            "option4": "<div>(ঘ) ${ML}^{-2}T^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৮৩. রৈখিক ত্বরণ ও কৌণিক ত্বরণের সম্পর্ক কোনটি?</div>",
+            "option1": "<div>(ক) $M^0L^0T^{-1}$</div>",
+            "option2": "<div>(খ) $M^{-1}L^0T^{-1}$</div>",
+            "option3": "<div>(গ) $M^0L^0T^{-2}$</div>",
+            "option4": "<div>(ঘ) $M^{-1}L^{-1}T^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৮৪. রৈখিক ত্বরণ ও কৌণিক ত্বরণের সম্পর্ক কোনটি?</div>",
+            "option1": "<div>(ক) $a=\\frac{r}{\\alpha }$</div>",
+            "option2": "<div>(খ) $a=\\frac{\\alpha }{r}$</div>",
+            "option3": "<div>(গ) $a=r^2\\alpha $</div>",
+            "option4": "<div>(ঘ) $a=r\\alpha $</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৮৫. কোন প্রসঙ্গ কাঠামোর সাপেক্ষে বস্তুর গতিকে কি বলে?</div>",
+            "option1": "<div>(ক) পরম স্থিতি</div>",
+            "option2": "<div>(খ) পরম গতি</div>",
+            "option3": "<div>(গ) আপেক্ষিক স্থিতি</div>",
+            "option4": "<div>(ঘ) আপেক্ষিক গতি</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৮৬. 4.9 m উচ্চতা থেকে একটি বস্তু নিচের দিকে পড়ছে। বায়ু প্রবাহের বস্তুটিরঅনুভূমিক 1m দূরত্বে ভূমিকে স্পর্শ করে। বায়ুর অনুভূমিক বেগ কত?</div>",
+            "option1": "<div>(ক) $0.5\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $1\\ {m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $2\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $9.8\\ {m\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৮৭. স্থিরাবদ্ধা থেকে 5 kg ভরের একটি পড়ন্ত বস্তু প্রথম সেকেন্ডে কত দূরত্বঅতিক্রম করবে?</div>",
+            "option1": "<div>(ক) 4.9 m</div>",
+            "option2": "<div>(খ) 9.8 m</div>",
+            "option3": "<div>(গ) 24.5 m</div>",
+            "option4": "<div>(ঘ) 49 m</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৮৮. ত্বরণকে সময়ের সাপেক্ষে কত বার সমাকলন করলে অবস্থান ভেক্টর পাওয়া যায়?</div>",
+            "option1": "<div>(ক) এক বার</div>",
+            "option2": "<div>(খ) দুই বার</div>",
+            "option3": "<div>(গ) তিন বার</div>",
+            "option4": "<div>(ঘ) চার বার</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৮৯. v বনাম t লেখের কোন বিন্দুতে অঙ্কিত স্পর্শকের ঢাল কি নির্দেশ করে?</div>",
+            "option1": "<div>(ক) গড় বেগ</div>",
+            "option2": "<div>(খ) তাৎক্ষণিক বেগ</div>",
+            "option3": "<div>(গ) ত্বরণ</div>",
+            "option4": "<div>(ঘ) তাৎক্ষণিক ত্বরণ</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৯০. $V_0$ বেগে আনুভূমিকের সাথে $\\mathrm{\\theta }$$\\mathrm{{}^\\circ}$কোণে নিক্ষিপ্ত প্রাসের বিচরণকালের সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $T=\\frac{2V_0sin{\\theta }_0}{g}$\\textit{}</div>",
+            "option2": "<div>(খ) $T=\\frac{2V_0cos{\\theta }_0}{g}$</div>",
+            "option3": "<div>(গ) $T=\\frac{V_0sin{\\theta }_0}{g}$</div>",
+            "option4": "<div>(ঘ) $T=\\frac{2V_0cos{\\theta }_0}{g}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৯১. প্রক্ষিপ্ত বস্তু বা প্রাসের গতিপথের আকৃতি কেমন?</div>",
+            "option1": "<div>(ক) সরলরেখা</div>",
+            "option2": "<div>(খ) প্যারাবোলা</div>",
+            "option3": "<div>(গ) বদ্ধবক্ররেখা</div>",
+            "option4": "<div>(ঘ) বৃত্তাকার</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৯২. একটি প্রাসের অনুভূমিক পাল্লা 96 m এর আদিবেগ 60 ${m\\ s}^{-1}$ হলেনিক্ষেপণ কোণ কত?</div>",
+            "option1": "<div>(ক) 4.2365$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 5.2365$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 6.2365$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 7.2365$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৯৩. কেন্দ্রমুখী ত্বরণ $a_c$ এর সমীকরণ---<br>i. $v\\omega $<br>ii. $\\frac{v^2}{r}$<br>iii. ${\\omega }^2r$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৯৪. প্রাসের বেগের---<br>i. অনুভূমিক উপাংশ সময়ের সাথে পরিবর্তন হয় না<br>ii. উলম্ব উপাংশ সময়ের সাথে পরিবর্তন হয় না<br>iii. সার্বিক মান সময়ের সাথে পরিবর্তন হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড় এবং ২৯৫ ও ২৯৬ নং প্রশ্নের উত্তর দাওঃ<br>বাতাসের মধ্যে এক টুকরা পাথর ও এক টুকরা কাগজ একই উচ্চতা থেকে ছেড়ে দেওয়া হলো।<br>২৯৫. উপরোক্ত পরীক্ষায় কোনটি ঘটবে?</div>",
+            "option1": "<div>(ক) বস্তুদ্বয় একই সাথে মাটিতে পৌৗছাবে</div>",
+            "option2": "<div>(খ) পাথরটি আগে মাটিতে পৌঁছাবে</div>",
+            "option3": "<div>(গ) কাজগটি আগে মাটিতে পৌঁছাবে</div>",
+            "option4": "<div>(ঘ) কম ঘনত্বের বস্তুটি আগে মাটিতে পৌঁছাবে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৯৬. উপরোক্ত ক্ষেত্রে---<br>i. ভারি পাথরের উপের প্লবতা বল কম<br>ii. হাকলা কাগজের উপর বাতাসের ঊর্ধ্বমুখী বাধা বেশি<br>iii. বস্তুদ্বয়ের ঘনত্বের বিস্তর পার্থক্য থাকায় এদের উপর বাতাসের বাধা ভিন্নহয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১. চলন্ত ট্রেন থেকে একটি বলকে উপরের দিকে নিক্ষেপ করার ফলে তা পিছনে পড়লেগাড়িটি---</div>",
+            "option1": "<div>(ক) সমবেগে সম্মুখগামী</div>",
+            "option2": "<div>(খ) সমত্বরণে সম্মুখগামী</div>",
+            "option3": "<div>(গ) সমবেগে পশ্চাৎগামী</div>",
+            "option4": "<div>(ঘ) সমমন্দনে সম্মুখগামী</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২. $9.8\\ {m\\ s}^{-1}$ বেগে একখন্ড পাথর উপরের দিকে ছোড়া হলো কত সময় পর এটিভূপৃষ্ঠে ফিরে আসবে?</div>",
+            "option1": "<div>(ক) 1 s</div>",
+            "option2": "<div>(খ) 2 s</div>",
+            "option3": "<div>(গ) 3 s</div>",
+            "option4": "<div>(ঘ) 4 s</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩. সুসম ত্বরণ সম্পন্ন একটি গাড়ি ২য় সেকেন্ডে 10 m ও ৩য় সেকেন্ডে 20m দূরত্বঅতিক্রম করলে গাড়িটির ত্বরণ কত?</div>",
+            "option1": "<div>(ক) 15 ${m\\ s}^{-2}$\\textit{}</div>",
+            "option2": "<div>(খ) $20\\ {m\\ s}^{-2}\\ $</div>",
+            "option3": "<div>(গ) 10 ${m\\ s}^{-2}$</div>",
+            "option4": "<div>(ঘ) 30 ${m\\ s}^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪. একটি ট্রেন স্থির অবস্থান হতে $10\\ {m\\ s}^{-2}$ ত্বরণে চলতে আরম্ভ করল।একই সময়ে একটি গাড়ি 100 ${m\\ s}^{-1}$ সমবেগে ট্রেনের সমান্তরালে চলা শুরুগাড়িটিকে কখন পেছলে ফেলবে?</div>",
+            "option1": "<div>(ক) 20 s</div>",
+            "option2": "<div>(খ) 25 s</div>",
+            "option3": "<div>(গ) 30 s</div>",
+            "option4": "<div>(ঘ) 40 s</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫. যেকোনো মুহূর্তে সময়ের সাপেক্ষে অবস্থান ভেক্টরের বৃদ্ধির হারকে বলে---</div>",
+            "option1": "<div>(ক) ত্বরণ</div>",
+            "option2": "<div>(খ) সরণ</div>",
+            "option3": "<div>(গ) বেগ</div>",
+            "option4": "<div>(ঘ) দ্রুতি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৬। একটি রাইফেলে গুলি একটি তক্তাকে ভেদ করে থেমে যায়। বুলেটের গতি যদি তিনগুণকরা হয় তবে বুলেটটি কয়টি তক্তা ভেদ করতে পারবে?</div>",
+            "option1": "<div>(ক) 12</div>",
+            "option2": "<div>(খ) 3</div>",
+            "option3": "<div>(গ) 8</div>",
+            "option4": "<div>(ঘ) 9</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৭। সুষম বৃত্তাকার গতিতে বস্তু চলতে থাকলে---<br>i. বস্তুর বেগের মানের পরিবর্তন হয়<br>ii. বস্তুর দিকে পরিবর্তন হয়<br>iii. বস্তুতে ত্বরণ হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৮. একটি ট্রেন $20\\ {m\\ s}^{-1}$ বেগে অবস্থার ব্রেক করার কারণে 300 m দূরত্বেগিয়ে থেমে গেলে এর মন্দন নিচের কোনটি?</div>",
+            "option1": "<div>(ক) $0.66\\ {m\\ s}^{-2}$</div>",
+            "option2": "<div>(খ) 0.88 ${m\\ s}^{-2}$</div>",
+            "option3": "<div>(গ) 8.8 ${m\\ s}^{-2}$</div>",
+            "option4": "<div>(ঘ) 6.6 ${m\\ s}^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৯. ${20\\ m\\ s}^{-1}$ বেগে গতিশীল একটি বস্তুর বেগে প্রতি সেকেন্ডে 3 ${\\ m\\s}^{-1}$ হারে হ্রাস পেলে থেমে যাওয়ার আগে বস্তুটির অভিক্রান্ত দূরত্ব হবে---</div>",
+            "option1": "<div>(ক) 67.66 m</div>",
+            "option2": "<div>(খ) 69.65 m</div>",
+            "option3": "<div>(গ) 68.69 m</div>",
+            "option4": "<div>(ঘ) 66.67 m</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১০. নিচের কোনটি প্যারাবোলার সমীকরণ?</div>",
+            "option1": "<div>(ক) $y=bx-cx$</div>",
+            "option2": "<div>(খ) $y=bx-{cx}^2$</div>",
+            "option3": "<div>(গ) $y={cx}^2-bx$</div>",
+            "option4": "<div>(ঘ) $y=bx+cx$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১১. সরণের একক কী?</div>",
+            "option1": "<div>(ক) কেজি</div>",
+            "option2": "<div>(খ) বর্গমিটার</div>",
+            "option3": "<div>(গ) ঘনমিটার</div>",
+            "option4": "<div>(ঘ) মিটার</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১২. কত কোণে নিক্ষেপ করলে একটি প্রাসের অনুভূমিক পাল্লা তার সর্বাধিক উচ্চতারসমান হবে?</div>",
+            "option1": "<div>(ক) 74$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 75.96$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 72$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 70$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>■ উদ্দীপকটি পড়ে ১৩ ও ১৪ নং প্রশ্নের উত্তর দাওঃ<br>বেগ বনাম সময় লেখাটি লেখো।<br>১৩. ত্বরণের মান নিম্নের কোনটি?</div>",
+            "option1": "<div>(ক) $2c$ ${m\\ s}^{-2}$</div>",
+            "option2": "<div>(খ) 2.5 ${m\\ s}^{-2}$</div>",
+            "option3": "<div>(গ) 3 ${m\\ s}^{-2}$</div>",
+            "option4": "<div>(ঘ) 3.5 ${m\\ s}^{-2}$</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/13-2.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৪. মোট সরণ নিম্নের কোনটি?</div>",
+            "option1": "<div>(ক) 10 m</div>",
+            "option2": "<div>(খ) 5 m</div>",
+            "option3": "<div>(গ) 1 m</div>",
+            "option4": "<div>(ঘ) 0.5 m</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৫. একটি পাথর একটি পুলের উপর থেকে 10 $m\\ s^{-1}$ বেগে পানিতে নিক্ষেপ করাহলো। 3 s পর পানিতে আঘাতের সময় পাথরটির গতিবেগ কত?</div>",
+            "option1": "<div>(ক) 39.4 ${m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) 40.0 ${m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) 30.0 ${m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) 100.0 ${m\\ s}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>১৬. কোনো বস্তু কত দ্রুত চলছে তা কিসের উপর নির্ভর করে?</div>",
+            "option1": "<div>(ক) বস্তুর ভর</div>",
+            "option2": "<div>(খ) বস্তুর আয়তন</div>",
+            "option3": "<div>(গ) বস্তুর দ্রুতি</div>",
+            "option4": "<div>(ঘ) বস্তুর চাপ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>১৭. একটি কণা 4.5 m ব্যাসার্ধের বৃত্তাকার পথে আবর্তন করছে। এর রৈখিক বেগ 106${m\\ s}^{-1}$ হলে কণাটি প্রতি কত বার আবর্তন করবে?</div>",
+            "option1": "<div>(ক) 125 বার</div>",
+            "option2": "<div>(খ) 225 বার</div>",
+            "option3": "<div>(গ) 150 বার</div>",
+            "option4": "<div>(ঘ) 250 বার</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>১৮. একটি দেওয়াল ঘড়ির মিনিটের কাঁটার দৈর্ঘ্য 0.18 m হলে এর প্রান্তের রৈখিকবেগ হবে---</div>",
+            "option1": "<div>(ক) $3.14\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $3.14\\ \\times \\ {10}^{-2}\\ {m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $3.14\\ \\times \\ {10}^{-3}\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) $3.14\\ \\times \\ {10}^{-4}\\ {m\\ s}^{-1}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>১৯. প্রসঙ্গ কাঠামো হচ্ছে---<br>i. একমাত্রিক<br>ii. দ্বিমাত্রিক<br>iii. ত্রিমাত্রিক<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২০. দ্রুতির একক কোনটি?</div>",
+            "option1": "<div>(ক) ${m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $m\\ s$</div>",
+            "option3": "<div>(গ) $m^{-1}\\ s$</div>",
+            "option4": "<div>(ঘ) $m\\ s^{-2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২১. কোন বস্তুর সঠিক অবস্থান নির্ণয়ের জন্য দরকার---<br>i. দূরত্ব<br>ii. দ্রুতি<br>iii. দিক<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২২. একটি কণা u আদিবেগে a ত্বরণে চললে t সময়ে অভিক্রান্ত দূরত্বের ফল হবে---</div>",
+            "option1": "<div>(ক) $u+\\frac{1}{2}at$</div>",
+            "option2": "<div>(খ) $u-\\frac{1}{2}at$</div>",
+            "option3": "<div>(গ) $u^2+2at$</div>",
+            "option4": "<div>(ঘ) $ut+\\frac{1}{2}{at}^2$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৩. সাকিব আল হাসানের ওভারের ৫ম বলটির দ্রুতি কী ধরনের দ্রুতি?</div>",
+            "option1": "<div>(ক) পড় দ্রুতি</div>",
+            "option2": "<div>(খ) সষয় দ্রুতি</div>",
+            "option3": "<div>(গ) তাৎক্ষণিক দ্রুত</div>",
+            "option4": "<div>(ঘ) সবগুলো</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৪. ত্বরণের মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) LT</div>",
+            "option2": "<div>(খ) ${LT}^{-1}$</div>",
+            "option3": "<div>(গ) ${LT}^2$</div>",
+            "option4": "<div>(ঘ) ${LT}^{-2}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৫. ত্বরণকে সময় দিয়ে ভাগ করলে কী পাওয়া যায়?</div>",
+            "option1": "<div>(ক) ত্বরণ</div>",
+            "option2": "<div>(খ) মন্দন</div>",
+            "option3": "<div>(গ) ভর</div>",
+            "option4": "<div>(ঘ) দ্রুতি</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২২. $S=u_0t+\\frac{1}{2}{at}^2$ এর ক্ষেত্রে s বনাম t লেখচিত্র অংকন করলেলিখচিত্রটি কি হবে?</div>",
+            "option1": "<div>(ক) অধিবৃত্ত</div>",
+            "option2": "<div>(খ) পরাবৃত্ত</div>",
+            "option3": "<div>(গ) উপবৃত্ত</div>",
+            "option4": "<div>(ঘ) আয়তাকার পরাবৃত্ত</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৩. 100 m দীর্ঘ একটি ট্রেন 45 ${kmh}^{-1}$ বেগে চলে 1 km দীর্ঘ একটি ব্রিজঅতিক্রম করে। ব্রিজটি অতিক্রম করতে ট্রেনটির কত সময় লাগবে?</div>",
+            "option1": "<div>(ক) 10 s</div>",
+            "option2": "<div>(খ) 20 s</div>",
+            "option3": "<div>(গ) 40 s</div>",
+            "option4": "<div>(ঘ) 88 s</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৪. যদি পড়ন্ত বস্তুর অতিক্রান্ত দূরত্ব h হয়, তাহলে---</div>",
+            "option1": "<div>(ক) $h\\ \\propto \\ t^2$</div>",
+            "option2": "<div>(খ) $h\\ \\propto t$</div>",
+            "option3": "<div>(গ) $h\\ \\propto \\ \\frac{1}{t}$</div>",
+            "option4": "<div>(ঘ) $h\\ \\propto \\ \\frac{1}{t^2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>২৫. একটি মার্বেল 0.6 m উঁচু টেবিলের প্রাপ্ত থেকে টোকা দিলে মার্বেলটি 5.0m/s বেগ অর্জন করে। মার্বেলটি টেবিলের প্রাপ্ত হতে কত m দূরে মাটিতে পড়বে?</div>",
+            "option1": "<div>(ক) 0.6</div>",
+            "option2": "<div>(খ) 0.8</div>",
+            "option3": "<div>(গ) 1.75</div>",
+            "option4": "<div>(ঘ) 2.35</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>২৬. মিটার প্রকাশিত একটি বস্তুর অবস্থান $x\\left(t\\right)=16t-t^3$ যেখানে সময়t সেকেন্ডে প্রকাশিত। বস্তুটি ক্ষণিকের জন্য স্থিতাবস্থায় থাকে যখন t এরমান---</div>",
+            "option1": "<div>(ক) 0.75 s</div>",
+            "option2": "<div>(খ) 1.30 s</div>",
+            "option3": "<div>(গ) 5.30 s</div>",
+            "option4": "<div>(ঘ) 7.30 s</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>২৭. 10 kg ভরের একটি বস্তুর উপর 2F মানের প্রয়োগ করায় ফলে বস্তুটির ত্বরণ হয়60 m/$s^2$ । M ভরের একটি বস্তুর উপর 5F মানের বল প্রয়োগ করার ফলে যদিবস্তুটির ত্বরণ $50\\ {m/s}^2$ হয়, তবে ভর M কত?</div>",
+            "option1": "<div>(ক) 3.3 kg</div>",
+            "option2": "<div>(খ) 4.8 kg</div>",
+            "option3": "<div>(গ) 21 kg</div>",
+            "option4": "<div>(ঘ) 30 kg</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>২৮. একটি গাড়ি একটি সোজা রাস্তার স্থির অবস্থা থেকে ত্বরণের মাধ্যমে যাত্রাশুরু করল। কিছু সময় পরে গাড়িটি মন্দনের মাধ্যমে থেমে যায়। গাড়িটি একই পথেএকইভাবে পথে একইভাবে যাত্রা করে পূর্ববর্তী স্থানে ফিরে আসে। নিয়লিখিত কোনলেখচিত্রটি গাড়িটির গতিকে প্রকাশ করে?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ) </div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "c",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/28.webp"
+        },
+        {
+            "mcqQuestion": "<div>২৯. $10\\ m/s$ সমদ্রুতিতে $r$ ব্যাসার্ধের বৃত্তাকার পথে ঘূর্ণায়মান একটি কপানক্ষেত্রে নিচের চারটি লেখচিত্রের কোনটি সঠিক $\\left[কণার\\ ত্বরণ\\ a\\right]$</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ) </div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "d",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter3Mcq/29.webp"
+        },
+        {
+            "mcqQuestion": "<div>৩০. সরণ পওয়া যায়ঃ</div>",
+            "option1": "<div>(ক) বেগ-সময় লেখচিত্রের ঢাল থেকে</div>",
+            "option2": "<div>(খ) ত্বরণ-সময় লেখচিত্রের ঢাল থেকে</div>",
+            "option3": "<div>(গ) বেগ-সময় লেখচিত্রের নিচের ক্ষেত্রফল থেকে</div>",
+            "option4": "<div>(ঘ) ত্বরণ-সময় লেখচিত্রের নিচের ক্ষেত্রফল থেকে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩১. একটি গাড়ি সরলরেখা বরাবর চলে একটি বিন্দুকে 10 ${m\\ s}^{-1}\\ $বেগেঅতিক্রম করার পর 2 ${m\\ s}^{-2}$ সুষম ত্বরণে চলে। 5 sec পর গাড়ির বেগ কত হবে?</div>",
+            "option1": "<div>(ক) 10 ${m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) 20 ${m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) 5 ${m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ) 50 ${m\\ s}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩২. একটি রাইফেলের গুলি একটি তক্তা ভেদ করতে পারে। যদি গুলির বেগ চারগুণ করহয়, তবে অনুরূপ কয়টি তক্তা ভেদ করতে পারবে?</div>",
+            "option1": "<div>(ক) 4টি</div>",
+            "option2": "<div>(খ) 8টি</div>",
+            "option3": "<div>(গ) 16টি</div>",
+            "option4": "<div>(ঘ) 24টি</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৩. একটি গাড়ি সরলরেখা বরাবর চলে একটি বিন্দুকে $5\\ m\\ s^{-1}\\ $বেগে অতিক্রমকরার পর 2 $m\\ s^{-1}$ সুষম ত্বরণে চলে। 4 sec পর গাড়িটি কত দূরত্ব অতিক্রমকরবে?</div>",
+            "option1": "<div>(ক) 41 m</div>",
+            "option2": "<div>(খ) 50 m</div>",
+            "option3": "<div>(গ) 36 m</div>",
+            "option4": "<div>(ঘ) 70 m</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৪. আনুভূমিকের সাথে 30$\\mathrm{{}^\\circ}$ কোণ করে ভূপৃষ্ঠ থেকে 40 ${m\\s}^{-1}$ বেগে একটি বুলেট ছোঁড়া হলো। বুলেটটি 30 m দূরে অবস্থিত একটি দেয়ালকেকত উচ্চতায় আঘাত করবে?</div>",
+            "option1": "<div>(ক) 13.64 m</div>",
+            "option2": "<div>(খ) 31.64 m</div>",
+            "option3": "<div>(গ) 15.64 m</div>",
+            "option4": "<div>(ঘ) 12.64 m</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৩৫. একটি প্রাস অনুভূমিকের সাথে 30$\\mathrm{{}^\\circ}$ কোণে 40 ${m\\ s}^{-1}$বেগে উপর দিকে নিক্ষিপ্ত হলে তার বিচরণকাল কত?</div>",
+            "option1": "<div>(ক) 6 s</div>",
+            "option2": "<div>(খ) 4 s</div>",
+            "option3": "<div>(গ) 8 s</div>",
+            "option4": "<div>(ঘ) 2 s</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৩৬. ধরা যাক, অভিকর্ষজ ত্বরণের মান 10 ${m\\ s}^{-2}$ । ভূপৃষ্ঠ হতে 5 m উপরথেকে একটি বস্তুকে নিচে পড়তে দিলে ভূমি স্পর্শ করার মুহূর্তে তার বেগ কত ${m\\s}^{-1}$?</div>",
+            "option1": "<div>(ক) 5</div>",
+            "option2": "<div>(খ) 9.8</div>",
+            "option3": "<div>(গ) 10</div>",
+            "option4": "<div>(ঘ) 15</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৭. বহুতল বিশিষ্ট একটি দালানের ছাদের কিনারা থেকে একটি পাথর ছেড়ে দিলে পাথরটিভূমিতে পড়ার 2 সেকেন্ড পূর্বে দালানের ছাদ থেকে 58.8 m নিচে আসে। দালানেরউচ্চতা কত?</div>",
+            "option1": "<div>(ক) 9.8 m</div>",
+            "option2": "<div>(খ) 19.6 m</div>",
+            "option3": "<div>(গ) 78.4 m</div>",
+            "option4": "<div>(ঘ) 146.29 m</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৩৮. অনুভূমিকভাবে একটি বস্তুর গতিপথ একটি---</div>",
+            "option1": "<div>(ক) সরলরেখা</div>",
+            "option2": "<div>(খ) পরাবৃত্ত</div>",
+            "option3": "<div>(গ) অধিবৃত্ত</div>",
+            "option4": "<div>(ঘ) উপবৃত্ত</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৩৯. অনূভৃমিকের সাথে কত কোণে নিক্ষেপ করলে এটি সর্বাধিক দূরত্ব অতিক্রম করবে?</div>",
+            "option1": "<div>(ক) 45$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 0$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 90$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ) 60$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪০. একটি ভবনের ছাদ থেকে একটি প্রাস অনুভূমিকভাবে 80 m/s বেগে নিক্ষেপ করাহলো। ভূমি স্পর্শ করার মুহূর্তে প্রাসটি 900 m অনুভূমিক দূরত্ব অতিক্রম করে।ভবনটির উচ্চতা কত?</div>",
+            "option1": "<div>(ক) 124 m</div>",
+            "option2": "<div>(খ) 620 m</div>",
+            "option3": "<div>(গ) 55 m</div>",
+            "option4": "<div>(ঘ) 270 m</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪১. ভূপৃষ্ঠের কাছাকাছি একটি বিন্দু থেকে একটি প্রাস অনুভূমিকের সাথে60$\\mathrm{{}^\\circ}$ কোণে $v_0=40\\ m/s$ বেগে নিক্ষেপ করা হল $t=8s$ সময়েপ্রাসটির স্থানাঙ্ক (x,y) mater এ কত হবে?</div>",
+            "option1": "<div>(ক) $\\left(-160,\\ 40\\right)$</div>",
+            "option2": "<div>(খ) $\\left(160,-37\\right)$</div>",
+            "option3": "<div>(গ) $\\left(277,\\ -37\\right)$</div>",
+            "option4": "<div>(ঘ) $\\left(170,\\ -60\\right)$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪২. একটি পাথরকে 4.9 m/s বেগে সোজা উপরের দিকে নিক্ষেপ করা হলো। কত সময় পরপাথরটি ভূ-পৃষ্ঠে ফিরে আসবে?</div>",
+            "option1": "<div>(ক) 4.9 s</div>",
+            "option2": "<div>(খ) 9.8 s</div>",
+            "option3": "<div>(গ) 1 s</div>",
+            "option4": "<div>(ঘ) 2 s</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪৩. একটি প্রক্ষেপককে অনুভূমিকের সাথে 60$\\mathrm{{}^\\circ}$ কোণে 3 m/s বেগেপ্রক্ষেপ করা হলে সর্বোচ্চ উচ্চতায় প্রক্ষেপকটির বেগ কত হবে?</div>",
+            "option1": "<div>(ক) $\\frac{3}{2}\\ m/s$</div>",
+            "option2": "<div>(খ) $\\frac{\\sqrt{3}}{2}m/s$</div>",
+            "option3": "<div>(গ) 3 m/s</div>",
+            "option4": "<div>(ঘ) 0 m/s</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪৪. দুইটি গাড়ির মধ্যবর্তী দূরত্ব 150 km এবং একটি অপরটির দিকে যথাক্রমে 60km/h এবং 40 km/h বেগে চলছে। তারা কত ঘন্টা পর মিলিত হবে।</div>",
+            "option1": "<div>(ক) 2.5 h</div>",
+            "option2": "<div>(খ) 2.0 h</div>",
+            "option3": "<div>(গ) 1.75 h</div>",
+            "option4": "<div>(ঘ) 1.5 h</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৪৫. একটি পাথরকে ভূমি থেকে 45 m উঁচু দালানের উপর থেকে ভূমির সমান্তরালে ${16\\ms}^{-1}$ বেগে নিক্ষেপ করা হলো। পাথরটির ভূমিতে পৌছাতে কত সময় লাগবে?</div>",
+            "option1": "<div>(ক) 2.8 s</div>",
+            "option2": "<div>(খ) 0.4 s</div>",
+            "option3": "<div>(গ) 3 s</div>",
+            "option4": "<div>(ঘ) 1 s</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৪৬. একটি গাড়ি সোজা উত্তরদিকে 90 m পথ 15 সময়ে অতিক্রম করে। পরবর্তীতে গাড়িটিদ্রুত ঘুরে দক্ষিণ দিকে 40 m দূরত্ব 5 s সময়ে অতিক্রম করে। এই 20 s সময়কালেগাড়িটির গড় বেগের মান কত?</div>",
+            "option1": "<div>(ক) 2.5 m/s</div>",
+            "option2": "<div>(খ) 5.0 m/s</div>",
+            "option3": "<div>(গ) 6.5 m/s</div>",
+            "option4": "<div>(ঘ) 7.0 m/s</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৪৭. একটি পাথরকে স্থির অবস্থার একটি উঁচু দালান থেকে ছেড়ে দেওয়া হলো। ভূমিতেপৌছাতে পাথরটির 4 s এর বেশি সময় লাগে। বাতাসের ঘর্ষণ ক্ষুদ্র হলে পাথরটিরপ্রথম 4 s সময়ে পতনের দূরত্ব এবং প্রথম 2 s সময়ে পতনের দূরত্বের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $\\frac{1}{4}$</div>",
+            "option2": "<div>(খ) $\\frac{4}{1}$</div>",
+            "option3": "<div>(গ) $\\frac{1}{2}$</div>",
+            "option4": "<div>(ঘ) $\\frac{2}{1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪৮. একটি গাড়ি ${10\\ ms}^{-1}$ আদিবেগ নিয়ে সমত্বরণে একটি সোজা রাস্তার বরাবরচেলছে। 100 m দূরত্ব অতিক্রম করার পর গাড়িটি 20 ${ms}^{-1}$ বেগ প্রাপ্ত হল।গাড়িটির ত্বরণ কত?</div>",
+            "option1": "<div>(ক) $0.67\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $1.5\\ {ms}^{-2}$</div>",
+            "option3": "<div>(গ) $2.5\\ {ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) $6.0\\ {ms}^{-2}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৪৯. একটি কণা $2.0\\ m$ ব্যাসার্ধের বৃত্তাকার পথে প্রতি মিনিটে 30 বার আবর্তনকরে। এর রৈখিক বেগ কত?</div>",
+            "option1": "<div>(ক) $\\pi \\ m\\ s^{-1}$</div>",
+            "option2": "<div>(খ) $2\\pi \\ m\\ s^{-1}$</div>",
+            "option3": "<div>(গ) $4\\pi \\ m\\ s^{-1}$</div>",
+            "option4": "<div>(ঘ) $0.5\\pi \\ m\\ s^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫০. একটি বুলেট একটি কাঠের তক্তা ভেদ করতে পারবে। বুলেটটির গতি 4 গুণ বৃদ্ধিকরলে ইহা কয়টি ঐ একই মাপের তক্তা ভেদ করতে পারবে?</div>",
+            "option1": "<div>(ক) 12</div>",
+            "option2": "<div>(খ) 9</div>",
+            "option3": "<div>(গ) 8</div>",
+            "option4": "<div>(ঘ) 16</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৫১. একটি বন্দুকের গুলি কোন দেয়ালের মধ্যে 1 m প্রবেশ করার পর অর্ধেক বেগহারায়। গুলিটি দেয়ালের মধ্যে আর কত দূর প্রবেশ করবে?</div>",
+            "option1": "<div>(ক) $\\frac{1}{3}\\ m$</div>",
+            "option2": "<div>(খ) $\\frac{2}{3}\\ m$</div>",
+            "option3": "<div>(গ) $\\frac{1}{4}\\ m$</div>",
+            "option4": "<div>(ঘ) $\\frac{1}{8}\\ m$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫২. একটি বুলেট কোন দেয়ালের ভিতর 2 ইঞ্চি ঢুকবার পর উহার অর্ধেক বেগ হারায়।বুলেটটি দেয়ালের ভিতর আরও কত ইঞ্চি ঢুকবে?</div>",
+            "option1": "<div>(ক) 2</div>",
+            "option2": "<div>(খ) 2/3</div>",
+            "option3": "<div>(গ) 1</div>",
+            "option4": "<div>(ঘ) ½</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫৩. একটি বস্তুকে খাড়া উপরের দিকে $50\\ {ms}^{-1}$ বেগে নিক্ষেপ করা হল।বস্তুটি যখন 100 m উঁচুতে থাকবে তখন এর বেগ কত হবে?</div>",
+            "option1": "<div>(ক) $\\sqrt{540}\\ {ms}^{-2}$</div>",
+            "option2": "<div>(খ) $\\sqrt{560}\\ {ms}^{-1}$</div>",
+            "option3": "<div>(গ) $\\sqrt{570}\\ {ms}^{-1}$</div>",
+            "option4": "<div>(ঘ) $\\sqrt{590}\\ {ms}^{-1}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৪. স্থিরাবস্থা হতে চলতে আরম্ভ করে 520 m দূরত্ব অতিক্রম করা অবস্থায় একটিবস্তুর বেগ 130 ${ms}^{-1}$ হলে ঐ বস্তুর ত্বরণ কত?</div>",
+            "option1": "<div>(ক) 14.25 ${ms}^{-2}$</div>",
+            "option2": "<div>(খ) 12.5 ${ms}^{-2}$</div>",
+            "option3": "<div>(গ) 16.25 ${ms}^{-2}$</div>",
+            "option4": "<div>(ঘ) 24.25 ${ms}^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৫৫. একটি বস্তু আণুভূমিকের সাথে 45$\\mathrm{{}^\\circ}$ কোণে নিক্ষেপ করা হলোবলটি কত দূরত্বে পড়বে?</div>",
+            "option1": "<div>(ক) 19.6 m</div>",
+            "option2": "<div>(খ) 9.8 m</div>",
+            "option3": "<div>(গ) 10 m</div>",
+            "option4": "<div>(ঘ) 1 m</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫৬. একটি বস্তুকে ${4.9\\ ms}^{-1}$ বেগে খাড়া উপরর দিকে ছুঁড়ে দিলে তা কতক্ষণশূন্যে থাকবে?</div>",
+            "option1": "<div>(ক) 2s</div>",
+            "option2": "<div>(খ) 1s</div>",
+            "option3": "<div>(গ) 3s</div>",
+            "option4": "<div>(ঘ) 4s</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৫৭. একটি বল 19.6 ${ms}^{-1\\ }$ গতিতে সোজা উপরে ছোঁড়া হলো। এটি সর্বোচ্চ কতউচ্চতায় পৌঁছাতে পারবে?</div>",
+            "option1": "<div>(ক) 19.6 m</div>",
+            "option2": "<div>(খ) 4.9 m</div>",
+            "option3": "<div>(গ) 9.8 m</div>",
+            "option4": "<div>(ঘ) 1 m</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৮. একটি বল 20 ${ms}^{-1\\ }$ বেগে অনুভূমির সাথে 45$\\mathrm{{}^\\circ}$ কোণনিক্ষেপ করা হলো বলটি কত দূরত্বে পড়বে?</div>",
+            "option1": "<div>(ক) 40 m</div>",
+            "option2": "<div>(খ) 5 m</div>",
+            "option3": "<div>(গ) 10 m</div>",
+            "option4": "<div>(ঘ) 20 m</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>৫৯. ঘড়ির কাঁটার গতি কোন প্রকারের গতি?</div>",
+            "option1": "<div>(ক) বক্র চলন গতি</div>",
+            "option2": "<div>(খ) ঘূর্ণন গতি</div>",
+            "option3": "<div>(গ) চলন-ঘূর্ণন গতি</div>",
+            "option4": "<div>(ঘ) পর্যাবৃত্ত গতি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬০. একটি ব্যক্তি সূর্যোদরের দিকে 12m যাবার পর ঠিক উত্তর দিকে ঘুরল এবং 5mগেল? তার তার সরণ কত মিটার?</div>",
+            "option1": "<div>(ক) 17</div>",
+            "option2": "<div>(খ) 16.67</div>",
+            "option3": "<div>(গ) 17.67</div>",
+            "option4": "<div>(ঘ) 13</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>৬১. অনুভূমিক পাল্লার সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $R=\\frac{v^2_0{\\mathrm{sin} 2\\ \\alpha \\ }}{2g}$</div>",
+            "option2": "<div>(খ) $R=\\frac{v^2_0{sin}^2\\alpha }{2g}$</div>",
+            "option3": "<div>(গ) $R=\\frac{v^2_0{\\mathrm{sin} 2\\ \\alpha \\ }}{g}$</div>",
+            "option4": "<div>(ঘ) $R_{MAX}=\\frac{2v^2_0}{g}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬২. ত্বরণ সম্পর্কে কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) ধনাত্মক ত্বরণকে মন্দন বলে?</div>",
+            "option2": "<div>(খ) ত্বরণের মাত্রা সমীকরণ $\\left[{LT}^{-1}\\right]$</div>",
+            "option3": "<div>(গ) ত্বরণে ভরবেগের পরিবর্তন হয়</div>",
+            "option4": "<div>(ঘ) অভিকর্ষজ ত্বরণ একটি অসম ত্বরণ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬৩. বেগ সম্পর্কে কোন তথ্যটি সঠিক নয়?</div>",
+            "option1": "<div>(ক) কৌণিক বেগের মাত্রা--- $T^{-1}$</div>",
+            "option2": "<div>(খ) কৌণিক বেগের মাত্রা---$S^{-1}$</div>",
+            "option3": "<div>(গ) কৌণিক বেগের মাত্রা---${LT}^{-2}$</div>",
+            "option4": "<div>(ঘ) কৌণিক বেগের মাত্রা---${ms}^{-2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬৪. গতি সংক্রান্ত কোন সশীকরণটি সঠিক নয়?</div>",
+            "option1": "<div>(ক) $v=v_0+at$</div>",
+            "option2": "<div>(খ) $v^2=v_0+2as$</div>",
+            "option3": "<div>(গ) $s=\\frac{v_0+v}{2}t$</div>",
+            "option4": "<div>(ঘ) $s=v_ot+\\frac{1}{2}{at}^2$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>৬৫. একটি বস্তুকে ভূমি হতে খাড়া ঊর্ধ্বে নিক্ষেপ করলে এবং উহা 10 sec বায়ুতেথাকলে, সর্বোচ্চ স্থানে পৌছাতে বস্তুটির কত সময় লাগবে?</div>",
+            "option1": "<div>(ক) 7 sec</div>",
+            "option2": "<div>(খ) 4 sec</div>",
+            "option3": "<div>(গ) 5 sec</div>",
+            "option4": "<div>(ঘ) 6 sec</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>৬৬. নিচের কোনটি গতির প্রকারভেদ নয়?</div>",
+            "option1": "<div>(ক) চলন গতি</div>",
+            "option2": "<div>(খ) ঊর্ধ্বগতি</div>",
+            "option3": "<div>(গ) দোলন গতি</div>",
+            "option4": "<div>(ঘ) গূর্ণন গতি</div>",
+            "mcqAnswer": "b"
+        }
+    ]
+}

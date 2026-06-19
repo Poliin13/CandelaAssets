@@ -1,0 +1,2902 @@
+﻿{
+    "mcqQuestionList": [
+        {
+            "mcqQuestion": "<div>1. বৃত্তাকার স্কেলের পূর্ণ ঘূর্ণন সংখ্যা M, বৃত্তাকার স্কেলের অতিরিক্ত ভাগসংখ্যা N এবং লঘিষ্ঠ গগন L${}_{C}$ হলে স্ফেরোমিটারের সাহায্যে h নির্ণয়েরসূত্র কোনটি?</div>",
+            "option1": "<div>(ক) h = L + L${}_{C}$</div>",
+            "option2": "<div>(খ) h = M $\\mathrm{\\times}$ N + L${}_{C}$</div>",
+            "option3": "<div>(গ) h = M $\\mathrm{\\times}$ পিচ + L${}_{C}$</div>",
+            "option4": "<div>(ঘ) h = M $\\mathrm{\\times}$ পিচ + N $\\mathrm{\\times}$ L${}_{C}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>2. প্রকৃত মান ও পরিমাপ্য মানের পার্থক্যকে কোন ত্রুটি বলে?</div>",
+            "option1": "<div>(ক) পরম ত্রুটি</div>",
+            "option2": "<div>(খ) সামগ্রিক ত্রুটি</div>",
+            "option3": "<div>(গ) আপেক্ষিক ত্রুটি</div>",
+            "option4": "<div>(ঘ) পুনরাবৃত্তিক ত্রুটি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>3. একটি স্ক্রুপজের লঘিষ্ঠ ধ্রুবকের মান 0.01mm। এটি দ্বারা নূন্যতম কত বেধমাপা যাবে?</div>",
+            "option1": "<div>(ক) 1mm</div>",
+            "option2": "<div>(খ) 0.10mm</div>",
+            "option3": "<div>(গ) 0.01mm</div>",
+            "option4": "<div>(ঘ) 0.001mm</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>4. নিচের কোনটি পর্যবেক্ষণমূলক ত্রুটি?</div>",
+            "option1": "<div>(ক) লম্বন ত্রুটি</div>",
+            "option2": "<div>(খ) পিছট ত্রুটি</div>",
+            "option3": "<div>(গ) লেভেল ত্রুটি</div>",
+            "option4": "<div>(ঘ) এলোমেলো ত্রুটি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>5. সর্বাপেক্ষা ছোট একক কোনটি?</div>",
+            "option1": "<div>(ক) মিলি মাইক্রোন</div>",
+            "option2": "<div>(খ) অ্যাংস্ট্রম</div>",
+            "option3": "<div>(গ) এক্স-রে ইউনিট</div>",
+            "option4": "<div>(ঘ) অ্যাটো-মিটার</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>6. একটি বৃত্তের পরিমাপ্য ব্যাসার্ধ (5 $\\pm $ 2%) cm হলে ক্ষেত্রফল পরিমাপেশতকরা কত ত্রুটি?</div>",
+            "option1": "<div>(ক) 0.8%</div>",
+            "option2": "<div>(খ) 0.5%</div>",
+            "option3": "<div>(গ) 0.4%</div>",
+            "option4": "<div>(ঘ) 0.2%</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>7. কোয়ান্টাম তথ্যের জনক কে?</div>",
+            "option1": "<div>(ক) টমাস ইয়ং</div>",
+            "option2": "<div>(খ) আর্নেস্ট রাদারফোর্ড</div>",
+            "option3": "<div>(গ) ম্যাক্স প্লাঙ্ক</div>",
+            "option4": "<div>(ঘ) আলবার্ট আইনস্টাইন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>8. নিচের কোনটি লব্ধ রাশি?</div>",
+            "option1": "<div>(ক) কম্পাঙ্ক</div>",
+            "option2": "<div>(খ) ভর</div>",
+            "option3": "<div>(গ) সময়</div>",
+            "option4": "<div>(ঘ) তাপমাত্রা</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>9. স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবকের মান 0.02 mm হলে, নিচের কোন বেধটিনির্ভুলভাবে মাপা যাবে?</div>",
+            "option1": "<div>(ক) 0.005m</div>",
+            "option2": "<div>(খ) 0.001m</div>",
+            "option3": "<div>(গ) 0.01mm</div>",
+            "option4": "<div>(ঘ) 0.03mm</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>10. পাখির উড়া পর্যবেক্ষণ করে উড়োজাহাজের মডেল তৈরি করেন কে?</div>",
+            "option1": "<div>(ক) রবার্ট হুক</div>",
+            "option2": "<div>(খ) রজার বেকন</div>",
+            "option3": "<div>(গ) লিওনার্দো দ্য ভিঞ্চি</div>",
+            "option4": "<div>(ঘ) আইজ্যাক নিউটন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>11. লেভেল ত্রুটি কোন যন্ত্রের পরিমাপের জন্য প্রযোজ্য?</div>",
+            "option1": "<div>(ক) স্ক্রুগজ</div>",
+            "option2": "<div>(খ) মিটার স্কেল</div>",
+            "option3": "<div>(গ) উদস্থিতি নিক্তি</div>",
+            "option4": "<div>(ঘ) স্ফেরোমিটার</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>12. স্ফেরোমিটারের সাহায্যে কোনো তলের বক্রতার ব্যাসার্ধ নির্ণয়ের সমীকরণকোনটি?</div>",
+            "option1": "<div>(ক) $R=\\frac{d^2}{6h}+\\frac{h}{2}$</div>",
+            "option2": "<div>(খ) $R=\\frac{d^2}{6h}-\\frac{h}{2}$</div>",
+            "option3": "<div>(গ) $R=\\frac{d^2}{6h}+\\frac{h}{2}$</div>",
+            "option4": "<div>(ঘ) $R=\\frac{d^2}{6h}+\\frac{h}{4}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>13. নিচের কোনটি S.I একক?</div>",
+            "option1": "<div>(ক) সেন্টিমিটার</div>",
+            "option2": "<div>(খ) মাইল</div>",
+            "option3": "<div>(গ) মিটার</div>",
+            "option4": "<div>(ঘ) ফুট</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>14. কোনো গোলকের ব্যাসার্ধের প্রকৃত মান 3cm এবং পরিমাপ্য মান 2.98cm। গোলকটিরআয়তন পরিমাপে শতকরা ত্রুটি কত?</div>",
+            "option1": "<div>(ক) 0.02%</div>",
+            "option2": "<div>(খ) 0.066%</div>",
+            "option3": "<div>(গ) 0.66%</div>",
+            "option4": "<div>(ঘ) 2%</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>15. একটি গোলকের ব্যাসার্ধ d - (10 $\\pm $ 0.1) cm হলে, এর আয়তনের শতকরাত্রুটি কত?</div>",
+            "option1": "<div>(ক) 1%</div>",
+            "option2": "<div>(খ) 2%</div>",
+            "option3": "<div>(গ) 3%</div>",
+            "option4": "<div>(ঘ) 4%</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>16. এককের সঠিক ক্রম কোনটি?</div>",
+            "option1": "<div>(ক) পারসেক $\\mathrm{&gt;}$ মেগামিটার $\\mathrm{&gt;}$ এ্যাংস্ট্রম$\\mathrm{&gt;}$ আলোকবছর</div>",
+            "option2": "<div>(খ) আলোকবছর $\\mathrm{&gt;}$ পারসেক $\\mathrm{&gt;}$ মেগামিটার$\\mathrm{&gt;}$ এ্যাংস্ট্রম</div>",
+            "option3": "<div>(গ) পারসেক $\\mathrm{&gt;}$ আলোকবছর $\\mathrm{&gt;}$ মেগামিটার$\\mathrm{&gt;}$ এ্যাংস্ট্রম</div>",
+            "option4": "<div>(ঘ) এ্যাংস্ট্রম $\\mathrm{&gt;}$ পারসেক $\\mathrm{&gt;}$ মেগামিটার$\\mathrm{&gt;}$ আলোকবছর</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>17. একটি আদর্শ বা যুক্তিপূর্ণ আচরণ ভিত্তি যার সাপেক্ষে অন্যান্য বিষয় তুলনা,বিচার বিশ্লেষণ ও পরিমাপ করা হয় তাকে কী বলে?</div>",
+            "option1": "<div>(ক) সূত্র</div>",
+            "option2": "<div>(থ) নীতি</div>",
+            "option3": "<div>(গ) অনুকল্প</div>",
+            "option4": "<div>(ঘ) স্বীকার্য</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>18. আলোকবর্ষ কিসের একক?</div>",
+            "option1": "<div>(ক) সময়</div>",
+            "option2": "<div>(খ) দূরত্ব</div>",
+            "option3": "<div>(গ) ত্বরণ</div>",
+            "option4": "<div>(ঘ) বেগ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>19. কোনো কিছু ব্যাখ্যার জন্য যে আনুষ্ঠানিক চিন্তাধারা তাকে বলে\\~{N}</div>",
+            "option1": "<div>(ক) স্বীকার্য</div>",
+            "option2": "<div>(খ) তত্ত্ব</div>",
+            "option3": "<div>(গ) অনুকল্প</div>",
+            "option4": "<div>(ঘ) সূত্র</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>20. স্ফেরোমিটারের বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা 50। স্কেলটিকে এক পাকঘুরালে রৈখিক স্কেলে সরণ হয় 0.5mm। লঘিষ্ঠ গগন কত?</div>",
+            "option1": "<div>(ক) 0.01mm</div>",
+            "option2": "<div>(খ) 0.01cm</div>",
+            "option3": "<div>(গ) 0.25mm</div>",
+            "option4": "<div>(ঘ) 0.50mm</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>21. পরীক্ষা দ্বারা প্রমাণিত অনুকল্পকে বলে-</div>",
+            "option1": "<div>(ক) নীতি</div>",
+            "option2": "<div>(খ) স্বীকার্য</div>",
+            "option3": "<div>(গ) সূত্র</div>",
+            "option4": "<div>(ঘ) তত্ত্ব</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>22. প্রধান স্কেল পাঠ M, ভার্নিয়ার পাঠ V এবং ভার্নিয়ার ধ্রুবক V হলে, দৈর্ঘ,L নির্ণয়ের সূত্র-</div>",
+            "option1": "<div>(ক) L = M + V${}_{c}$</div>",
+            "option2": "<div>(খ) L = MV + V${}_{c}$</div>",
+            "option3": "<div>(গ) L = MV${}_{c}$ + V</div>",
+            "option4": "<div>(ঘ) L = M + V $\\mathrm{\\times}$ V${}_{c}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>23. V নির্ণয়ে ত্রুটি হবে-</div>",
+            "option1": "<div>(ক) 1%</div>",
+            "option2": "<div>(খ) 2%</div>",
+            "option3": "<div>(গ) 4%</div>",
+            "option4": "<div>(ঘ) 6%</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>24. কোন দুটি ভৌত জগতের উপাদান?</div>",
+            "option1": "<div>(ক) সময় ও ত্বরণ</div>",
+            "option2": "<div>(খ) ভর ও স্থান</div>",
+            "option3": "<div>(গ) স্থান ও বেগ</div>",
+            "option4": "<div>(ঘ) ভর ও তাপমাত্রা</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>25. পরিমাপে ধনাত্মক ও ঋণাত্মক উভয় প্রকার ত্রুটি হয় কোন কারণে?</div>",
+            "option1": "<div>(ক) যন্ত্রের</div>",
+            "option2": "<div>(খ) পরিবেশগত</div>",
+            "option3": "<div>(গ) তত্ত্বীয়</div>",
+            "option4": "<div>(ঘ) ব্যক্তিগত</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>26. পদার্থের পরিমাণের এসআই একক কোনটি?</div>",
+            "option1": "<div>(ক) কিলোগ্রাম</div>",
+            "option2": "<div>(খ) পাউন্ড</div>",
+            "option3": "<div>(গ) লিটার</div>",
+            "option4": "<div>(ঘ) মোল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>27. কোয়ান্টাম তত্ত্বের ধারণা কোন বিজ্ঞানী সম্প্রসারিত করেন?</div>",
+            "option1": "<div>(ক) আইজ্যাক নিউটন</div>",
+            "option2": "<div>(খ) ম্যাক্স প্লাঙ্ক</div>",
+            "option3": "<div>(গ) আলবার্ট আইনস্টাইন</div>",
+            "option4": "<div>(ঘ) মাইকেল ফ্যারাডে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>28. পুনরাবৃত্তিক ত্রুটি কোনটি?</div>",
+            "option1": "<div>(ক) স্ক্রু গজের শূন্য ত্রুটি</div>",
+            "option2": "<div>(খ) দৃষ্ট্রিভ্রষ্ট ত্রুটি</div>",
+            "option3": "<div>(গ) অনিয়মিত ত্রুটি</div>",
+            "option4": "<div>(ঘ) সামগ্রিক ত্রুটি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>29. একটি রাশির প্রকৃত মান ও পরিমাপ্য মানের পার্থক্যকে বলে-</div>",
+            "option1": "<div>(ক) পরম ত্রুটি</div>",
+            "option2": "<div>(খ) সামগ্রিক ত্রুটি</div>",
+            "option3": "<div>(গ) আপেক্ষিক ত্রুটি</div>",
+            "option4": "<div>(ঘ) পুনরাবৃত্তিক ত্রুটি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>30. এক আলোকবর্ষ হলো-</div>",
+            "option1": "<div>(ক) 9.4$\\mathrm{\\times}$10${}^{12}$km</div>",
+            "option2": "<div>(খ) 9.4$\\mathrm{\\times}$10${}^{15}$km</div>",
+            "option3": "<div>(গ) 9.4$\\mathrm{\\times}$10${}^{18}$km</div>",
+            "option4": "<div>(ঘ) 9.4$\\mathrm{\\times}$10${}^{21}$km</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>31. একটি গোলকের পরিমাপ্য ব্যাসার্ধ (2.5 $\\pm $ 0.2) cm হলে এর আয়তন পরিমাপেশতকরা ত্রুটি কত?</div>",
+            "option1": "<div>(ক) 0.08%</div>",
+            "option2": "<div>(খ) 0.24%</div>",
+            "option3": "<div>(গ) 8%</div>",
+            "option4": "<div>(ঘ) 24%</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>32. নিচের কোন ত্রুটি শুধু স্ক্রু জাতীয় যন্ত্রে থাকে?</div>",
+            "option1": "<div>(ক) ব্যক্তিগত ত্রুটি</div>",
+            "option2": "<div>(খ) নিয়মিত ত্রুটি</div>",
+            "option3": "<div>(গ) পিছট ত্রুটি</div>",
+            "option4": "<div>(ঘ) লেভেল ত্রুটি</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>33. বিনা প্রমাণে কোনো কিছু মেনে নেওয়াকে বলে-</div>",
+            "option1": "<div>(ক) তত্ত্ব</div>",
+            "option2": "<div>(খ) স্বীকার্য</div>",
+            "option3": "<div>(গ) নীতি</div>",
+            "option4": "<div>(ঘ) ধারণা</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>34. নিচের কোনটি ভেক্টর রাশি?</div>",
+            "option1": "<div>(ক) পীড়ন</div>",
+            "option2": "<div>(খ) বিকৃতি</div>",
+            "option3": "<div>(গ) সান্দ্রতা</div>",
+            "option4": "<div>(ঘ) পৃষ্ঠশক্তি</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>35. নিক্তির সাহায্যে ভর পরিমাপে কোন ত্রুটি পরিহার করা হয়?</div>",
+            "option1": "<div>(ক) পিছট ত্রুটি</div>",
+            "option2": "<div>(খ) লেভেল ত্রুটি</div>",
+            "option3": "<div>(গ) শূন্য ত্রুটি</div>",
+            "option4": "<div>(ঘ) পর্যবেক্ষণমূলক ত্রুটি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>36. চাপ একটি যৌগিক রাশি। এর এসআই একক হচ্ছে-<br>i. প্যাসকেল<br>ii. নিউটন/ মিটার${}^{2}$<br>iii. ডাইন/ সেমি${}^{2}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>37. পরিমাপের যথার্থতা কার সাথে সম্পর্কিত?<br>i. ত্রুটির<br>ii. যন্ত্রের<br>iii. ভুলের<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও্ ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>38. মৌলিক রাশি হলো-<br>i. তড়িৎ প্রবাহমাত্রা<br>ii. পদার্থের পরিমাণ<br>iii. দীপন তীব্রতা<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও্ iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>39. মৌলিক একক হলো-<br>i. মিটার ও কেলভিন<br>ii. সেকেন্ড ও অ্যাম্পিয়ার<br>iii. ক্যান্ডেলা ও মোল<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও্ iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>কোনো বস্তুর ভর (100kg $\\pm $ 2%) এবং আয়তন (100 $\\pm $ 3% m${}^{3}$)<br>নির্দেশনার আলোকে 40 ও 41নং প্রশ্নের উত্তর দাও:<br>40. ঐ বস্তুর ঘনত্বের শতকরা ত্রুটি কত?</div>",
+            "option1": "<div>(ক) 10</div>",
+            "option2": "<div>(খ) 5</div>",
+            "option3": "<div>(গ) 0.5</div>",
+            "option4": "<div>(ঘ) 0.1</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>41. ঐ বস্তুটির ঘনত্বের পরম ত্রুটির সঠিক মান কোনটি?</div>",
+            "option1": "<div>(ক) 5kg m${}^{-3}$</div>",
+            "option2": "<div>(খ) 5g m${}^{-3}$</div>",
+            "option3": "<div>(গ) 0.5kg m${}^{-3}$</div>",
+            "option4": "<div>(ঘ) 0.5kg ft${}^{-3}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>42. নিচের কোনটি পৃথিবীর কেন্দ্রমন্ডলের ভেতরের অংশে থাকে?</div>",
+            "option1": "<div>(ক) কয়লা</div>",
+            "option2": "<div>(খ) নিকেল</div>",
+            "option3": "<div>(গ) দস্তা</div>",
+            "option4": "<div>(ঘ) ক ও খ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>43. ভূ-মন্ডলের কোন অংশটি থেকে আগ্নেয়গিরির উদগীরণে গলিত লাভা বের হয়ে আসে?</div>",
+            "option1": "<div>(ক) ভূ-ত্বক</div>",
+            "option2": "<div>(খ) শিলামন্ডল</div>",
+            "option3": "<div>(গ) গুরুমন্ডল</div>",
+            "option4": "<div>(ঘ) কেন্দ্রমন্ডল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>44. কোন তত্ত্ব অনুযায়ী ভূ-মন্ডলের প্লেটগুলো গুরুমন্ডলের আংশিক তরল অংশের্উপরে ভাসমান অবস্থায় রয়েছে?</div>",
+            "option1": "<div>(ক) তড়িৎ চুম্বকীয় তত্ত্ব</div>",
+            "option2": "<div>(খ) ভূ-তত্ত্ব</div>",
+            "option3": "<div>(গ) কোয়ান্টাম তত্ত্ব</div>",
+            "option4": "<div>(ঘ) প্লেট টেকটোনিক তত্ত্ব</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>45. নিচের কোনটি পৃথিবী গঠনের হাল্কা পদার্থ?</div>",
+            "option1": "<div>(ক) কার্বন ডাইঅক্সাইড</div>",
+            "option2": "<div>(খ) বালু</div>",
+            "option3": "<div>(গ) অক্সিজেন</div>",
+            "option4": "<div>(ঘ) জলীয় বাষ্প</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>46. পৃথিবীর গড় ব্যাসার্ধ কত?</div>",
+            "option1": "<div>(ক) 6375 কিলোমিটার</div>",
+            "option2": "<div>(খ) প্রায় 6370 কিলোমিটার</div>",
+            "option3": "<div>(গ) 6400 কিলোমিটার</div>",
+            "option4": "<div>(ঘ) প্রায় 6475 কিলোমিটার</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>47. নিচের কোনটি পৃথিবীর শিলামন্ডলের উপরের অংশ?</div>",
+            "option1": "<div>(ক) চুনাপাথর</div>",
+            "option2": "<div>(খ) নুড়িপাথর</div>",
+            "option3": "<div>(গ) দস্তা</div>",
+            "option4": "<div>(ঘ) সোনা</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>48. নিচের কোনটি অজৈব পদার্থ?</div>",
+            "option1": "<div>(ক) নুড়ি পাথর</div>",
+            "option2": "<div>(খ) কয়লা</div>",
+            "option3": "<div>(গ) চুনাপাথর</div>",
+            "option4": "<div>(ঘ) পেট্রোলিয়াম</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>49. বায়ুমন্ডলে রয়েছে মূলত-</div>",
+            "option1": "<div>(ক) অক্সিজেন ও কার্বনডাই অক্সাইড</div>",
+            "option2": "<div>(খ) অক্সিজেন ও নাইট্রোজেন</div>",
+            "option3": "<div>(গ) অক্সিজেন ও জলীয় বাষ্প</div>",
+            "option4": "<div>(ঘ) অক্সিজেন ও ধূলিকণা</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>50. বায়ুমন্ডলের ট্রপোস্ফিয়ার অঞ্চল বিস্তৃত ভূ-পৃষ্ঠ থেকে-</div>",
+            "option1": "<div>(ক) প্রায় 11 কিলোমিটার</div>",
+            "option2": "<div>(খ) প্রায় 15 কিলোমিটার</div>",
+            "option3": "<div>(গ) প্রায় 21 কিলোমিটার</div>",
+            "option4": "<div>(ঘ) প্রায় 30 কিলোমিটার</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>51. নিচের কোনটি জীবাশ্ম জ্বালানি?</div>",
+            "option1": "<div>(ক) চুনাপাথর</div>",
+            "option2": "<div>(খ) কয়লা</div>",
+            "option3": "<div>(গ) নুড়িপাথর</div>",
+            "option4": "<div>(ঘ) সোনা</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>52. প্রকৃতির ইতিহাস সম্পর্কে এনসাইক্লোপিডিয়া লেখেন কে?</div>",
+            "option1": "<div>(ক) ডারউইন</div>",
+            "option2": "<div>(খ) সলিম আলী</div>",
+            "option3": "<div>(গ) আল মাসুদী</div>",
+            "option4": "<div>(ঘ) রজার বেকন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>53. প্রাচীন ভারতীয় বিজ্ঞানী মহাবীর অবদান রাখেন-</div>",
+            "option1": "<div>(ক) জ্যোতির্বিজ্ঞানে</div>",
+            "option2": "<div>(খ) গণিতে</div>",
+            "option3": "<div>(গ) চিকিৎসা বিজ্ঞানে</div>",
+            "option4": "<div>(ঘ) জ্যোতির্বিজ্ঞানে ও গণিতে</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>54. প্রাচীন ভারতীয় বিজ্ঞানী আর্যভট্ট কীসে অবদান রাখার জন্য স্মরণীয়?</div>",
+            "option1": "<div>(ক) গণিত</div>",
+            "option2": "<div>(খ) জ্যোতির্বিজ্ঞান</div>",
+            "option3": "<div>(গ) রসায়ন শাস্ত্র</div>",
+            "option4": "<div>(ঘ) চিকিৎসাবিজ্ঞান</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>55. কোয়ান্টাম তত্ত্ব কখন আবিষ্কৃত হয়?</div>",
+            "option1": "<div>(ক) অষ্টাদশ শতাব্দীতে</div>",
+            "option2": "<div>(খ) ঊনবিংশ শতাব্দীর শেষে</div>",
+            "option3": "<div>(গ) বিংশ শতাব্দীর শুরুতে</div>",
+            "option4": "<div>(ঘ) বিংশ শতাব্দীর শেষে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>56. নীলস বোরের কোন পরমাণুর ইলেকট্রন স্তরের ধারণা পারমাণবিক পদার্থবিজ্ঞানেরঅত্যন্ত গুরুত্বপূর্ণ ধাপ?</div>",
+            "option1": "<div>(ক) হাইড্রোজেন</div>",
+            "option2": "<div>(খ) হিলিয়াম</div>",
+            "option3": "<div>(গ) সোডিয়াম</div>",
+            "option4": "<div>(ঘ) ইউরেনিয়াম</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>57. সৌরকেন্দ্রিক তত্ত্বের ধারণা দেন কে?</div>",
+            "option1": "<div>(ক) কেপলার</div>",
+            "option2": "<div>(খ) রোমার</div>",
+            "option3": "<div>(গ) কোপারনিকাস</div>",
+            "option4": "<div>(ঘ) টাইকোব্রাহের</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>58. তরলের নিমজ্জিত কোনো বস্তুর আয়তন তার দ্বারা অপসারিত তরলের আয়তনের সমান,এটা কী?</div>",
+            "option1": "<div>(ক) সূত্র</div>",
+            "option2": "<div>(খ) তত্ত্ব</div>",
+            "option3": "<div>(গ) নীতি</div>",
+            "option4": "<div>(ঘ) অনুকল্প</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>59. পদার্থবিজ্ঞানের ভাষা হচ্ছে-</div>",
+            "option1": "<div>(ক) রসায়ন</div>",
+            "option2": "<div>(খ) গণিত</div>",
+            "option3": "<div>(গ) জীববিজ্ঞান</div>",
+            "option4": "<div>(ঘ) পরিসংখ্যান</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>60. প্রাণী ও উদ্ভিদ দেহে সংঘটিত সকল ঘটনা কোন নিয়ম মেনে চলে?</div>",
+            "option1": "<div>(ক) পদার্থিক</div>",
+            "option2": "<div>(খ) রসায়নিক</div>",
+            "option3": "<div>(গ) গাণিতিক</div>",
+            "option4": "<div>(ঘ) পরিসংখ্যানিক</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>61. কত শতকে ইলেকট্রনের আবিষ্কারের ফলে ইলেকট্রন মাইক্রোস্কোপ আবিষ্কৃত হয়?</div>",
+            "option1": "<div>(ক) অষ্টাদশ শতকে</div>",
+            "option2": "<div>(খ) ঊনিশ শতকের প্রথমার্ধে</div>",
+            "option3": "<div>(গ) ঊনিশ শতকের শেষার্ধে</div>",
+            "option4": "<div>(ঘ) বিংশ শতকের প্রথমার্ধে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>62. সপ্তদশ শতাব্দীতে জ্যোতির্বিজ্ঞানে নতুন দিগন্তের সূচনা করে নিউটনের-</div>",
+            "option1": "<div>(ক) গতিসূত্র</div>",
+            "option2": "<div>(খ) আলোর প্রতিসরণ সূত্র</div>",
+            "option3": "<div>(গ) মহাকর্ষ সূত্র</div>",
+            "option4": "<div>(ঘ) শক্তির নিত্যতা সূত্র</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>63. খেলার সময় বস্তুর ধর্ম মেনে চলতে বাধ্য-</div>",
+            "option1": "<div>(ক) খেলোয়াড়</div>",
+            "option2": "<div>(খ) খেলার সরঞ্জাম</div>",
+            "option3": "<div>(গ) খেলোয়াড় ও খেলার সরঞ্জাম উভয়ই</div>",
+            "option4": "<div>(ঘ) পা</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>64. সর্বপ্রথম কোয়ান্টাম তত্ত্ব প্রদান করেন কে?</div>",
+            "option1": "<div>(ক) আইনস্টাইন</div>",
+            "option2": "<div>(খ) ম্যাক্স প্লাঙ্ক</div>",
+            "option3": "<div>(গ) নিউটন</div>",
+            "option4": "<div>(ঘ) রাদারফোর্ড</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>65. ম্যাক্স প্লাঙ্ক কর্তৃক প্রদানকৃত কোয়ান্টাম তত্ত্ব সম্প্রসারিত করেন কে?</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) টমাস ইয়াং</div>",
+            "option3": "<div>(গ) আইনস্টাইন</div>",
+            "option4": "<div>(ঘ) লুইস</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>66. স্থান ও কালের ধারণা স্পষ্ট ও পরিমাপগত রূপ ধারণ করেছে কোনটির মাধ্যমে?</div>",
+            "option1": "<div>(ক) বলবিদ্যা</div>",
+            "option2": "<div>(খ) তাপবিজ্ঞান</div>",
+            "option3": "<div>(গ) শব্দ বিজ্ঞান</div>",
+            "option4": "<div>(ঘ) আলোক বিজ্ঞান</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>67. চিরায়ত পদার্থবিজ্ঞানে স্থান হচ্ছে-</div>",
+            "option1": "<div>(ক) ত্রিমাত্রিক এক বিস্তৃতি</div>",
+            "option2": "<div>(খ) ত্রিমাত্রিক দুই বিস্তৃতি</div>",
+            "option3": "<div>(গ) দ্বিমাত্রিক এক বিস্তৃতি</div>",
+            "option4": "<div>(ঘ) দ্বিমাত্রিক দুই বিস্তৃতি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>68. চিরায়ত পদার্থবিজ্ঞান ব্যর্থতার পরিচয় দেয়-</div>",
+            "option1": "<div>(ক) পোলারন ব্যাখ্যায়</div>",
+            "option2": "<div>(খ) অপবর্তন ব্যাখ্যা</div>",
+            "option3": "<div>(গ) স্থূল জগতের ব্যাখ্যায়</div>",
+            "option4": "<div>(ঘ) অণুজগতের ব্যাখ্যায়</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>69. কোনো বস্তুকে আলোর বেগের কাছাকাছি বেগে গতিশীল করলে আপেক্ষিকভাবেবস্তুটির-</div>",
+            "option1": "<div>(ক) দৈর্ঘ্য ও ভর হ্রাস পায়</div>",
+            "option2": "<div>(খ) দৈর্ঘ্য ও ভর বৃদ্ধি পায়</div>",
+            "option3": "<div>(গ) দৈর্ঘ্য হ্রাস ও ভর বৃদ্ধি পায়</div>",
+            "option4": "<div>(ঘ) দৈর্ঘ্য বৃদ্ধি ও ভর হ্রাস পায়</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>70. যে আদর্শ পরিমাপের সাথে তুলনা করে ভৌত রাশিকে পরিমাপ করা হয় তাকে কী বলে?</div>",
+            "option1": "<div>(ক) পরিমাণ</div>",
+            "option2": "<div>(খ) ভর</div>",
+            "option3": "<div>(গ) মৌলিক রাশি</div>",
+            "option4": "<div>(ঘ) পরিমাপের একক</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>71. মিটার, কিলোগ্রাম, সেকেন্ড ইত্যাদি কিসের উদাহরণ?</div>",
+            "option1": "<div>(ক) পরিমাপের</div>",
+            "option2": "<div>(খ) পরিমাপের এককের</div>",
+            "option3": "<div>(গ) রাশির</div>",
+            "option4": "<div>(ঘ) দৈর্ঘ্য, ভর</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>72. নিচের কোন রাশিটির একক লব্ধ একক?</div>",
+            "option1": "<div>(ক) ভর</div>",
+            "option2": "<div>(খ) পদার্থের পরিমাপ</div>",
+            "option3": "<div>(গ) ক্ষেত্রফল</div>",
+            "option4": "<div>(ঘ) দৈর্ঘ্য</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>73. নিচের কোনটি মৌলিক রাশি নয়?</div>",
+            "option1": "<div>(ক) ভর</div>",
+            "option2": "<div>(খ) তাপ</div>",
+            "option3": "<div>(গ) তড়িৎ প্রবাহ</div>",
+            "option4": "<div>(ঘ) পদার্থের পরিমাণ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>74. কোনটি লব্ধ রাশি?</div>",
+            "option1": "<div>(ক) ভর</div>",
+            "option2": "<div>(খ) দীপন ক্ষমতা</div>",
+            "option3": "<div>(গ) তড়িৎপ্রবাহ</div>",
+            "option4": "<div>(ঘ) ঘনত্ব</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>75. সিফাত বাজার থেকে 2kg মাংস কিনে আনল। এখানে মাংসের কী নির্ণয় করা হয়েছে?</div>",
+            "option1": "<div>(ক) ওজন</div>",
+            "option2": "<div>(খ) ভর</div>",
+            "option3": "<div>(গ) আয়তন</div>",
+            "option4": "<div>(ঘ) দৈর্ঘ্য</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>76. এককের আন্তর্জাতিক পদ্ধতি চালুর পূর্বে কয়টি পদ্ধতি চালু ছিল?</div>",
+            "option1": "<div>(ক) দুটি</div>",
+            "option2": "<div>(খ) তিনটি</div>",
+            "option3": "<div>(গ) চারটি</div>",
+            "option4": "<div>(ঘ) পাঁচটি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>77. এস আই এর মৌলিক একক কয়টি?</div>",
+            "option1": "<div>(ক) 5টি</div>",
+            "option2": "<div>(খ) 8টি</div>",
+            "option3": "<div>(গ) 7টি</div>",
+            "option4": "<div>(ঘ) 10টি</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>78. আন্তর্জাতিক পদ্ধতিতে মৌলিক একক নিচের কোনটি?</div>",
+            "option1": "<div>(ক) অ্যাম্পিয়ার</div>",
+            "option2": "<div>(খ) জুল</div>",
+            "option3": "<div>(গ) ওয়াট</div>",
+            "option4": "<div>(ঘ) ভোল্ট</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>79. দৈর্ঘে্র একক নির্ধারণে কার ভূমিকা রয়েছে?</div>",
+            "option1": "<div>(ক) পানির</div>",
+            "option2": "<div>(খ) লোহার</div>",
+            "option3": "<div>(গ) আলোর</div>",
+            "option4": "<div>(ঘ) তাপমাত্রার</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>80. আদর্শ এক কিলোগ্রাম ভরের সিলিন্ডারের উচ্চতা ও ব্যাস কত?</div>",
+            "option1": "<div>(ক) 6.9 সে.মি.</div>",
+            "option2": "<div>(খ) 6.3 সে.মি.</div>",
+            "option3": "<div>(গ) 3.9 সে.মি.</div>",
+            "option4": "<div>(ঘ) 3.6 সে.মি.</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>81. দীপন ক্ষমতার একক নির্ধারণে কোন মৌলিক পদার্থটি ব্যবহৃত হয়েছে?</div>",
+            "option1": "<div>(ক) লোহা</div>",
+            "option2": "<div>(খ) তামা</div>",
+            "option3": "<div>(গ) প্লাটিনাম</div>",
+            "option4": "<div>(ঘ) পারদ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>82. ভার্নিয়ার স্কেল কে আবিষ্কার করেন?</div>",
+            "option1": "<div>(ক) পিয়েরে দ্য কুবার্ত</div>",
+            "option2": "<div>(খ) জেমস ভার্নিয়ার</div>",
+            "option3": "<div>(গ) পিয়েরে ভার্নিয়ার</div>",
+            "option4": "<div>(ঘ) লিও ভার্নিয়ার</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>83. প্রধান স্কেলের ক্ষুদ্রতম 1 ভাগের দৈর্ঘ্য s এবং ভার্নিয়ারের ভাগসংখ্যা nহলে ভার্নিয়ারের ধ্রুবক নির্ণয়ের সঠিক সূত্র কোনটি?</div>",
+            "option1": "<div>(ক) $\\frac{n}{s}$</div>",
+            "option2": "<div>(খ)$\\frac{s}{n}$</div>",
+            "option3": "<div>(গ) s = n</div>",
+            "option4": "<div>(ঘ) s - n</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>84. মূল স্কেলের পাঠ 14 মি.মি., ভার্নিয়ার ধ্রুবক 0.1 মি.মি. এবং ভার্নিয়ারপাঠ 3 হলে মোট পাঠ কত হবে?</div>",
+            "option1": "<div>(ক) 14.3 সে.মি.</div>",
+            "option2": "<div>(খ) 1.43 মি.মি.</div>",
+            "option3": "<div>(গ) 14.3 মি.মি.</div>",
+            "option4": "<div>(ঘ) 143 মি.মি.</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>85. স্ক্রু গজের ক্ষেত্রে পিচকে বৃত্তাকার স্কেলের ভাগের সংখ্যা দ্বারা ভাগকরলে নিচের কোনটি পাওয়া যায়?</div>",
+            "option1": "<div>(ক) পিচ</div>",
+            "option2": "<div>(খ) লঘিষ্ঠ গনন</div>",
+            "option3": "<div>(গ) ভার্নিয়ার ধ্রুবক</div>",
+            "option4": "<div>(ঘ) যান্ত্রিক ত্রুটি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>86. খুব অল্প জিনিসের ভর সূক্ষ্মভাবে নির্ণয় করতে হয়-</div>",
+            "option1": "<div>(ক) নিক্তি দ্বারা</div>",
+            "option2": "<div>(খ) তুলা যন্ত্র দ্বারা</div>",
+            "option3": "<div>(গ) উভয়টি দ্বারা</div>",
+            "option4": "<div>(ঘ) কোনটিই নয়</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>87. একটি স্লাইড ক্যালিপার্সের প্রধান স্কেলের এক ঘরের মান 1mm এবংভার্নিয়ারের ঘরের সংখ্যা 20 হলে ভার্নিয়ার ধ্রুবক কত?</div>",
+            "option1": "<div>(ক) 0.01mm</div>",
+            "option2": "<div>(খ) 0.05mm</div>",
+            "option3": "<div>(গ) 0.1mm</div>",
+            "option4": "<div>(ঘ) 0.5mm</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>88. অধিকতর সূক্ষ্ম পরিমাপের জন্য কোন মাপযন্ত্র প্রয়োজন?</div>",
+            "option1": "<div>(ক) মিটার স্কেল</div>",
+            "option2": "<div>(খ) ভার্নিয়ার স্কেল</div>",
+            "option3": "<div>(গ) স্লাইড ক্যালিপার্স</div>",
+            "option4": "<div>(ঘ) স্ক্রু গজ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>89. যেকোনো দূরত্বের বস্তু দেখার জন্য চোখের লেন্সের ফোকাস দূরত্ব নিয়ন্ত্রণকরে বিম্ব উপযোজন পদ্ধতির ব্যাখ্যা দেন কে?</div>",
+            "option1": "<div>(ক) স্নেল</div>",
+            "option2": "<div>(খ) টমাস ইয়াং</div>",
+            "option3": "<div>(গ) আইজ্যাক নিউটন</div>",
+            "option4": "<div>(ঘ) হাইপেন</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>90. বৈদ্যুতিক ডায়নামো আবিষ্কার করেন কোন বিজ্ঞানী?</div>",
+            "option1": "<div>(ক) টমাস ইয়াং</div>",
+            "option2": "<div>(খ) ম্যাক্সওয়েল</div>",
+            "option3": "<div>(গ) মাইকেল ফ্যারাডে</div>",
+            "option4": "<div>(ঘ) ম্যাক্স প্লাঙ্ক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>91. পরমাণুর কেন্দ্রস্থলে নিউক্লিয়াসের অস্তিত্ব ও এর ধনাত্মক প্রকৃতিআবিষ্কার করেন কোন বিজ্ঞানী?</div>",
+            "option1": "<div>(ক) ফ্যারাডে</div>",
+            "option2": "<div>(খ) ম্যাক্সওয়েল</div>",
+            "option3": "<div>(গ) রাদারফোর্ড</div>",
+            "option4": "<div>(ঘ) প্লাঙ্ক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>92. আধুনিক বৈজ্ঞানিক পদ্ধতির সূচনা ঘটে কোন বিজ্ঞানীর হাতে?</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) রজার বেকন</div>",
+            "option3": "<div>(গ) আইনস্টাইন</div>",
+            "option4": "<div>(ঘ) গ্যালিলিও</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>93. ধাতুর ভেজাল নির্ণয়ের কৌশল আবিষ্কার করেন কে?</div>",
+            "option1": "<div>(ক) থেলিস</div>",
+            "option2": "<div>(খ)অ্যারিস্টার্কাস</div>",
+            "option3": "<div>(গ) গ্যালিলিও</div>",
+            "option4": "<div>(ঘ) আর্কিমিডিস</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>94. আর্কিমিডিস কীসের সাহায্যে সূর্যর রশ্মি কেন্দ্রীভূত করে আগুন ধরাতেন?</div>",
+            "option1": "<div>(ক) সমতল দর্পণ</div>",
+            "option2": "<div>(খ) গোলীয় দর্পণ</div>",
+            "option3": "<div>(গ) স্বচ্ছ কাচ খণ্ড</div>",
+            "option4": "<div>(ঘ) দিয়াশলাই</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>95. সরণ, গতি, ত্বরণ, সময় ইত্যাদির মধ্যে সম্পর্ক স্থাপন করেন কে?</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) গ্যালিলিও</div>",
+            "option3": "<div>(গ) পিথাগোরাস</div>",
+            "option4": "<div>(ঘ) মহাবীর</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>96. গাণিতিক তত্ত্ব নির্মাণ ও পরীক্ষার মাধ্যমে তত্ত্বের সত্যতা যাচাই এবৈজ্ঞানিক ধারার সূচনাকারী কে?</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) গ্যালিলিও</div>",
+            "option3": "<div>(গ) জেমস ওয়াট</div>",
+            "option4": "<div>(ঘ) রজার বেকন</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>97. আলবার্ট আইনস্টাইন কোনটি আবিষ্কারের জন্য পৃথিবী বিখ্যাত?</div>",
+            "option1": "<div>(ক) কোয়ান্টাম তত্ত্ব</div>",
+            "option2": "<div>(খ) আপেক্ষিক তত্ত্ব</div>",
+            "option3": "<div>(গ) নিউক্লিয় তত্ত্ব</div>",
+            "option4": "<div>(ঘ) কণাতত্ত্ব</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>98. পর্যবেক্ষণ ও পরীক্ষণের মাধ্যমে সরল দোলকের সূত্রাবলি প্রতিষ্ঠা করেন কোনবিজ্ঞানী?</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) আর্কিমিডিস</div>",
+            "option3": "<div>(গ) গ্যালিলিও</div>",
+            "option4": "<div>(ঘ) রজার বেকন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>99. আইনস্টাইনের ভর-শক্তি সমীকরণ কী?</div>",
+            "option1": "<div>(ক) U = mv${}^{3}$</div>",
+            "option2": "<div>(খ) E = $\\frac{1}{2}$ mv${}^{2}$</div>",
+            "option3": "<div>(গ) E = mc${}^{2}$</div>",
+            "option4": "<div>(ঘ) U = $\\frac{1}{2}$ mv${}^{2}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>100. আর্নেস্ট রাদারফোর্ড পরমাণু বিষয়ক যে তত্ত্ব প্রদান করে তার নাম কী?</div>",
+            "option1": "<div>(ক) রাদারফোর্ড তত্ত্ব</div>",
+            "option2": "<div>(খ) বোর তত্ত্ব</div>",
+            "option3": "<div>(গ) কোয়ান্টাম তত্ত্ব</div>",
+            "option4": "<div>(ঘ) নিউক্লিয় তত্ত্ব</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>101. পাঠ নেওয়ার সময় স্ক্রুকে একই দিকে ঘুরিয়ে যে যান্ত্রিক ত্রুটি পরিহার করাযেতে পারে-</div>",
+            "option1": "<div>(ক) শূন্য ত্রুটি</div>",
+            "option2": "<div>(খ) পিছট ত্রুটি</div>",
+            "option3": "<div>(গ) ধনাত্মক ত্রুটি</div>",
+            "option4": "<div>(ঘ) ঋণাত্মক ত্রুটি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>102. ভার্নিয়ারের শূন্য দাগ মূল স্কেলের শূন্য দাগের বাম পাশে থাকলে কোনত্রুটি হবে?</div>",
+            "option1": "<div>(ক) ধনাত্মক</div>",
+            "option2": "<div>(খ) ঋণাত্মক</div>",
+            "option3": "<div>(গ) নিরপেক্ষ</div>",
+            "option4": "<div>(ঘ) ক ও খ উভয় হতে পারে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>103. স্ক্রু গজের বৃত্তাকার স্কেলের শূন্য দাগ রৈখিক স্কেলের শূন্য দাগের নিচেথাকলে তাহলে যান্ত্রিক ত্রুটি হবে-</div>",
+            "option1": "<div>(ক) ধনাত্মক</div>",
+            "option2": "<div>(খ) ঋণাত্মক</div>",
+            "option3": "<div>(গ) নিরপেক্ষ</div>",
+            "option4": "<div>(ঘ) কোনটিই নয়</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>104. নিচের কোন দুটি যন্ত্রের পিছট ত্রুটি দেখা যায়?</div>",
+            "option1": "<div>(ক) স্লাইড ক্যালিপার্স ও স্ফেরোমিটার</div>",
+            "option2": "<div>(খ) স্ক্রু-গজ ও স্লাইড ক্যালিপার্স</div>",
+            "option3": "<div>(গ) স্ফেরোমিটার ও স্ক্রু-গজ</div>",
+            "option4": "<div>(ঘ) ভার্নিয়ার স্কেল ও মিটার স্কেল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>105. স্ফেরোমিটারে বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা 50। স্কেলটিকে এক পাকঘুরালে রৈখিক স্কেলে সরণ হয় 0.5mm। লঘিষ্ঠ গনন কত?</div>",
+            "option1": "<div>(ক) 0.01mm</div>",
+            "option2": "<div>(খ) 0.01cm</div>",
+            "option3": "<div>(গ) 0.25mm</div>",
+            "option4": "<div>(ঘ) 0.50mm</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>106. পদার্থবিজ্ঞানের যে আবিষ্কারটি চিকিৎসাবিজ্ঞানে ব্যবহৃত হচ্ছে-<br>i. এক্সরে<br>ii. মাইক্রোস্কোপ<br>iii. থার্মোমিটার<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>107. আধুনিক ধারণা মতে-<br>i. ভর পরম রাশি<br>ii. গতিশীল বস্তুর ভর বেড়ে যায়<br>iii. ভর স্থান নিরপেক্ষ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>108. পৃথিবীতে প্রাণের মূল উপাদান-<br>i. কার্বন<br>ii. অক্সিজেন<br>iii. হাইড্রোজেন<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>109. বলবিদ্যার নিয়মে ঘটে যে ধরনের খেলা-<br>i. লন টেনিস<br>ii. কানামাছি<br>iii. ক্রিকেট<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>110. বায়ুমন্ডল গঠনকারী উপাদান-<br>i. বালু<br>ii. জলীয় বাষ্প<br>iii. কার্বন ডাই অক্সাইড<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>111. পিথাগোরাস অবদান রেখেছেন-<br>i. কম্পমান তারের উপর<br>ii. জ্যামিতিক উপপাদ্য<br>iii. পরমাণুর গঠন<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>112. আরবরা পারদর্শী ছিলেন-<br>i. গণিত<br>ii. রসায়ন<br>iii. জ্যোতির্বিদ্যা<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>113. আলোক তত্ত্বের ক্ষেত্রে উল্লেখযোগ্য অবদান রাখেন-<br>i. আল-মাসুদী<br>ii. আল-হাজেন<br>iii. ইবনে আল হাইথাম<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>114. ভৌত জগতের উপাদান-<br>i. স্থান<br>ii. সময়<br>iii. ভর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>115. ভৌত জগৎ যা নিয়ে-<br>i. মাটি<br>ii. সোনা<br>iii. গাছপালা<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও ii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>116. থেলিস সম্পর্কে সঠিক উক্তি হলো-<br>i. থেলিস সূর্যগ্রহণ সম্পর্কিত ভবিষ্যদ্বাণী করেন<br>ii. কম্পমান তারের উপর থেলিসের কাজ স্থায়ী অবদান রেখেছিল<br>iii. থেলিস লোডস্টোনের চৌম্বক ধর্ম সম্পর্কে জানতেন<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>117. ডা. গিলবার্ট চিরস্মরণীয় হয়ে আছেন যে কাজের জন্য-<br>i. চুম্বক তত্ত্ব প্রদান<br>ii. আলোর প্রতিসরণের সূত্র প্রদান<br>iii. চুম্বকত্ব নিয়ে গবেষণা<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>118. লিওনার্দো দ্যা ভিঞ্চি-<br>i. দক্ষতার সাথে কিছু সাধারণ যন্ত্র উদ্ভাবন করেন<br>ii. চিত্রশিল্পী ছিলেন<br>iii. উড়োজাহাজ আবিষ্কার করেন<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>119. নিউক্লিয়াস ফিশনযোগ্য আবিষ্কারের সাথে সম্পর্ক আছে-<br>i. অটোহান<br>ii. 1938 সাল<br>iii. স্ট্রেসম্যান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>120. পদার্থবিজ্ঞানের প্রকৃত উদ্দেশ্য হচ্ছে-<br>i. প্রকৃতির রহস্য উদঘাটন করা<br>ii. প্রকৃতির নিয়মগুলো অনুধাবন করা<br>iii. প্রাকৃতিক ঘটনাগুলো ব্যাখ্যা করা<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>121. পরমাণুর নিউক্লিয়াস গঠিত হয়-<br>i. প্রোটন দ্বারা<br>ii. নিউট্রন দ্বারা<br>iii. ইলেকট্রন দ্বারা<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>122. ইলেকট্রন মাইক্রোস্কোপ বিপ্লব এনেছে-<br>i. বলবিদ্যায়<br>ii. বস্তুবিজ্ঞানে<br>iii. কোষ-জীভবিদ্যায়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>123. সৌরতত্বের ধারণা, বর্ণনা ও সত্যতা যাচাই এর সাথে জড়িত-<br>i. কোপারনিকাস<br>ii. কেপলার<br>iii. টাইকোব্রাহে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>124. নিউটন তার বিস্ময়কর প্রতিভার দ্বারা আবিষ্কার করেন-<br>i. বলবিদ্যার বিখ্যাত তিনটি সূত্র<br>ii. সৃতিবিদ্যা<br>iii. বিশ্বজনীন মহাকর্ষ সূত্র<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>125. পদার্থবিজ্ঞানের বস্তু ও শক্তির রূপান্তর সম্পর্ক উদঘাটন করে-<br>i. পর্যবেক্ষণের মাধ্যমে<br>ii. পরীক্ষণের মাধ্যমে<br>iii. বিশ্লেষণের মাধ্যমে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>126. বিজ্ঞানীদের নামের সাথে আবিষ্কারের মিল দেখা যায়-<br>i. রন্টজেন- এক্স-রে<br>ii. বেকেরেল<br>iii. ম্যাক্স প্লাঙ্ক কোয়ান্টাম তত্ত্ব<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>127. চৌম্বক ক্রিয়া তড়িৎ প্রবাহ উৎপাদন করে এ ঘটনা আবিষ্কার করেন-<br>i. মাইকেল ফ্যারাডে<br>ii. লেঞ্জ<br>iii. ওয়েরস্টেড<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>128. তাড়িৎচৌম্বক তরঙ্গের মাধ্যমে একস্থান থেকে অন্যস্থানে শক্তি প্রেরণেসক্ষম হন-<br>i. মার্কনী<br>ii. ক্লার্ক ম্যাক্সওয়েল<br>iii. জগদীশ চন্দ্র বসু<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>129. নিউটনীয় স্থান কালের ধারণায় মহাবিশ্ব গঠিত-<br>i. ত্রিমাত্রিক স্থান<br>ii. দ্বিমাত্রিক সময়<br>iii. একমাত্রিক সময়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>130. আর্কিমিডিসের আবিষ্কৃত সূত্রগুলোর মধ্যে রয়েছে-<br>i. লিভারের নীতি<br>ii. প্লবতা<br>iii. পড়ন্ত বস্তুর সূত্র<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i</div>",
+            "option2": "<div>(খ)ii</div>",
+            "option3": "<div>(গ)i ও ii</div>",
+            "option4": "<div>(ঘ)i ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>131. ভার্নিয়ার স্কেল-<br>i. সেন্টিমিটারের ভগ্নাংশ মাপতে ব্যবহৃত হয়<br>ii. পিয়েরে ভার্নিয়ার আবিষ্কার করেন<br>iii. মিটার স্কেলের সাথে ব্যবহার করে মিলিমিটারের ভগ্নাংশ সঠিকভাবে নির্ণয় করাহয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>132. স্ক্রু-গজ ব্যবহার করা হয়-<br>i. তারের ব্যাসার্ধ নির্ণয়ে<br>ii. দণ্ডের দৈর্ঘ্য নির্ণয়ে<br>iii. সরু চোঙের ব্যাসার্ধ নির্ণয়ে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)ii ও iii</div>",
+            "option3": "<div>(গ)i ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>133. তুলাযন্ত্র ব্যবহার করা হয়-<br>i. পদার্থবিজ্ঞানে<br>ii. জ্যোতির্বিজ্ঞানে<br>iii. রসায়নে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>134. স্লাইড ক্যালিপার্স এর দ্বারা মাপজোখের ক্ষেত্রে নিচের বিষয়গুলো লক্ষ কর:<br>i. সিলিন্ডার বা চোঙ বা বেলনের আয়তন নির্ণয়ে<br>ii. ফাঁপা নলের অন্ত:ব্যাস ও বহির্ব্যাস নির্ণয়ে<br>iii. বস্তুর ভর নির্ণয়ে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i</div>",
+            "option2": "<div>(খ)ii</div>",
+            "option3": "<div>(গ)i ও ii</div>",
+            "option4": "<div>(ঘ)ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>135. মৌলিক রাশির অন্তর্ভূক্ত হলো-<br>i. দৈর্ঘ্য, ভর, পদার্থের পরিমাণ<br>ii. সময়, তাপমাত্রা<br>iii. তড়িৎ প্রবাহ, দীপন ক্ষমতা<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>136. বৃত্তাকার প্রস্থচ্ছেদ বিশিষ্ট তারের প্রস্থচ্ছেদের ক্ষেত্রফল A সমান-<br>i. $\\frac{1}{2}\\pi \\ d^2$<br>ii. $\\frac{1}{4}\\pi \\ d^2$<br>iii. $\\pi \\ d^2$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i</div>",
+            "option2": "<div>(খ)i ও ii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div> নিচের চিত্র থেকে 137-138 নং প্রশ্নের উত্তর দাও:<br>137.চিত্রটির আয়তন-</div>",
+            "option1": "<div>(ক)$\\frac{1}{3}\\pi \\ r^2$</div>",
+            "option2": "<div>(খ)$\\frac{4}{3}\\pi \\ r^3$</div>",
+            "option3": "<div>(গ)$\\frac{3}{4}\\pi \\ r^3$</div>",
+            "option4": "<div>(ঘ)$\\pi \\ r^3$</div>",
+            "mcqAnswer": "b",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Mcq/137.webp"
+        },
+        {
+            "mcqQuestion": "<div>138. ক ও খ চিত্রের আয়তনের অনুপাত-</div>",
+            "option1": "<div>(ক) 1:0.673</div>",
+            "option2": "<div>(খ) 1:0.0673</div>",
+            "option3": "<div>(গ) 1:0.763</div>",
+            "option4": "<div>(ঘ) 1:0.637</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>একটি দণ্ডের B প্রাপ্ত প্রধান স্কেলের 8 মি.মি. দাগ অতিক্রম করেছে এবংভার্নিয়ারের 3 নম্বর দাগটি প্রধান স্কেলের একটি দাগের সাথে মিলেছে। ভার্নিয়ারস্কেলের 20 ভাগ প্রধান স্কেলের 19 ভাগের সমান।<br> উপরের বর্ণণা হতে নিচের 139-141 নং প্রশ্নের উত্তর দাও:<br>139. ভার্নিয়ারে কোনো দাগ প্রধান স্কেলের কোনো দাগের সাথে মিললে তাকে বলা হয়-</div>",
+            "option1": "<div>(ক) ভার্নিয়ার ধ্রুবক</div>",
+            "option2": "<div>(খ) ভার্নিয়ার সমপাতন</div>",
+            "option3": "<div>(গ) পিচ</div>",
+            "option4": "<div>(ঘ) লঘিষ্ঠ গনন</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>140. দণ্ডের দৈর্ঘ্য কত হবে?</div>",
+            "option1": "<div>(ক) 8.15 মি.মি.</div>",
+            "option2": "<div>(খ) 8.03 মি.মি.</div>",
+            "option3": "<div>(গ) 8.015 মি.মি.</div>",
+            "option4": "<div>(ঘ) 8.3 মি.মি.</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>141. উদ্দীপকের সাথে সম্পর্কিত বাক্য হলো-<br>i. ভার্নিয়ারের সমপাতন 3<br>ii. ভার্নিয়ার ধ্রুবক 0.05<br>iii. দণ্ডটির দৈর্ঘ্য স্লাইড ক্যালিপার্সের সাহায্যে মাপা হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i ও ii</div>",
+            "option2": "<div>(খ)i ও iii</div>",
+            "option3": "<div>(গ)ii ও iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div> নিচের চিত্র থেকে 142 ও 143 নং প্রশ্নের উত্তর দাও:<br>142. ACBDA ও AB এর অনুপাত হচ্ছে-</div>",
+            "option1": "<div>(ক) $\\propto $</div>",
+            "option2": "<div>(খ) $\\beta $</div>",
+            "option3": "<div>(গ) $\\gamma $</div>",
+            "option4": "<div>(ঘ) $\\pi $</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>143. অনুপাতটির অপেক্ষাকৃত সঠিক মান কোনটি?</div>",
+            "option1": "<div>(ক) 3.1416</div>",
+            "option2": "<div>(খ) 3.1614</div>",
+            "option3": "<div>(গ) 3.1621</div>",
+            "option4": "<div>(ঘ) 3.1718</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div> নিচের চিত্র ও তথ্য হতে 144-146নং প্রশ্নের উত্তর দাও:<br>চিত্রে একটি তুলা যন্ত্রের বিভিন্ন অংশ চিহ্নিত করে দেখানো হয়েছে।<br>144. বস্তুর ভর নির্ণয়ের জন্য বস্তুটিকে রাখা হয়-</div>",
+            "option1": "<div>(ক)বাম পাল্লায়</div>",
+            "option2": "<div>(খ) ডান পাল্লায়</div>",
+            "option3": "<div>(গ) A বিন্দুতে ঝুলিয়ে</div>",
+            "option4": "<div>(ঘ) B বিন্দুতে ঝুলিয়ে</div>",
+            "mcqAnswer": "a",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Mcq/144.webp"
+        },
+        {
+            "mcqQuestion": "<div>145. AB দণ্ডটির মধ্যস্থলে ত্রিকোণাকৃতির যে বস্তুটি থাকে সেটি কিসের তৈরি?</div>",
+            "option1": "<div>(ক) নিরেট দণ্ডের</div>",
+            "option2": "<div>(খ) অ্যাগেট প্লেটের</div>",
+            "option3": "<div>(গ) অ্যাগেট পাথরের</div>",
+            "option4": "<div>(ঘ) কাচের দণ্ডের</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>146. H চিহ্নিত অংশের কাজ-<br>i. পাল্লা উঠানামা করানো<br>ii. পাল্লার দোলন থামানো<br>iii. পাল্লা সুস্থিত করা<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক)i</div>",
+            "option2": "<div>(খ)ii</div>",
+            "option3": "<div>(গ)iii</div>",
+            "option4": "<div>(ঘ)i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>147. এক পারসেক কত আলোক বর্ষের সমান?</div>",
+            "option1": "<div>(ক) 3.26</div>",
+            "option2": "<div>(খ) 3.36</div>",
+            "option3": "<div>(গ) 3.46</div>",
+            "option4": "<div>(ঘ) 3.56</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>148. কোন দুটি ভৌতজগতের উপাদান?</div>",
+            "option1": "<div>(ক) সময় ও ত্বরণ</div>",
+            "option2": "<div>(খ) ভর ও স্থান</div>",
+            "option3": "<div>(গ) স্থান ও বেগ</div>",
+            "option4": "<div>(ঘ) ভর ও তাপমাত্রা</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>149. আলো সম্পর্কিত সর্বশেষ মতবাদ কোনটি?</div>",
+            "option1": "<div>(ক) কণাতত্ত্ব</div>",
+            "option2": "<div>(খ) তরঙ্গতত্ত্ব</div>",
+            "option3": "<div>(গ) কোয়ান্টামতত্ত্ব</div>",
+            "option4": "<div>(ঘ) তড়িৎ চৌম্বকীয় তত্ত্ব</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>150. জীবনযাপনের অনুকূল পরিবেশ বিধায় কোথায় জনশক্তি বেশি?</div>",
+            "option1": "<div>(ক) উত্তর গোলার্ধে</div>",
+            "option2": "<div>(খ) দক্ষিণ গোলার্ধে</div>",
+            "option3": "<div>(গ) উত্তর গোলার্ধ এবং বিষুবীয় অঞ্চল</div>",
+            "option4": "<div>(ঘ) দক্ষিণ গোলার্ধ এবং বিষুবীয় অঞ্চল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>151. নিচের কোনটি জীবাশ্ম জ্বালানি?</div>",
+            "option1": "<div>(ক) চুনাপাথর</div>",
+            "option2": "<div>(খ) কয়লা</div>",
+            "option3": "<div>(গ) নুড়ি পাথর</div>",
+            "option4": "<div>(ঘ) সোনা</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>152. নিকটবর্তী ছায়াপথ এন্ড্রোমিডা কত আলোকবর্ষ দূরে অবস্থিত?</div>",
+            "option1": "<div>(ক) 10 লক্ষ</div>",
+            "option2": "<div>(খ) 20 লক্ষ</div>",
+            "option3": "<div>(গ) 15 লক্ষ</div>",
+            "option4": "<div>(ঘ) 25 লক্ষ</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>153. ব্যাটারি আবিষ্কার করেন কে?</div>",
+            "option1": "<div>(ক) থমসন</div>",
+            "option2": "<div>(খ) গ্যালিলিও</div>",
+            "option3": "<div>(গ) ফ্যারাডে</div>",
+            "option4": "<div>(ঘ) ভোল্টা</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>154. পরমাণু বিষয়ক নিউক্লিয় তত্ত্ব কে প্রদান করেন?</div>",
+            "option1": "<div>(ক) রাদারফোর্ড</div>",
+            "option2": "<div>(খ) ম্যাক্স প্ল্যাংক</div>",
+            "option3": "<div>(গ) হাবল</div>",
+            "option4": "<div>(ঘ) নীলস বোর</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>155. আলোর দ্বৈত ধর্ম আবিষ্কার করেন-</div>",
+            "option1": "<div>(ক) আইনস্টাইন</div>",
+            "option2": "<div>(খ) প্ল্যাংক</div>",
+            "option3": "<div>(গ) থমাস ইয়ং</div>",
+            "option4": "<div>(ঘ) নিউটন</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>156. পরমাণুর প্রাথমিক ধারণা দেন কে?</div>",
+            "option1": "<div>(ক) পিথাগোরাস</div>",
+            "option2": "<div>(খ) ডেমোক্রিটাস</div>",
+            "option3": "<div>(গ) ইবনে সিনা</div>",
+            "option4": "<div>(ঘ) আল হাজেন</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>157. E.C.G আবিষ্কার করেন কে?</div>",
+            "option1": "<div>(ক) রঞ্জন</div>",
+            "option2": "<div>(খ) কাল্ট</div>",
+            "option3": "<div>(গ) ইনথোডেন</div>",
+            "option4": "<div>(ঘ) পিয়েরে কুরী</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>158. কোনো নির্দিষ্ট শর্তে সাধারণতভাবে সব সময় কী ঘটবে তার বর্ণনাকে কী বলে?</div>",
+            "option1": "<div>(ক) নীতি</div>",
+            "option2": "<div>(খ) সূত্র</div>",
+            "option3": "<div>(গ) প্রকল্প</div>",
+            "option4": "<div>(ঘ) অনুকল্প</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>159. কোন কিছু ব্যাখ্যার জন্য যে আনুষ্ঠানিক চিন্তাধারা তাকে বলে-</div>",
+            "option1": "<div>(ক) সূত্র</div>",
+            "option2": "<div>(খ) তত্ত্ব</div>",
+            "option3": "<div>(গ) অনুকল্প</div>",
+            "option4": "<div>(ঘ) স্বীকার্য</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>160. কোনো কিছু ব্যাখ্যার জন্য আনুষ্ঠানিক চিন্তাধারাকে কী বলে?</div>",
+            "option1": "<div>(ক) স্বীকার্য</div>",
+            "option2": "<div>(খ) তত্ত্ব</div>",
+            "option3": "<div>(গ) অনুকম্প</div>",
+            "option4": "<div>(ঘ) সূত্র</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>161. ``তরলে নিমজ্জিত কোনো বস্তুর আয়তন তার দ্বারা অপসারিত তরলের আয়তনেরসমান।''- ইহা কী?</div>",
+            "option1": "<div>(ক) সূত্র</div>",
+            "option2": "<div>(খ) তত্ত্ব</div>",
+            "option3": "<div>(গ) নীতি</div>",
+            "option4": "<div>(ঘ) অনুকল্প</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>162. পরীক্ষার মাধ্যমে কোন ঘটনা বারবার যাচাই করা হলে যদি একই ধরণের ফলাফলপাওয়া যায় তাহলে তাকে কী বলে?</div>",
+            "option1": "<div>(ক) তত্ত্ব</div>",
+            "option2": "<div>(খ) সূত্র</div>",
+            "option3": "<div>(গ) স্বীকার্য</div>",
+            "option4": "<div>(ঘ) অনুকল্প</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>163. যুক্তির খাতিরে দর্শন ও অনুমানমূলক সত্য বা সিদ্ধ প্রস্তাবকে বলা হয়-</div>",
+            "option1": "<div>(ক) সূত্র</div>",
+            "option2": "<div>(খ) স্বীকার্য</div>",
+            "option3": "<div>(গ) নীতি</div>",
+            "option4": "<div>(ঘ) অনুকল্প</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>164. কোনো সমস্যার আনুমানিক সমাধান হলো-</div>",
+            "option1": "<div>(ক) ধারণা</div>",
+            "option2": "<div>(খ) অনুকল্প</div>",
+            "option3": "<div>(গ) তত্ত্ব</div>",
+            "option4": "<div>(ঘ) সূত্র</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>165. কোন কিছু সম্পর্কে সার্বিক উপলব্ধি বা বোধগম্যতাকে কী বলে?</div>",
+            "option1": "<div>(ক) ধারণা</div>",
+            "option2": "<div>(খ) নীতি</div>",
+            "option3": "<div>(গ) সূত্র</div>",
+            "option4": "<div>(ঘ) তত্ত্ব</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>166. অনুমিতির মাধ্যমে যৌক্তিক ব্যাখ্যা বেরিয়ে আসে, তাকে কী বলে?</div>",
+            "option1": "<div>(ক) অনুকল্প</div>",
+            "option2": "<div>(খ) সূত্র</div>",
+            "option3": "<div>(গ) তত্ত্ব</div>",
+            "option4": "<div>(ঘ) নীতি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>167. যেসব সূত্র পদার্থবিজ্ঞানের ভিত্তি তাকে বলে-</div>",
+            "option1": "<div>(ক) সূত্র</div>",
+            "option2": "<div>(খ) ধারণা</div>",
+            "option3": "<div>(গ) নীতি</div>",
+            "option4": "<div>(ঘ) স্বীকার্য</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>168. খাদ্য সংরক্ষণে ব্যবহৃত হয় নিচের কোনটি?</div>",
+            "option1": "<div>(ক) গামা বিকিরণ</div>",
+            "option2": "<div>(খ) আলফা বিকিরণ</div>",
+            "option3": "<div>(গ) কীটনাশক</div>",
+            "option4": "<div>(ঘ) ক্লোরিন</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>169. বিদ্যুৎ উৎপাদনে বর্তমানে বিশ্বে কোন শক্তিকে ব্যবহার করা হয়েছে?</div>",
+            "option1": "<div>(ক) আলোক শক্তি</div>",
+            "option2": "<div>(খ) শব্দ শক্তি</div>",
+            "option3": "<div>(গ) রাসায়নিক শক্তি</div>",
+            "option4": "<div>(ঘ) নিউক্লিও শক্তি</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>170. নিচের কোনটি পদার্থবিজ্ঞানের সাথে ওতপ্রোতভাবে জড়িত?</div>",
+            "option1": "<div>(ক) খেলাধুলা</div>",
+            "option2": "<div>(খ) গণিত</div>",
+            "option3": "<div>(গ) দর্শন</div>",
+            "option4": "<div>(ঘ) সাহিত্য</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>171. পদার্থবিজ্ঞানের সাথে জড়িত কোনটি?</div>",
+            "option1": "<div>(ক) রেচন</div>",
+            "option2": "<div>(খ) বল</div>",
+            "option3": "<div>(গ) সালোকসংশ্লেষণ</div>",
+            "option4": "<div>(ঘ) কোষ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>172. সবল নিউক্লিয় বল উৎপন্ন হয় কোন কণার দ্বারা?</div>",
+            "option1": "<div>(ক) প্রিয়ন</div>",
+            "option2": "<div>(খ) জেড</div>",
+            "option3": "<div>(গ) গ্রাভিটন</div>",
+            "option4": "<div>(ঘ) গ্লূয়ন (মেসন)</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>173. স্থানের জ্যামিতিক ধারণা প্রথম উপস্থাপন করেন-</div>",
+            "option1": "<div>(ক) থেলিস</div>",
+            "option2": "<div>(খ) টলেমি</div>",
+            "option3": "<div>(গ) গ্যালিলিও</div>",
+            "option4": "<div>(ঘ) ইউক্লিড</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>174. নিউটনিয়ান বলবিদ্যা অনুসারে স্থান, কাল ও ভর কিরূপ?</div>",
+            "option1": "<div>(ক) অসীম</div>",
+            "option2": "<div>(খ) পরম</div>",
+            "option3": "<div>(গ) আপেক্ষিক</div>",
+            "option4": "<div>(ঘ) অস্তিত্বহীন</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>175. আপেক্ষিকতার তত্ত্ব প্রদান করেন-</div>",
+            "option1": "<div>(ক) আর্কিমিডিস</div>",
+            "option2": "<div>(খ) মাইকেল ফ্যারাডে</div>",
+            "option3": "<div>(গ) আইনস্টাইন</div>",
+            "option4": "<div>(ঘ) টমাস ইয়ং</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>176. ``ভর ও শক্তি সমতুল্য''- কোন বিজ্ঞানীর অভিমত?</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) গ্যালিলিও</div>",
+            "option3": "<div>(গ) আইনস্টাইন</div>",
+            "option4": "<div>(ঘ) ফ্যারাডে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>177. নিউটনের গতিসূত্র নিচের কোন বিষয়ের অন্তর্ভূক্ত?</div>",
+            "option1": "<div>(ক) কোয়ান্টাম তত্ত্ব</div>",
+            "option2": "<div>(খ) তরঙ্গ তত্ত্ব</div>",
+            "option3": "<div>(গ) চিরায়ত তত্ত্ব</div>",
+            "option4": "<div>(ঘ) তড়িচ্চুম্বকীয় তত্ত্ব</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>178. ক্ষুদ্রশক্তি গুচ্ছের নামকরণ `কোয়ান্টাম' করেন কোন বিজ্ঞানী?</div>",
+            "option1": "<div>(ক) রাদারফোর্ড</div>",
+            "option2": "<div>(খ) প্ল্যাংক</div>",
+            "option3": "<div>(গ) আইনস্টাইন</div>",
+            "option4": "<div>(ঘ) ম্যাক্সওয়েল</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>179. এর পারসেক কত আলোক বর্ষের সমান?</div>",
+            "option1": "<div>(ক) 3.26</div>",
+            "option2": "<div>(খ) 3.36</div>",
+            "option3": "<div>(গ) 3.46</div>",
+            "option4": "<div>(ঘ) 3.56</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>180. নিচের কোনটি লব্ধ একক?</div>",
+            "option1": "<div>(ক) ওহম</div>",
+            "option2": "<div>(খ) কেলভিন</div>",
+            "option3": "<div>(গ) ক্যান্ডেলা</div>",
+            "option4": "<div>(ঘ) অ্যাম্পিয়ার</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>181. বায়ুশূন্য স্থানে আলো এক মিটার দূরত্ব অতিক্রম করতে সময় লাগে-</div>",
+            "option1": "<div>(ক) 10${}^{-6}$s</div>",
+            "option2": "<div>(খ) 3$\\mathrm{\\times}$10${}^{-8}$s</div>",
+            "option3": "<div>(গ) $\\frac{1}{299792458}s$</div>",
+            "option4": "<div>(ঘ)$\\frac{1}{299342791}s$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>182. 1 rad = কত ডিগ্রি?</div>",
+            "option1": "<div>(ক) 58.2${}^{0}$ (প্রায়)</div>",
+            "option2": "<div>(খ)59.1${}^{0}$ (প্রায়)</div>",
+            "option3": "<div>(গ)56.5${}^{0}$ (প্রায়)</div>",
+            "option4": "<div>(ঘ)57.3${}^{0}$ (প্রায়)</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>183. সময়ের একক নির্ধারণ করে কোনটি?</div>",
+            "option1": "<div>(ক) সিজিয়াম- 133</div>",
+            "option2": "<div>(খ) সিজিয়াম- 65</div>",
+            "option3": "<div>(গ) পটাসিয়াম- 153</div>",
+            "option4": "<div>(ঘ) পটাসিয়াম- 15</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>184. সৌর দিবসের $\\frac{1}{86,400}$ অংশকে কী বলা হয়?</div>",
+            "option1": "<div>(ক) 1 দিন</div>",
+            "option2": "<div>(খ) 1 ঘন্টা</div>",
+            "option3": "<div>(গ) 1 মিনিট</div>",
+            "option4": "<div>(ঘ) 1 সেকেন্ড</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>185. নিম্নে লব্ধ রাশি কোনটি?</div>",
+            "option1": "<div>(ক) তড়িৎ প্রবাহ</div>",
+            "option2": "<div>(খ) তাপগতীয় তাপমাত্রা</div>",
+            "option3": "<div>(গ) তড়িৎ চার্জ</div>",
+            "option4": "<div>(ঘ) পদার্থের পরিমাণ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>186. কার সৌরতত্ত্বের ব্যাখ্যার মাধ্যমে ভৌত বিজ্ঞান বিজ্ঞান হিসেবে চিহ্নিতহয়?</div>",
+            "option1": "<div>(ক) আইনস্টাইন</div>",
+            "option2": "<div>(খ) নিউটন</div>",
+            "option3": "<div>(গ) গ্যালিলিও</div>",
+            "option4": "<div>(ঘ) কেপলার</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>187. ``বিশ্বজগতে পরম স্থির বলতে কিছুই নেই।''- উক্তিটি কার?</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) আইনস্টাইন</div>",
+            "option3": "<div>(গ) অ্যারিস্টটল</div>",
+            "option4": "<div>(ঘ) আর্কিমিডিস</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>188. `পর্যবেক্ষণ ও পরীক্ষার মাধ্যমেই বিজ্ঞানের সব সত্য যাচাই করা উচিত।'-মতবাদটি কোন বিজ্ঞানীর?</div>",
+            "option1": "<div>(ক) থেলিস</div>",
+            "option2": "<div>(খ) রজার বেকন</div>",
+            "option3": "<div>(গ) গ্যালিলিও</div>",
+            "option4": "<div>(ঘ) নিউটন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>189. কোয়ান্টাম তত্ত্বের জনক কে?</div>",
+            "option1": "<div>(ক) আইনস্টাইন</div>",
+            "option2": "<div>(খ) নীলস বোর</div>",
+            "option3": "<div>(গ) ম্যাক্স প্লাংক</div>",
+            "option4": "<div>(ঘ) রাদারফোর্ড</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>190. পরমাণুর নিউক্লিয়াস কে আবিষ্কার করেন?</div>",
+            "option1": "<div>(ক) বোর</div>",
+            "option2": "<div>(খ) রাদারফোর্ড</div>",
+            "option3": "<div>(গ) থমসন</div>",
+            "option4": "<div>(ঘ) ম্যাকওয়েল</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>191. সর্বপ্রথম শব্দের বেগ নির্ণয় করেন কে?</div>",
+            "option1": "<div>(ক) আইনস্টাইন</div>",
+            "option2": "<div>(খ) ম্যাক্স প্লাংক</div>",
+            "option3": "<div>(গ) গ্যালিলিও</div>",
+            "option4": "<div>(ঘ) আইজ্যাক নিউটন</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>192. আলোর তরঙ্গ ধর্ম প্রমাণ করেন বিজ্ঞানী-</div>",
+            "option1": "<div>(ক) থমাস ইয়ং</div>",
+            "option2": "<div>(খ) মাইকেল ফ্যারাডে</div>",
+            "option3": "<div>(গ) ম্যাক্স প্লাংক</div>",
+            "option4": "<div>(ঘ) আর্নেট রাদারফোর্ড</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>193. একটি থার্মোমিটারে ফুটন্ত পানির তাপমাত্রা 101${}^{0}$C দেখায়। এটি কোনপ্রকারের ত্রুটি?</div>",
+            "option1": "<div>(ক) শূন্যত্রুটি</div>",
+            "option2": "<div>(খ) প্রান্তদাগ ত্রুটি</div>",
+            "option3": "<div>(গ) লেভেল ত্রুটি</div>",
+            "option4": "<div>(ঘ) ব্যক্তিগত ত্রুটি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>194. পুনরাবৃত্তিক ত্রুটি কোনটি?</div>",
+            "option1": "<div>(ক) স্ক্রু-গজের শূন্য ত্রুটি</div>",
+            "option2": "<div>(খ) দৃষ্টিভ্রম ত্রুটি</div>",
+            "option3": "<div>(গ) অনিয়মিত ত্রুটি</div>",
+            "option4": "<div>(ঘ) সামগ্রিক ত্রুটি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>195. কোন গোলকের ব্যাসার্ধ নির্ণয়ে 0.3% ত্রুটি হয়। ঐ গোলকের ক্ষেত্রফলনির্ণয়ে সর্বোচ্চ শতকরা কত ত্রুটি হতে পারে?</div>",
+            "option1": "<div>(ক) 0.9%</div>",
+            "option2": "<div>(খ) 0.6%</div>",
+            "option3": "<div>(গ) 0.09%</div>",
+            "option4": "<div>(ঘ) 0.06%</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>196. নিচের কোন দুটি যন্ত্রে পিছট ত্রুটি দেখা যায়?</div>",
+            "option1": "<div>(ক) স্লাইড ক্যালিপার্স ও স্ফেরোমিটার</div>",
+            "option2": "<div>(খ) স্ক্রু-গজ ও স্লাইড ক্যালিপার্স</div>",
+            "option3": "<div>(গ) স্ক্রু-গজ ও স্ফেরোমিটার</div>",
+            "option4": "<div>(ঘ) ভার্নিয়ার স্কেল ও স্ফেরোমিটার</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>197. যদি y = x${}^{3}$ হয় তবে y-এর আপেক্ষিক ত্রুটি কত?</div>",
+            "option1": "<div>(ক) $\\frac{\\Delta x}{x}$</div>",
+            "option2": "<div>(খ) ($\\Delta $x)${}^{3}$</div>",
+            "option3": "<div>(গ) $\\frac{{(\\Delta x)}^3}{x}$</div>",
+            "option4": "<div>(ঘ) $\\frac{3\\Delta x}{x}$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>198. কোন একটি দন্ডের পরিমাপকৃত দৈর্ঘ্য 10cm এবং প্রকৃত মান 10.40cm হলেপরিমাপের শতকরা ত্রুটি কত?</div>",
+            "option1": "<div>(ক)4%</div>",
+            "option2": "<div>(খ) 3.84%</div>",
+            "option3": "<div>(গ) 0.398%</div>",
+            "option4": "<div>(ঘ) 0.04%</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>199. একটি গোলকের ব্যাসার্ধ (7.5 $\\pm $ 0.3) cm। গোলকের আয়তন নির্ণয়ে শতকরাত্রুটি কত?</div>",
+            "option1": "<div>(ক) 4%</div>",
+            "option2": "<div>(খ) 6%</div>",
+            "option3": "<div>(গ) 12%</div>",
+            "option4": "<div>(ঘ) 24%</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>200. 1cm দৈর্ঘ্য পরিমাপে ভুলের পরিমাণ 2mm হলে ভুলের শতকরা হার কত?</div>",
+            "option1": "<div>(ক) 10%</div>",
+            "option2": "<div>(খ) 15%</div>",
+            "option3": "<div>(গ) 20%</div>",
+            "option4": "<div>(ঘ) 25%</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>201. একটি গোলকের পরিমাপ্য ব্যাসার্ধ R = 5.3 $\\pm $ 0.1 হলে আয়তনে শতকরাত্রুটি কত হবে?</div>",
+            "option1": "<div>(ক) 2.5%</div>",
+            "option2": "<div>(খ) 5.7%</div>",
+            "option3": "<div>(গ) 8.2%</div>",
+            "option4": "<div>(ঘ) 10%</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>202. পদার্থ বিজ্ঞান ল্যাবরেটরিতে তুমি সরল দোলকের সাহায্যে g এর মান নির্ণয়করে পেয়েছ 9.89ms${}^{-2}$g এর প্রকৃত মান 9.81ms${}^{-2}$ ধরে তোমার প্রাপ্তমানের শতকরা ত্রুটি নির্ণয় কর।</div>",
+            "option1": "<div>(ক) 1.008%</div>",
+            "option2": "<div>(খ) 0.991%</div>",
+            "option3": "<div>(গ) 0.08%</div>",
+            "option4": "<div>(ঘ) 0.815%</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>203. একটি গোলকের পরিমাপ্য ব্যাসার্ধ, R = 10 $\\pm $ .1 হলে এর আয়তনের শতকরাত্রুটি কত হবে?</div>",
+            "option1": "<div>(ক) 1%</div>",
+            "option2": "<div>(খ) 2%</div>",
+            "option3": "<div>(গ) 3%</div>",
+            "option4": "<div>(ঘ) 10%</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>204. A ও B দুইটি রাশির মাত্রা ভিন্ন হলে, নিচের কোন সম্পর্কটি গাণিতিকভাবেগ্রহণযোগ্য হবে?</div>",
+            "option1": "<div>(ক) $\\frac{A}{B}$</div>",
+            "option2": "<div>(খ) A + B</div>",
+            "option3": "<div>(গ) A - B</div>",
+            "option4": "<div>(ঘ) A = B</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>205. একটি রাশির প্রকৃত মান x এবং পরিমাপ মান y হলে ত্রুটির শতকরা হার কত হবে?</div>",
+            "option1": "<div>(ক) $\\frac{x-y}{x}\\times 100%$</div>",
+            "option2": "<div>(খ)$\\frac{x+y}{x}\\times 100%$</div>",
+            "option3": "<div>(গ)$\\frac{x\\approx y}{x}\\times 100%$</div>",
+            "option4": "<div>(ঘ)$\\frac{x\\approx y}{x}\\times 100%$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>206. স্ক্রু-গজের পীচ = 10${}^{-3}$ cm এবং বৃত্তাকার স্কেলের ঘর সংখ্যা 100,LC কোনটি?</div>",
+            "option1": "<div>(ক)10${}^{-4}$m</div>",
+            "option2": "<div>(খ) 10${}^{-3}$cm${}^{2}$</div>",
+            "option3": "<div>(গ) 10${}^{-5}$cm</div>",
+            "option4": "<div>(ঘ)10${}^{-7}$km</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>207. কোন রোগীর দেহের তাপমাত্রা 104${}^{0}$F হলে কেলভিন স্কেলে কত হবে?</div>",
+            "option1": "<div>(ক) 40K</div>",
+            "option2": "<div>(খ) 80K</div>",
+            "option3": "<div>(গ) 273K</div>",
+            "option4": "<div>(ঘ) 313K</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>208. একটি স্ফেরোমিটার দ্বারা একটি কাচ পাত্রের পুরুত্ব নির্ণয় করতে গিয়েরৈখিক পাঠ 2 মি.মি. সমপাতন পাঠ 25 এবং লঘিষ্ঠ গুনন 0.001mm পাওয়া গেল। তাহলেকাঁচের পুরুত্ব কত?</div>",
+            "option1": "<div>(ক) 2.205cm</div>",
+            "option2": "<div>(খ) 0.2025cm</div>",
+            "option3": "<div>(গ) 2.025cm</div>",
+            "option4": "<div>(ঘ) 20.25cm</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>209. 2mm প্রস্থচ্ছেদ বিশিষ্ট একটি তারের দৈর্ঘ্য 10m; তারটিকে 1kg ওজনের বলদ্বারা টানা হয়, এতে তারটির দৈর্ঘ্য 0.001% হয়। উদ্দীপকের তারের দৈর্ঘ্যকতটুকু বৃদ্ধি করতে হয়েছে?</div>",
+            "option1": "<div>(ক) 1$\\mathrm{\\times}$10${}^{-5}$m</div>",
+            "option2": "<div>(খ) 1$\\mathrm{\\times}$10${}^{-4}$m</div>",
+            "option3": "<div>(গ)1$\\mathrm{\\times}$10${}^{-3}$m</div>",
+            "option4": "<div>(ঘ) 1$\\mathrm{\\times}$10${}^{-2}$m</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>210. পিছট ত্রুটি ঘটে-<br>i. নাট স্ক্রু ভিত্তিক যন্ত্রে<br>ii. বিক্ষেপ চৌম্বক মান যন্ত্রে<br>iii. স্ক্রু ক্ষয় হয়ে ঢিলা হয়ে গেলে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>211. আধুনিক ধারণামতে-<br>i. গতিশীল বস্তুর ভর পরিবর্তন হয়<br>ii. গতিশীল বস্তুর দৈর্ঘ্য বেড়ে যায়<br>iii. সময় আপেক্ষিক<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>212. মৌলিক একক হলো-<br>i. কিলোগ্রাম ও কেলভিন<br>ii. রেডিয়ান ও অ্যাম্পিয়ার<br>iii. ক্যান্ডেলা ও ভার<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>213. বিংশ শতাব্দীতে তাত্ত্বিক পদার্থবিজ্ঞানের বিকাশ লাভ করেছে-<br>i. কোয়ান্টাম তত্ত্ব<br>ii. বোর তত্ত্ব<br>iii. আপেক্ষিক তত্ত্ব<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>214. জ্যোতির্বিজ্ঞানের গবেষণায় আধুনিকতা এনে দিয়েছে-<br>i. মহাকর্ষ সূত্র<br>ii. বিগ ব্যাং তত্ত্ব<br>iii. আপেক্ষিকতাবাদ তত্ত্ব<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>215. মৌলিক একক হচ্ছে-<br>i. দৈর্ঘ্যের একক ও শক্তির একক<br>ii. দৈর্ঘ্যের একক ও ভরের একক<br>iii. সময়েরর একক ও ভরের একক<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>216. বিজ্ঞান হচ্ছে-<br>i. পরীক্ষা নিরীক্ষার মাধ্যমে অর্জিত জ্ঞান<br>ii. পর্যবেক্ষণ ও পদ্ধতিগতভাবে লব্ধ সুশৃঙ্খল ও সুসংবদ্ধ জ্ঞান<br>iii. জ্ঞান অর্জনের প্রক্রিয়া ও পদ্ধতি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>217. একটি কুন্ডলীতে তারের মধ্যে অতি দ্রুত একটি চুম্বক দন্ড প্রবেশ করালেতারের ভেতর দিয়ে বিদ্যুৎপ্রবাহ চলতে থাকে। এ ঘটনাটির আবিষ্কারক হলেন-<br>i. মাইকেল ফ্যারাডে<br>ii. জোসেফ হেনরী<br>iii. ওয়ানার ভোন সিমেন<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও iii</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) i</div>",
+            "option4": "<div>(ঘ)iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>218. স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক হলো-<br>i. স্ফেরোমিটার ক্ষুদ্রতম যে দৈর্ঘ্য সঠিকভাবে পরিমাপ করতে পারে<br>ii. বৃত্তাকার স্কেলের ক্ষুদ্রতম একভাগ ঘুরালে রৈখিক স্কেলের যতটুকু সরণ হয়<br>iii. স্ফেরোমিটারের পিচ ও বৃত্তাকার স্কেলের ভাগসংখ্যার অনুপাত<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>219. পদার্থবিজ্ঞান আমাদের-<br>i. কল্পনাকে উদ্দীপ্ত করে<br>ii. পর্যবেক্ষণ ক্ষমতা বৃদ্ধি করে<br>iii. চিন্তা শক্তির বিকাশ ঘটায়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i, ii ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>220. ভাস্করাচার্য-<br>i. $\\pi $ এর মান $\\frac{27}{7}$ দ্বারা প্রকাশ করেন<br>ii. ছিলেন সর্বশ্রেষ্ঠ পাকিস্তানি বিজ্ঞানী<br>iii. সর্বপ্রথম সঠিকভাবে পৃথিবীর ব্যাস বের করেন<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>শিক্ষক 8cm দৈর্ঘ্য এবং 4cm প্রস্থবিশিষ্ট কাঠের খন্ড ক্লাসে এনে ছাত্রদেরকেকাঠের খন্ডটির আয়তন নির্ণয় করতে বললেন। পরীক্ষা শেষে দেখা গেল কাঠের খন্ডটিরআয়তন 96cm${}^{3}$।<br>উপরের বর্ণনা হতে নিচের 221-222নং প্রশ্নের উত্তর দাও:<br>221. নিচের কোনটি ব্যবহার করে কাঠের খন্ডটির আয়তন নির্ণয় করা যায়?</div>",
+            "option1": "<div>(ক) স্টপওয়াচ</div>",
+            "option2": "<div>(খ) স্ক্রু-গজ</div>",
+            "option3": "<div>(গ) স্লাইড ক্যালিপার্স</div>",
+            "option4": "<div>(ঘ) তুলা যন্ত্র</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>222. কাঠের খন্ডের উচ্চতা কত?</div>",
+            "option1": "<div>(ক) 32cm</div>",
+            "option2": "<div>(খ) 12cm</div>",
+            "option3": "<div>(গ) 24cm</div>",
+            "option4": "<div>(ঘ) 3cm</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div> উদ্দীপকটি পড় এবং 223-225নং প্রশ্নের উত্তর দাও:<br>রাফি সেকেন্ড দোলকের একটিমাত্র দোলনের সময় নির্ণয় করতে ও কাফি 20টি দোলনের সময়নির্ণয় করতে 0.4s ত্রুটি করে।<br>223. কার ত্রুটির হার কম?</div>",
+            "option1": "<div>(ক) রাফির</div>",
+            "option2": "<div>(খ) কাফির</div>",
+            "option3": "<div>(গ) উভয়ের</div>",
+            "option4": "<div>(ঘ) কারও নয়</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>224. রাফির ত্রুটির হার কত?</div>",
+            "option1": "<div>(ক) 1%</div>",
+            "option2": "<div>(খ) 2%</div>",
+            "option3": "<div>(গ) 10%</div>",
+            "option4": "<div>(ঘ) 20%</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>225. কাফির দোলকের দোলনকাল-<br>i.2.02 sec<br>ii. 2.4 sec<br>iii. 1.98 sec<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>কোনো বস্তুর ভর (100kg $\\boldsymbol{\\pm }$ 2%) এবং আয়তন(100m${}^{3}$ }$\\boldsymbol{\\pm }$ 3%){\\textbar}<br> উদ্দীপকের আলোকে 226-227নং প্রশ্নের উত্তর দাও:<br>226. ঐ বস্তুর ঘনত্বের শতকরা ত্রুটি কত?</div>",
+            "option1": "<div>(ক) 10</div>",
+            "option2": "<div>(খ) 5</div>",
+            "option3": "<div>(গ) 0.5</div>",
+            "option4": "<div>(ঘ) 0.1</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>227. ঐ বস্তুর ঘনত্বের পরম ত্রটির সঠিক মান কোনটি?</div>",
+            "option1": "<div>(ক) 5kg m${}^{-3}$</div>",
+            "option2": "<div>(খ) 5gm${}^{-3}$</div>",
+            "option3": "<div>(গ) 0.5kg m${}^{-3}$</div>",
+            "option4": "<div>(ঘ) 0.5kg ft${}^{-3}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div> উদ্দীপকটি পড়ে 228-229নং প্রশ্নের উত্তর দাও:<br>বিজ্ঞানের যাত্রা শুরু হয় প্রাচীন এক জাতির দ্বারা। এ জাতি জন্ম দেয় কয়েকজনমহা বিজ্ঞানীর। যাদের হাত ধরে বিজ্ঞানের অন্যান্য শাস্ত্রের মতো ভৌত বিজ্ঞানবিকাশ লাভ করে। জোতির্বিজ্ঞান সম্বন্ধে তাদের জ্ঞান চর্চা ছিল অনেক সমৃদ্ধ।<br>228. উদ্দীপকে কোন জাতির কথা বলা হয়েছে?</div>",
+            "option1": "<div>(ক) রোমান</div>",
+            "option2": "<div>(খ) গ্রিক</div>",
+            "option3": "<div>(গ) ফরাসি</div>",
+            "option4": "<div>(ঘ) ডাচ্</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>229. উক্ত জাতির অবদান-<br>i. জ্যামিতির সাহায্যে পিরামিডের উচ্চতা পরিমাপ<br>ii. লিভারের কার্যনীতি ও উদস্থিতিবিদ্যার সূত্র আবিষ্কার<br>iii. পরমাণু সম্পর্কে ধারণা পোষণ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>230. আপেক্ষিক তত্ত্ব অনুসারে নিচের কোনটি ধ্রুব?</div>",
+            "option1": "<div>(ক) দৈর্ঘ্য</div>",
+            "option2": "<div>(খ) সময়</div>",
+            "option3": "<div>(গ) ভর</div>",
+            "option4": "<div>(ঘ) মহাকর্ষীয় ধ্রুবক</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>231. ব্রিটিশ ইঞ্জিনিয়ারিং পদ্ধতিতে মৌলিক রাশি বল, দৈর্ঘ্য এবং সময়কেযথাক্রমে F, L এবং T মাত্রা ধরা হয়, তাহলে ভরের মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) FL${}^{-1}$T${}^{-2}$</div>",
+            "option2": "<div>(খ) FL${}^{-1}$T${}^{-1}$</div>",
+            "option3": "<div>(গ) FLT${}^{-2}$</div>",
+            "option4": "<div>(ঘ) FL${}^{-1}$T${}^{2}$</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>232. মহাকর্ষীয় ধ্রুবক এর মান G = (6.673 $\\pm $ 0.003) $\\mathrm{\\times}$10${}^{-11}$ Nm${}^{2}$kg${}^{-2\\ }$অর্থাৎ-<br>i. G = 6.676 $\\mathrm{\\times}$ 10${}^{-11}$ Nm${}^{2}$ kg${}^{-2}$<br>ii. G = 6.673 $\\mathrm{\\times}$ 10${}^{-11}$ Nm${}^{2}$ kg${}^{-2}$<br>iii. G = 6.670 $\\mathrm{\\times}$ 10${}^{-11}$ Nm${}^{2}$ kg${}^{-2}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>233. ফোটনের ক্ষেত্রে নিম্নোক্ত সম্পর্কগুলো লক্ষ কর:<br>i. E - hf<br>ii. P = mv<br>iii. P = $\\frac{h}{\\pi }$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও iii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও ii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div> নিচের তথ্যের উপর ভিত্তি করে 234-235 নং প্রশ্নের উত্তর দাও:<br>পরীক্ষাগারে পরিমাপের জন্য যে সকল যন্ত্র ব্যবহার করা হয় সে সকল যন্ত্রেরত্রুটি থাকলে তাদের যান্ত্রিক ত্রুটি বলে। যেমন- শূন্য দাগ ত্রুটি, পিছটত্রুটি, লেভেল ত্রুটি ইত্যাদি।<br>234. পিছট ত্রুটি কোন যন্ত্রের জন্য প্রযোজ্য?</div>",
+            "option1": "<div>(ক) নিক্তি</div>",
+            "option2": "<div>(খ) ঘড়ি</div>",
+            "option3": "<div>(গ) স্লাইড ক্যালিপার্স</div>",
+            "option4": "<div>(ঘ) স্ফেরোমিটার</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>235. লেভেল ত্রুটি কোন যন্ত্রের জন্য প্রযোজ্য নয়?</div>",
+            "option1": "<div>(ক) নিক্তি</div>",
+            "option2": "<div>(খ) গ্যালভানোমিটার</div>",
+            "option3": "<div>(গ) অণুবীক্ষণ যন্ত্র</div>",
+            "option4": "<div>(ঘ) মিটার স্কেল</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>236. 1 ফেমটোমিটার = কত?</div>",
+            "option1": "<div>(ক) 10${}^{-15}$ মিটার</div>",
+            "option2": "<div>(খ) 10${}^{-12}$ মিটার</div>",
+            "option3": "<div>(গ) 10${}^{12}$ মিটার</div>",
+            "option4": "<div>(ঘ) 10${}^{15}$ মিটার</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>237. গ্রিক শব্দ `ফুসিস' অর্থ কী?</div>",
+            "option1": "<div>(ক) শক্তি</div>",
+            "option2": "<div>(খ) প্রকৃতি সম্পর্কিত জ্ঞান</div>",
+            "option3": "<div>(গ) অপ্রকৃত</div>",
+            "option4": "<div>(ঘ) প্রকৃত</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>238. `নেবুলা' শব্দের অর্থ কী?</div>",
+            "option1": "<div>(ক) জল</div>",
+            "option2": "<div>(খ) বাষ্প</div>",
+            "option3": "<div>(গ) মেঘ</div>",
+            "option4": "<div>(ঘ) বায়ু</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>239. পদার্থ বিজ্ঞানের ভিত্তি কী?</div>",
+            "option1": "<div>(ক) সূত্র</div>",
+            "option2": "<div>(খ) তত্ত্ব</div>",
+            "option3": "<div>(গ) নীতি</div>",
+            "option4": "<div>(ঘ) অনুকল্প</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>240. কোন কিছু সম্পর্কে সার্বিক উপলব্ধি বা বোধগম্যতাকে কী বলে?</div>",
+            "option1": "<div>(ক) ধারণা</div>",
+            "option2": "<div>(খ) অনুকল্প</div>",
+            "option3": "<div>(গ) নীতি</div>",
+            "option4": "<div>(ঘ) স্বীকার্য</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>241. 1 মাইক্রোন সমান কত মিটার?</div>",
+            "option1": "<div>(ক) 10${}^{-4}$m</div>",
+            "option2": "<div>(খ) 10${}^{-5}$m</div>",
+            "option3": "<div>(গ) 10${}^{-6}$m</div>",
+            "option4": "<div>(ঘ) 10${}^{-8}$m</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>242. একটি গোলকের পরিমাপ্য ব্যাসার্ধ R = 5.3 $\\pm $ 0.1 হলে আয়তনে শতকরাত্রুটি কত হবে?</div>",
+            "option1": "<div>(ক) 2.5%</div>",
+            "option2": "<div>(খ) 5.7%</div>",
+            "option3": "<div>(গ) 8.2%</div>",
+            "option4": "<div>(ঘ) 10%</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>243. পরিমাপের ত্রুটি হলো-</div>",
+            "option1": "<div>(ক) 2টি</div>",
+            "option2": "<div>(খ) 3টি</div>",
+            "option3": "<div>(গ) 4টি</div>",
+            "option4": "<div>(ঘ) 5টি</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>244. আলোকবর্ষ কীসের একক?</div>",
+            "option1": "<div>(ক) সময়</div>",
+            "option2": "<div>(খ) দূরত্ব</div>",
+            "option3": "<div>(গ) বেগ</div>",
+            "option4": "<div>(ঘ) শক্তি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>245. পদার্থ পরিমাপে এসআই একক কোনটি?</div>",
+            "option1": "<div>(ক) কিলোগ্রাম</div>",
+            "option2": "<div>(খ) দূরত্ব</div>",
+            "option3": "<div>(গ) বেগ</div>",
+            "option4": "<div>(ঘ) শক্তি</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>246. কোয়ান্টাম তত্ত্বের ধারণা কোন বিজ্ঞানী সম্প্রসারিত করেন?</div>",
+            "option1": "<div>(ক) আইজ্যাক নিউটন</div>",
+            "option2": "<div>(খ) ম্যাক্স প্ল্যাংক</div>",
+            "option3": "<div>(গ) আলবার্ট আইনস্টাইন</div>",
+            "option4": "<div>(ঘ) মাইকেল ফ্যারাডে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>247. লেভেল ত্রুটি কোন যন্ত্রের পরিমাপের জন্য প্রযোজ্য?</div>",
+            "option1": "<div>(ক) স্ক্রু-গজ</div>",
+            "option2": "<div>(খ) মিটার স্কেল</div>",
+            "option3": "<div>(গ) উদস্থিতি নিক্তি</div>",
+            "option4": "<div>(ঘ) স্ফেরোমিটার</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>248. স্বত:সিদ্ধ বা স্বীকার্য কী?</div>",
+            "option1": "<div>(ক) গাণিতিক যুক্তি</div>",
+            "option2": "<div>(খ) কোনো ধারণা বা তত্ত্ব</div>",
+            "option3": "<div>(গ) বৈজ্ঞানিক পরীক্ষায় প্রমাণিত</div>",
+            "option4": "<div>(ঘ) পরীণের সার সংক্ষেপ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>249. তত্ত্ব কী বিষয়ের উপর ভিত্তি করে গড়ে ওঠে?</div>",
+            "option1": "<div>(ক) নীতি</div>",
+            "option2": "<div>(খ) অনুকল্প</div>",
+            "option3": "<div>(গ) অনুমিতি</div>",
+            "option4": "<div>(ঘ) পদ্ধতি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>250. নিম্নলিখিত রাশিগুলোর মধ্যে কোনটি মৌলিক একক?<br>i. দৈর্ঘ্যের একক ও শক্তির একক<br>ii. দৈর্ঘ্যের ও ভরের একক<br>iii. সময়ের ও ভরের একক<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>251. নিচের কোনটি লব্ধ রাশি?</div>",
+            "option1": "<div>(ক) তাপমাত্রা</div>",
+            "option2": "<div>(খ) ভর</div>",
+            "option3": "<div>(গ) সময়</div>",
+            "option4": "<div>(ঘ) কম্পাঙ্ক</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>252. 1 মাইল ও 1 কিলোমিটার দূরত্বের পার্থক্য মিটারে কত হবে?</div>",
+            "option1": "<div>(ক) 0.609g</div>",
+            "option2": "<div>(খ) 6.09g</div>",
+            "option3": "<div>(গ) 60.9g</div>",
+            "option4": "<div>(ঘ) 609g</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>253. পরমাণুর সমস্ত ধন আধান এবং ভর এর কেন্দ্রে অবিস্থিত- এই তত্ত্ব কেউপস্থাপন করেন?</div>",
+            "option1": "<div>(ক)রাদারফোর্ড</div>",
+            "option2": "<div>(খ) গ্যালিলিও</div>",
+            "option3": "<div>(গ) আইনস্টাইন</div>",
+            "option4": "<div>(ঘ) ম্যাক্স প্ল্যাংক</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>254. তড়িৎ চুম্বকীয় তরঙ্গ তত্ত্ব আবিষ্কার করেন-</div>",
+            "option1": "<div>(ক) রাদারফোর্ড</div>",
+            "option2": "<div>(খ) নিউটন</div>",
+            "option3": "<div>(গ) মাইকেল ফ্যারাডে</div>",
+            "option4": "<div>(ঘ) আইনস্টাইন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>255. কোন বিজ্ঞানী ক্যালকুলাস আবিষ্কার করেন?</div>",
+            "option1": "<div>(ক) আইনস্টাইন</div>",
+            "option2": "<div>(খ) গ্যালিলিও</div>",
+            "option3": "<div>(গ) টমাস ইয়ং</div>",
+            "option4": "<div>(ঘ) নিউটন</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>256. `ভর ও শক্তি সমতুল্য'- কোন বিজ্ঞানীর অভিমত?</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) গ্যালিলিও</div>",
+            "option3": "<div>(গ) আইনস্টাইন</div>",
+            "option4": "<div>(ঘ) ফ্যারাড</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>257. কোনো বস্তু হতে শক্তির বিকিরণ নিরবচ্ছিন্নভাবে ঘটে না- এই তত্ত্বেরপ্রবক্তা কে?</div>",
+            "option1": "<div>(ক) লর্ড রাদারফোর্ড</div>",
+            "option2": "<div>(খ) আলবার্ট আইনস্টাইন</div>",
+            "option3": "<div>(গ) ম্যাক্স প্ল্যাংক</div>",
+            "option4": "<div>(ঘ) মাইকেল ফ্যারাডে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>258. নিম্নলিখিত কোন বিজ্ঞানী কোয়ান্টাম তত্ত্বের ধারণাকে সম্প্রসারিত করেন?</div>",
+            "option1": "<div>(ক) মাইকেল ফ্যারাডে</div>",
+            "option2": "<div>(খ) আলবার্ট আইনস্টাইন</div>",
+            "option3": "<div>(গ) ম্যাক্স প্ল্যাংক</div>",
+            "option4": "<div>(ঘ) নিউটন</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>259. আইনস্টাইনের আপেক্ষিকতা তত্ত্ব অনুসারে গতিশীল কাঠামোতে-<br>i. দৈর্ঘ্য কমে<br>ii. ভর বাড়ে<br>iii. সময় বাড়ে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>260. অনিয়মিত (random) ত্রুটি কী ধরণের ত্রুটি?</div>",
+            "option1": "<div>(ক) যান্ত্রিক ত্রুটি</div>",
+            "option2": "<div>(খ) ব্যক্তিগত ত্রুটি</div>",
+            "option3": "<div>(গ) ক ও খ উভয় ধরনের ত্রুটি</div>",
+            "option4": "<div>(ঘ) উপরের কোনোটিই নয়</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>261. পুনরাবৃত্তিক ত্রুটি কোনটি?</div>",
+            "option1": "<div>(ক) স্ক্রু গজের শূন্য ত্রুটি</div>",
+            "option2": "<div>(খ) দৃষ্টিভ্রম ত্রুটি</div>",
+            "option3": "<div>(গ) অনিয়মিত ত্রুটি</div>",
+            "option4": "<div>(ঘ) সামগ্রিক ত্রুটি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>262. একটি বক্রতলের ব্যাসার্ধ নির্ণয়ের জন্য ব্যবহার করা হয়-<br>i. স্ক্রু-গজ<br>ii. স্ফেরোমিটার<br>iii. স্লাইড ক্যালিপার্স<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>263. তারের প্রস্থচ্ছেদের ক্ষেত্রফল নির্ণয়ের সূত্র কোনটি?</div>",
+            "option1": "<div>(ক) $A=\\pi {\\left(\\frac{r}{2}\\right)}^2m^2$</div>",
+            "option2": "<div>(খ) $A=\\pi \\frac{r^2}{2}m^2$</div>",
+            "option3": "<div>(গ) $A=\\pi \\ {\\left(\\frac{d}{2}\\right)}^2m^2$</div>",
+            "option4": "<div>(ঘ) $A=\\ \\pi \\ \\frac{d^2}{2}m^2$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>264. গোলকের আয়তন নির্ণয়ের সূত্র হলো-</div>",
+            "option1": "<div>(ক) $\\frac{1}{6}\\pi r^2$</div>",
+            "option2": "<div>(খ) $\\frac{4}{3}\\pi d^3$</div>",
+            "option3": "<div>(গ) $\\frac{1}{6}\\pi d^3$</div>",
+            "option4": "<div>(ঘ)$\\frac{3}{4}\\pi r^3$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>265. কোয়ান্টাম তত্ত্বের জনক কে?</div>",
+            "option1": "<div>(ক) আইনস্টাইন</div>",
+            "option2": "<div>(খ) ম্যাক্সওয়েল</div>",
+            "option3": "<div>(গ) প্ল্যাংক</div>",
+            "option4": "<div>(ঘ) হাইসেনবার্গ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>266. y = A sin (cot - kx) সমীকরণটিতে $\\infty $ এর মাত্রা হলো-</div>",
+            "option1": "<div>(ক) M${}^{0}$LT</div>",
+            "option2": "<div>(খ) M${}^{0}$L${}^{0}$T${}^{-1}$</div>",
+            "option3": "<div>(গ) M${}^{0}$L${}^{-1}$</div>",
+            "option4": "<div>(ঘ) M${}^{0}$LT${}^{-1}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>267. পদার্থবিজ্ঞানের ভিত্তির সাধারণ সূত্রগুলোকে কী বলা হয়?</div>",
+            "option1": "<div>(ক) নীতি</div>",
+            "option2": "<div>(খ) ধারণা</div>",
+            "option3": "<div>(গ) অনুমিতি</div>",
+            "option4": "<div>(ঘ) স্বীকার্য</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>268. পর্যবেক্ষণ ও পরীক্ষার মাধ্যমেই বিজ্ঞানের সব সত্য যাচাই করা উচিত-মতবাদটি কোন বিজ্ঞানীর?</div>",
+            "option1": "<div>(ক) থেলিস</div>",
+            "option2": "<div>(খ) রজার বেকন</div>",
+            "option3": "<div>(গ) গ্যালিলিও</div>",
+            "option4": "<div>(ঘ) নিউটন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>269. একটি দন্ডের পরিমাপকৃত দৈর্ঘ্য 10cm এবং প্রকৃত মান 10.40cm হলে পরিমাপেরশতকরা ত্রুটি কত?</div>",
+            "option1": "<div>(ক) 4%</div>",
+            "option2": "<div>(খ) 3.84%</div>",
+            "option3": "<div>(গ) 0.398%</div>",
+            "option4": "<div>(ঘ) 0.04%</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>270. কোনোকিছু সম্পর্কে সার্বিক উপলব্ধি বা বোধগম্যতাকে কী বলে?</div>",
+            "option1": "<div>(ক) ধারণা</div>",
+            "option2": "<div>(খ) সূত্র</div>",
+            "option3": "<div>(গ) নীতি</div>",
+            "option4": "<div>(ঘ) তত্ত্ব</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>271. সাধারণভাবে কোনো নির্দিষ্ট শর্তে সব সময় কী ঘটবে তার বর্ণনাকে কী বলে?</div>",
+            "option1": "<div>(ক) নীতি</div>",
+            "option2": "<div>(খ) সূত্র</div>",
+            "option3": "<div>(গ) ধারণা</div>",
+            "option4": "<div>(ঘ) অনুকল্প</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>272. নিচের কোনটি মৌলিক একক?</div>",
+            "option1": "<div>(ক)coulomb</div>",
+            "option2": "<div>(খ) ampere</div>",
+            "option3": "<div>(গ) volt</div>",
+            "option4": "<div>(ঘ) ohm</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>273. কোনটি মৌলিক রাশি নয়?</div>",
+            "option1": "<div>(ক) তড়িৎ বিভব</div>",
+            "option2": "<div>(খ) তাপমাত্রা</div>",
+            "option3": "<div>(গ) দীপন তীব্রতা</div>",
+            "option4": "<div>(ঘ) পদার্থের পরিমাণ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>274. পিকো (p) কোনটি?</div>",
+            "option1": "<div>(ক) 10${}^{12}$</div>",
+            "option2": "<div>(খ) 10${}^{9}$</div>",
+            "option3": "<div>(গ) 10${}^{-9}$</div>",
+            "option4": "<div>(ঘ) 10${}^{-12}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>275. কোয়ান্টাম তত্ত্ব আবিষ্কার করেন কোন বিজ্ঞানী?</div>",
+            "option1": "<div>(ক) টমাস ইয়ং</div>",
+            "option2": "<div>(খ) আর্নেস্ট রাদারফোর্ড</div>",
+            "option3": "<div>(গ) ম্যাক্স প্ল্যাংক</div>",
+            "option4": "<div>(ঘ) আলবার্ট আইনস্টাইন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>276. কোনো একটি রাশির প্রকৃত মান ও পরিমাপ্য মানের পার্থক্যকে কোন ধরনেরত্রুটি বলে?</div>",
+            "option1": "<div>(ক) আপেক্ষিক ত্রুটি</div>",
+            "option2": "<div>(খ) পরম ত্রুটি</div>",
+            "option3": "<div>(গ) সামগ্রিক ত্রুটি</div>",
+            "option4": "<div>(ঘ) এলোমেলো ত্রুটি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>277. একজন শিক্ষার্থী একটি সিলিন্ডারের ব্যাসার্ধ নির্ণয়ের জন্য 0.001cm লঘিষ্ঠ গননের একটি স্ক্রু-গজ ব্যবহার করল। তার প্রাপ্য ফলাফলের নিম্নোক্তসর্বাধিক সঠিক কোনটি?</div>",
+            "option1": "<div>(ক) 1.4cm</div>",
+            "option2": "<div>(খ) 1.41cm</div>",
+            "option3": "<div>(গ) 1.402cm</div>",
+            "option4": "<div>(ঘ) 1.4021cm</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>278. একটি স্ফেরোমিটারের বৃত্তাকার স্কেলের ভাগ সংখ্যা 50। বৃত্তাকার স্কেলটিএকবার ঘুরালে এটি রৈখিক স্কেল বরাবর 1mm দূরত্ব অতিক্রম করে। স্ফেরোমিটারটিরলঘিষ্ঠ গণন হবে-</div>",
+            "option1": "<div>(ক) 0.2cm</div>",
+            "option2": "<div>(খ) 0.02cm</div>",
+            "option3": "<div>(গ) 0.002cm</div>",
+            "option4": "<div>(ঘ) 0.0002cm</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>279. একীভূত পারমাণবিক ভর একক (u) হচ্ছে-<br>i. $ \\begin{array}{c}<br>12 \\\\<br>6 \\end{array}C$ এর ভরের $\\frac{1}{12}$<br>ii. $ \\begin{array}{c}<br>16 \\\\<br>8 \\end{array}$ এর ভরের সমান<br>iii. 1.66 $\\mathrm{\\times}$ 10${}^{-17}$kg<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>280. তিনটি বিবৃতি দেওয়া হলো-<br>i. পদার্থবিজ্ঞান প্রকৃতির ঘটনা ও সূত্র নিয়ে আলোচনা করে<br>ii. পদার্থবিজ্ঞানের আলোচ্য বিষয়, শক্তি ও এদের পরস্পরের রূপান্তর<br>iii. পদার্থবিজ্ঞান একটি মৌলিক বিজ্ঞান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>281. গ্রহের গতি সংক্রান্ত সঠিক ধারণা সর্বপ্রথমে দেন কে?</div>",
+            "option1": "<div>(ক) অ্যারিস্টার্কাস</div>",
+            "option2": "<div>(খ) অ্যারিস্টটল</div>",
+            "option3": "<div>(গ) টলেমি</div>",
+            "option4": "<div>(ঘ) নিউটন</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>282. $\\pi $ এর মান কে সর্বপ্রথম নির্ণয় করেন?</div>",
+            "option1": "<div>(ক) ইউক্লিড</div>",
+            "option2": "<div>(খ) জাবির ইবনে হাইয়ান</div>",
+            "option3": "<div>(গ) নিউটন</div>",
+            "option4": "<div>(ঘ) ভাস্করাচার্য</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>283. বিজ্ঞানী হাইজেনবার্গ কোন তত্ত্বের জন্য বিখ্যাত?</div>",
+            "option1": "<div>(ক) কোয়ান্টাম তত্ত্ব</div>",
+            "option2": "<div>(খ) দ্বৈত তত্ত্ব</div>",
+            "option3": "<div>(গ) অনিশ্চয়তার তত্ত্ব</div>",
+            "option4": "<div>(ঘ) সিঙ্গুলারিটি তত্ত্ব</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>284. আল মাসুদী নিচের কোনটির ধারনা দেন?</div>",
+            "option1": "<div>(ক) বায়ুকল</div>",
+            "option2": "<div>(খ) লিভারের কার্যনীতি</div>",
+            "option3": "<div>(গ) উদস্থিতি বিদ্যার</div>",
+            "option4": "<div>(ঘ) প্রতিসরণের সূত্র</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>285. কে সর্বপ্রথম আণবিক বেগ বণ্টন সম্পর্কে তত্ত্ব দেন?</div>",
+            "option1": "<div>(ক) ম্যাক্স প্ল্যাংক</div>",
+            "option2": "<div>(খ) ওয়েরস্টেড</div>",
+            "option3": "<div>(গ) ম্যাক্সওয়েল</div>",
+            "option4": "<div>(ঘ) আইনস্টাইন</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>286. কত সালে ম্যাক্স প্ল্যাংক কোয়ান্টাম তত্ত্ব দেন?</div>",
+            "option1": "<div>(ক) 1891</div>",
+            "option2": "<div>(খ) 1896</div>",
+            "option3": "<div>(গ) 1900</div>",
+            "option4": "<div>(ঘ) 1905</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>287. স্বীকার্য কী?</div>",
+            "option1": "<div>(ক) গাণিতিক যুক্তি</div>",
+            "option2": "<div>(খ) তত্ত্বের ভিত্তি প্রদান করে</div>",
+            "option3": "<div>(গ) বৈজ্ঞানিক পরীক্ষায় প্রমাণিত</div>",
+            "option4": "<div>(ঘ) পরীক্ষণের সার-সংক্ষেপ</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>288. আইনস্টাইনের আপেক্ষিকতার বিশেষ তত্ত্বের স্বীকার্য কয়টি?</div>",
+            "option1": "<div>(ক) 1টি</div>",
+            "option2": "<div>(খ) 2টি</div>",
+            "option3": "<div>(গ) 3টি</div>",
+            "option4": "<div>(ঘ) 4টি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>289. উন্নত প্রজাতির বীজ উৎপাদনে ব্যবহৃত হয়-</div>",
+            "option1": "<div>(ক) তেজষ্ক্রিয় আইসোটোপ</div>",
+            "option2": "<div>(খ) মাইক্রো বায়োলজী</div>",
+            "option3": "<div>(গ) এক্স-রে</div>",
+            "option4": "<div>(ঘ) রাসায়নিক সার</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>290. ক্ষমতার একক কী?</div>",
+            "option1": "<div>(ক) J</div>",
+            "option2": "<div>(খ) N</div>",
+            "option3": "<div>(গ) W</div>",
+            "option4": "<div>(ঘ) Pa</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>291. 1 মাইক্রোমিটার =?</div>",
+            "option1": "<div>(ক)10${}^{-3}$m</div>",
+            "option2": "<div>(খ) 10${}^{-6}$m</div>",
+            "option3": "<div>(গ) 10${}^{-9}$m</div>",
+            "option4": "<div>(ঘ) 10${}^{-12}$m</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>292. নিচের কোনটি লব্ধ রাশি?</div>",
+            "option1": "<div>(ক) ঘনত্ব</div>",
+            "option2": "<div>(খ) ভর</div>",
+            "option3": "<div>(গ) তাপমাত্রা</div>",
+            "option4": "<div>(ঘ) সময়</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>293. মৌলিক একক কয়টি?</div>",
+            "option1": "<div>(ক) 3টি</div>",
+            "option2": "<div>(খ) 5টি</div>",
+            "option3": "<div>(গ) 7টি</div>",
+            "option4": "<div>(ঘ) 9টি</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>294. এক ক্যান্ডেল দীপন তীব্রতা আলোক উৎসের মাস প্রতি স্টেরেডিয়ান ঘনকোণে কত?</div>",
+            "option1": "<div>(ক) $\\frac{1}{386}$ ওয়াট</div>",
+            "option2": "<div>(খ) $\\frac{1}{683}$ ওয়াট</div>",
+            "option3": "<div>(গ) 386 ওয়াট</div>",
+            "option4": "<div>(ঘ) 683 ওয়াট</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>295. আধুনিক বৈজ্ঞানিক পদ্ধতির সূচনা করেন কে?</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) গ্যালিলিও</div>",
+            "option3": "<div>(গ) আইনস্টাইন</div>",
+            "option4": "<div>(ঘ) ম্যাক্স প্ল্যাংক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>296. 10m দৈর্ঘ্য পরিমাপে ত্রুটির পরিমাণ 10m হলে ত্রুটির হার কত?</div>",
+            "option1": "<div>(ক) 0.01%</div>",
+            "option2": "<div>(খ) 0.1%</div>",
+            "option3": "<div>(গ) 1%</div>",
+            "option4": "<div>(ঘ) 10%</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>297. গোলকের আয়তন নির্ণয়ের সূত্র কী?</div>",
+            "option1": "<div>(ক) $\\frac{1}{6}\\pi r^3$</div>",
+            "option2": "<div>(খ) $\\frac{4}{3}\\pi d^3$</div>",
+            "option3": "<div>(গ) $\\frac{1}{6}\\pi d^3$</div>",
+            "option4": "<div>(ঘ) $\\frac{4}{3}\\pi r^3$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>298. বৈজ্ঞানিক পরীক্ষণের ক্রমবিকাশে অবদান রাখেন-<br>i. অ্যারিস্টটল<br>ii. গ্যালিলিও<br>iii. নিউটন<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>299. তারের ব্যাসার্ধ সঠিকভাবে মাপতে আমরা ব্যবহার করি-<br>i. স্লাইড ক্যালিপার্স<br>ii. স্ক্রু-গজ<br>iii. স্ফেরোমিটার<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ)ii</div>",
+            "option3": "<div>(গ)iii</div>",
+            "option4": "<div>(ঘ) i ও ii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>300. 1cd দীপন তীব্রতার কোন আলোক উৎস-<br>i. 540$\\mathrm{\\times}$10${}^{12}$Hz কম্পাঙ্কের বিকিরণ নি:সরণ করে<br>ii. বিভিন্ন দিকে বিকিরণ নি:সরণ করে<br>iii. $\\frac{1}{683}$ ক্ষমতার বিকিরণ তীব্রতা বিশিষ্ট<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>301. পিছট ত্রুটি ঘটে-<br>i. নাট-স্ক্রু ভিত্তিক যন্ত্রে<br>ii. বিক্ষেপ চৌম্বক মান যন্ত্রে<br>iii. স্ক্রু ক্ষয় হয়ে ঢিলা হয়ে গেলে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div> নিচের উদ্দীপকটি পড় এবং 302-303নং প্রশ্নের উত্তর দাও:<br>জার্মান তাত্ত্বিক পদার্থবিদ আলবার্ট আইনস্টাইন একটি তত্ত্ব প্রদান করেন যাপদার্থবিজ্ঞানে বৈপ্লবিক পরিবর্তন নিয়ে আসে। এ তত্ত্ব থেকে প্রাপ্ত বিখ্যাতসমীকরণ হলো- E = mc${}^{2}$।<br>302. তত্ত্বটি কী নামে পরিচিত?</div>",
+            "option1": "<div>(ক) কোয়ান্টাম তত্ত্ব</div>",
+            "option2": "<div>(খ) আপেক্ষিক তত্ত্ব</div>",
+            "option3": "<div>(গ) তড়িৎ চুম্বকীয় তত্ত্ব</div>",
+            "option4": "<div>(ঘ) অনিশ্চয়তা তত্ত্ব</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>303. সমীকরণটি কীসের সম্পর্ক নির্দেশ করে?</div>",
+            "option1": "<div>(ক) ভর ও বেগের</div>",
+            "option2": "<div>(খ) শক্তি ও বেগের</div>",
+            "option3": "<div>(গ) ভর ও শক্তির</div>",
+            "option4": "<div>(ঘ) তরঙ্গ ও শক্তির</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>304. পরমাণুর ধারণা সর্বপ্রথম কে প্রদান করেন?</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) ডাল্টন</div>",
+            "option3": "<div>(গ) ডেমোক্রিটাস</div>",
+            "option4": "<div>(ঘ) আর্কিমিডিস</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>305. সূর্যকেন্দ্রিক সৌরজগতের ধারণা সর্বপ্রথম কে প্রদান করেন?</div>",
+            "option1": "<div>(ক) কোপার্নিকাস</div>",
+            "option2": "<div>(খ) গ্যালিলিও</div>",
+            "option3": "<div>(গ) কেপলার</div>",
+            "option4": "<div>(ঘ) টাইকোব্রাহে</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>306. আলো সম্পর্কিত সর্বশেষ মতবাদ কোনটি?</div>",
+            "option1": "<div>(ক) কণা</div>",
+            "option2": "<div>(খ) তরঙ্গ</div>",
+            "option3": "<div>(গ) কোয়ান্টাম</div>",
+            "option4": "<div>(ঘ) তাড়িত চৌম্বক</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>307. 'second' কী ধরনের একক?</div>",
+            "option1": "<div>(ক) কল্পিত</div>",
+            "option2": "<div>(খ) সরল</div>",
+            "option3": "<div>(গ) লব্ধ</div>",
+            "option4": "<div>(ঘ) মৌলিক</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>308. শক্তির একক কোনটি?</div>",
+            "option1": "<div>(ক) Watt</div>",
+            "option2": "<div>(খ) Newton</div>",
+            "option3": "<div>(গ) Watt- h</div>",
+            "option4": "<div>(ঘ) Newton/m</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>309. পদ্ধতিতে চাপের একক কোনটি?</div>",
+            "option1": "<div>(ক) mm of Hg</div>",
+            "option2": "<div>(খ) atm</div>",
+            "option3": "<div>(গ) torr</div>",
+            "option4": "<div>(ঘ) Pascal</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>310. m${}_{1}$ ও m${}_{2}$ ভরের দুটি বস্তুর মধ্যে মহাকর্ষীয় আকর্ষণ বল F এবংবস্তুদ্বয়ের দূ্রত্ব r হলে তাদের মধ্যে সম্পর্ক, F = $\\frac{{Gm}_1m_2}{r^2}$G কে মহাকর্ষীয় ধ্রুবক বলা হয়। G এর মাত্রা সমীকরণ হবে-</div>",
+            "option1": "<div>(ক) [M${}^{-1}$L${}^{3}$T${}^{-2}$]</div>",
+            "option2": "<div>(খ) [M${}^{-1}$L${}^{3}$T${}^{-1}$]</div>",
+            "option3": "<div>(গ) [M${}^{-1}$L${}^{-1}$T${}^{-2}$]</div>",
+            "option4": "<div>(ঘ) [M${}^{-2}$L${}^{2}$T${}^{-2}$]</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>311. [MLT${}^{-1}$] যার মাত্রা সমীকরণ, তা হলো-</div>",
+            "option1": "<div>(ক) ক্ষমতা</div>",
+            "option2": "<div>(খ) ভরবেগ</div>",
+            "option3": "<div>(গ) বল</div>",
+            "option4": "<div>(ঘ) দ্বন্ধ</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>312. কোনটি মৌলিক একক নয়?</div>",
+            "option1": "<div>(ক) ভর</div>",
+            "option2": "<div>(খ) বেগ</div>",
+            "option3": "<div>(গ) দৈর্ঘ্য</div>",
+            "option4": "<div>(ঘ) সময়</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>1. লিউনার্দো দা ভিঞ্চি পাখির ওড়া পর্যবেক্ষণ করে উড়োজাহাজের মডেল তৈরি করেন-</div>",
+            "option1": "<div>(ক) পনের শতকের শেষ দিকে</div>",
+            "option2": "<div>(খ) পনের শতকের প্রথম দিকে</div>",
+            "option3": "<div>(গ) ষোল শতকের শেষ দিকে</div>",
+            "option4": "<div>(ঘ) ষোল শতকের প্রথম দিকে</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>2. ডেমোক্রিটাস কোন বিষয়ের প্রাথমিক ধারণা দিয়েছেন?</div>",
+            "option1": "<div>(ক) অণু</div>",
+            "option2": "<div>(খ) পরমাণু</div>",
+            "option3": "<div>(গ) বন্ধন</div>",
+            "option4": "<div>(ঘ) পর্যায় সারণি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>3. বীজ ও খাদ্য সংরক্ষণে, কীটপতঙ্গ দমনে ব্যবহৃত হয় কোনটি?</div>",
+            "option1": "<div>(ক) তেজষ্ক্রিয় রশ্মি</div>",
+            "option2": "<div>(খ) তেজষ্ক্রিয় গামা রশ্মি</div>",
+            "option3": "<div>(গ) ইটিটি</div>",
+            "option4": "<div>(ঘ) তেজষ্ক্রিয় আইসোটোপ</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>4. কোনো স্ক্রু গজের বৃত্তাকার স্কেলের ভাগ সংখ্যা 50 এবং পিচ যদি$\\frac{1}{2}$ মিমি হয় তবে উক্ত যন্ত্রের লঘিষ্ঠ গণন কত হবে?</div>",
+            "option1": "<div>(ক) 0.01 মি.মি.</div>",
+            "option2": "<div>(খ) 0.1 মি.মি.</div>",
+            "option3": "<div>(গ) 0.05 মি.মি.</div>",
+            "option4": "<div>(ঘ) 0.005 মি.মি.</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>5. ভূ-মন্পলের প্লেটগুলোর সংঘর্ষে কী উৎপন্ন হয়?</div>",
+            "option1": "<div>(ক) প্রচুর আলো</div>",
+            "option2": "<div>(খ) প্রাকৃতিক আলো</div>",
+            "option3": "<div>(গ) প্রচুর তাপ</div>",
+            "option4": "<div>(ঘ) প্রচুর লাভা</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>6. যান্ত্রিক শক্তিকে তড়িৎ শক্তিতে রূপান্তরের মাধ্যমে তৈরি হয়েছে-<br>i. তড়িৎ মোটর<br>ii. জেনারেটর<br>iii. ট্রান্সফর্মার<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>7. বোসন কী ধরনের কণা?</div>",
+            "option1": "<div>(ক) মৌলিক কণা</div>",
+            "option2": "<div>(খ) যৌগিক কণা</div>",
+            "option3": "<div>(গ) রাসায়নিক কণা</div>",
+            "option4": "<div>(ঘ) দুর্বল কণা</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>8. প্রকৃতি মেনে চলে-<br>i. শক্তির সংরক্ষণশীলতা নীতি<br>ii. নিউক্লিয় তত্ত্ব<br>iii. মহাকর্ষ সূত্র<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>9. চিরায়ত বলবিদ্যায় মৌলিক রাশি-<br>i. স্থান<br>ii. দৈর্ঘ্য<br>iii. ভর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>10. টেলিস্কোপ আবিষ্কার করেন কোন বিজ্ঞানী?</div>",
+            "option1": "<div>(ক) নিউটন</div>",
+            "option2": "<div>(খ) আল খুজাব্দী</div>",
+            "option3": "<div>(গ) কেপলার</div>",
+            "option4": "<div>(ঘ) গ্যালিলিও</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>11. নিচের কোনটি গ্যালিলিও'র আবিষ্কার?</div>",
+            "option1": "<div>(ক) বস্তুর পতনের নিয়ম</div>",
+            "option2": "<div>(খ) মহাকর্ষ সূত্র</div>",
+            "option3": "<div>(গ) বলবিদ্যার সূত্র</div>",
+            "option4": "<div>(ঘ) সৌরকেন্দ্রিক তত্ত্ব</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>আমাদের দেশে বিদ্যুতের প্রচন্ড ঘাটতি আছে। এ ঘাটতি প্রচলিত ব্যবস্থায় বিদ্যুৎউৎপাদন না করে নিউক্লিয় ফিশনে সৃষ্ট নিউক্লিয় শক্তির মাধ্যমে বিদ্যুৎ উৎপাদনকরে সহজেই পূরণ করা যায়।<br>উপরের বর্ণনা হতে নিচের 12 ও 13নং প্রশ্নের উত্তর দাও:<br>12. প্রক্রিয়াটি আমাদের দেশের জন্য-</div>",
+            "option1": "<div>(ক) সস্তা</div>",
+            "option2": "<div>(খ) ব্যয়বহুল</div>",
+            "option3": "<div>(গ) রক্ষণাবেক্ষণ অত্যন্ত কঠিন</div>",
+            "option4": "<div>(ঘ) বায়ুদূষণ করবে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>13. নিউক্লিয় ফিশনের ফলে-<br>i. একটি বড় ভর সংখ্যার নিউক্লিয়াস প্রায় সমান দুটি নিউক্লিয়াস রূপান্তরিত হয়<br>ii. নিউক্লিয়াসের ভরের িএকটি অংশ শক্তিতে রূপান্তরিত হয়<br>iii. নির্গত শক্তির পরিমাণ E= mc${}^{2}$ সমীকরণের সাহায্যে নির্ণয় করা যায়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>14. গতিশীল প্রসঙ্গ কাঠামোর সময় স্থির কাঠামোর সাপেক্ষে কী হয়?</div>",
+            "option1": "<div>(ক) মন্থর</div>",
+            "option2": "<div>(খ) গতিশীল</div>",
+            "option3": "<div>(গ) দ্রুত</div>",
+            "option4": "<div>(ঘ) অতিদ্রুত</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>15. বস্তু ও শক্তির রূপান্তর এবং সম্পর্ক কীভাবে প্রকাশ করা হয়?</div>",
+            "option1": "<div>(ক) পরিসংখ্যানগতভাবে</div>",
+            "option2": "<div>(খ) পরিমাণগতভাবে</div>",
+            "option3": "<div>(গ) সংখ্যাগতভাবে</div>",
+            "option4": "<div>(ঘ) অর্থনৈতিক ভাবে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>16. আন্তর্জাতিক পদ্ধতিতে প্রতিটি ভৌত রাশির জন্য কয়টি একক নির্ধারণ করাহয়েছে?</div>",
+            "option1": "<div>(ক) একটি</div>",
+            "option2": "<div>(খ) তিনটি</div>",
+            "option3": "<div>(গ) পাঁচটি</div>",
+            "option4": "<div>(ঘ) সাতটি</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>17. শারীরিক আলোকবিজ্ঞানের প্রবর্তক কে?</div>",
+            "option1": "<div>(ক) আইজ্যাক নিউটন</div>",
+            "option2": "<div>(খ) ম্যাক্স প্ল্যাংক</div>",
+            "option3": "<div>(গ) হাইগেন</div>",
+            "option4": "<div>(ঘ) টমাস ইয়াং</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>18. নিচের কোন রাশিটি অন্য রাশির উপর নির্ভরশীল?</div>",
+            "option1": "<div>(ক) তাপমাত্রা</div>",
+            "option2": "<div>(খ) ওজন</div>",
+            "option3": "<div>(গ) তড়িৎ প্রবাহ</div>",
+            "option4": "<div>(ঘ) দীপন ক্ষমতা</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>19. রোমার কোন গ্রহের/উপগ্রহের গ্রহণ পর্যবেক্ষণ করে আলোর বেগ পরিমাপ করেন?</div>",
+            "option1": "<div>(ক) ইউরেনাস</div>",
+            "option2": "<div>(খ) শনি</div>",
+            "option3": "<div>(গ) নেপচুন</div>",
+            "option4": "<div>(ঘ) বৃহস্পতি</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>20. তাড়িতচৌম্বক তরঙ্গের ব্যবহারের মাধ্যমে কোন যন্ত্রটি আবিষ্কার করা হয়?</div>",
+            "option1": "<div>(ক) ক্যামেরা</div>",
+            "option2": "<div>(খ) বেতার</div>",
+            "option3": "<div>(গ) তড়িৎ মোটর</div>",
+            "option4": "<div>(ঘ) বায়ুকল</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>21. রনজেন- X-ray আবিষ্কার করেন কখন?</div>",
+            "option1": "<div>(ক) ঊনবিংশ শতাব্দীর শুরুতে</div>",
+            "option2": "<div>(খ) ঊনবিংশ শতাব্দীর শেষের দিকে</div>",
+            "option3": "<div>(গ) বিংশ শতাব্দীর শুরুতে</div>",
+            "option4": "<div>(ঘ) বিংশ শতাব্দীর শেষের দিকে</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>22. পদার্থবিজ্ঞানের আধুনিক ধারণা অনুসারে-<br>i. স্থান পরম<br>ii. সময় পরম<br>iii. সময় আপেক্ষিক<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ)ii</div>",
+            "option3": "<div>(গ)iii</div>",
+            "option4": "<div>(ঘ) i ও iii</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>23. অ্যান্ট্রোল্যাব নামক যন্ত্র ব্যবহৃত হয়-</div>",
+            "option1": "<div>(ক) তড়িৎ প্রবাহমাত্রা নির্ণয়ে</div>",
+            "option2": "<div>(খ) গ্রহ নক্ষত্রের অবস্থান নির্ণয়ে</div>",
+            "option3": "<div>(গ) সমুদ্রের গভীরতা নির্ণয়ে</div>",
+            "option4": "<div>(ঘ) রকেট উৎক্ষেপণে</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>তাসিন তারের ব্যাস নির্ণয় করতে গিয়ে দেখল যে রৈখিক স্কেল পাঠ 5 মিমি এবংবৃত্তাকার স্কেলের ভাগ সংখ্যা 20।<br>উপরের বর্ণনা হতে নিচের 24 ও 25নং প্রশ্নের উত্তর দাও:<br>24. তারের ব্যাস নির্ণয় করতে যে যন্ত্রটি ব্যবহার করতে হয়-</div>",
+            "option1": "<div>(ক) স্ক্রু-গজ</div>",
+            "option2": "<div>(খ) স্লাইড ক্যালিপার্স</div>",
+            "option3": "<div>(গ) ভার্নিয়ার স্কেল</div>",
+            "option4": "<div>(ঘ) মিটার স্কেল</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>25. তারের ব্যাস কত হবে?</div>",
+            "option1": "<div>(ক) 5.2 মি.মি.</div>",
+            "option2": "<div>(খ) 5.21 মি.মি.</div>",
+            "option3": "<div>(গ) 52.0 মি.মি.</div>",
+            "option4": "<div>(ঘ) 5.02 মি.মি.</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>অতএব, ভার্নিয়ার ধ্রুবক 0.0025cm{\\textbar}<br>3. বলের মাত্রা সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) [MLT${}^{-2}$]</div>",
+            "option2": "<div>(খ) [MLT]</div>",
+            "option3": "<div>(গ) MLT${}^{-1}$</div>",
+            "option4": "<div>(ঘ) [MLT${}^{-3}$]</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>4. বল ও শক্তির মাত্রা যথাক্রমে-</div>",
+            "option1": "<div>(ক) LT${}^{-2}$ and MLT${}^{-2}$</div>",
+            "option2": "<div>(খ) MLT${}^{-2}$ and ML${}^{2}$T${}^{-2}$</div>",
+            "option3": "<div>(গ) LT${}^{-2}$ and ML${}^{2}$T${}^{-2}$</div>",
+            "option4": "<div>(ঘ) MLT${}^{-2}$ and ML${}^{-2}$T${}^{-3}$</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>5. একটি স্লাইড ক্যালিপার্সের প্রধান স্কেলের 39 ভাগ ভার্নিয়ার স্কেলের 40ভাগের সমান। প্রধান স্কেলের এক ভাগের মান 1.00mm। ভার্নিয়ার ধ্রুবক কত?</div>",
+            "option1": "<div>(ক) 0.010mm</div>",
+            "option2": "<div>(খ) 0.020mm</div>",
+            "option3": "<div>(গ) 0.025mm</div>",
+            "option4": "<div>(ঘ) 0.100mm</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>6. কোন বস্তুর ভর 100kg $\\pm $ 2% এবং আয়তন 10m${}^{3}$ $\\pm $ 3% হলে ঐবস্তুর ঘনত্বের শতকরা ত্রুটি কত হবে?</div>",
+            "option1": "<div>(ক) 0.1%</div>",
+            "option2": "<div>(খ) 0.5%</div>",
+            "option3": "<div>(গ) 5%</div>",
+            "option4": "<div>(ঘ) 32%</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>7. ত্রিমাত্রিক কোণের একক কোনটি?</div>",
+            "option1": "<div>(ক) রেডিয়ান</div>",
+            "option2": "<div>(খ) স্টেরিডিয়ান</div>",
+            "option3": "<div>(গ) ডিগ্রি</div>",
+            "option4": "<div>(ঘ) সব</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>8. চট্টগ্রামে অভিকর্ষজ ত্বরণের আদর্শ মান 9.8MS${}^{-2}$। একজন ছাত্রল্যাবরেটরিতে এর মান পেলো 9.7MS${}^{-2}$। মান নির্ণয়ে ছাত্রটির শতকরা ত্রুটিকত?</div>",
+            "option1": "<div>(ক) 1.02%</div>",
+            "option2": "<div>(খ) 10.2%</div>",
+            "option3": "<div>(গ) 12%</div>",
+            "option4": "<div>(ঘ) 10%</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>9. একটি গোলকের ব্যাসার্ধ পরিমাপ করে পাওয়া গেল [1.5 $\\pm $ 0.1] cm। এরভিত্তিতে গোলকটির আয়তন পরিমাপ করলে শতকরা ত্রুটি কত হবে?</div>",
+            "option1": "<div>(ক) 20%</div>",
+            "option2": "<div>(খ) 2.0%</div>",
+            "option3": "<div>(গ) 2.2%</div>",
+            "option4": "<div>(ঘ) 22%</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>10. একটি ভার্নিয়ার ক্যালিপার্সের ভার্নিয়ার স্কেলে 50টি ভাগ আছে যা প্রধানস্কেলের 49 ভাগের সাথে মিলে যায়। ভার্নিয়ার ধ্রুবক কত? দেওয়া আছে প্রতি সে.মি.এ প্রধান স্কেলে 20টি ভাগ।</div>",
+            "option1": "<div>(ক) 100 $\\mu m$</div>",
+            "option2": "<div>(খ) 1000 $\\mu m$</div>",
+            "option3": "<div>(গ) 10 $\\mu m$</div>",
+            "option4": "<div>(ঘ) 1 $\\mu m$</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>11. মৌলিক একক হলো-<br>i. কি.গ্রা. মিটার ও সেকেন্ড<br>ii. সেকেন্ড ও ভোল্ট<br>iii. কেলভিন, ক্যান্ডেলা ও নিউটন<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ) i, ii ও iii</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>12. নিচের কোনটি মৌলিক একক?</div>",
+            "option1": "<div>(ক) coulumb</div>",
+            "option2": "<div>(খ) ampere</div>",
+            "option3": "<div>(গ) volt</div>",
+            "option4": "<div>(ঘ) ohm</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>13. V = $\\frac{4}{3}\\pi r^3$ সমীকরণে r এর মান পরিমাপে যদি 2% ত্রুটি হয় তবেV নির্ণয়ের ত্রুটি কত হবে?</div>",
+            "option1": "<div>(ক) 1%</div>",
+            "option2": "<div>(খ) 6%</div>",
+            "option3": "<div>(গ) 5%</div>",
+            "option4": "<div>(ঘ) 2%</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>14. স্ক্রু-গজ দ্বারা ন্যূনতম কত দূরত্ব মাপা যাবে?</div>",
+            "option1": "<div>(ক) 1mm</div>",
+            "option2": "<div>(খ) 0.01mm</div>",
+            "option3": "<div>(গ) 0.1mm</div>",
+            "option4": "<div>(ঘ) যন্ত্রের ন্যূনাঙ্ক</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>15. কোনটি মৌলিক রাশি নয়?</div>",
+            "option1": "<div>(ক) ভর</div>",
+            "option2": "<div>(খ) সময়</div>",
+            "option3": "<div>(গ) দৈর্ঘ্য</div>",
+            "option4": "<div>(ঘ) ঘনত্ব</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>16. [ML${}^{-2}$T${}^{-2}$] মাত্রা সমীকরণ কত?</div>",
+            "option1": "<div>(ক) ক্ষমতা</div>",
+            "option2": "<div>(খ) গতিশক্তি</div>",
+            "option3": "<div>(গ) পৃষ্ঠটান</div>",
+            "option4": "<div>(ঘ) পীড়ন</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>17. একটি স্লাইড ক্যালিপার্সের প্রধান স্কেলের ক্ষুদ্রতম এক ঘরের মান 1mm এবংভার্নিয়ার স্কেলের 20 ঘর প্রধান স্কেলের 19 ঘরের সমান। ঐ স্কেলের ভার্নিয়ারধ্রুবক হবে-</div>",
+            "option1": "<div>(ক) 0.5mm</div>",
+            "option2": "<div>(খ) 0.01mm</div>",
+            "option3": "<div>(গ) 0.05mm</div>",
+            "option4": "<div>(ঘ) 0.1mm</div>",
+            "mcqAnswer": "c"
+        },
+        {
+            "mcqQuestion": "<div>18. কোনো বৃত্তের ব্যাসার্ধের সমান বৃত্তচাপ বৃত্তের কেন্দ্রে যে কোণ উৎপন্নকরে তাকে বলে-</div>",
+            "option1": "<div>(ক) 0.5 রেডিয়ান</div>",
+            "option2": "<div>(খ) 1 রেডিয়ান</div>",
+            "option3": "<div>(গ) 2 রেডিয়ান</div>",
+            "option4": "<div>(ঘ) 2.5 রেডিয়ান</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>19. বিনা প্রমাণে যা মেনে নেয়া হয় তাকে কী বলে?</div>",
+            "option1": "<div>(ক) তত্ত্ব</div>",
+            "option2": "<div>(খ) স্বীকার্য</div>",
+            "option3": "<div>(গ) মডেল</div>",
+            "option4": "<div>(ঘ) নীতি</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>20. কোন বিজ্ঞানী ক্যালকুলাস আবিষ্কার করেন?</div>",
+            "option1": "<div>(ক) আইনস্টাইন</div>",
+            "option2": "<div>(খ) গ্যালিলিও</div>",
+            "option3": "<div>(গ) টমাস ইয়ং</div>",
+            "option4": "<div>(ঘ) নিউটন</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>21. একটি গোলকের ব্যাসার্ধ পরিমাপে 1.2% ভুল করলে, ঐ গোলকের আয়তনে শতকরা কতভুল হবে?</div>",
+            "option1": "<div>(ক) 8.6%</div>",
+            "option2": "<div>(খ) 6.6%</div>",
+            "option3": "<div>(গ) 5.6%</div>",
+            "option4": "<div>(ঘ) 3.6%</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>22. পিকো (p) কোনটি?</div>",
+            "option1": "<div>(ক) 10${}^{12}$</div>",
+            "option2": "<div>(খ) 10${}^{9}$</div>",
+            "option3": "<div>(গ) 10${}^{-9}$</div>",
+            "option4": "<div>(ঘ) 10${}^{-12}$</div>",
+            "mcqAnswer": "d"
+        },
+        {
+            "mcqQuestion": "<div>23. স্ক্রু-গজ দ্বারা ন্যূনতম কত দূরত্ব মাপা যাবে?</div>",
+            "option1": "<div>(ক) 1mm</div>",
+            "option2": "<div>(খ) 0.01mm</div>",
+            "option3": "<div>(গ) 0.1mm</div>",
+            "option4": "<div>(ঘ) যন্ত্রের ন্যূনাঙ্ক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>24. স্লাইড ক্যালিপার্স দ্বারা ন্যূনতম কত দূরত্ব মাপা যায়?</div>",
+            "option1": "<div>(ক) 1mm</div>",
+            "option2": "<div>(খ) 0.01mm</div>",
+            "option3": "<div>(গ) 0.1mm</div>",
+            "option4": "<div>(ঘ) ভার্নিয়ার ধ্রুবক</div>",
+            "mcqAnswer": "b"
+        },
+        {
+            "mcqQuestion": "<div>25. সনাতনী বলবিদ্যায় কোন দুটিকে ধ্রুব ধরা হয়?</div>",
+            "option1": "<div>(ক) স্থান ও কাল</div>",
+            "option2": "<div>(খ) স্থান ও দ্রুতি</div>",
+            "option3": "<div>(গ) দ্রুতি ও কাল</div>",
+            "option4": "<div>(ঘ) স্থান ও ত্বরণ</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>26. একটি স্লাইড ক্যালিপার্সের প্রধান স্কেলের ক্ষুদ্রতম এক ঘরের মান 1mm মূলস্কেলের 99 ভাগ ভার্নিয়ার স্কেলের 100 ভাগের সমান। ভার্নিয়ার ধ্রুবকের মান কত?</div>",
+            "option1": "<div>(ক) 0.01</div>",
+            "option2": "<div>(খ) 0.001</div>",
+            "option3": "<div>(গ) 0.1</div>",
+            "option4": "<div>(ঘ) 0.0001</div>",
+            "mcqAnswer": "a"
+        },
+        {
+            "mcqQuestion": "<div>27. একটি সিলিন্ডারের দৈর্ঘ্য $\\frac{7}{22}$ মিটার। যদি উহার আয়তন 4m${}^{3}$হয়, তাহলে ব্যাস কত হবে?</div>",
+            "option1": "<div>(ক) 1m</div>",
+            "option2": "<div>(খ) 4m</div>",
+            "option3": "<div>(গ) $\\frac{7}{22}$m</div>",
+            "option4": "<div>(ঘ) 2m</div>",
+            "mcqAnswer": "b"
+        }
+    ]
+}

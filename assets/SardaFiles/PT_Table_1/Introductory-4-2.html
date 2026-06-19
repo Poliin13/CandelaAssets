@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Multiple Videos</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column; /* Arrange videos vertically */
+      align-items: center;
+      height: 100vh;
+      overflow-y: auto; /* Enable scrolling if there are many videos */
+    }
+
+    iframe {
+      width: 80%; /* Adjust as needed */
+      height: 45vw; /* Maintain 16:9 aspect ratio */
+      max-height: 50vh; /* Cap height to half the viewport height */
+      margin-bottom: 10px; /* Space between videos */
+    }
+  </style>
+</head>
+
+<body>
+  <iframe src="https://youtube.com/embed/thXpy3gdqpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+  <iframe src="https://youtube.com/embed/anotherVideoID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+  <!-- Add more iframe elements here as needed -->
+</body>
+
+</html>

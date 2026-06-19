@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jurisprudence</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden; /* Prevent horizontal scrolling */
+        }
+
+        nav {
+            position: fixed;
+            top: 0;
+            width: 250px;
+            height: 100%;
+            background: #333; /* Dark background color */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add a shadow for depth */
+            overflow-y: auto; /* Make the navigation panel scrollable */
+        }
+
+        nav h2 {
+            color: #fff;
+            text-align: center;
+            padding: 20px 0; /* Padding top and bottom */
+            margin: 0;
+            border-bottom: 1px solid #444; /* Border at the bottom of the title */
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        nav ul li {
+            padding: 15px; /* Larger padding for better touch target */
+            border-bottom: 1px solid #444; /* Separating lines between items */
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            display: block;
+            font-size: 16px; /* Larger font size */
+        }
+
+        nav ul li a:hover {
+            background-color: #555; /* Darker background color on hover */
+        }
+
+        .content {
+            margin-left: 250px; /* Adjust content margin to accommodate navigation panel */
+            padding-left: 20px; /* Add padding to maintain content layout */
+        }
+
+        @media only screen and (max-width: 768px) {
+            nav {
+                left: -250px; /* Off-screen initially */
+                transition: left 0.3s ease;
+            }
+
+            nav.visible {
+                left: 0; /* Moves onto screen when visible class is added */
+            }
+
+            .content {
+                margin-left: 20px; /* Adjust content margin to remove space for navigation panel */
+            }
+        }
+
+        @media only screen and (min-width: 769px) {
+            nav {
+                left: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav id="nav" class="visible">
+        <h2>Table of Contents</h2>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#historical-background">Historical Background</a></li>
+            <li><a href="#types-of-law">Types of Law</a></li>
+            <li><a href="#legal-principles">Legal Principles</a></li>
+            <li><a href="#case-studies">Case Studies</a></li>
+        </ul>
+    </nav>
+
+    <div class="content">
+        <h2 id="introduction">Introduction to Jurisprudence</h2>
+        <p>Jurisprudence is the theory or philosophy of law. It explores the deeper principles and rules that govern societies and seeks to explain the nature of legal systems.</p>
+
+        <h3 id="historical-background">Historical Background</h3>
+        <p>Jurisprudence has roots in ancient civilizations, with influential contributions from Roman, Greek, and Islamic legal systems that laid the foundation for modern jurisprudence.</p>
+
+        <h3 id="types-of-law">Types of Law</h3>
+        <ul>
+            <li><strong>Civil Law:</strong> Deals with disputes between individuals or organizations.</li>
+            <li><strong>Criminal Law:</strong> Focuses on offenses against the state or public.</li>
+            <li><strong>Constitutional Law:</strong> Involves the interpretation and application of a country's constitution.</li>
+        </ul>
+
+        <h3 id="legal-principles">Legal Principles</h3>
+        <p>Legal principles serve as the backbone of any legal system. These include the principle of justice, fairness, and equality before the law.</p>
+
+        <h3 id="case-studies">Case Studies</h3>
+        <p>Several landmark cases have shaped jurisprudence throughout history, such as the case of Brown v. Board of Education, which redefined racial segregation laws.</p>
+    </div>
+</body>
+
+</html>

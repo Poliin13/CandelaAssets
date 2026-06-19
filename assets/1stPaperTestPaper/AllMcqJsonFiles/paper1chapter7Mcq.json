@@ -1,0 +1,2934 @@
+﻿{
+    "mcqQuestionList": [
+        {
+            "mcqQuestion": "<div>১. স্থিতিস্থাপক সীমার মধ্যে দৈর্ঘ্য প্রসারণ বনাম ভার এর সঠিক লেখচিত্রকোনটি?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ</div>",
+            "mcqAnswer": "<div>a</div>",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/1.webp"
+        },
+        {
+            "mcqQuestion": "<div>২. কোন ধর্মের কারণে পানির ফোঁটা গোলাকৃতি হয়?</div>",
+            "option1": "<div>(ক) তলটান</div>",
+            "option2": "<div>(খ) সান্দ্রতা</div>",
+            "option3": "<div>(গ) কৈশিকতা</div>",
+            "option4": "<div>(ঘ স্থিতিস্থাপকতা</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩. যেসব তরর কাচকে ভেজায় না তাদের ক্ষেত্রে স্পর্শ কোণের মান হবে --</div>",
+            "option1": "<div>(ক) 0$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 90$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 90$\\mathrm{{}^\\circ}$ অপেক্ষা কম</div>",
+            "option4": "<div>(ঘ 90$\\mathrm{{}^\\circ}$ অপেক্ষা বেশি</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪. লম্বা ও ব্যাসের তারকে বল প্রয়োগে দৈর্ঘ্য বৃদ্ধি করা হলো। ব্যাস হ্রাস কত?</div>",
+            "option1": "<div>(ক) $1.5\\times {10}^5\\ mm$</div>",
+            "option2": "<div>(খ) $2.5\\times {10}^{-5}\\ mm$</div>",
+            "option3": "<div>(গ) $3.5\\times {10}^5\\ mm$</div>",
+            "option4": "<div>(ঘ $2.5\\ mm$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫. কোনো তারকে কেটে সমান দুই টুকরা করা হলো। এতে তারের অসহ ভার হবে --</div>",
+            "option1": "<div>(ক) পূর্বের অর্ধেক</div>",
+            "option2": "<div>(খ) পূর্বের সমান</div>",
+            "option3": "<div>(গ) পূর্বের দ্বিগুণ</div>",
+            "option4": "<div>(ঘ পূর্বের এক চতুর্থাংশ</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬. $\\mathrm{\\eta }$ সান্দ্রতা গুণাঙ্কবিশিষ্ট মাধ্যমে R ব্যাসার্ধের একটিগোলাকার বল v প্রান্তিক বেগে পড়লে ক্রিয়াশীল সান্দ্র বল F হবে --</div>",
+            "option1": "<div>(ক) $F\\propto R\\ এবং\\ F\\propto \\frac{1}{v}$\\textit{}</div>",
+            "option2": "<div>(খ) $F\\propto R\\ এবং\\ F\\propto v$</div>",
+            "option3": "<div>(গ) $F\\propto \\frac{1}{R}\\ এবং\\ F\\propto \\frac{1}{v}$</div>",
+            "option4": "<div>(ঘ $F\\propto \\frac{1}{R}\\ এবং\\ F\\propto v$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৭. $L$ বাহুবিশিষ্ট বর্গাকার ফ্রেম তরলে নিমজ্জিত করে তোলা হলো। এর এক বাহু$x$ দূরত্ব সরাতে কৃতকাজ কত?</div>",
+            "option1": "<div>(ক) $W=2\\ LT$</div>",
+            "option2": "<div>(খ) $W=T$</div>",
+            "option3": "<div>(গ) $W=2\\ LTx$</div>",
+            "option4": "<div>(ঘ $W=LTx$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৮. $V_c=সংকট\\mathrm{\\ }বেগ$, $\\eta =তরলের\\mathrm{\\ }সান্দ্রতাঙ্ক$, $\\rho=তরলের\\mathrm{\\ }ঘনত্ব$, $r=নলের\\mathrm{\\ }ব্যাসর্ধ\\mathrm{\\ }$ হলে কোনলেখচিত্রটি সঠিক?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ</div>",
+            "mcqAnswer": "<div>d</div>",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/8.webp"
+        },
+        {
+            "mcqQuestion": "<div>৯. কোনো তারের অসহপীড়ন নির্ভর করে তারের --</div>",
+            "option1": "<div>(ক) ব্যাসার্ধের উপর</div>",
+            "option2": "<div>(খ) দৈর্ঘ্যের উপর</div>",
+            "option3": "<div>(গ) উপাদানের উপর</div>",
+            "option4": "<div>(ঘ প্রস্থচ্ছেদের উপর</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১০. ইয়ং এর গুণাঙ্কের মাত্রা --</div>",
+            "option1": "<div>(ক) $[ML^{-1}T^{-2}]$</div>",
+            "option2": "<div>(খ) $[M\\mathrm{L}T^{-1}]$</div>",
+            "option3": "<div>(গ) $[M^{-1}L^{-1}T^{-2}]$</div>",
+            "option4": "<div>(ঘ $[M^{-2}L^{-1}T^{-1}]$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১১. $2\\ m$ লম্বা ও $2\\ mm$ ব্যাসার্ধবিশিষ্ট একটি তারের দৈর্ঘ্য বৃদ্ধি$0.25\\ mm$ হলে তারটির ব্যাসার্ধ কত হ্রাস পাবে?</div>",
+            "option1": "<div>(ক) $5\\times {10}^{-3}\\ m$</div>",
+            "option2": "<div>(খ) $2.5\\times {10}^{-3}\\ m$</div>",
+            "option3": "<div>(গ) $5\\times {10}^{-8}\\ m$</div>",
+            "option4": "<div>(ঘ $2.5\\times {10}^{-8}\\ m$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১২. নিচের কোন রাশিটি মাত্রাবিহনি?</div>",
+            "option1": "<div>(ক) বিকৃতি</div>",
+            "option2": "<div>(খ) পীড়ন</div>",
+            "option3": "<div>(গ) ইয়ং গুণাঙ্ক</div>",
+            "option4": "<div>(ঘ দৃঢ়তার গুণাঙ্ক</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৩. $1\\ m$ দীর্ঘ একটি তারে ${10}^5\\ {Nm}^{-2}$ বল প্রয়োগে এর দৈর্ঘ্য বৃদ্ধিপেল$0.001\\ m$ । তারটির ইয়ং গুণাঙ্ক কত?</div>",
+            "option1": "<div>(ক) ${10}^{-7}\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) ${10}^{-3}\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) ${10}^7\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ ${10}^8\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৪. পানির পৃষ্ঠটান হলে $\\mathrm{0.06\\ N/m}$ তার পৃষ্ঠশক্তি --</div>",
+            "option1": "<div>(ক) $\\mathrm{60\\ N/m}$</div>",
+            "option2": "<div>(খ) $\\mathrm{6\\ N/m}$</div>",
+            "option3": "<div>(গ) $\\mathrm{0.6\\ N/m}$</div>",
+            "option4": "<div>(ঘ $\\mathrm{0.06\\ N/m}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৫. সান্দ্রতা গুণাঙ্কের মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) $ML^{-1}T^{-1}$</div>",
+            "option2": "<div>(খ) $MLT^{-1}$</div>",
+            "option3": "<div>(গ) $ML^{-1}\\mathrm{T}$</div>",
+            "option4": "<div>(ঘ $ML^{-1}T^{-2}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬. আয়তন গুণাঙ্কের অন্য নাম কি?</div>",
+            "option1": "<div>(ক) অসংনম্যতা</div>",
+            "option2": "<div>(খ) সংনম্যতা</div>",
+            "option3": "<div>(গ) কাঠিন্যের গুণাঙ্ক</div>",
+            "option4": "<div>(ঘ ইয়ং এর গুণাঙ্ক</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৭. একটি তারের প্রস্থচ্ছেদের ক্ষেত্রফল $1\\ {mm}^2$ এবং অসহ ভর$\\mathrm{4}\\mathrm{0\\ kg}$ । তারের অসহ পীড়ন --</div>",
+            "option1": "<div>(ক) $4\\times {10}^{-6}\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $3.92\\times {10}^{-4}\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $4\\times {10}^7\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $3.92\\times {10}^8\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৮. একটি তারের দৈর্ঘ্য বিকৃতি $\\mathrm{0.02}$ এবং পার্শ্ব বিকৃতি$\\mathrm{0.002}$ হলে এর পয়সনের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $\\mathrm{0.00004}$</div>",
+            "option2": "<div>(খ) $\\mathrm{0.0004}$</div>",
+            "option3": "<div>(গ) $\\mathrm{0.1}$</div>",
+            "option4": "<div>(ঘ $\\mathrm{10}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯. পৃষ্ঠটান $(\\mathrm{T)}$ এবং পৃষ্ঠশক্তি $\\mathrm{(E)}$ এর মধ্যে সম্পর্ককিরূপ?</div>",
+            "option1": "<div>(ক) $\\mathrm{E=2T}$</div>",
+            "option2": "<div>(খ) $\\mathrm{E=T}$</div>",
+            "option3": "<div>(গ) $E=\\frac{T}{2}$</div>",
+            "option4": "<div>(ঘ $E=\\frac{T}{4}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২০. কোন অবস্থায় অণুসমূহের মধ্যে আন্তঃআণবিক আকর্ষণ বল সর্বনিন্ম হয়?</div>",
+            "option1": "<div>(ক) তরল</div>",
+            "option2": "<div>(খ) প্লাজমা</div>",
+            "option3": "<div>(গ) কঠিন</div>",
+            "option4": "<div>(ঘ বায়বীয়</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১. পানির উপরিতল হতে $0.5\\ m$ লম্বা একটি অনুভূমিক তারকে টেনে তুলতে তারেরওজনসহ সর্বাধিক $72.8\\times {10}^{-3}\\ \\mathrm{N}$ বলের প্রয়োজন হয়। পানিরপৃষ্ঠটান কত?</div>",
+            "option1": "<div>(ক) $145.6\\times {10}^{-3}\\ {Nm}^{-1}$</div>",
+            "option2": "<div>(খ) $72.8\\times {10}^{-3}\\ {Nm}^{-1}$</div>",
+            "option3": "<div>(গ) $14.56\\times {10}^{-3}\\ {Nm}^{-1}$</div>",
+            "option4": "<div>(ঘ $7.28\\times {10}^{-3}\\ {Nm}^{-1}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২. কঠিনের ঘনত্ব ${\\rho }_S$ তরলের ঘনত্ব ${\\rho }_L$ এবং স্পর্শকোণ$\\mathrm{\\theta }$ হলে কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) ${\\rho }_S&gt;{\\rho }_L,\\ \\theta =90{}^\\circ $</div>",
+            "option2": "<div>(খ) ${\\rho }_S&lt;{\\rho }_L,\\ \\theta &gt;90{}^\\circ $</div>",
+            "option3": "<div>(গ) ${\\rho }_S&gt;{\\rho }_L,\\ \\theta &gt;90{}^\\circ $</div>",
+            "option4": "<div>(ঘ ${\\rho }_S&lt;{\\rho }_L,\\ \\theta &lt;90{}^\\circ $</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩. আয়তন গুণাঙ্কের বিপরীত রাশি কোনটি?</div>",
+            "option1": "<div>(ক) পয়সনের অনুপাত</div>",
+            "option2": "<div>(খ) সংনম্যতা</div>",
+            "option3": "<div>(গ) ইয়ং গুণাংক</div>",
+            "option4": "<div>(ঘ দৃঢ়তার গুণাংক</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪. কোনো পদার্থের অসহপীড়ন $4.9\\times {10}^8\\ {Nm}^{-2}$ । ঐ পদার্থের তৈরিএকটি তারের প্রস্থচ্ছেদের ক্ষেত্রফল $1\\ {mm}^2$ হলে তারটিতে সর্বনিন্ম কত ভরঝুলালে তারটি ছিড়ে যাবে?</div>",
+            "option1": "<div>(ক) $0.5\\ kg$</div>",
+            "option2": "<div>(খ) $5\\ kg$</div>",
+            "option3": "<div>(গ) $10\\ kg$</div>",
+            "option4": "<div>(ঘ $50\\ kg$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৫. গ্যাসের সান্দ্রতা গুণাঙ্ক তাপমাত্রার --</div>",
+            "option1": "<div>(ক) সমানুপাতিক</div>",
+            "option2": "<div>(খ) ব্যস্তানুপাতিক</div>",
+            "option3": "<div>(গ) বর্গমূলের সমানুপাতিক</div>",
+            "option4": "<div>(ঘ বর্গমূলের ব্যস্তানুপাতিক</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৬. কোনো তরলের পৃষ্ঠের ক্ষেত্রফল এক একক বৃদ্ধি করতে কৃতকাজকে বলা হয় --</div>",
+            "option1": "<div>(ক) পৃষ্ঠটান</div>",
+            "option2": "<div>(খ) সান্দ্রতা</div>",
+            "option3": "<div>(গ) পৃষ্ঠশক্তি</div>",
+            "option4": "<div>(ঘ আয়তন পীড়ন</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৭. $5\\ cm$ ব্যাসার্ধের বুদবুদ সৃষ্টি করতে কৃতকাজ কত?</div>",
+            "option1": "<div>(ক) $0.88\\times {10}^{-3}\\ J$</div>",
+            "option2": "<div>(খ) $0.98\\times {10}^{-3}\\ J\\ $</div>",
+            "option3": "<div>(গ) $1.88\\times {10}^{-3}\\ J$</div>",
+            "option4": "<div>(ঘ $2.88\\times {10}^{-3}\\ J$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৮. $1\\ m$ দৈর্ঘ্য ও $1\\ {mm}^2$ প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট একটিইস্পাতের তারের দৈর্ঘ্য বৃদ্ধি $10\\%$ করতে প্রযুক্ত বল নিচের কোনটি?</div>",
+            "option1": "<div>(ক) $2\\times {10}^4\\ \\mathrm{N}$</div>",
+            "option2": "<div>(খ) $2\\times {10}^5\\ \\mathrm{N}$</div>",
+            "option3": "<div>(গ) $2\\times {10}^6\\ \\mathrm{N}$</div>",
+            "option4": "<div>(ঘ $2\\times {10}^7\\ \\mathrm{N}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯. হুকের সূত্র নিন্মরূপঃ</div>",
+            "option1": "<div>(ক) $পীড়ন\\mathrm{\\propto }\\frac{১}{বিকৃতি}$</div>",
+            "option2": "<div>(খ) পীড়ন $\\mathrm{\\propto }$ বিকৃতি</div>",
+            "option3": "<div>(গ) $পীড়ন\\mathrm{\\ }\\mathrm{\\propto }\\mathrm{\\ }{\\left(বিকৃতি\\right)}^২$</div>",
+            "option4": "<div>(ঘ $পীড়ন\\mathrm{\\propto }\\frac{১}{{\\left(বিকৃতি\\right)}^২}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০. যদি স্পর্শ কোণ 90$\\mathrm{{}^\\circ}$ এর বেশি হয় তবে তরলের পৃষ্ঠ হবে --</div>",
+            "option1": "<div>(ক) উত্তল</div>",
+            "option2": "<div>(খ) অবতল</div>",
+            "option3": "<div>(গ) সমতলাবতল</div>",
+            "option4": "<div>(ঘ সমতলোত্তল</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩১. স্থিতিস্থাপক সীমার মধ্যে আকার পীড়ন ও আকার বিকৃতির অনুপাত হচ্ছে --</div>",
+            "option1": "<div>(ক) ইয়াং এর গুণাঙ্ক</div>",
+            "option2": "<div>(খ) আয়তন গুণাঙ্ক</div>",
+            "option3": "<div>(গ) দৃঢ়তার গুণাঙ্ক</div>",
+            "option4": "<div>(ঘ পয়সনের অনুপাত</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩২. কোনো পদার্থের অণুগুলোর মধ্যে নিট বল শূন্য হয় তখন --</div>",
+            "option1": "<div>(ক) $r=r_0$</div>",
+            "option2": "<div>(খ) $r&lt;r_0$</div>",
+            "option3": "<div>(গ) $r&gt;r_0$</div>",
+            "option4": "<div>(ঘ $r\\gg r_0$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৩. আন্তঃআণবিক আকর্ষণ ও বিকর্ষণ বল সমান হয় যখন --</div>",
+            "option1": "<div>(ক) $r&gt;r_0$</div>",
+            "option2": "<div>(খ) $r&lt;r_0$</div>",
+            "option3": "<div>(গ) $r=0$</div>",
+            "option4": "<div>(ঘ $r=r_0$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৪. একটি তারের দৈর্ঘ্য বরাবর বল প্রয়োগ করা হলে এর $1\\ m$ দৈর্ঘ্য হতে $1.02\\m$ হয় এবং ব্যাস $5\\ mm$ হতে $4.99\\ mm$ হয়। পয়সনের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $0.01$</div>",
+            "option2": "<div>(খ) $0.1$</div>",
+            "option3": "<div>(গ) $1$</div>",
+            "option4": "<div>(ঘ $10$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৫. কোন পদার্থের সান্দ্রতা সবচেয়ে বেশি?</div>",
+            "option1": "<div>(ক) তেল</div>",
+            "option2": "<div>(খ) দুধ</div>",
+            "option3": "<div>(গ) মধু</div>",
+            "option4": "<div>(ঘ পানি</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৬. একটি তারে $0.01$ দৈর্ঘ্য বিকৃতিতে পার্শ্ব বিকৃতি $0.0024$ হলে, তারেরউপাদানের পয়সনের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $0.024$</div>",
+            "option2": "<div>(খ) $0.24$</div>",
+            "option3": "<div>(গ) $0.42$</div>",
+            "option4": "<div>(ঘ $2.40$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৭. পৃষ্ঠটানের একক --</div>",
+            "option1": "<div>(ক) $নিউটন\\mathrm{/}মিটার$\\textit{}</div>",
+            "option2": "<div>(খ) $নিউটন/{মিটার}^২$</div>",
+            "option3": "<div>(গ) $নিউটন\\mathrm{-}মিটার$\\textit{}</div>",
+            "option4": "<div>(ঘ $নিউটন$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৮. যখন পানিতে কিছু ডিটারজেন্ট মিশানো হয় তখন এর পৃষ্ঠটান --</div>",
+            "option1": "<div>(ক) বৃদি্ধ পায়</div>",
+            "option2": "<div>(খ) হ্রাস পায়</div>",
+            "option3": "<div>(গ) অপরিবর্তিত থাকে</div>",
+            "option4": "<div>(ঘ শূন্য হয়</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৯. যেসব তরল কাচকে ভেজায় না তাদের স্পর্শ কোণ --</div>",
+            "option1": "<div>(ক) প্রায় শূন্য</div>",
+            "option2": "<div>(খ) প্রয় 90$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 90$\\mathrm{{}^\\circ}$এর চেয়ে ছোট</div>",
+            "option4": "<div>(ঘ 90$\\mathrm{{}^\\circ}$এর চেয়ে বড়</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪০. কোন পদার্থটির ইয়ং এর গুণাঙ্ক সবচেয়ে বেশি?</div>",
+            "option1": "<div>(ক) তামা</div>",
+            "option2": "<div>(খ) রাবার</div>",
+            "option3": "<div>(গ) ইস্পাত</div>",
+            "option4": "<div>(ঘ সোনা</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪১. স্পর্শ কোণ হলে-<br>i. কাচ ও পানির ক্ষেত্রে 0$\\mathrm{{}^\\circ }$$\\mathrm{&lt;}$$\\mathrm{\\theta}$$\\mathrm{&lt;}$90$\\mathrm{{}^\\circ}$<br>ii. পারদ ও কাচের ক্ষেত্রে 0$\\mathrm{{}^\\circ}$$\\mathrm{&lt;}$$\\mathrm{\\theta }$$\\mathrm{&lt;}$180$\\mathrm{{}^\\circ}$<br>iii. কাচ ও কেরোসিনের ক্ষেত্রে 0$\\mathrm{{}^\\circ}$$\\mathrm{&lt;}$$\\mathrm{\\theta }$$\\mathrm{&lt;}$90$\\mathrm{{}^\\circ}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪২. অভিন্ন একক ও মাত্রার জোড়া হচ্ছে --<br>i. কাজ ও পৃষ্ঠশক্তি<br>ii. পৃষ্ঠটান ও পৃষ্ঠশক্তি<br>iii. অনুভূমিক পাল্লা ও সরণ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৩. স্থিতিস্থাপকতা সম্পর্কে বলা হয়, ইহা --<br>i. তাপমাত্রার সাথে পরিবর্তন হয়<br>ii. ভেজালের উপস্থিতিতে পরিবর্তন হয়<br>iii. পদার্থের আকৃতির উপর নির্ভর করে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৪. পয়সনের অনুপাতের --<br>i. একক নেই<br>ii. মান -1 হতে 0.5 এর মধ্যে<br>iii. মান নির্দিষ্ট উপাদানের জন্য নির্দিষ্ট<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৫. স্থিতিস্থাপক সীমার মধ্যে কোনটি সবসময় ধ্র্রুবক থাকে?<br>i. $\\frac{পীড়ন}{বিকৃতি}$<br>ii. $\\frac{পার্শ্ব\\ বিকৃতি}{দৈর্ঘ্য\\mathrm{\\ }বিকৃতি}$<br>iii. $\\frac{বল}{ক্ষেত্রফল}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৬. তরলের পৃষ্ঠটান নির্ভর করে --<br>i. কৈশিক নলের ব্যাসার্ধ<br>ii. সংশক্তি বল<br>iii. তরলের ঘনত্ব<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৭. স্পর্শ কোণ নির্ভর করে --<br>i. কঠিন ও তরলের প্রকৃতির উপর<br>ii. তরলের উচ্চতার উপর<br>iii. কঠিন ও তরলের বিশুদ্ধতার উপর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৮. মধুর অন্যতম ধর্ম হচ্ছে-<br>i. দৃঢ়তা<br>ii. সান্দ্রতা<br>iii. পৃষ্ঠটান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৯. অভিন্ন একক ও মাত্রার জোড়া হচ্ছে --<br>i. কাজ ও পৃষ্ঠশক্তি<br>ii. পৃষ্ঠটান ও পৃষ্ঠশক্তি<br>iii. অনুভূমিক পাল্লা ও সরণ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫০. একটি কৈশিক নলকে গ্লিসারিনে ডুবালে --<br>i. কাচ ও গ্লিসারিনের স্পর্শক কোণ সুক্ষ্ম কোণ হয়<br>ii. তরল পৃষ্ঠ অবতর আকার ধারণ করে<br>iii. কাচ ও গ্লিসারিনের স্পর্শ কোণ স্থূল কোণ হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫১. পানির পৃষ্ঠটান হ্রাস পায় --<br>i. তাপমাত্রা হ্রাসি পেলে<br>ii. তাপমাত্রা বৃদ্ধি পেলে<br>iii. সাবানের ফেনা মিশালে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>একটি কৈশিক নলের ব্যাস }$\\mathrm{0.4\\ mm}$ । একে}$\\boldsymbol{72}\\boldsymbol{\\times }{10}^{-3}N/m$ পৃষ্ঠটান এবং}${10}^3{kgm}^{-3}$ ঘনত্বের পানিতে ডুবানো হলো ।<br>তথ্যের আলোকে ৫২ ও ৫৩ নং প্রশ্নের উত্তর দাওঃ<br>৫২. নলের কত উচ্চতায় পানি উঠাবে?</div>",
+            "option1": "<div>(ক) $\\mathrm{7.3469\\ m}$</div>",
+            "option2": "<div>(খ) $\\mathrm{0.73469\\ m}$</div>",
+            "option3": "<div>(গ) $\\mathrm{0.073469\\ m}$</div>",
+            "option4": "<div>(ঘ $\\mathrm{0.00734\\ m}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫৩. ব্যাসার্ধ দ্বিগুণ হলে নলের কত উচ্চতায় পানি উঠবে?</div>",
+            "option1": "<div>(ক) $\\mathrm{0.00367\\ m}$</div>",
+            "option2": "<div>(খ) $\\mathrm{0.03673\\ m}$</div>",
+            "option3": "<div>(গ) $\\mathrm{0.3673\\ m}$</div>",
+            "option4": "<div>(ঘ $\\mathrm{3.6734\\ m}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>চিত্রে একটি ধাতব তারের জন্য দৈর্ঘ্য পীড়ন-দৈর্ঘ্য বিকৃতি লেখ দেখানো হলোঃ<br>উদ্দীপক অনুসারে নিচের ৫৪ ও ৫৫ নং প্রশ্নের উত্তর দাওঃ<br>৫৪. তারটির উপাদানের ইয়ং এর গুণাঙ্ক কত?</div>",
+            "option1": "<div>(ক) $7.2\\times {10}^9\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $3.6\\times {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $4.8\\times {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $1.8\\times {10}^{11}\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>d</div>",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/54.webp"
+        },
+        {
+            "mcqQuestion": "<div>৫৫. তারটির উপর পীড়ন --<br>i. $4.8\\times {10}^{10}\\ {Nm}^{-2}$ এর চেয়ে বেশি হলে তারটি ছিড়ে যাবে<br>ii. $4.2\\times {10}^{10}\\ {Nm}^{-2}$ হলে তারটির স্থায়ী বিকৃতি হবে<br>iii. $3.6\\times {10}^{10}\\ {Nm}^{-2}$ এর চেয়ে কম হলে কোনো বিকৃতি ঘটবে না<br>নিচেরে কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৫৬ ও ৫৭ নং প্রশ্নের উত্তর দাওঃ<br>$\\boldsymbol{100}\\boldsymbol{\\ }\\boldsymbol{cm}$ দীর্ঘ}$\\boldsymbol{1}\\boldsymbol{\\times}{\\boldsymbol{10}}^{\\boldsymbol{-}\\boldsymbol{2}}\\boldsymbol{\\}{\\boldsymbol{cm}}^{\\boldsymbol{2}}$ প্রস্থবিশিষ্ট একটি তারের ইয়ংএর গুণাঙ্ক }$\\boldsymbol{1}.\\boldsymbol{24}\\boldsymbol{\\times}{\\boldsymbol{10}}^{\\boldsymbol{11}}\\boldsymbol{\\}{\\boldsymbol{Nm}}^{\\boldsymbol{-}\\boldsymbol{2}}$ একে টেনে}$\\boldsymbol{0}.\\boldsymbol{2}\\boldsymbol{\\ }\\boldsymbol{cm}$বৃদ্ধি করা হলো।<br>৫৬. কতটুকু কাজ সম্পন্ন হবে?</div>",
+            "option1": "<div>(ক) $0.114\\ J$</div>",
+            "option2": "<div>(খ) $0.124\\ J$</div>",
+            "option3": "<div>(গ) $0.248\\ J$</div>",
+            "option4": "<div>(ঘ $0.288\\ J$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫৭. এ ক্ষেত্রে --<br>i. $বিকৃতি=0.002$<br>ii. $পীড়ন\\mathrm{=2.48}\\times {10}^8\\ {Nm}^{-2}$<br>iii. পীড়ন $\\mathrm{\\propto }$ বিকৃতি</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ৫৮ ও ৫৯ নং প্রশ্নের উত্তর দাওঃ<br>D ব্যাস ও L দৈর্ঘ্যর একটি তার এক প্রান্তে দৃঢ়ভাবে আটকানো আছে।তারটির নিচের প্রান্তে একটি ভর ঝুলানোতে এর দৈর্ঘ্য x পরিমাণ বৃদ্ধি পেল । x,Lএর অর্ধেক ।<br>৫৮. $Y=2.0\\times {10}^{11}\\ {Nm}^{-2}$ হলে পীড়ন কত?</div>",
+            "option1": "<div>(ক) $0.25\\times {10}^{11}\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $0.5\\times {10}^{11}\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $1\\times {10}^{11}\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $2\\times {10}^{11}\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫৯. একই উপাদানের 2D ব্যাস এবং 3L দৈর্ঘ্যর অপর একটি তারে সমপরিমাণ ভর ঝুলালে--<br>i. পয়সনের অনুপাত অপরিবর্তিত থাকবে<br>ii. দৈর্ঘ্য বৃদ্ধি হবে $\\frac{3x}{4}$<br>iii. পীড়নের পরিবর্তন হবে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড়ে ৬০ ও ৬১ নং প্রশ্নের উত্তর দাওঃ<br>$2\\ m$ দৈর্ঘ্য এবং }$1\\ {mm}^2$ প্রস্থচ্ছেদেরক্ষেত্রফলবিশিষ্ট তারে }$20\\ kg$ ভর ঝুলালে তারটি }$1\\ mm$প্রসারিত হয়।<br>৬০. তারটির পীড়ন কত?</div>",
+            "option1": "<div>(ক) $1.96\\times {10}^8\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $2.0\\times {10}^7\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $1.96\\times {10}^5\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $1.96\\times {10}^2\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬১. উক্ত তারটির --<br>i. দৈর্ঘ্য বিকৃতি $0.5\\times {10}^{-3}\\ $<br>ii. ইয়ং এর গুণাঙ্ক $3.92\\times {10}^{11}\\ {Nm}^{-2}$<br>iii. কৃতকাজের পরিমাণ $0.098\\ J$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬২. অণু সৃষ্টিকারী চার্জিত মৌলিক কণাসমূহের মিথস্ক্রিয়ার ফলে সৃষ্টি হয় --</div>",
+            "option1": "<div>(ক) মহাকর্ষ বল</div>",
+            "option2": "<div>(খ) চৌম্বক বল</div>",
+            "option3": "<div>(গ) আণবিক বল</div>",
+            "option4": "<div>(ঘ বৈদ্যুতিক বল</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬৩. নিচের কোন পদার্থের আন্তঃআণবিক বল সবচাইতে বেশি?</div>",
+            "option1": "<div>(ক) তরল পদার্থ</div>",
+            "option2": "<div>(খ) গ্যাসীয় পদার্থ</div>",
+            "option3": "<div>(গ) মিশ্র পদার্থ</div>",
+            "option4": "<div>(ঘ কঠিন পদার্থ</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬৪. ক্যাটায়ন ও অ্যানায়ন যথাক্রমে --</div>",
+            "option1": "<div>(ক) ধনাত্মক ও ধনাত্মক চার্জযুক্ত</div>",
+            "option2": "<div>(খ) ধনাত্মক ও ঋণাত্মক চার্জযুক্ত</div>",
+            "option3": "<div>(গ) ঋণাত্মক ও ধনাত্মক চার্জযুক্ত</div>",
+            "option4": "<div>(ঘ ঋণাত্মক ও ঋণাত্মক চার্জযুক্ত</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬৫. পরমাণু অ্যানায়নে পরিণত হয় যখন --</div>",
+            "option1": "<div>(ক) ইলেকট্রন হারায়</div>",
+            "option2": "<div>(খ) ইলেকট্রন গ্রহন করে</div>",
+            "option3": "<div>(গ) ইলেকট্রন স্থির থাকে</div>",
+            "option4": "<div>(ঘ প্রোটন বৃদ্ধি পায়</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬৬. নিচের কোনটি অ্যানায়ন?</div>",
+            "option1": "<div>(ক) $Na$</div>",
+            "option2": "<div>(খ) ${Na}^+$</div>",
+            "option3": "<div>(গ) $Cl$</div>",
+            "option4": "<div>(ঘ ${Cl}^-$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬৭. নিচের কোনটিকে পদার্থের ভিত্তি প্রস্তর বলা হয়?</div>",
+            "option1": "<div>(ক) অণু</div>",
+            "option2": "<div>(খ) পরমাণু</div>",
+            "option3": "<div>(গ) ইলেকট্রন</div>",
+            "option4": "<div>(ঘ প্রোটন</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬৮. আন্তঃআণবিক স্থানের দূরত্বের পরিমাণ --</div>",
+            "option1": "<div>(ক) ${10}^{-9}\\ cm\\ হতে\\mathrm{\\ }{10}^{-10}\\ cm$</div>",
+            "option2": "<div>(খ) ${10}^{-6}\\ mm\\ হতে\\mathrm{\\ }{10}^{-7}\\ mm$</div>",
+            "option3": "<div>(গ) ${10}^{-9}\\ km\\ হতে\\mathrm{\\ }{10}^{-10}\\ km$</div>",
+            "option4": "<div>(ঘ ${10}^{-6}\\ m\\ হতে\\mathrm{\\ }{10}^{-7}\\ m$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬৯. কোনটি আয়নিক যৌগ?</div>",
+            "option1": "<div>(ক) পানি</div>",
+            "option2": "<div>(খ) অ্যামোনিয়া</div>",
+            "option3": "<div>(গ) লবণ</div>",
+            "option4": "<div>(ঘ মিথেন</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৭০. কোন যৌগটি পোলার ধরনের?</div>",
+            "option1": "<div>(ক) পেট্রোল</div>",
+            "option2": "<div>(খ) বেনজিন</div>",
+            "option3": "<div>(গ) অ্যালকোহল</div>",
+            "option4": "<div>(ঘ ইথার</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৭১. নিচের কোনটি এর সর্বশেষ কক্ষপথের ইলেকট্রন বিন্যাস প্রকাশ করে-</div>",
+            "option1": "<div>(ক) ${2s}^2\\ {2p}^5\\ $</div>",
+            "option2": "<div>(খ) ${3s}^2\\ {3p}^5$</div>",
+            "option3": "<div>(গ) ${4s}^2\\ {4p}^5$</div>",
+            "option4": "<div>(ঘ ${3s}^1\\ {3p}^5$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৭২. সোডিয়াম ক্লোরাইড যৌগ গঠনের সময় সোডিয়াম নিচের কোনটির ইলেকট্রন বিন্যাসঅর্জন করে?</div>",
+            "option1": "<div>(ক) $He$</div>",
+            "option2": "<div>(খ) $Ne$</div>",
+            "option3": "<div>(গ) $Ar$</div>",
+            "option4": "<div>(ঘ $Xe$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৭৩. $NaCl$ এর ক্ষেত্রে নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) পানিতে অদ্রবণীয়</div>",
+            "option2": "<div>(খ) রেনজিনে দ্রবণীয়</div>",
+            "option3": "<div>(গ) স্ফুটনাঙ্ক $1443\\ K$</div>",
+            "option4": "<div>(ঘ সমযোজী যৌগ</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৭৪. আয়নিক বন্ধন গঠনের ফলে গঠিত আয়নিক যৌগের ল্যাটিস শক্তি কেমন হবে?</div>",
+            "option1": "<div>(ক) মধ্যম মানের</div>",
+            "option2": "<div>(খ) উচ্চ</div>",
+            "option3": "<div>(গ) নিন্ম</div>",
+            "option4": "<div>(ঘ ল্যাটিস শক্তি হবে খুবই কম</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৭৫. বৈদ্যুতিক ক্ষেত্রের তীব্রতা হ্রাসের প্রবণতাকে নিচের কোনটি দ্বারাপরিমাপ করা হয়?</div>",
+            "option1": "<div>(ক) ক্ষেত্রের আয়তন</div>",
+            "option2": "<div>(খ) ক্ষেত্রের তাপমাত্রা</div>",
+            "option3": "<div>(গ) ডাই ইলেকট্রিক ধ্র্রুবক</div>",
+            "option4": "<div>(ঘ সবগুলো</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৭৬. ভ্যানডার ওয়ালস আকর্ষণ বলের মান কোনটি?</div>",
+            "option1": "<div>(ক)$\\ 4.2-12\\ কিলোজুল\\mathrm{/}মোল$</div>",
+            "option2": "<div>(খ) $4.2-2.2\\ কিলোজুল\\mathrm{/}মোল$</div>",
+            "option3": "<div>(গ) $4.2-42\\ কিলোজুল\\mathrm{/}মোল$</div>",
+            "option4": "<div>(ঘ $4.2-4200\\ কিলোজুল\\mathrm{/}মোল$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৭৭. অনুর সাম্যাবস্থানের সামান্য বেশি বা কম দূরত্বের জন্য স্থিতিস্থাপক বলসরণের --</div>",
+            "option1": "<div>(ক) সমানুপাতিক</div>",
+            "option2": "<div>(খ) বর্গের সমানুপাতিক</div>",
+            "option3": "<div>(গ) ব্যস্তানুপাতিক</div>",
+            "option4": "<div>(ঘ বর্গের ব্যস্তানুপাতিক</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৭৮. কোনো বস্তুর উপর প্রযুক্ত বল অপসারণ করলে -- বস্তুটি পূর্বের অস্থায় ফিরেআসে নিচের কোনটির কারণে?</div>",
+            "option1": "<div>(ক) বস্তুর ভর</div>",
+            "option2": "<div>(খ) বস্তুর ওজন</div>",
+            "option3": "<div>(গ) মহাকর্ষ বল</div>",
+            "option4": "<div>(ঘ স্থিতিস্থাপক বল</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৭৯. প্রকৃতি নিয়মে কোনো বস্তু তখনই সাম্য বা সুস্থির হবে যখন --</div>",
+            "option1": "<div>(ক) স্থিতিশক্তি সর্বোচ্চ হবে</div>",
+            "option2": "<div>(খ) স্থিতিশক্তি সর্বনিন্ম হবে</div>",
+            "option3": "<div>(গ) আন্তঃআণবিক বল সর্বনিন্ম হবে</div>",
+            "option4": "<div>(ঘ স্থিতিশক্তি অসীম হবে</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৮০. নিচের কোনটির স্থিতিস্থাপক সীমা সবচেয়ে কম?</div>",
+            "option1": "<div>(ক) ইস্পাত</div>",
+            "option2": "<div>(খ) হীরা</div>",
+            "option3": "<div>(গ) দস্তা</div>",
+            "option4": "<div>(ঘ লোহা</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৮১. কোনো একটি কঠিন বস্তুর একক ক্ষেত্রফলের উপর প্রযুক্ত বলকে কী বলা হয়?</div>",
+            "option1": "<div>(ক) চাপ</div>",
+            "option2": "<div>(খ) পীড়ন</div>",
+            "option3": "<div>(গ) কৃন্তন</div>",
+            "option4": "<div>(ঘ পয়সন</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৮২. বাইরে থেকে বল প্রয়োগের ফলে কোনো বস্তুর একক মাতায় যে পরিবর্তন হয় তাকেবলা হয় --</div>",
+            "option1": "<div>(ক) স্থিতিস্থাপকতা</div>",
+            "option2": "<div>(খ) স্থিতিস্থাপক সীমা</div>",
+            "option3": "<div>(গ) পীড়ন</div>",
+            "option4": "<div>(ঘ বিকৃতি</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৮৩. তামার তৈরি কোনো বস্তুর প্রতি বর্গমিটার ক্ষেত্রফলের উপর সর্বনিন্ম কত বলেপ্রয়োগ করলে বস্তুটি ভেঙে বা ছিড়ে পরে?</div>",
+            "option1": "<div>(ক) $2.5\\times {10}^{-8}N$</div>",
+            "option2": "<div>(খ) $3.5\\times {10}^8N$</div>",
+            "option3": "<div>(গ) $2.5\\times {10}^8N$</div>",
+            "option4": "<div>(ঘ $3.5\\times {10}^{-8}N$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৮৪. কোনো বস্তুর আদিমাত্রা $x$ এবং বল প্রযুক্ত হওয়ার পর মাত্রা $y$ হলেবিকৃতি হবে --</div>",
+            "option1": "<div>(ক) $x(x\\sim y)$</div>",
+            "option2": "<div>(খ) $x+(x\\sim y)$</div>",
+            "option3": "<div>(গ) $\\frac{x}{x\\sim y}$</div>",
+            "option4": "<div>(ঘ $\\frac{x\\sim y}{x}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৮৫. হুকের সূত্রের গাণিতিক রূপ নিচের কোনটি?</div>",
+            "option1": "<div>(ক) পীড়ন $\\mathrm{\\propto }$ বিকৃতি</div>",
+            "option2": "<div>(খ) $পীড়ন\\mathrm{\\ }\\mathrm{\\propto }\\mathrm{\\ }{\\left(বিকৃতি\\right)}^২$</div>",
+            "option3": "<div>(গ) $পীড়ন\\mathrm{\\propto }\\frac{১}{বিকৃতি}$</div>",
+            "option4": "<div>(ঘ $পীড়ন\\mathrm{\\propto }\\frac{১}{{\\left(বিকৃতি\\right)}^২}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৮৬. কোনো বিন্দুতে পীড়নের মান শূন্য হলে বিকৃতির মান হবে --</div>",
+            "option1": "<div>(ক) শূন্য</div>",
+            "option2": "<div>(খ) 1</div>",
+            "option3": "<div>(গ) 100</div>",
+            "option4": "<div>(ঘ অসীম</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৮৭. অসহ পীড়নকে নিচের কোনটি দ্বারা গুণ করলে অসহ ভার পাওয়া যায়?</div>",
+            "option1": "<div>(ক) দৈর্ঘ্য</div>",
+            "option2": "<div>(খ) প্রস্থ</div>",
+            "option3": "<div>(গ) আয়তন</div>",
+            "option4": "<div>(ঘ ক্ষেত্রফল</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৮৮. প্রতি একক প্রস্থচ্ছেদের ক্ষেত্রফলে ন্যূনতম যে বলের ক্রিয়ার তারটি ছিড়েযায় তাকে বলা হয় --</div>",
+            "option1": "<div>(ক) অসহ বল</div>",
+            "option2": "<div>(খ) অসহ ভার</div>",
+            "option3": "<div>(গ) অসহ পীড়ন</div>",
+            "option4": "<div>(ঘ অসহ ওজন</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৮৯. একটি তারের প্রস্থচ্ছেদের ক্ষেত্রফল ${10}^{-11}m^2$ ও দৈর্ঘ্য $2m$ এবংইয়ং গুণাঙ্ক $2\\times {10}^{11}$ হলে এর বল ধ্র্রুবক হবে --</div>",
+            "option1": "<div>(ক) $1\\ {Nm}^{-1}$</div>",
+            "option2": "<div>(খ) $5\\ {Nm}^{-1}$</div>",
+            "option3": "<div>(গ) $100\\ {Nm}^{-1}$</div>",
+            "option4": "<div>(ঘ $2000\\ {Nm}^{-1}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৯০. একটি তারকে ছিড়তে বলের প্রয়োজন হয়। দ্বিগুণ দৈর্ঘ্যের ঐ তারকে ছিড়তে কতবলের প্রয়োজন?</div>",
+            "option1": "<div>(ক) $\\frac{F_1}{4}$</div>",
+            "option2": "<div>(খ) $2F_1$</div>",
+            "option3": "<div>(গ) $3F_1$</div>",
+            "option4": "<div>(ঘ $\\frac{F_1}{12}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৯১. একটি তারের উপাদানের ইয়ং এর গুণাঙ্ক $2\\times {10}^{11}\\ {Nm}^{-2}$।তারটির দৈর্ঘ্য 15\\% বৃদ্ধি করতে হলে প্রযুক্ত পীড়ন নির্ণয় কর।</div>",
+            "option1": "<div>(ক) $3\\times {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $6\\times {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $6\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ 0.5$\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৯২. $2\\ mm$ ব্যাসযুক্ত একটি তারের দৈর্ঘ্য $1\\ mm$ বাড়াতে $10.21\\ kg$ ভরঝুলাতে হয়। তারটির স্থিতিস্থাপক গুণাঙ্ক $2\\times {10}^{11}\\ {Nm}^{-2}$ হলেতারের আদি দৈর্ঘ্য বের কর?</div>",
+            "option1": "<div>(ক) $62.7\\ m$</div>",
+            "option2": "<div>(খ) $6.27\\ m$</div>",
+            "option3": "<div>(গ) $9.8\\ m$</div>",
+            "option4": "<div>(ঘ $5.21\\ m$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৯৩. Y, $\\mathrm{\\eta }$ ও $\\mathrm{\\sigma }$ এর মধ্যে সম্পর্কযুক্ত সমীকরণকোনটি?</div>",
+            "option1": "<div>(ক) $Y=2\\mathrm{\\eta }\\mathrm{(1+}\\mathrm{\\sigma }\\mathrm{)}$</div>",
+            "option2": "<div>(খ) $Y=\\mathrm{\\eta }\\mathrm{(1+}\\mathrm{\\sigma }\\mathrm{)}$</div>",
+            "option3": "<div>(গ) $Y=3\\mathrm{\\eta }\\mathrm{(1+}\\mathrm{\\sigma }\\mathrm{)}$</div>",
+            "option4": "<div>(ঘ $Y=4\\mathrm{\\eta }\\mathrm{(1+}\\mathrm{\\sigma }\\mathrm{)}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৯৪. একটি পদার্থের উপর প্রযুক্ত আয়তন পীড়ন $3\\times {10}^8\\ {Nm}^{-2}$ এবংআয়তন বিকৃতি $1.5\\times {10}^{-3}$ হলে ঐ পদার্থের উপাদানের আয়তন গুণাঙ্ক কত?</div>",
+            "option1": "<div>(ক) $2\\times {10}^{11}\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $12\\times {10}^{11}\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $3\\times {10}^{-8}\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $5\\times {10}^{-8}\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৯৫. একটি নির্দিষ্ট বল দ্বারা কোনো তারকে টানা হলে $10\\ mm$ বৃদ্ধি পায়। একইউপাদান দ্বারা তৈরি দ্বিগুণ দৈর্ঘ্য ও ব্যাস বিশিষ্টি আরেকটি তারকে উক্ত বলদ্বারা টানলে এর দৈর্ঘ্য বৃদ্ধি হবে --</div>",
+            "option1": "<div>(ক) $0.5\\ mm$</div>",
+            "option2": "<div>(খ) $5\\ mm$</div>",
+            "option3": "<div>(গ) $50\\ mm$</div>",
+            "option4": "<div>(ঘ $500\\ mm$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৯৬. কোনো একটি উল্লম্ব তারে $5\\ kg$ ভর ঝুলালে $2\\times {10}^{-3}\\ m$ দৈর্ঘ্যবৃদ্ধি পায়। ঐ তারে $7\\ kg$ ভর ঝুলালে দৈর্ঘ্য কত বৃদ্ধি পাবে?</div>",
+            "option1": "<div>(ক) $2.8\\times {10}^{-3}\\ m$</div>",
+            "option2": "<div>(খ) $2.8\\times {10}^{-2}\\ m$</div>",
+            "option3": "<div>(গ) $2.8\\times {10}^{-1}\\ m$</div>",
+            "option4": "<div>(ঘ $2.2\\ cm$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৯৭. $10\\ m$ লম্বা ও $1\\ mm$ ব্যাসবিশিষ্ট একটি তারকে $100\\ N$ বল দ্বারা টানাহল। তারটির দৈর্ঘ্য কতটুকু বৃদ্ধি পাবে বের কর। [$Y=2\\times {10}^{11}\\{Nm}^{-2}\\ $]</div>",
+            "option1": "<div>(ক) $6.4\\times {10}^{-3}\\ m$</div>",
+            "option2": "<div>(খ) $6.4\\times {10}^{-4}\\ m$</div>",
+            "option3": "<div>(গ) $6.4\\times {10}^{-5}\\ m$</div>",
+            "option4": "<div>(ঘ $6.4\\times {10}^{-6}\\ m$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৯৮. পারদের আয়তনের স্থিতিস্থাপক গুণাঙ্ক $2.6\\times {10}^{10}\\ Pa$ হলে এরসংনম্যতা কত?</div>",
+            "option1": "<div>(ক) $3\\times {10}^{11}\\ {Pa}^{-1}$</div>",
+            "option2": "<div>(খ) $3.79\\times {10}^4\\ {Pa}^{-1}$</div>",
+            "option3": "<div>(গ) $3.84\\times {10}^{-11}\\ {Pa}^{-1}$</div>",
+            "option4": "<div>(ঘ $3.98\\times {10}^{-11}\\ {Pa}^{-1}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৯৯. $1\\ m$ দীর্ঘ একটি তারের দৈর্ঘ্য $0.01\\ m$ বৃদ্ধি পেলে তারটির অনুদৈর্ঘ্যবিকৃত হবে --</div>",
+            "option1": "<div>(ক) $0.001$</div>",
+            "option2": "<div>(খ) $0.01$</div>",
+            "option3": "<div>(গ) $0.1$</div>",
+            "option4": "<div>(ঘ $1$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১০০. একটি তারে 0.01 দৈর্ঘ্য বিকৃতিতে পার্শ্ব বিকৃতি 0.0024 হলে তারেরউপাদানের পয়সনের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $4.167$</div>",
+            "option2": "<div>(খ) $0.24$</div>",
+            "option3": "<div>(গ) $2.4$</div>",
+            "option4": "<div>(ঘ $0.024$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১০১. তামার পয়সনের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $0.11$</div>",
+            "option2": "<div>(খ) $0.22$</div>",
+            "option3": "<div>(গ) $0.33$</div>",
+            "option4": "<div>(ঘ $0.44$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১০২. একটি তারের ব্যাস $5\\ mm$ এবং দৈর্ঘ্য $1\\ m$ তারটির দৈর্ঘ্য বরাবর বলপ্রয়োগ করার ফলে দৈর্ঘ্য $1\\ cm$ বৃ্দ্ধি পায়, কিন্তু ব্যাস $0.01\\ mm$ হ্রাসপায়। তারের উপাদানের পয়সনের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $0.05$</div>",
+            "option2": "<div>(খ) $0.04$</div>",
+            "option3": "<div>(গ) $0.2$</div>",
+            "option4": "<div>(ঘ $0.002$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১০৩. $1\\ cm$ ব্যাস এবং $1\\ m$ দৈর্ঘ্য বিশিষ্ট একটি তারের প্রান্তে বল প্রয়োগকরার ফলে এর দৈর্ঘ্য $0.01\\ m$ বৃদ্ধি পায়। তারটির পয়সনের অনুপাত 0.1 হলে এরব্যাস কত হ্রাস পাবে?</div>",
+            "option1": "<div>(ক) $0.001\\ m$</div>",
+            "option2": "<div>(খ) $0.02\\ cm$</div>",
+            "option3": "<div>(গ) $0.01\\ chm$</div>",
+            "option4": "<div>(ঘ $0.1\\ m$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১০৪. সংকট বেগের ক্ষেত্রে নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) বেগ সর্বনিন্ম</div>",
+            "option2": "<div>(খ) বেগ সর্বোচ্চ</div>",
+            "option3": "<div>(গ) বেগ শূন্য</div>",
+            "option4": "<div>(ঘ বেগ অসীম</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১০৫. দূরত্বের সাথে বেগের পরিবর্তনের ভারকে কি বলে?</div>",
+            "option1": "<div>(ক) বেগ</div>",
+            "option2": "<div>(খ) বেগ অবক্রম</div>",
+            "option3": "<div>(গ) দ্রুতি</div>",
+            "option4": "<div>(ঘ সরণ</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১০৬. নিচের কোনটি সংকোচনীয় প্রবাহী?</div>",
+            "option1": "<div>(ক) অ্যালকোহল</div>",
+            "option2": "<div>(খ) পানি</div>",
+            "option3": "<div>(গ) পারদ</div>",
+            "option4": "<div>(ঘ হাইড্রোজেন</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১০৭. পৃষ্ঠটান নিচের কোনটির বিশেষ ধর্ম?</div>",
+            "option1": "<div>(ক) কঠিন</div>",
+            "option2": "<div>(খ) তরল</div>",
+            "option3": "<div>(গ) গ্যাসীয়</div>",
+            "option4": "<div>(ঘ জলীয় বাষ্প</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১০৮. সান্দ্র তরলের মধ্যে গতিশীল কোনো বস্তু অন্তঃবেগ প্রাপ্ত হলে এর ত্বরণ --</div>",
+            "option1": "<div>(ক) শূন্য হয়</div>",
+            "option2": "<div>(খ) ঋণাত্মক হয়</div>",
+            "option3": "<div>(গ) ধনাত্মক হয়</div>",
+            "option4": "<div>(ঘ সময়ের সাথে হ্রাস পায়</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১০৯. কত সান্দ্রতা গুণাঙ্কের গ্লিসারিনের $4\\ mm$ ব্যাসের একটি ধাতব গোলক$0.7\\ {ms}^{-1}$প্রান্তবেগ পড়বে?</div>",
+            "option1": "<div>(ক) 6.3 পয়েজ</div>",
+            "option2": "<div>(খ) 7.3 পয়েজ</div>",
+            "option3": "<div>(গ) 8.3 পয়েজ</div>",
+            "option4": "<div>(ঘ 9.3 পয়েজ</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১১০. সান্দ্র তরলের মধ্য দিয়ে অভিকর্ষের প্রভাবে কোন নিট ত্বরণ শূন্য হলে --</div>",
+            "option1": "<div>(ক) বস্তুটির বেগ শূন্য হয়</div>",
+            "option2": "<div>(খ) বস্তুটি ধ্র্রুববেগে উপরে উঠে</div>",
+            "option3": "<div>(গ) বস্তুটি ধ্র্রুব বেগে নিচে নামে</div>",
+            "option4": "<div>(ঘ বস্তুটি স্থির হয়ে যায়</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১১১. ভূ-পৃষ্ঠ থেকে $2\\ km$ উচ্চতা হতে একই উপাদানের তৈরি $r_1,\\ r_2$ ও $r_3$ব্যাসার্ধের তিনটি গোলককে একই সাথে দেওয়া হলো। $r_1&gt;r_2;\\r_2&lt;r_3;r_1&gt;r_3$ হলে কোনটি সবার শেষে ভূ-পৃষ্ঠে পৌছাবে?</div>",
+            "option1": "<div>(ক) প্রথম গোলক</div>",
+            "option2": "<div>(খ) দ্বিতীয় গোলক</div>",
+            "option3": "<div>(গ) তৃতীয় গোলক</div>",
+            "option4": "<div>(ঘ গোলক তিনটি একত্রে পৌছাবে</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১১২. সান্দ্রতা কার ধর্ম?</div>",
+            "option1": "<div>(ক) শুধু তরল পদার্থের</div>",
+            "option2": "<div>(খ) শুধু বায়বীয় পদার্থের</div>",
+            "option3": "<div>(গ) শুধু কঠিন পদার্থের</div>",
+            "option4": "<div>(ঘ তরল ও বায়বীয় পদার্থের</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১১৩. বেনজিনের সান্দ্রতা গুণাঙ্ক কত?</div>",
+            "option1": "<div>(ক) $1.1\\times {10}^{-3}$</div>",
+            "option2": "<div>(খ) $0.2\\times {10}^{-2}$</div>",
+            "option3": "<div>(গ) $1.5\\times {10}^{-3}$</div>",
+            "option4": "<div>(ঘ $0.7\\times {10}^{-3}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১১৪. নিচের কোনটি অনিউটনীয় তরল?</div>",
+            "option1": "<div>(ক) পানি</div>",
+            "option2": "<div>(খ) দুধ</div>",
+            "option3": "<div>(গ) মধু</div>",
+            "option4": "<div>(ঘ তেল রং</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১১৫. যে ধর্মের দরুন কোন প্রবাহীর বিভিন্ন স্তরের আপেক্ষিক গতিতে বাধার সৃষ্টিহয় তাকে বলা হয় ঐ প্রবাহীর --</div>",
+            "option1": "<div>(ক) পৃষ্ঠটান</div>",
+            "option2": "<div>(খ) স্থিতিস্থাপকতা</div>",
+            "option3": "<div>(গ) সান্দ্রতা</div>",
+            "option4": "<div>(ঘ কোনটিই নয়</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১১৬. সান্দ্রতা প্রবাহী স্তরের নিচের কোনটির উপর নির্ভর করে?</div>",
+            "option1": "<div>(ক) ত্বরণ</div>",
+            "option2": "<div>(খ) বেগ</div>",
+            "option3": "<div>(গ) সরণ</div>",
+            "option4": "<div>(ঘ আপেক্ষিক বেগ</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১১৭. $0.01\\ m^2$ ক্ষেত্রফল বিশিষ্ট একটি পাত $2\\ mm$ পুরু গ্লিসারিনের একটিস্তরের উপর রাখা হয়েছে। পাতটিকে $0.05\\ {ms}^{-1}$ বেগে চালনা করতে $0.4\\ N$অনুভূমিক বল প্রয়োজন হলে সান্দ্রতা গুণাঙ্ক নিচের কোনটি?</div>",
+            "option1": "<div>(ক) $1.6\\ {Nsm}^{-2}$</div>",
+            "option2": "<div>(খ) $1.7\\ {Nsm}^{-2}$</div>",
+            "option3": "<div>(গ) $1.8\\ {Nsm}^{-2}$</div>",
+            "option4": "<div>(ঘ $1.9\\ {Nsm}^{-2}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১১৮. ${10}^{-2}\\ m^2$ প্রস্থচ্ছেদের ক্ষেত্রফল বিশিষ্ট একটি পাত $2\\times{10}^{-3}\\ m$ পুরু একটি তরলের উপর স্থাপিত। ঐ প্লেটকে $0.03\\ {ms}^{-1}$ বেগেচালনা করতে $0.235\\ N$ অনুভূমিক বলের প্রয়োজন হলে তরলের সান্দ্রতাঙ্ক নির্ণয়কর।</div>",
+            "option1": "<div>(ক) $1.57\\ {kgm}^{-1}s^{-1}$</div>",
+            "option2": "<div>(খ) $1.97\\ {kgm}^{-1}s^{-1}$</div>",
+            "option3": "<div>(গ) $1.87\\ {kgm}^{-1}s^{-1}$</div>",
+            "option4": "<div>(ঘ $1.37\\ {kgm}^{-1}s^{-1}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১১৯. $1.5\\ mm$ গভীরতার স্থির তরল পৃষ্ঠের উপর $2\\times {10}^{-2}m^2$ক্ষেত্রফলের একটি ধাতব প্লেট রক্ষিত আছে। ঐ ধাতব প্লেটকে তরলের উপর $4.5\\ {cm\\s}^{-1}$ বেগে সরাতে অনুভূমিকভাবে কত বল প্রয়োগ করতে হবে? [$তরলের\\mathrm{\\}সান্দ্রতাঙ্ক\\mathrm{\\ }2\\ {Nsm}^{-2}$]</div>",
+            "option1": "<div>(ক) $12\\ N$</div>",
+            "option2": "<div>(খ) $1.2\\ N$</div>",
+            "option3": "<div>(গ) $52\\ N$</div>",
+            "option4": "<div>(ঘ $21\\ N$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১২০. সান্দ্রতার সাথে তাপমাত্রার সম্পর্কের সঠিক সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) $Log\\ T=B+\\frac{A}{\\eta }$</div>",
+            "option2": "<div>(খ) $Log\\ \\eta =T+\\frac{BT}{A}$</div>",
+            "option3": "<div>(গ) $Log\\ \\eta =BT+\\frac{A}{\\sqrt{T}}$</div>",
+            "option4": "<div>(ঘ $Log\\ \\eta =A+\\frac{B}{T}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১২১. একটি গোলাকার তেলের ফোঁটার ঘনত্ব $800\\ {kgm}^{-3}$ ও ব্যাসার্ধ${10}^{-4}\\ m$। তেলের ফোঁটাটি $1.72\\times {10}^{-5}\\ {kgm}^{-1}\\ s^{-1}$সান্দ্রতা গুণাঙ্ক বিশিষ্ট বায়ুর ভিতর দিয়ে পড়তে থাকলে চূড়ান্ত গতিবেগ কত হবে?[$বায়ুর\\mathrm{\\ }ঘনত্ব\\mathrm{\\ }1.3\\ {kgm}^{-3}]$</div>",
+            "option1": "<div>(ক) $1.01127\\ {m\\ s}^{-1}$</div>",
+            "option2": "<div>(খ) $10.1127{m\\ s}^{-1}$</div>",
+            "option3": "<div>(গ) $2.1\\times {10}^{-2}\\ {m\\ s}^{-1}$</div>",
+            "option4": "<div>(ঘ $21.10\\times {10}^{-2}\\ {m\\ s}^{-1}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১২২. কোনো তরলের পৃষ্ঠশক্তি সংখ্যাগতভাবে পৃষ্ঠটানের --</div>",
+            "option1": "<div>(ক) অর্ধেক</div>",
+            "option2": "<div>(খ) সমান</div>",
+            "option3": "<div>(গ) দ্বিগুণ</div>",
+            "option4": "<div>(ঘ তিনগুণ</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১২৩. 200$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রার পানির উপরিতল হতে$0.05\\ m$ লম্বা একটি অনুভূমিক তারকে টেনে তুলতে যে সর্বাধিক বলের প্রয়োজন হয়তার মান $7.28\\times {10}^{-3}\\ N$ হলে পানির পৃষ্ঠটান কত? (তারের ওজন নগন্য)</div>",
+            "option1": "<div>(ক) $7.28\\times {10}^{-2}\\ {Nm}^{-1}$</div>",
+            "option2": "<div>(খ) $7.00\\times {10}^{-2}\\ {Nm}^{-1}$</div>",
+            "option3": "<div>(গ) $7.77\\times {10}^{-5}\\ {Nm}^{-1}$</div>",
+            "option4": "<div>(ঘ $7.99\\times {10}^{-1}\\ {Nm}^{-1}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১২৪. একটি সাবানের বুদবুদের $(পৃষ্ঠটান=30\\ dyne/cm)$ ব্যাসার্ধ $2\\ cm$।ব্যাসার্ধ দ্বিগুণ করার জন্য কাজের প্রয়োজন হবে --</div>",
+            "option1": "<div>(ক) $4525\\ erg$</div>",
+            "option2": "<div>(খ) $2262\\ erg$</div>",
+            "option3": "<div>(গ) $1130\\ erg$</div>",
+            "option4": "<div>(ঘ $9047.81\\ erg$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১২৫. তরলের মুক্ততলের একক ক্ষেত্রফল সঞ্চিত বিভব শক্তিকে বলা হয় তরলের --</div>",
+            "option1": "<div>(ক) পৃষ্ঠটান</div>",
+            "option2": "<div>(খ) সান্দ্রতা</div>",
+            "option3": "<div>(গ) পৃষ্ঠশক্তি</div>",
+            "option4": "<div>(ঘ সান্দ্রতাঙ্ক</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১২৬. পানির উপরিতলে রাখা $0.05\\ m$ দীর্ঘ একটি সূঁচকে টেনে তুলতে সর্বাধিক যেবলের প্রয়োজন $(পানির\\ \\ পৃষ্ঠটান\\ \\ 72\\times {10}^{-3}\\ {Nm}^{-1})$ --</div>",
+            "option1": "<div>(ক) $7.2\\times {10}^{-3}\\ N$\\textit{}</div>",
+            "option2": "<div>(খ) $3.6\\times {10}^{-3}\\ N$</div>",
+            "option3": "<div>(গ) $1.4\\times {10}^{-3}\\ N$</div>",
+            "option4": "<div>(ঘ $7.2\\times {10}^{-4}\\ N$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১২৭. একটি কৈশিক নলের ব্যাস $0.04\\times {10}^{-4}\\ m$ । এর এক প্রান্ত পানিতেডুবালে পানি নলের ভিতর $0.082\\ m$ উপরে ওঠে। পানির তলটান কত? $[পানির\\ঘনত্ব=1\\times {10}^3\\ {kgm}^{-3}]$</div>",
+            "option1": "<div>(ক) $75.36\\times {10}^{-3}\\ {Nm}^{-1}$</div>",
+            "option2": "<div>(খ) $80.36\\times {10}^{-3}\\ {Nm}^{-1}$</div>",
+            "option3": "<div>(গ) $75..36\\times {10}^{-5}\\ {Nm}^{-1}$</div>",
+            "option4": "<div>(ঘ $80.36\\times {10}^{-5}\\ {Nm}^{-1}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১২৮. $0.4\\ cm$ ব্যাস বিশিষ্ট একটি কৈশিক নলকে ${10}^3\\ {kgm}^{-3}$ ঘনত্বেরপানিতে ডুবালে নলের কত উচ্চতায় পানি উঠবে? $[পানির\\ পৃষ্ঠটান\\ \\ 72\\times{10}^{-3}\\ {Nm}^{-1}]$</div>",
+            "option1": "<div>(ক) $7.3\\times {10}^3\\ m$</div>",
+            "option2": "<div>(খ) $14.6\\times {10}^3\\ m$</div>",
+            "option3": "<div>(গ) $7.3\\times {10}^{-3}\\ m$</div>",
+            "option4": "<div>(ঘ $10.5\\times {10}^{-3}\\ m$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১২৯. $2\\times {10}^{-3}\\ m$ ব্যাসার্ধের কোনো পানির ফোঁটায় চাপের পার্থক্যকত? $[পানির\\ পৃষ্ঠটান\\ \\ 72\\times {10}^{-3}\\ {Nm}^{-1}]$</div>",
+            "option1": "<div>(ক) $288\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $7.2\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $100\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $72\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৩০. $2\\times {10}^{-4}m$ ব্যাসার্ধের একটি কাচের নলে কোনো তরলের স্পর্শ কোণ135$\\mathrm{{}^\\circ}$ এবং তলের পৃষ্ঠটান $0.547\\ {Nm}^{-1}$ হলে নলে তরলেরঅবনমন নির্ণয় কর। $[\\ তরলের\\mathrm{\\ }ঘনত্ব\\mathrm{\\ \\ }13.6\\times{10}^3{kgm}^{-3}]$</div>",
+            "option1": "<div>(ক) $-0.56\\ m$</div>",
+            "option2": "<div>(খ) $-2.6\\ m$</div>",
+            "option3": "<div>(গ) $-0.029\\ m$</div>",
+            "option4": "<div>(ঘ $0.001\\ m$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৩১. কৌশিক নল বা দুই মুখ খোলাবিশিষ্ট একটি কাচের নলকে পানিতে ডুবালে নলেরভেতরের পানির আকার কী ধারণ করবে?</div>",
+            "option1": "<div>(ক) উত্তল</div>",
+            "option2": "<div>(খ) অবতল</div>",
+            "option3": "<div>(গ) কোন পরিবর্তন হবে না</div>",
+            "option4": "<div>(ঘ গোলাকার</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৩২. একটি কৈশিক নলের তরলে উচ্চতা এর ব্যাসার্ধের --</div>",
+            "option1": "<div>(ক) সমানুপাতিক</div>",
+            "option2": "<div>(খ) ব্যস্তানুপাতিক</div>",
+            "option3": "<div>(গ) বর্গের সমানুপাতিক</div>",
+            "option4": "<div>(ঘ বর্গের ব্যস্তানুপাতিক</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৩৩. সান্দ্র তরলের মধ্যে গতিশীল কোনো বস্তু অন্তঃবেগে প্রাপ্ত হলে এর ত্বরণ-</div>",
+            "option1": "<div>(ক) শূন্য হয়</div>",
+            "option2": "<div>(খ) ধনাত্মক হয়</div>",
+            "option3": "<div>(গ) ঋণাত্মক হয়</div>",
+            "option4": "<div>(ঘ অন্যান্য বিষয়ের উপর নির্ভর করে</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৩৪. $0.8\\times {10}^{-3}\\ m$ ব্যাসার্ধের একটি কৈশিক কাচ নল পারদে ডুবালেনলের মধ্যে পারদের অবনমন $6.753\\times {10}^{-3}m$ হয়। পারদের পৃষ্ঠটান$4.7\\times {10}^{-1}\\ {Nm}^{-1}$ এবং ঘনত্ব $13.6\\times {10}^3\\ {kgm}^{-3}$হলে কাচ ও পারদের স্পর্শ কোণ কত?</div>",
+            "option1": "<div>(ক) 40$\\mathrm{{}^\\circ}$</div>",
+            "option2": "<div>(খ) 60$\\mathrm{{}^\\circ}$</div>",
+            "option3": "<div>(গ) 120$\\mathrm{{}^\\circ}$</div>",
+            "option4": "<div>(ঘ 140$\\mathrm{{}^\\circ}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৩৫. পানির মুক্ত পৃষ্ঠে একটি গ্রীজ বা তেল মাখানো সুইকে পাতলা কাগজের উপরআলতোভাবে রাখলে --</div>",
+            "option1": "<div>(ক) কাগজ পানিতে ডুবে যাবে</div>",
+            "option2": "<div>(খ) সুই পানিতে ডুবে যাবে</div>",
+            "option3": "<div>(গ) কাগজ পানিতে ভাসবে</div>",
+            "option4": "<div>(ঘ কাগজ স্থির হয়ে যাবে</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৩৬. পানির তলে পোকামাকড়ের চলাচলে নিচের কোনটির ব্যবহার রয়েছে?</div>",
+            "option1": "<div>(ক) জলাশয়ের গভীরতা</div>",
+            "option2": "<div>(খ) পানির রং</div>",
+            "option3": "<div>(গ) পানির স্বচ্ছতা</div>",
+            "option4": "<div>(ঘ পৃষ্ঠটান</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৩৭. কৈশিক নলের পানির উর্ধ্বারোহণের কারণ --</div>",
+            "option1": "<div>(ক) তরলের ভর</div>",
+            "option2": "<div>(খ) তরলের ওজন</div>",
+            "option3": "<div>(গ) তরলের সান্দ্রতা</div>",
+            "option4": "<div>(ঘ তরলের পৃষ্ঠটান</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৩৮. আয়ণিক যৌগসমূহ --<br>i. পোলার তরলে অদ্রবণীয়<br>ii. কঠিন অবস্থায় বিদ্যুৎ অপরিবাহী<br>iii. অপোলার দ্রবণে অদ্রবণীয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৩৯. আয়ণিক যৌগসমূহের --<br>i. বিগলিত বা দ্রবীভূত অবস্থায় বিদ্যুৎ পরিবহন করে<br>ii. গলনাঙ্ক ও স্ফুটনাঙ্ক কম<br>iii. ইলেকট্রনিক গঠন একই রকম হলে সমরূপী হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৪০. পোলরিটি --<br>i. আয়নিক যৌগের ক্ষেত্রে উচ্চ<br>ii. সমযোজী যৌগের ক্ষেত্রে নিম্ন<br>iii. ডাই-ইলেকট্রনিক ধ্র্রুবক দ্বারা পরিমাপ করা হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৪১. বস্তুর স্ফটিক ল্যাটিসে প্রতিটি পরমাণু বেষ্টিত থাকে --<br>i. 4 টি পরমাণু দিয়ে<br>ii. 8 টি পরমাণু দিয়ে<br>iii. 12 টি পরমাণু দিয়ে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৪২. ভ্যানডার ওয়ালস আকর্ষণ বল যে বলগুলোর সমন্বয়ে গঠিত সেগুলো হচ্ছে --<br>i. ডাইপোল-ডাইপোল আকর্ষণ<br>ii. ডাইপোল আবিষ্ট ডাইপোল আকর্ষণ<br>iii. লন্ডন বিচ্ছুরণ বল<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৪৩. তরল পদার্থকে উত্তপ্ত করলে যথেষ্ট পরিমাণে বৃদ্ধি পায় অণুগুলোর --<br>i. স্থানান্তর গতি<br>ii. ঘূর্ণন গতি<br>iii. কম্পন গতি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৪৪. গঠনের প্রকৃতি অনুসারে রাসায়নিক বন্ধন হচ্ছে --<br>i. আয়নিক বন্ধন<br>ii. সমযোজী বন্ধন<br>iii. ধাতব বন্ধন<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৪৫. লন্ডন বিচ্ছুরণ বল লক্ষ করা যায় --<br>i. নিস্ক্রিয় গ্যাসের মধ্যে<br>ii. পোলার এক পারমাণবিক অণুর ক্ষেত্রে<br>iii. অপোলার দ্বি-পারমাণবিক অণুর ক্ষেত্রে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৪৬. চাপ প্রয়োগে-<br>i. কঠিন পদার্থের আয়তনের পরিবর্তন ঘটে না<br>ii. তরল পদার্থের আয়তনের পরিবর্তন ঘটে<br>iii. গ্যাসীয় পদার্থের আয়তনের পরিবর্তন ঘটে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৪৭. সান্দ্রতা ধর্ম রয়েছে --<br>i. কঠিনের<br>ii. তরলের<br>iii. বায়বীয়ের<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৪৮. প্রবাহীর প্রকারভেদগুলো হলো --<br>i. উষ্ণ প্রবাহী<br>ii. সংকোচনীয় প্রবাহী<br>iii. অসংকোনচনীয় প্রবাহী<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৪৯. সান্দ্রতার ক্ষেত্রে নিচের তথ্যগুলো লক্ষ্য কর --<br>i. প্রবাহীর অভ্যন্তরীণ ঘর্ষণ<br>ii. স্থির প্রবাহীর ক্ষেত্রে ক্রিয়া করে না<br>iii. প্রবাহী গতিশীল হলেই সান্দ্রতার উদ্ভব হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৫০. পৃষ্ঠটান সম্পর্কিত ঘটনা --<br>i. সূচ পানিতে ভাসা<br>ii. কর্পূরের পানিতে নাচা<br>iii. ছাতার কাপড়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৫১. দুটি অণুর মধ্যে দূরত্বের পরিবর্তনের সঙ্গে যে যে পরিবর্তন পরিলক্ষিত হয়তা হচ্ছে --<br>i. আন্তঃআণবিক বল<br>ii. আণবিক ভর<br>iii. স্থিতিশক্তি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>নিচের উদ্দীপকটি পড় এবং ১৫২ ও ১৫৩ নং প্রশ্নের উত্তর দাওঃ<br>r ব্যাসার্ধের একটি বুদবুদের পৃষ্ঠটান T যার মধ্যে P চাপের বাতাস আছে।এর মধ্যে আরও বাতাস প্রবেশ করানোর ফলে এর ব্যাসার্ধ হলো 2r।<br>১৫২. দ্বিতীয় বুদবুদের ক্ষেত্রে পৃষ্ঠটান কত হবে?</div>",
+            "option1": "<div>(ক) T এর চেয়ে সামান্য কম</div>",
+            "option2": "<div>(খ) T এর সমান</div>",
+            "option3": "<div>(গ) T এর চেয়ে সামান্য বেশি</div>",
+            "option4": "<div>(ঘ 2T এর সমান</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৫৩. দুই ক্ষেত্রে পৃষ্ঠশক্তির অনুপাত হবে-</div>",
+            "option1": "<div>(ক) 4</div>",
+            "option2": "<div>(খ) 2</div>",
+            "option3": "<div>(গ) 1</div>",
+            "option4": "<div>(ঘ $\\frac{1}{2}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>চিত্রে, AB একটি তার । এটির A পান্ত একটি দৃঢ় অবলম্বনে বেঁধে খাড়াভাবেঝুলানো হলো এর ব্যাস 0.6 mm । তারটির উপাদানের ইয়ং-এর গুণাঙ্ক}$\\boldsymbol{2}\\times {10}^{11}\\ {Nm}^{-2}$}<br>উপরের চিত্র ও তথ্যের আলোকে নিচের ১৫৪ ও ১৫৫ নং প্রশ্নের উত্তর দাওঃ<br>১৫৪. উদ্দীপকের তারটির -<br>i. AC অংশের উপর প্রযুক্ত বল $8\\ kg-w$<br>ii. AC অংশের দৈর্ঘ্য প্রসারণ $2.079\\times {10}^{-3}\\ $<br>iii. CB অংশের দৈর্ঘ্য প্রসারণ $2.039\\times {10}^{-3}\\ $<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>a</div>",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/154.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৫৫. B বিন্দুর অবনমন কত হবে?</div>",
+            "option1": "<div>(ক) $1.12\\times {10}^{-3}\\ m$</div>",
+            "option2": "<div>(খ) $2.12\\times {10}^{-3}\\ m$</div>",
+            "option3": "<div>(গ) $3.12\\times {10}^{-3}\\ m$</div>",
+            "option4": "<div>(ঘ $4.12\\times {10}^{-3}\\ m$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>চিত্রে, তারটির এক প্রান্ত আবদ্ধ এবং অপর প্রান্তে }$3\\ kg$ভরের একটি বস্তু যুক্ত আছে। বস্তুটিকে একটি অনুভূমিক বৃত্ত পথে সমুদ্রটিতেঘুরানো হচ্ছে। তারটির ব্যাসার্ধ }$0.40\\ mm$ এবং উপাদানের}$\\mathrm{Y=1.8}\\times {10}^{11}\\ {Nm}^{-2}\\ $।<br>উপরের চিত্র ও তথ্য অবলম্বনে নিচের ১৫৬-১৫৮ নং প্রশ্নের উত্তর দাওঃ<br>১৫৬. টান, $T=?$</div>",
+            "option1": "<div>(ক) $7.85\\ N$</div>",
+            "option2": "<div>(খ) $11.85\\ N$</div>",
+            "option3": "<div>(গ) $21.85\\ N$</div>",
+            "option4": "<div>(ঘ $31.85\\ N$</div>",
+            "mcqAnswer": "<div>d</div>",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/156.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৫৭. তারটির --<br>i. AO অংশের দৈর্ঘ্য $13\\ m$<br>ii. পীড়ন $6.34\\times {10}^7\\ {Nm}^{-2}$<br>iii. বিকৃতি $3.52\\times {10}^{-4}$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৫৮. তারটির দৈর্ঘ্য প্রসারণ হবে --</div>",
+            "option1": "<div>(ক) $2.52\\times {10}^{-4}\\ m$</div>",
+            "option2": "<div>(খ) $3.52\\times {10}^{-4}\\ m$</div>",
+            "option3": "<div>(গ) $4.57\\times {10}^{-3}\\ m$</div>",
+            "option4": "<div>(ঘ $3.57\\times {10}^{-3}\\ m$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>একটি ধাতব দন্ডের দৈর্ঘ্য হলো }$\\boldsymbol{20}\\times {10}^{-2}\\m$ ও ক্ষেত্রফল }$\\boldsymbol{1}\\times {10}^{-4}\\ m$ ।দন্ডটিকে এক প্রান্ত বেধে অপর প্রান্তে }$\\boldsymbol{1000}\\boldsymbol{\\}\\boldsymbol{kg}$ ভরের একটি বস্তু ঝুলিয়ে দিলে দন্ডটির দৈর্ঘ্য}${10}^{-4}\\ m$ বৃদ্ধি পায়।<br>উপরের তথ্যের আলোকে ১৫৯ ও ১৬০ নং প্রশ্নের উত্তর দাওঃ<br>১৫৯. দন্ডটির দৈর্ঘ্য পীড়ন কত?</div>",
+            "option1": "<div>(ক) $\\mathrm{9}.8\\times {10}^6{\\ Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $9.8\\times {10}^{-6}{\\ Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $9.8\\times {10}^7{\\ Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $9.8\\times {10}^{-7}{\\ Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬০. দন্ডটির ইয়ং গুণাঙ্কের মান নিচের কোনটি?</div>",
+            "option1": "<div>(ক) $1.96\\times {10}^{11}$</div>",
+            "option2": "<div>(খ) $2.96\\times {10}^{11}$</div>",
+            "option3": "<div>(গ) $3.96\\times {10}^{11}$</div>",
+            "option4": "<div>(ঘ $4.96\\times {10}^{11}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬১. আন্তঃআণবিক বল হলো --</div>",
+            "option1": "<div>(ক) চৌম্বক বল</div>",
+            "option2": "<div>(খ) তড়িৎ বল</div>",
+            "option3": "<div>(গ) মহাকর্ষ বল</div>",
+            "option4": "<div>(ঘ ঘর্ষণ বল</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬২. নিচের কোনটির আন্তঃআণবিক দূরত্ব সবচেয়ে কম?</div>",
+            "option1": "<div>(ক) পানি</div>",
+            "option2": "<div>(খ) কেরোসিন</div>",
+            "option3": "<div>(গ) অক্সিজেন</div>",
+            "option4": "<div>(ঘ চিনি</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬৩. আন্তঃআণবিক আকর্ষণ বলকে কী বলে?</div>",
+            "option1": "<div>(ক) মহাকর্ষ বল</div>",
+            "option2": "<div>(খ) কুলম্ব বল</div>",
+            "option3": "<div>(গ) স্থিতিস্থাপক বল</div>",
+            "option4": "<div>(ঘ সান্দ্র বল</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬৪. নিচের কোন পদার্থের অণুগুলোর অবস্থানের কম্পনের গতিশক্তিই অভ্যন্তরীণশক্তি?</div>",
+            "option1": "<div>(ক) কঠিন</div>",
+            "option2": "<div>(খ) তরল</div>",
+            "option3": "<div>(গ) গ্যাসীয়</div>",
+            "option4": "<div>(ঘ তরল ও গ্যাসীয়</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬৫.যখন কোনো বায়বীয় পদার্থ সমান সংখ্যক ধন ও ঋণ আয়ন সৃষ্টি করে পদার্থের এঅব্স্থাকে কী বলে?</div>",
+            "option1": "<div>(ক) প্লাজমা অবস্থা</div>",
+            "option2": "<div>(খ) আয়নিক অবস্থা</div>",
+            "option3": "<div>(গ) বায়বীয় অবস্থা</div>",
+            "option4": "<div>(ঘ কেলাসীয় অবস্থা</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬৬. কোনটির বাষ্পায়ন দ্রুত হয়?</div>",
+            "option1": "<div>(ক) পানি</div>",
+            "option2": "<div>(খ) ক্লোরোফরম</div>",
+            "option3": "<div>(গ) গ্লিসারিন</div>",
+            "option4": "<div>(ঘ বেনজিন</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬৭. বৈদ্যুতিক ক্ষেত্রের তীব্রতা হ্রাসের প্রবণতাকে নিচের কোনটি দ্বারাপরিমাপ করা হয়?</div>",
+            "option1": "<div>(ক) ক্ষেত্রের আয়তন</div>",
+            "option2": "<div>(খ) ক্ষেত্রের তাপমাত্রা</div>",
+            "option3": "<div>(গ) ডাই ইলেকট্রিক ধ্র্রুবক</div>",
+            "option4": "<div>(ঘ উপরের সবগুলো</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬৮. সমযোজী বন্ধনের অপর নাম কী?</div>",
+            "option1": "<div>(ক) প্রোটন জোড় বন্ধন</div>",
+            "option2": "<div>(খ) মুক্ত জোড় বন্ধন</div>",
+            "option3": "<div>(গ) আপেক্ষিক ইলেকট্রন বন্ধন</div>",
+            "option4": "<div>(ঘ ইলেকট্রন জোড় বন্ধন</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬৯. বায়ু কত তাপমাত্রায় তরলে পরিণত হয়?</div>",
+            "option1": "<div>(ক) -174$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+            "option2": "<div>(খ) -184$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+            "option3": "<div>(গ) -194$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+            "option4": "<div>(ঘ -204$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৭০. লন্ডন বিস্তরণ বল কোনটিকে বলা হয়?</div>",
+            "option1": "<div>(ক) ডাইপোল-ডাইপোল আকর্ষণ</div>",
+            "option2": "<div>(খ) ডাইপোল-আবিষ্ট ডাইপোল আকর্ষণ</div>",
+            "option3": "<div>(গ) আবিষ্ট ডাইপোল-ডাইপোল আকর্ষণ</div>",
+            "option4": "<div>(ঘ আবিষ্ট ডাইপোল-আবিষ্ট ডাইপোল আকর্ষণ</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৭১. উষ্ণতা বৃদ্ধি পেলে স্থিতিস্থাপকতা বৃদ্ধি পায় --</div>",
+            "option1": "<div>(ক) ইস্পাত</div>",
+            "option2": "<div>(খ) লোহা</div>",
+            "option3": "<div>(গ) রূপা</div>",
+            "option4": "<div>(ঘ তামা</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৭২. প্যান্ট বা মোজার স্থিতিস্থাপক ফিতা নষ্ট হয়ে যাওয়ার কারণ নিচের কোনটি?</div>",
+            "option1": "<div>(ক) অসহভার</div>",
+            "option2": "<div>(খ) অসহ পীড়ন</div>",
+            "option3": "<div>(গ) স্থিতিস্থাপক ক্লান্তি</div>",
+            "option4": "<div>(ঘ ওজন</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৭৩. পদার্থের অণুগুলোর স্থিতিশক্তি সর্বনিম্ন হয় যখন আন্তঃআণবিক --</div>",
+            "option1": "<div>(ক) আকর্ষণ বল বেশি হয়</div>",
+            "option2": "<div>(খ) বিকর্ষণ বল বেশি হয়</div>",
+            "option3": "<div>(গ) আকর্ষণ ও বিকর্ষণ বল শূন্য হয়</div>",
+            "option4": "<div>(ঘ দূরত্ব এর বেশি হয়</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৭৪. নিচের কোনটি ভেক্টর রাশি?</div>",
+            "option1": "<div>(ক) পীড়ন</div>",
+            "option2": "<div>(খ) বিকৃতি</div>",
+            "option3": "<div>(গ) সান্দ্রতা</div>",
+            "option4": "<div>(ঘ পৃষ্ঠশক্তি</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৭৫. আয়তন গুণাঙ্কের বিপরীত রাশি কোনটি?</div>",
+            "option1": "<div>(ক) পীড়ন</div>",
+            "option2": "<div>(খ) সংনম্যতা</div>",
+            "option3": "<div>(গ) সান্দ্রতা</div>",
+            "option4": "<div>(ঘ পৃষ্ঠশক্তি</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৭৬. দৈর্ঘ্য বিকৃতি বনাম পার্শ্ব বিকৃতির লেখচিত্রের প্রকৃতি কোনটি?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ</div>",
+            "mcqAnswer": "<div>a</div>",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/176.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৭৭. যদি কোনো তারের দৈর্ঘ্য দ্বিগুণ করা হয় তবে এর বিকৃতি কিরূপ হবে?</div>",
+            "option1": "<div>(ক) 1</div>",
+            "option2": "<div>(খ) 0</div>",
+            "option3": "<div>(গ) 2</div>",
+            "option4": "<div>(ঘ 0.5</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৭৮. নিচের কোনটির স্থিতিস্থাপকতা সবচেয়ে বেশি?</div>",
+            "option1": "<div>(ক) স্পঞ্জ</div>",
+            "option2": "<div>(খ) রাবার</div>",
+            "option3": "<div>(গ) তামা</div>",
+            "option4": "<div>(ঘ পানি</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৭৯. কোনো তরলের দৃঢ়তার গুণাঙ্ক --</div>",
+            "option1": "<div>(ক) 0</div>",
+            "option2": "<div>(খ) 1</div>",
+            "option3": "<div>(গ) 2</div>",
+            "option4": "<div>(ঘ $\\mathrm{\\alpha }$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৮০. বলধ্র্রুবক সম্পন্ন একটি স্প্রিং এর দৈর্ঘ্য বৃদ্ধি করলে স্প্রিং এরস্থিতি কতটুকু বৃদ্ধি পাবে?</div>",
+            "option1": "<div>(ক) $0.01\\ J$</div>",
+            "option2": "<div>(খ) $0.001\\ J$</div>",
+            "option3": "<div>(গ) $0.0001\\ J$</div>",
+            "option4": "<div>(ঘ $0.00001\\ J$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৮১. $2\\ {Nm}^{-1}$ স্প্রিং ধ্র্রুবকের একটি স্প্রিং এর বিভব শক্তি কত বৃদ্ধিপাবে?</div>",
+            "option1": "<div>(ক) $1\\ J$</div>",
+            "option2": "<div>(খ) $0.1\\ J$</div>",
+            "option3": "<div>(গ) $0.01\\ J$</div>",
+            "option4": "<div>(ঘ $0.001\\ J$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৮২. হুকের সূত্র হলো --</div>",
+            "option1": "<div>(ক) পীড়ন = ধ্র্রুবক $\\mathrm{\\times}$ বিকৃতি</div>",
+            "option2": "<div>(খ) বিকৃতি = ধ্র্রুবক $\\mathrm{\\times}$ পীড়ন</div>",
+            "option3": "<div>(গ) পীড়ন $\\mathrm{\\times}$ বিকৃতি</div>",
+            "option4": "<div>(ঘ পীড়ন = বিকৃতি $\\mathrm{\\times}$ ধ্র্রুবক</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৮৩. পীড়ন ও বিকৃতির মধ্যে সম্পর্ককারী সমীকরণটি হুক কত সালে দেন?</div>",
+            "option1": "<div>(ক) 1678 খ্রিস্টাব্দে</div>",
+            "option2": "<div>(খ) 1778 খ্রিস্টাব্দে</div>",
+            "option3": "<div>(গ) 1662 খ্রিস্টাব্দে</div>",
+            "option4": "<div>(ঘ 1621 খ্রিস্টাব্দে</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৮৪. একটি তারের উপাদানের ইয়ং এর গুণফল, তারটির দৈর্ঘ্য 15\\% বৃদ্ধি করতে হলেপ্রযুক্ত পীড়ন নির্ণয় কর।</div>",
+            "option1": "<div>(ক) $6\\times {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $3\\times {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $6\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $0.5\\ \\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৮৫. $2\\ m$ দৈর্ঘ্য ও $1\\ {mm}^2$ প্রস্থচ্ছেদের ক্ষেত্রফল বিশিষ্ট তারে $20\\kg$ ভর ঝুলালে তারটি $1\\ mm$ প্রসারিত হয়। তারটির পীড়ন কত?</div>",
+            "option1": "<div>(ক) $1.96\\times {10}^8\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $1.96\\times {10}^5\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $2\\times {10}^7\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $1.96\\times {10}^2\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৮৬. পীড়ন বনাম বিকৃতির লেখচিত্র কোনটি?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ</div>",
+            "mcqAnswer": "<div>b</div>",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/186.webp"
+        },
+        {
+            "mcqQuestion": "<div>১৮৭. পীড়ন ও বিকৃতির মধ্যে সম্পর্ক নির্ধারণকারী সূত্রের নাম কি?</div>",
+            "option1": "<div>(ক) হুকের সূত্র</div>",
+            "option2": "<div>(খ) ইয়ং এর সূত্র</div>",
+            "option3": "<div>(গ) পয়সনের সূত্র</div>",
+            "option4": "<div>(ঘ নিউটনের সূত্র</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৮৮. একটি ঝুলন্ত তারে $\\frac{1}{9.8}\\ kg$ ভর ঝুলালে যদি তারটির দৈর্ঘ্য$0.002\\ m$ বৃদ্ধি পায় তবে ঐ বৃদ্ধির জন্য কাজ কত হবে?</div>",
+            "option1": "<div>(ক) $0.1\\ J$</div>",
+            "option2": "<div>(খ) $0.01\\ J$</div>",
+            "option3": "<div>(গ) $0.001\\ J$</div>",
+            "option4": "<div>(ঘ $0.0001\\ J$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৮৯. দৃঢ়তার গুণাঙ্ক নিচের কোন পদার্থের জন্য প্রযোজ্য?</div>",
+            "option1": "<div>(ক) কঠিন</div>",
+            "option2": "<div>(খ) তরল</div>",
+            "option3": "<div>(গ) বায়বীয়</div>",
+            "option4": "<div>(ঘ সকল</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯০. $2\\times {10}^{-4}\\ m^2$ প্রস্থচ্ছেদের ক্ষেত্রফল বিশিষ্ট একটি ইস্পাতেরতারে কত বল প্রয়োগ করলে এর দৈর্ঘ্য দ্বিগুণ হবে? $[Y=2\\times {10}^{11}\\{Nm}^{-2}]$</div>",
+            "option1": "<div>(ক) $1\\times {10}^7\\ N$</div>",
+            "option2": "<div>(খ) $2\\times {10}^7\\ N$</div>",
+            "option3": "<div>(গ) $3\\times {10}^7\\ N$</div>",
+            "option4": "<div>(ঘ $4\\times {10}^7\\ N$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯১. $20\\ kgwt/{cm}^2$ চাপে 5 লিটার গ্লিসারিনের আয়তন $2.5\\ c.c$ কমে যাবে।গ্লিসারিনের আয়তন গুণাঙ্ক হবে --</div>",
+            "option1": "<div>(ক) $1.92\\times {10}^6\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $1.92\\times {10}^{-6}\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $3.92\\times {10}^9\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $3.92\\times {10}^{-9}\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯২. ${10}^8\\ {Nm}^{-2}$ পীড়নের প্রয়োগে $1\\ m$ দীর্ঘ একটি তারের দৈর্ঘ্য${10}^{-3}\\ m$ বৃদ্ধি পেল। ইয়ং এর গুণাঙ্ক কত?</div>",
+            "option1": "<div>(ক) ${10}^5\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) ${10}^{-11}\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) ${10}^{11}\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ ${10}^{-5}\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯৩. ইয়ং গুণাঙ্ক Y, আয়তন গুণাঙ্ক K এর দৃঢ়তার গুণাঙ্ক $\\mathrm{\\eta }$ হলেকোন সম্পর্কটি সঠিক?</div>",
+            "option1": "<div>(ক) $\\frac{3}{Y}=\\frac{9}{\\mathrm{\\eta }}+\\frac{1}{k}$</div>",
+            "option2": "<div>(খ) $\\frac{9}{Y}=\\frac{1}{\\mathrm{\\eta }}+\\frac{3}{k}$</div>",
+            "option3": "<div>(গ) $\\frac{9}{Y}=\\frac{3}{\\mathrm{\\eta }}+\\frac{1}{k}$</div>",
+            "option4": "<div>(ঘ $\\frac{1}{Y}=\\frac{9}{\\mathrm{\\eta }}+\\frac{3}{k}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯৪. একটি তারের উপাদানের ইয়ং এর গুণাঙ্ক $2\\times {10}^{11}\\ {Nm}^{-2}$ ।তারের দৈর্ঘ্য 15\\% বৃদ্ধি করতে প্রযুক্ত পীড়ন নির্ণয় কর।</div>",
+            "option1": "<div>(ক) $3\\times {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $4\\times {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $1\\times {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $2\\times {10}^{10}\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯৫. $1\\ {mm}^2$ প্রস্থচ্ছেদ ক্ষেত্রফল বিশিষ্ট একটি ইস্পাত তারের দৈর্ঘ্য5\\% বৃদ্ধি করতে কত বল প্রয়োগ করতে হবে?</div>",
+            "option1": "<div>(ক) ${10}^4\\ N$</div>",
+            "option2": "<div>(খ) ${1.0}^4\\ N$</div>",
+            "option3": "<div>(গ) $10\\ N$</div>",
+            "option4": "<div>(ঘ $5\\ N$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯৬. পয়সনের অনুপাতের সীমা কোনটি?</div>",
+            "option1": "<div>(ক) $-1&lt;\\sigma &lt;\\frac{1}{\\mathrm{2}}$</div>",
+            "option2": "<div>(খ) $-1&lt;\\sigma &lt;0$</div>",
+            "option3": "<div>(গ) $0&lt;\\sigma &lt;\\frac{1}{\\mathrm{2}}$</div>",
+            "option4": "<div>(ঘ $-\\frac{1}{\\mathrm{2}}&lt;\\sigma &lt;1$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯৭. $1\\ m$ লম্বা $1\\ mm$ ব্যাস বিশিষ্ট একটি তারের দৈর্ঘ্য বৃদ্ধি $0.025\\cm$ হলে তারটির ব্যাস কতটুকু হ্রাস পাবে? $[6=0.3]$</div>",
+            "option1": "<div>(ক) $75\\times {10}^{-9}\\ m$</div>",
+            "option2": "<div>(খ) $75\\times {10}^9\\ m$</div>",
+            "option3": "<div>(গ) $150\\times {10}^{-9}\\ m$</div>",
+            "option4": "<div>(ঘ $37.5\\times {10}^{-9}\\ m$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯৮. একটি তারের 0.01 দৈর্ঘ্য বিকৃতিতে পার্শ্ব বিকৃতি 0.0024 হলে, তারেরউপাদানের পয়সনের অনুপাত কত?</div>",
+            "option1": "<div>(ক) 0.024</div>",
+            "option2": "<div>(খ) 0.24</div>",
+            "option3": "<div>(গ) 0.42</div>",
+            "option4": "<div>(ঘ 2.40</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯৯. একটি তারের 0.01 দৈর্ঘ্য বিকৃতি হওয়ায় পার্শ্ব বিকৃতি হয় 0.002 । পয়সনেরঅনুপাত কত?</div>",
+            "option1": "<div>(ক) 0.00002</div>",
+            "option2": "<div>(খ) 0.2</div>",
+            "option3": "<div>(গ) 5</div>",
+            "option4": "<div>(ঘ 0.04</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২০০. পয়সনের অনুপাতের সীমা --</div>",
+            "option1": "<div>(ক) -1 এবং 0.5</div>",
+            "option2": "<div>(খ) -1 এবং -2</div>",
+            "option3": "<div>(গ) -0.5 এবং +1</div>",
+            "option4": "<div>(ঘ -1 এবং 0</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২০১. একটি তারের দৈর্ঘ্য বরাবর বল প্রয়োগ করা হলে এর দৈর্ঘ্য $1\\ m$ হতে$75\\times 1.02\\ m$ হয় এবং ব্যাস $5\\ mm$ থেকে $4.99\\ mm$ হয় । পয়সনের অনুপাতকত?</div>",
+            "option1": "<div>(ক) 0.01</div>",
+            "option2": "<div>(খ) 1</div>",
+            "option3": "<div>(গ) 0.1</div>",
+            "option4": "<div>(ঘ 1.0</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২০২. $2\\ :1$ অনুপাতের ব্যাসবিশিষ্ট দুটি সাবান পানির বুদবুদের ভিতরকারঅতিরিক্ত চাপের অনুপাত কত হবে?</div>",
+            "option1": "<div>(ক) $1\\ :2$</div>",
+            "option2": "<div>(খ) $1\\ :4$</div>",
+            "option3": "<div>(গ) $2\\ :1$</div>",
+            "option4": "<div>(ঘ $4\\ :1$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২০৩. বাতাসের মধ্য দিয়ে বৃষ্টির ফোঁটা পেড়তে থাকলে কোনটি বেগ বনাম সময়লেখচিত্র---</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "<div>b</div>",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/203.webp"
+        },
+        {
+            "mcqQuestion": "<div>২০৪. লোহার তৈরি দুটি গোলক A ও B । A এর আয়তন B এর আটগুণ। কোন নির্দিষ্ট তরলস্তম্ভে গোলকগুলোর অন্ত:বেগের সম্পর্ক নিজের কোনটি হবে?</div>",
+            "option1": "<div>(ক) উভয়গোলকের অন্ত:বেগ সমান হবে</div>",
+            "option2": "<div>(খ) A এর অন্ত:বেগ B এর অন্ত:বেগের দ্বিগুণ</div>",
+            "option3": "<div>(গ) A এর অন্ত:বেগ B এর অন্ত:বেগের চারগুণ</div>",
+            "option4": "<div>(ঘ A এর অন্ত:বেগ B এর অন্ত:বেগের আটগুণ</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২০৫. প্রান্তিক বেগ প্রবাহীর সান্দ্রতা গুণাঙ্কের---</div>",
+            "option1": "<div>(ক) সমানুপাতিক</div>",
+            "option2": "<div>(খ) বর্গের সমানুপাতিক</div>",
+            "option3": "<div>(গ) ব্যস্তানুপাতিক</div>",
+            "option4": "<div>(ঘ বর্গের ব্যস্তানুপাতিক</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২০৬. প্রবাহীর যে সর্বোচ্চ বেগ অতিক্রম করলে প্রবাহীর বেগ অশান্ত হয় তাকে বলে?</div>",
+            "option1": "<div>(ক) মুক্তিবেগ</div>",
+            "option2": "<div>(খ) সান্দ্র বেগ</div>",
+            "option3": "<div>(গ) প্রান্তিক বেগ</div>",
+            "option4": "<div>(ঘ সংকট বেগ</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২০৭. দুটি বৃষ্টির ফোঁটার একটি ব্যসার্ধ অপরটির দ্বিগুণ। এদের প্রান্তবেগেরঅনুপাত কত হবে?</div>",
+            "option1": "<div>(ক) 8</div>",
+            "option2": "<div>(খ) 4</div>",
+            "option3": "<div>(গ) 2</div>",
+            "option4": "<div>(ঘ 1</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২০৮. নিচের কোনটি তরলের সান্দ্রতা গুণাঙ্কের সাথে তাপমাত্রার লেখচিত্র?</div>",
+            "option1": "<div>(ক)</div>",
+            "option2": "<div>(খ)</div>",
+            "option3": "<div>(গ)</div>",
+            "option4": "<div>(ঘ)</div>",
+            "mcqAnswer": "<div>a</div>",
+            "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Mcq/208.webp"
+        },
+        {
+            "mcqQuestion": "<div>২০৯. কোনটির সান্দ্রতা বেশি?</div>",
+            "option1": "<div>(ক) মধু</div>",
+            "option2": "<div>(খ) দুধ</div>",
+            "option3": "<div>(গ) তৈল</div>",
+            "option4": "<div>(ঘ পানি</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১০. কোনটি সান্দ্রতা গুণাঙ্কের একক নয়?</div>",
+            "option1": "<div>(ক) ${kgm}^{-1}s^{-1}$</div>",
+            "option2": "<div>(খ) ${kgm}^{-2}s^{-1}$</div>",
+            "option3": "<div>(গ) ${Nsm}^{-2}$</div>",
+            "option4": "<div>(ঘ $poise$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১১. সান্দ্রতাঙ্কের উপর মাপমাত্রা ও চাপের প্রভাবের ক্ষেত্রে কোনটি সঠিক নয়?</div>",
+            "option1": "<div>(ক) তরল পদার্থের সান্দ্রতা তাপমাত্রা বৃদ্ধির সাথে দ্রুত হ্রাস পায়</div>",
+            "option2": "<div>(খ) গ্যাসের সান্দ্রতা গ্যাস অণুসমূহের গড় বেগের সমানুপাতিক</div>",
+            "option3": "<div>(গ) গ্যাসের সান্দ্রতাঙ্ক চাপের উপর নির্ভরশীল</div>",
+            "option4": "<div>(ঘ চাপ বৃদ্ধি পেলে তরল পদার্থের আন্দ্রতাঙ্ক বৃদ্ধি পায়</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১২. সান্দ্রতা সহগ-এর মাত্রা সমীকরণ কোনটি?</div>",
+            "option1": "<div>(ক) ${ML}^{-1}T^{-2}$</div>",
+            "option2": "<div>(খ) $M^{-1}L^{-1}T^{-1}$</div>",
+            "option3": "<div>(গ) ${ML}^{-1}T^{-1}$</div>",
+            "option4": "<div>(ঘ ${ML}^{-1}T^2$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১৩. পানির সান্দ্রতা গুণাংক কত?</div>",
+            "option1": "<div>(ক) $1.5\\ \\times \\ {10}^{-3}\\ {N\\ s\\ m}^{-2}$</div>",
+            "option2": "<div>(খ) $0.7\\ \\times \\ {10}^{-3}\\ {N\\ s\\ m}^{-2}$</div>",
+            "option3": "<div>(গ) $0.2\\ \\times \\ {10}^{-3}\\ {N\\ s\\ m}^{-2}$</div>",
+            "option4": "<div>(ঘ $1.1\\ \\times \\ {10}^{-3}\\ {N\\ s\\ m}^{-2}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১৪. সান্দ্রবল কোন মৌলিক বলের অন্তর্গত?</div>",
+            "option1": "<div>(ক) মহাকর্ষ বল</div>",
+            "option2": "<div>(খ) দুর্বল নিউক্লিয় বল</div>",
+            "option3": "<div>(গ) তড়িচুম্বকীয় বল</div>",
+            "option4": "<div>(ঘ সবল নিউক্লিয় বল</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১৫. সান্দ্রবল বাড়লে নিচের কোনটি বাড়বে?</div>",
+            "option1": "<div>(ক) প্লবতা</div>",
+            "option2": "<div>(খ) ঘনত্ব</div>",
+            "option3": "<div>(গ) প্রবাহিক ঘর্ষণবল</div>",
+            "option4": "<div>(ঘ প্রবাহিক তাপমাত্রা</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১৬. সান্দ্রতাকে প্রবাহীর ক্ষেত্রে কি বলা যায়?</div>",
+            "option1": "<div>(ক) বহির্মুখী রাধা</div>",
+            "option2": "<div>(খ) স্থিতিস্থাপক গুণাঙ্ক</div>",
+            "option3": "<div>(গ) অভ্যন্তরীণ ঘর্ষণ</div>",
+            "option4": "<div>(ঘ আপেক্ষিক গুরুত্বের পরিমাপক</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১৭. আকাশে ঘুড়ি উড়ে কোন নীতিতে?</div>",
+            "option1": "<div>(ক) পৃষ্ঠটান</div>",
+            "option2": "<div>(খ) সান্দ্রতা</div>",
+            "option3": "<div>(গ) আর্ধাকর্ষণ</div>",
+            "option4": "<div>(ঘ অসঞ্জন</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১৮. কোনটি সান্দ্রতা বেশি?</div>",
+            "option1": "<div>(ক) পানি</div>",
+            "option2": "<div>(খ) আলকাতরা</div>",
+            "option3": "<div>(গ) মধু</div>",
+            "option4": "<div>(ঘ কেরোসিন</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১৯. স্টোকের সূত্র হতে পাই---</div>",
+            "option1": "<div>(ক) $F=\\eta rV$</div>",
+            "option2": "<div>(খ) $F=\\pi \\eta V$</div>",
+            "option3": "<div>(গ) $F=6\\pi \\eta V$</div>",
+            "option4": "<div>(ঘ $F=6\\pi r^2{\\eta }^2V$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২০. কৈশিক নলে তরলের মুক্ত তল অনুভূমিক থাকে যখন স্পর্শকোপ---</div>",
+            "option1": "<div>(ক) $\\theta \\ &gt;90{}^\\circ $</div>",
+            "option2": "<div>(খ) $\\theta \\ &lt;90{}^\\circ $</div>",
+            "option3": "<div>(গ) $\\theta =90{}^\\circ $</div>",
+            "option4": "<div>(ঘ $\\theta =0{}^\\circ $</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২১. $200\\ mm$ ব্যাসার্ধের একটি গোলক কোন তরলের ভেতর দিয়ে $2.1\\ \\times \\{10}^{-2}\\ {m\\ s}^{-1}$ প্রান্তবেগে পড়ছে। তরলের সান্দ্রতাঙ্ক $0.003\\ {Nm\\s}^{-2}$ হলে সান্দ্র বল কত?</div>",
+            "option1": "<div>(ক) $2.37\\ \\times \\ {10}^{-4}\\ N$\\textit{}</div>",
+            "option2": "<div>(খ) $1.5\\ \\times \\ {10}^{-4}\\ N$</div>",
+            "option3": "<div>(গ) 3$.37\\ \\times \\ {10}^{-4}\\ N$</div>",
+            "option4": "<div>(ঘ $5\\ \\times \\ {10}^{-4}\\ N$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২২. কাচ ও বিশুদ্ধ পারদের ক্ষেত্রে স্পর্শ কোণের মান কত?</div>",
+            "option1": "<div>(ক) $8{}^\\circ $</div>",
+            "option2": "<div>(খ) $60{}^\\circ $</div>",
+            "option3": "<div>(গ) $90{}^\\circ $</div>",
+            "option4": "<div>(ঘ $139{}^\\circ $</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২৩. নিচের কোন সমীকরণে k একটি এককহীক ধ্রবক?</div>",
+            "option1": "<div>(ক) $F=k\\eta rv$</div>",
+            "option2": "<div>(খ) $F=kx$</div>",
+            "option3": "<div>(গ) $V=\\frac{k}{p}$</div>",
+            "option4": "<div>(ঘ $T^2={kr}^3$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২৪. তরলের ঘন্তব $0.8\\times {10}^3\\ kg\\ m^{-3}$ যদি তরলটি $2.5\\ mm$ব্যাসার্ধের কৈশিক নল বেয়ে $3.06\\ \\times \\ {10}^{-2}\\ m$ উপরে উঠে আসে তবেতরলের পৃষ্ঠটান কত?</div>",
+            "option1": "<div>(ক) $29.9\\ \\times \\ {10}^{-3\\ }{N\\ m}^{-1}$</div>",
+            "option2": "<div>(খ) $60.0\\ \\times \\ {10}^{-3\\ }{N\\ m}^{-1}$</div>",
+            "option3": "<div>(গ)$32.9\\ \\times \\ {10}^{-2\\ }{Nm}^{-1}$</div>",
+            "option4": "<div>(ঘ $61.2\\ \\times \\ {10}^{-2\\ }{Nm}^{-1}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২৫. বায়ুমন্ডলের চাপ হঠাৎ করে কমে যাওয়ায় একটি সাবান বুদবুদের ব্যাস $1\\ cm$হতে বৃদ্ধি পেয়ে $1.5\\ cm$ হয়। সাবান পানির পৃষ্ঠটান $45\\ \\times \\ {10}^{-3}\\{Nm}^{-1}$ হলে পৃষ্ঠ শক্তির পরিবর্তন হবে---</div>",
+            "option1": "<div>(ক) $1.77\\ \\times \\ {10}^{-5}\\ J$</div>",
+            "option2": "<div>(খ) $1.41\\ \\times \\ {10}^{-4}\\ J$</div>",
+            "option3": "<div>(গ) $3.53\\ \\times \\ {10}^{-5}\\ J$</div>",
+            "option4": "<div>(ঘ $7.07\\ \\times \\ {10}^{-5}\\ J$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২৬. বাড়ির দেয়ালে রং লেগে থাকে কোন বলের কারণে?</div>",
+            "option1": "<div>(ক) কুলম্ব বল</div>",
+            "option2": "<div>(খ) সংশক্তি বল</div>",
+            "option3": "<div>(গ) আসঞ্জন বল</div>",
+            "option4": "<div>(ঘ সান্দ্র বল</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২৭. পানির উপরিতলে রাখা $0.05\\ m$ দীর্ঘ একটি সূচকে টেনে তুলতে সর্বাধিক যেবলের প্রয়োজন তার মান কত?</div>",
+            "option1": "<div>(ক) $7.2\\ \\times \\ {10}^{-3}\\ N$\\textit{}</div>",
+            "option2": "<div>(খ) $3.6\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "option3": "<div>(গ) $1.4\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "option4": "<div>(ঘ $7.2\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২৮. $30\\ mm$ ব্যাসের একটি গোলাকার সাবান বুদবুদ অভ্যন্তরীণ অতিরিক্ত চাপনির্ণয় কর। সাবান পানির পৃষ্ঠটান $25\\ \\times \\ {10}^3\\ N/m.$</div>",
+            "option1": "<div>(ক) $66.7\\ N$</div>",
+            "option2": "<div>(খ) $76.6\\ N$</div>",
+            "option3": "<div>(গ) $6.67\\ N$</div>",
+            "option4": "<div>(ঘ $7.66\\ N$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২৯. কী কারণে পানির ফোঁটা গোলাকার হয়?</div>",
+            "option1": "<div>(ক) সংশক্তি বল</div>",
+            "option2": "<div>(খ) স্থিতিস্থাপক বল</div>",
+            "option3": "<div>(গ) সান্দ্র বল</div>",
+            "option4": "<div>(ঘ পৃষ্ঠটান</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩০. পানির পৃষ্ঠটান বৃদ্ধি পায়---</div>",
+            "option1": "<div>(ক) তাপমাত্রা বাড়লে</div>",
+            "option2": "<div>(খ) অজৈব লবণ দ্রবীভূত থাকলে</div>",
+            "option3": "<div>(গ) জৈব লবণ দ্রবীভূত থাকলে</div>",
+            "option4": "<div>(ঘ পানিতে তেল মিশালে</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩১. পানির পৃষ্ঠটান $72\\ \\times \\ {10}^{-3\\ }{Nm}^{-1}$ হলে, $0.4\\ mm$ব্যাসের নলে পানির আরোহ---</div>",
+            "option1": "<div>(ক) $7.31\\ \\times \\ {10}^{-3}\\ cm$</div>",
+            "option2": "<div>(খ) $3.67\\ cm$</div>",
+            "option3": "<div>(গ) $7.34\\ cm$</div>",
+            "option4": "<div>(ঘ $7.34\\ \\times \\ {10}^{-3}\\ cm$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩২. তুলির সাথে রং লেগে তাকে নিচের কোন বলের কারণে?</div>",
+            "option1": "<div>(ক) সান্দ্র বল</div>",
+            "option2": "<div>(খ) সংসক্তি বল</div>",
+            "option3": "<div>(গ) আসঞ্জন বল</div>",
+            "option4": "<div>(ঘ পৃষ্ঠটান</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩৩. R বাসার্ধের একটি গোলাকার তরল ফোঁটাকে 8 টি সমান আকারে ফোঁটায় বিভক্তকরলে কৃত কাজের পরিমাপ কত?</div>",
+            "option1": "<div>(ক) $4\\pi R^2T$</div>",
+            "option2": "<div>(খ) $3\\pi R^2T$</div>",
+            "option3": "<div>(গ) $2\\pi R^2T$</div>",
+            "option4": "<div>(ঘ $\\pi R^2T$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩৪. দুটো ভিন্ন পদার্থের অণুর মধ্যে আকর্ষণ করাকে কি বলে?</div>",
+            "option1": "<div>(ক) সংসক্তি</div>",
+            "option2": "<div>(খ) আসঞ্জন বল</div>",
+            "option3": "<div>(গ) পৃষ্ঠটান</div>",
+            "option4": "<div>(ঘ পৃষ্ঠ শক্তি</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩৫. তরল ও কঠিন পদার্থের মধ্যকার স্পর্শকোণ নিচের কোনটি হলে তরল পদার্থ কঠিনপদার্থকে ভিজাবে না?</div>",
+            "option1": "<div>(ক) $0{}^\\circ $</div>",
+            "option2": "<div>(খ) $40{}^\\circ $</div>",
+            "option3": "<div>(গ) $60{}^\\circ $</div>",
+            "option4": "<div>(ঘ $120{}^\\circ $</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩৬. পারদের সাথে কাচের স্পর্শ কোণ---</div>",
+            "option1": "<div>(ক) সূক্ষ্মকোণ</div>",
+            "option2": "<div>(খ) স্থুলকোণ</div>",
+            "option3": "<div>(গ) $90{}^\\circ $</div>",
+            "option4": "<div>(ঘ 0${}^\\circ $</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩৭. কৈশিক নলে তরলের অবক্ষেপ হয়---</div>",
+            "option1": "<div>(ক) সংশক্তি বল $\\mathrm{&lt;}$ আসঞ্জন বল</div>",
+            "option2": "<div>(খ) সংশক্তি বল = আসঞ্জন বল</div>",
+            "option3": "<div>(গ) সংশক্তি বল $\\mathrm{&gt;}$ আসঞ্জন বল</div>",
+            "option4": "<div>(ঘ সংশক্তি বল শূণ্য হয়</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩৮. $0.2\\ mm$ ব্যাসের একটি নলে পানির আরোহণ কত?</div>",
+            "option1": "<div>(ক) $0.1469\\ m$</div>",
+            "option2": "<div>(খ) $0.264\\ m$</div>",
+            "option3": "<div>(গ) $0.346\\ m$</div>",
+            "option4": "<div>(ঘ $0.464\\ m$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩৯. যদি স্পর্শ কোণ $90{}^\\circ $ এর কম হয় তবে কৌণিক নলের ভিতরে তরলের পৃষ্ঠকেম হবে?</div>",
+            "option1": "<div>(ক) উত্তল</div>",
+            "option2": "<div>(খ) অবতল</div>",
+            "option3": "<div>(গ) সমতলাবতল</div>",
+            "option4": "<div>(ঘ সমতলোত্তল</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪০. যেসব তরল পদার্থ কাচ ভিজায় না তাদের ক্ষেত্রে স্পর্শ কোণ---</div>",
+            "option1": "<div>(ক) প্রায় $90{}^\\circ $</div>",
+            "option2": "<div>(খ) প্রায় $0{}^\\circ $</div>",
+            "option3": "<div>(গ) $90{}^\\circ $ এর চেয়ে বড়</div>",
+            "option4": "<div>(ঘ $90{}^\\circ $ এর চেয়ে ছোট</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪১. নিচের কোনটি তরলে দ্রবীভূত থাকলে পৃষ্ঠটান হ্রাস পায়---</div>",
+            "option1": "<div>(ক) $NaCl$</div>",
+            "option2": "<div>(খ) $Ca{Cl}_2$</div>",
+            "option3": "<div>(গ) সাবান</div>",
+            "option4": "<div>(ঘ $KCl$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪২. $0.5\\ m$ ও $0.2\\ m$ ব্যাসার্ধের দুটি গোলাকার বস্তু একই তরলের মধ্যেপতিত হচ্চে। কোনটি আগে পতিত হবে?</div>",
+            "option1": "<div>(ক) দুটি একই সময় পড়বে</div>",
+            "option2": "<div>(খ) $0.5\\ m$ ব্যসার্ধের বস্তুটি</div>",
+            "option3": "<div>(গ) $0.2\\ m$ ব্যাসার্ধের বস্তুটি</div>",
+            "option4": "<div>(ঘ তথ্যের অপর্যাপ্ততা</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪৩. সান্দ্রতা নির্ভরশীল---<br>i. প্রবাহী স্তরদ্বয়ের ক্ষেত্রফল<br>ii. বেগের নতির উপর<br>iii. তরল পদার্থের ভিন্নতার উপর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) ii ও ii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪৪. সান্দ্রতা গুণাঙ্ক নির্ভর করে---<br>i. তাপমাত্রার উপর<br>ii. চাপের উপর<br>iii. ঘনত্বের উপর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪৫. তরলের পৃষ্ঠটান নির্ভর করে---<br>i. কৈশিক নলের ব্যসার্ধ<br>ii. সংশক্তি বল<br>iii. তরলের ঘনত্ব<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪৬. স্পর্শ কোণ নির্ভর করে---<br>i. কঠিন ও তরলের প্রকৃতির উপর<br>ii. তরলের উচ্চতার উপর<br>iii. কঠিন ও তরলের বিশুদ্ধতার উপর<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪৭. পয়সনের অনুপাত---<br>i. দৈর্ঘ্য বিকৃতি ও পার্শ্ব বিকৃতির অনুপাত<br>ii. এর কোনো একক নেই<br>iii. এর মান $-1$ থেকে $0.5$ পর্যন্ত<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪৮. তিনটি সূত্রের গাণিতিক রূপ---<br>i. হুকের সূত্র: পীড়ন $\\mathrm{\\propto }$ বিকৃতি<br>ii. সান্দ্রতা সংক্রান্ত নিউটনের সূত্র: $F\\propto A\\frac{dv}{dy}$<br>iii. স্টোকসের সূত্র: $F=6\\pi \\eta $<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪৯. কোনো তরলের পৃষ্ঠটান তরলের---<br>i. অভ্যন্তরে ক্রিয়া করে<br>ii. পৃষ্ঠের ক্ষেত্রফল বাড়ায়<br>iii. পৃষ্ঠের ক্ষেত্রফল কমায়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক iii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৫০. তরল পদার্থের অন্যতম ধর্ম হচ্চে---<br>i. সান্দ্রতা<br>ii. দৃঢ়তা<br>iii. পৃষ্ঠটান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৫১. পানির দুটি ফোঁটা মিলে একটি ফোঁটায় পরিণত হলে---<br>i. শক্তি নির্গত হয়<br>ii. শক্তি শোষিত হয়<br>iii. কিছু ভর শক্তিতে পরিণত হয়<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) iii</div>",
+            "option4": "<div>(ঘ i ও iii</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৫২. পৃষ্ঠটান সৃষ্টির কারণ হলো অণুগলোর মধ্যকার---<br>i. সংসক্তি বল<br>ii. আসঞ্জন বল<br>iii. মহাকর্ষ বল<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৫৩. আয়নিক বন্ধনের ক্ষেত্রে প্রযোজ্য---<br>i. প্রথম মৌলের নিম্ন আয়নীকরণ শক্তি<br>ii. দ্বিতীয় মৌলের উচ্চ ইলেকট্রন আসক্তি<br>iii. গঠিত যৌগের উচ্চ ল্যাটিস শক্তি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) i, ii ও iii</div>",
+            "option4": "<div>(ঘ i ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৫৪. তাপমাত্রা বৃদ্ধির সাথে সান্দ্রতা<br>i. গ্যাসের কমে তরলের বাড়ে<br>ii. গ্যাসের বাড়ে তরলের কমে<br>iii. উভয়ের বাড়ে<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) ii</div>",
+            "option3": "<div>(গ) iii</div>",
+            "option4": "<div>(ঘ i ও iii</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড় এবং ২৫৫ ও ২৫৬ নং প্রশ্নের উত্তর দাও:<br>$2\\ \\times \\ {10}^{-4}\\ m$ ব্যসার্ধের একটি লোহার বল কোনো তরলের ভিতর দিয়েকিছুক্ষণ পড়ার পর $4\\ \\times \\ {10}^2\\ m\\ s^{-1}$ ধ্রব বেগ দিয়ে পড়তে থাকে।লোহা ও তরলের ঘনত্ব যথাক্রমে $4\\ \\times \\ {10}^3\\ kg\\ m^{-3}$ এবং $0.87\\\\times \\ {10}^3\\ kg\\ m^{-3}$\\textit{}<br>২৫৫. তরলের সান্দ্রতাংক হবে---</div>",
+            "option1": "<div>(ক) $1.5\\ \\times \\ {10}^{-2}\\ {Nsm}^{-2}$</div>",
+            "option2": "<div>(খ) $1.5\\ \\times \\ {10}^{-2}\\ {{Ns}^{-2}\\ sm}^{-2}$</div>",
+            "option3": "<div>(গ) $6.7\\ \\times \\ {10}^{-2}\\ {Ns\\ m}^{-2}$</div>",
+            "option4": "<div>(ঘ $6.7\\ \\times \\ {10}^{-2}\\ {{Ns}^{-2}\\ m}^{-2}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৫৬. $1.87\\ \\times \\ {10}^3\\ kg\\ m^{-3}$ ঘনত্বের তরলের মধ্য দিয়ে লোহার বলটিএকই বেগে পড়লে দ্বিতীয় তরলের সান্দ্রতা গুণাঙ্ক প্রথম তরলের কত গুণ হবে?</div>",
+            "option1": "<div>(ক) $0.5$</div>",
+            "option2": "<div>(খ) $0.86$</div>",
+            "option3": "<div>(গ) $1.25$</div>",
+            "option4": "<div>(ঘ সমান</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড় এবং ২৫৭ ও ২৫৮ নং প্রশ্নের উত্তর দাও:<br>$50\\ cm\\ $ দীর্ঘ $1\\ \\times \\ {10}^{-4}\\ m^2$ প্রস্থচ্ছেদ বিশিষ্ট একটিতারের ইয়ং এর গুণাঙ্ক $1.24\\ \\times \\ {10}^{11}\\ {Nm}^{-2}$ । একে টেনে$0.01\\ cm$ বৃদ্ধি করা হলো।<br>২৫৭. দৈর্ঘ্য বৃদ্ধিতে কতটুকু কাজ সম্পন্ন হবে?</div>",
+            "option1": "<div>(ক) $0.114\\ J$\\textit{}</div>",
+            "option2": "<div>(খ) $0.124\\ J$</div>",
+            "option3": "<div>(গ) $0.134\\ J$</div>",
+            "option4": "<div>(ঘ $0.144\\ J$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৫৮. এক্ষেত্রে---<br>i. বিকৃতি$=0.0002$<br>ii. পীড়ন $=2.48\\ \\times \\ {10}^7{Nm}^2$\\textit{}<br>iii. পীড়ন $=$ বিকৃতি<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও iii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i, ii ও iii</div>",
+            "option4": "<div>(ঘ i ও ii</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড় এবং ২৫৯ ও ২৬০ নং প্রশ্নের উত্তর দাও:<br>নাসির একটি ধাতব পদার্থের তৈরি তার নিল যার দৈর্ঘ্য $1\\ m$ এবং ব্যাস $5\\ mm$। তারটির এক প্রান্ত ছাদের সাথে আটকে অপর প্রান্তে $2kg$ ভর ঝুলিয়ে দিল। এতেতারের দৈর্ঘ্য $2\\ cm$ বেড়ে গেল এবং ব্যাস হলো 4$.99\\ mm$ ।<br>২৫৯. তারটির পয়সনের অনুপাত---</div>",
+            "option1": "<div>(ক) $0.01$</div>",
+            "option2": "<div>(খ) $0.1$</div>",
+            "option3": "<div>(গ) $0.88$</div>",
+            "option4": "<div>(ঘ $0.99$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৬০. তারটির ইয়ং এর গুণাঙ্ক কত?</div>",
+            "option1": "<div>(ক) $2\\ \\times \\ {10}^{11}\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $5\\ \\times \\ {10}^{10}\\ {Nm}^{-2}\\ $</div>",
+            "option3": "<div>(গ) $2\\ \\times \\ {10}^8\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ$\\ 5\\ \\times \\ {10}^7\\ {Nm}^{-2}\\ $</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড় এবং ২৬১ ও ২৬২ নং প্রশ্নের উত্তর দাও:<br>$5\\ m$\\textit{ }দৈর্ঘ্য ও $1\\ mm$ ব্যাসার্ধ বিশিষ্ট একটি তারে বল প্রয়োগেরফলে দৈর্ঘ্য $5.1\\ m$ হলে এবং ব্যাসার্ধ $0.99\\ mm$ হলে---<br>২৬১. দৈর্ঘ্য বিকৃতি কত?</div>",
+            "option1": "<div>(ক) $0.01$</div>",
+            "option2": "<div>(খ) $0.02$</div>",
+            "option3": "<div>(গ) $0.03$</div>",
+            "option4": "<div>(ঘ $0.04$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৬২. পয়সনের অনুপাত কত?</div>",
+            "option1": "<div>(ক) $0.01$</div>",
+            "option2": "<div>(খ) $0.05$</div>",
+            "option3": "<div>(গ) $0.5$</div>",
+            "option4": "<div>(ঘ $5$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>■ নিচের উদ্দীপকটি পড় এবং ২৬৩ ও ২৬৪ নং প্রশ্নের উত্তর দাও:<br>একটি সাবান বুদবুদের ব্যাসার্ধ 1 cm হতে বৃদ্ধি করে 10 cm করা হলো। সাবানদ্রবণের পৃষ্ঠটান $26\\ \\times \\ {10}^{-3}\\ {Nm}^{-1}$<br>২৬৩. উল্লিখিত ক্ষেত্রে কী পরিমাণ কাজ হবে?</div>",
+            "option1": "<div>(ক) $0.64\\ \\times \\ {10}^{-3}\\ J$</div>",
+            "option2": "<div>(খ) $6.4\\ \\times \\ {10}^{-3}\\ J$</div>",
+            "option3": "<div>(গ) $64.7\\ \\times \\ {10}^{-3}\\ J$</div>",
+            "option4": "<div>(ঘ $647\\ \\times \\ {10}^{-3}\\ J$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৬৪. তরলের সাথে অজৈব যৌগ দ্রবীভূত থাকলে পৃষ্ঠটান---</div>",
+            "option1": "<div>(ক) কমে যায়</div>",
+            "option2": "<div>(খ) বেড়ে যায়</div>",
+            "option3": "<div>(গ) অপরিবর্তিত থাকে</div>",
+            "option4": "<div>(ঘ শূণ্য হয়</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৬৫. হাইড্রোজেন ও অক্সিজেনের সংযোগে পানি গঠিত হবার বন্ধনকে বলে---</div>",
+            "option1": "<div>(ক) আয়নিক বন্ধন</div>",
+            "option2": "<div>(খ) সমযোজী বন্ধন</div>",
+            "option3": "<div>(গ) ধাতব বন্ধন</div>",
+            "option4": "<div>(ঘ ভ্যানডারওয়ালস বন্ধন</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৬৬. তরল পদার্থের অন্যথম ধর্ম হচ্চে---<br>i. সান্দ্রতা<br>ii. দৃঢ়তা<br>iii. পৃষ্ঠটান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৬৭. A ক্ষেত্রবিশিষ্ট কোনো বস্তুতে লম্বভাবে F বল প্রয়োগ করা হলে,</div>",
+            "option1": "<div>(ক) পীড়ন $=\\frac{A}{F}$</div>",
+            "option2": "<div>(খ) পীড়ন $=F\\times A$</div>",
+            "option3": "<div>(গ) পীড়ন $=\\frac{F}{A}$</div>",
+            "option4": "<div>(ঘ পীড়ন $={AF}^{-1}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৬৮. একটি তারকে ছিড়তে $F$ বলের প্রয়োজন হয়। দ্বিগুণ দৈর্ঘ্যের ঐ তারকে ছিড়তেকত বল প্রয়োজন হবে?</div>",
+            "option1": "<div>(ক) $F$</div>",
+            "option2": "<div>(খ) $\\frac{F}{2}$</div>",
+            "option3": "<div>(গ) $2F$</div>",
+            "option4": "<div>(ঘ $\\frac{F}{4}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৬৯. পৃষ্ঠটানের উপর প্রভাব বিস্তার করে---<br>i. দূষিতকরণ<br>ii. চৌম্বকত্ব<br>iii. তড়িতাহিতকরণ<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>■ $2\\ {mm}^2$ প্রস্থচ্ছেদ বিশিষ্ট একটি তারের দৈর্ঘ্য $10\\ m$ । তারটিকে 1 kgওজনের বল দ্বারা টানা হয়। এতে করে তাদের দৈর্ঘ্য বিকৃতি $0.001\\%$ হয়।<br>উপরের তথ্য থেকে নিচের ২৭০ ও ২৭১ নং প্রশ্নেবর উত্তর দাও:<br>২৭০. উদ্দীপকের তারের দৈর্ঘ্য কতটুকু বৃদ্ধি করতে হয়েছে?</div>",
+            "option1": "<div>(ক) $1\\ \\times \\ {10}^{-5}\\ m$\\textit{}</div>",
+            "option2": "<div>(খ) $1\\ \\times \\ {10}^{-4}\\ m$</div>",
+            "option3": "<div>(গ) $1\\ \\times \\ {10}^{-3}\\ m$</div>",
+            "option4": "<div>(ঘ $1\\ \\times \\ {10}^{-2}\\ m$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৭১. উক্ত তারটির---<br>i. দৈর্ঘ্য বিকৃতি ${10}^{-5}$<br>ii.ইয়ং-এর গুণাঙ্ক $4.9\\ \\times {10}^{11}\\ {Nm}^{-2}$<br>iii. প্রতি একক আয়তনে স্থিতিশক্তি $24.5\\ J$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) ii ও iii</div>",
+            "option3": "<div>(গ) i ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৭২. বল প্রয়োগের ফলে একটি তারের দৈর্ঘ্য 1\\% পরিবর্তন হলে ব্যাস শতকরা কতপরিবর্তন হবে?</div>",
+            "option1": "<div>(ক) $0.2\\%$</div>",
+            "option2": "<div>(খ) $0.1\\%$</div>",
+            "option3": "<div>(গ) $0.01\\%$</div>",
+            "option4": "<div>(ঘ $0.02\\%$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৭৩. কোনটির স্থিতিস্থাপকতা বেশি?</div>",
+            "option1": "<div>(ক) রাবার</div>",
+            "option2": "<div>(খ) কাচ</div>",
+            "option3": "<div>(গ) ইস্পাত</div>",
+            "option4": "<div>(ঘ তামা</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৭৪. Y ইয়ং এর গুণাঙ্ক বিশিষ্টি একক প্রস্থচ্ছেদের তারের দৈর্ঘ্য দ্বিগুণ করতেকত বলের প্রয়োজন?</div>",
+            "option1": "<div>(ক) $\\frac{1}{Y}$</div>",
+            "option2": "<div>(খ) $Y$</div>",
+            "option3": "<div>(গ) $Y^2$</div>",
+            "option4": "<div>(ঘ $\\frac{1}{Y^2}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৭৫. একই ধাতুর এবং একই ব্যসার্থের দুটি তারের দৈর্ঘ্যের অনুপাত $1:2$ । এদেরেএকই পরিমাণ বল দ্বারা টানা দেওয়া হলো, তার দুটিতে বিকৃতির অনুপাত কত?</div>",
+            "option1": "<div>(ক) $1\\ :1$</div>",
+            "option2": "<div>(খ) $1\\ :2$</div>",
+            "option3": "<div>(গ) $2\\ :1$</div>",
+            "option4": "<div>(ঘ $1\\ :4$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৭৬. $K$ বল ধ্রবক বিশিষ্ট একটি স্প্রিংকে কেটে দুইটি সমান অংশে বিভক্ত করাহলো। প্রত্যেক অংশের বল ধ্রবক হবে---</div>",
+            "option1": "<div>(ক) $\\frac{K}{2}$</div>",
+            "option2": "<div>(খ) $K$</div>",
+            "option3": "<div>(গ) $2K$</div>",
+            "option4": "<div>(ঘ $4K$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৭৭. মধুর অন্যতম ধর্ম হচ্ছে---<br>i. দৃঢতা<br>ii. সান্দ্রতা<br>iii. পৃষ্ঠটান<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i ও ii</div>",
+            "option2": "<div>(খ) i ও iii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৭৮. আন্ত:আণবিক বল সবচেয় বেশি?</div>",
+            "option1": "<div>(ক) তরলের অণুর মধ্যে</div>",
+            "option2": "<div>(খ) গ্যাসের অণুর মধ্যে</div>",
+            "option3": "<div>(গ) কঠিক পদার্থের অণুর মধ্যে</div>",
+            "option4": "<div>(ঘ কঠিন, তরল ও গ্যাসের মধ্যে একই মানের হয়</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৭৯. বিভিন্ন পদার্থের অণুগুলোর মধ্যে পারস্পরিক আকর্ষণ বলকে কি বল বেলে?</div>",
+            "option1": "<div>(ক) আসঞ্জন বল</div>",
+            "option2": "<div>(খ) সংসক্তি বল</div>",
+            "option3": "<div>(গ) পৃষ্ঠ টান</div>",
+            "option4": "<div>(ঘ পৃষ্ঠ শক্তি</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৮০. নিষ্ক্রিয় গ্যাসের অণূর মধ্যকার বন্ধন---</div>",
+            "option1": "<div>(ক) আয়নিক বন্ধন</div>",
+            "option2": "<div>(খ) সমযোজী বন্ধন</div>",
+            "option3": "<div>(গ) ভ্যানডার ওয়ালস বন্ধন</div>",
+            "option4": "<div>(ঘ ধাতব বন্ধন</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৮১. সিলিকন অণুর মধ্যে কী ধরনের বন্ধন রয়েছে?</div>",
+            "option1": "<div>(ক) আয়নিক বন্ধন</div>",
+            "option2": "<div>(খ) সমযোজী বন্ধন</div>",
+            "option3": "<div>(গ) ধাতব বন্ধন</div>",
+            "option4": "<div>(ঘ ভ্যানডার ওয়ালস বন্ধন</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>■ একটি তারের দৈর্ঘ্য $3\\ m$, প্রস্থচ্ছেদের ক্ষেত্রফল ${2mm}^2$ এবং অসহ পীড়ন$2.45\\ \\times \\ {10}^8\\ {Nm}^{-2}$<br>নিচের ২৮২ ও ২৮৩ নং প্রশ্নের উত্তর দাওঃ<br>২৮২. তারটির অসহ ওজন কোনটি?</div>",
+            "option1": "<div>(ক) $3.6\\ \\times \\ {10}^3\\ N$\\textit{}</div>",
+            "option2": "<div>(খ) $4.9\\ \\times \\ {10}^5\\ N$</div>",
+            "option3": "<div>(গ) $4.9\\ \\times \\ {10}^{-2}\\ N$</div>",
+            "option4": "<div>(ঘ $4.9\\ \\times \\ {10}^2\\ N$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৮৩. একই উপাদানের তৈরি ২য় তারের দৈর্ঘ্য ১ম তারের দৈর্ঘ্যের দ্বিগুণ কিন্তুব্যাসার্ধ ১ম তারের অর্ধেক হলে ও সমান তার প্রয়োগ করলে ২য় তার ১ম তারেরদৈর্ঘ্য প্রসারণের অনুপাত হবে---</div>",
+            "option1": "<div>(ক) $\\frac{1}{2}$</div>",
+            "option2": "<div>(খ) $2$</div>",
+            "option3": "<div>(গ) $8$</div>",
+            "option4": "<div>(ঘ $10$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৮৪. সান্দ্রতা গুণাঙ্কের ক্ষেত্রে---<br>i. $\\eta =\\frac{বল\\ \\times দূরত্ব}{ক্ষেত্রফল\\ \\times বেগ}$<br>ii. \\textit{একক}$=$\\textit{নিউটন}$-$\\textit{সে./}${মিটার}^{\\ \\ \\ 2}$<br>iii. $\\left[\\eta \\right]=\\left[{ML}^{-2}T^{-2}\\right]$<br>নিচের কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) i</div>",
+            "option2": "<div>(খ) i ও ii</div>",
+            "option3": "<div>(গ) ii ও iii</div>",
+            "option4": "<div>(ঘ i, ii ও iii</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৮৫. স্থিতিস্থাপক সীমা হচ্ছে---</div>",
+            "option1": "<div>(ক) প্রযুক্ত বল সরিয়ে নিলে যে ধর্মের জন্য বিকৃত বস্তু আগের আকার ও আয়তন ফিরেপায়</div>",
+            "option2": "<div>(খ) বাইরে থেকে বল প্রয়োগের ফলে কোনো বস্তুর একক মাত্রায় যে পরিবর্তন হয়</div>",
+            "option3": "<div>(গ) যে মানের বল পর্যন্ত কোনো বস্তু পূর্ণ স্থিতিস্থাপক থাকে</div>",
+            "option4": "<div>(ঘ সর্বাপেক্ষা কম যে বলের ক্রিয়ায় কোনো বস্তু ছিড়ে বা ভেঙে যায়</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৮৬. এস.আই পদ্ধতিতে পীড়নের একক---</div>",
+            "option1": "<div>(ক) ${Nm}^{-1}$</div>",
+            "option2": "<div>(খ) $Nm$</div>",
+            "option3": "<div>(গ) ${Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $\\frac{m}{N}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৮৭. অসহ বল কোনটি?</div>",
+            "option1": "<div>(ক) বস্তুর একক ক্ষেত্রফলের উপর লম্বভাবে উদ্ভত বল</div>",
+            "option2": "<div>(খ) বাইরে থেকে বল প্রয়োগের ফলে কোনো বস্তুর যে পরিবর্তন হয়</div>",
+            "option3": "<div>(গ) সর্বাপেক্ষা কম যে বলের ক্রিয়ায় বস্তু ছিঁড়ে বা বেঙে যায়</div>",
+            "option4": "<div>(ঘ সর্বাপেক্ষা বেশি যে বল প্রয়োগ করে বল অপসারণ করলে বস্তুটি পূর্বাবস্থায়ফিরে যায়</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৮৮. পীড়নের মাত্রা হচ্ছে---</div>",
+            "option1": "<div>(ক) ${MLT}^{-2}$</div>",
+            "option2": "<div>(খ) ${ML}^{-2}T$</div>",
+            "option3": "<div>(গ) ${ML}^{-1}T^{-2}$</div>",
+            "option4": "<div>(ঘ $M^{-1}{LT}^{-2}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৮৯. L দৈর্ঘ্যের কোনো বস্তুর উপর দৈর্ঘ্য বরাবর বল প্রয়োগ করলে যদি এরদৈর্ঘ্যের পরিবর্তন $l$ হয় তাহলে দৈর্ঘ্য বিকৃতি হবে---</div>",
+            "option1": "<div>(ক) $\\frac{l}{L}$</div>",
+            "option2": "<div>(খ) $\\frac{L}{l}$</div>",
+            "option3": "<div>(গ) $\\frac{l}{A}$</div>",
+            "option4": "<div>(ঘ $L\\times l^2$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯০. পয়সনের অনুপাত হচ্ছে স্থিতিস্থাপক সীমার মধ্যে---</div>",
+            "option1": "<div>(ক) দৈর্ঘ্য পীড়ন ও দৈর্ঘ্য বিকৃতির অনুপাত</div>",
+            "option2": "<div>(খ) আয়তন পীড়ন ও আয়তন বিকৃতির অনুপাত</div>",
+            "option3": "<div>(গ) ব্যবর্তন পীড়ন ও ব্যবর্তন বিকৃতির অনুপাত</div>",
+            "option4": "<div>(ঘ পার্শ্ব বিকৃতি ও দৈর্ঘ্য বিকৃতির অনুপাত</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯১. নিচের কোন রাশিটির কোনো মাত্রা নেই?</div>",
+            "option1": "<div>(ক) ইয়ং গুণাঙ্ক</div>",
+            "option2": "<div>(খ) আয়তন গুণাঙ্ক</div>",
+            "option3": "<div>(গ) দৃঢ়তার গুণাঙ্ক</div>",
+            "option4": "<div>(ঘ পয়সনের অনুপাত</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯২. নিচের কোনটির স্থিতিস্থাপকতা সর্বাপেক্ষা বেশি?</div>",
+            "option1": "<div>(ক) ইস্পাত</div>",
+            "option2": "<div>(খ) রবার</div>",
+            "option3": "<div>(গ) তামা</div>",
+            "option4": "<div>(ঘ স্পঞ্জ</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯৩. ${10}^8{N\\ m}^{-2}\\ $পীড়নের প্রয়োগ $1\\ m$ দীর্ঘ একটি তারের দৈর্ঘ্যবৃদ্ধি পেল ${10}^{-3}m$ । তারটির ইয়ং গুণাঙ্ক কত?</div>",
+            "option1": "<div>(ক) ${10}^5{Nm}^{-2}$</div>",
+            "option2": "<div>(খ) ${10}^{-11}{Nm}^{-2}$</div>",
+            "option3": "<div>(গ) ${10}^{11}{Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ ${10}^{-5}{Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯৪. নিচের কোনটি স্থিতিস্থাপকতার জন্য সঠিক সমীকরণ?</div>",
+            "option1": "<div>(ক) $Y=\\frac{pV}{v}$</div>",
+            "option2": "<div>(খ) $W=\\frac{dL}{Dl}$</div>",
+            "option3": "<div>(গ) $N=\\frac{F}{A\\theta }$</div>",
+            "option4": "<div>(ঘ $\\sigma =\\frac{MgL}{\\pi r^2l}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯৫. পৃষ্ঠটানের মাত্রা কোনটি?</div>",
+            "option1": "<div>(ক) ${ML}^0T^{-2}$</div>",
+            "option2": "<div>(খ) $M^2L^0T^{-2}$</div>",
+            "option3": "<div>(গ) $M^{-2}L^2T^2$</div>",
+            "option4": "<div>(ঘ $M^0L^2T^{-2}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯৬. পৃষ্ঠটানের একক কোনটি?</div>",
+            "option1": "<div>(ক) $Nm$</div>",
+            "option2": "<div>(খ) ${Nm}^{-1}$</div>",
+            "option3": "<div>(গ) ${Nm}^2$</div>",
+            "option4": "<div>(ঘ $\\frac{m}{N}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯৭. সংসক্তি বল হচ্ছে---</div>",
+            "option1": "<div>(ক) বিভিন্ন পদার্থের অণুর মধ্যে পারস্পরিক আকর্ষণ বল</div>",
+            "option2": "<div>(খ) একই পদার্থের বিভিন্ন অণুর মধ্যে পারস্পরিক আকর্ষণ বল</div>",
+            "option3": "<div>(গ) একই পদার্থের বিভিন্ন অণুর মধ্যে পারস্পরিক বিকর্ষণ বল</div>",
+            "option4": "<div>(ঘ বিভিন্ন পদার্থের অণুর মধ্যে পারস্পরিক বিকর্ষণ</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯৮. নিচের কোনটি কঠিক পদার্থের বৈশিষ্ট্য নয়?</div>",
+            "option1": "<div>(ক) কঠিন পদার্থের অণুগুগলো খুব কাছকিাছি থাকে।</div>",
+            "option2": "<div>(খ) কঠিক পদার্থের অণুগুলো এদের গড় অবস্থানকে ঘিরে স্পন্দিত হয়</div>",
+            "option3": "<div>(গ) কঠিন পদার্থের অণুগুলোর মধ্যবর্তী বল তত প্রবল নয়</div>",
+            "option4": "<div>(ঘ কঠিন পদার্থের</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯৯. অ-পোলার অণুগুলোর মধ্যকার বন্ধনকে কী বলে?</div>",
+            "option1": "<div>(ক) আয়নিক বন্ধন</div>",
+            "option2": "<div>(খ) সমযোজী বন্ধন</div>",
+            "option3": "<div>(গ) দ্বিপোল-দ্বিপোল</div>",
+            "option4": "<div>(ঘ ভ্যান্ডার ওয়ালস বন্ধন</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০০. পানির অণুর মধ্যকার বন্ধনকে কী বলে?</div>",
+            "option1": "<div>(ক) আয়নিক বন্ধন</div>",
+            "option2": "<div>(খ) সমযোজী বন্ধন</div>",
+            "option3": "<div>(গ) দ্বিপোল-দ্বিপোল বন্ধন</div>",
+            "option4": "<div>(ঘ ধাতব বন্ধন</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০১. পদার্থের স্থিতিস্থাপকতা ধর্মের কারণ কী?</div>",
+            "option1": "<div>(ক) তড়িৎ বল</div>",
+            "option2": "<div>(খ) চৌম্বক বল</div>",
+            "option3": "<div>(গ) মহাকর্ষ বল</div>",
+            "option4": "<div>(ঘ অভিকর্ষ বল</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০২. কোন বস্তুর একক মাত্রার পরিবর্তন কী বলে?</div>",
+            "option1": "<div>(ক) পীড়ন</div>",
+            "option2": "<div>(খ) বিকৃতি</div>",
+            "option3": "<div>(গ) অসহ পীড়ন</div>",
+            "option4": "<div>(ঘ ক্লান্তি</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০৩. একটি তারের $0.01\\ {cm}^2$ ক্ষেত্রফলের উপর $2\\ \\times \\ {10}^4\\ N$ বলপ্রয়োগ করা হলে তারের উপর প্রযুক্ত পীড়ন কত?</div>",
+            "option1": "<div>(ক) $2\\ \\times \\ {10}^8\\ Nm^2$</div>",
+            "option2": "<div>(খ) $2\\ \\times \\ {10}^6\\ Nm^{-2}$</div>",
+            "option3": "<div>(গ) $2\\ \\times \\ {10}^{10}\\ Nm^{-2}$</div>",
+            "option4": "<div>(ঘ $2\\ \\times \\ {10}^{12}\\ Nm^{-2}$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০৪. একটি তারের অসহ পীড়ন $4.9\\ \\times \\ {10}^8\\ {Nm}^{-2}$ এবং প্রস্থচ্ছদ$1\\ \\times \\ 1^{-6\\ }m^2$ হলে এর অসহ ভার কত?</div>",
+            "option1": "<div>(ক) $0.49\\ N$</div>",
+            "option2": "<div>(খ) $4.9\\ N$</div>",
+            "option3": "<div>(গ) $49\\ N$</div>",
+            "option4": "<div>(ঘ $490\\ N$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০৫. লোহার ইয়ং এর গুণাঙ্কের মান কত?</div>",
+            "option1": "<div>(ক) $2\\ \\times \\ {10}^{11}N$</div>",
+            "option2": "<div>(খ) $2\\ \\times \\ {10}^{11}Nm^{-1}$</div>",
+            "option3": "<div>(গ) $2\\ \\times \\ {10}^{10}Nm^{-1}$</div>",
+            "option4": "<div>(ঘ $2\\ \\times \\ {10}^{11}Nm^{-2}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০৬. পারদের আয়তনের স্থিতিস্থাপকতা গুণাঙ্ক $2.6\\ \\times \\ {10}^{10}Pa$ হলেএর সংনম্যতা কত?</div>",
+            "option1": "<div>(ক) $2\\ \\times \\ {10}^6\\ N$</div>",
+            "option2": "<div>(খ) $2\\ \\times \\ {10}^7\\ N$</div>",
+            "option3": "<div>(গ) $2\\ \\times \\ {10}^8\\ N$</div>",
+            "option4": "<div>(ঘ $2\\ \\times \\ {10}^{10}\\ N$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০৭. কোনো তারের ইয়ংয়ের গুণাঙ্ক নিচের কোনটির উপর নির্ভর করে?</div>",
+            "option1": "<div>(ক) ব্যসার্ধের উপর</div>",
+            "option2": "<div>(খ) দৈর্ঘ্যের উপর</div>",
+            "option3": "<div>(গ) উপাদানের উপর</div>",
+            "option4": "<div>(ঘ প্রযুক্ত বলের উপর</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০৮. ${1\\ \\times 10}^{-4}\\ m^2$ প্রস্থচ্ছেদের ক্ষেত্রফল বিশিষ্ট ইস্পাতেরতারে কত বল প্রয়োগ করলে এর দৈর্ঘ্য দ্বিগুণ হবে? $\\left(Y=2\\ \\times \\{10}^{11}{Nm}^{-2}\\right)$</div>",
+            "option1": "<div>(ক) $2\\ \\times \\ {10}^6\\ N$</div>",
+            "option2": "<div>(খ) $2\\ \\times \\ {10}^7\\ N$</div>",
+            "option3": "<div>(গ) $2\\ \\times \\ {10}^8\\ N$</div>",
+            "option4": "<div>(ঘ $2\\ \\times \\ {10}^{10}\\ N$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০৯. পয়সনের অনুপাতের ক্ষেত্রে কোনটি সঠিক?</div>",
+            "option1": "<div>(ক) $1\\ &lt;\\ \\sigma \\ &lt;0.5$</div>",
+            "option2": "<div>(খ) $-1\\ &lt;\\ \\sigma \\ &lt;0.5$</div>",
+            "option3": "<div>(গ) $-1\\ &lt;\\ \\sigma \\ &lt;1$</div>",
+            "option4": "<div>(ঘ $-1\\ &lt;\\ \\sigma \\ &gt;0.5$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩১০. সান্দ্র বল কী?</div>",
+            "option1": "<div>(ক) কঠিনের বিভিন্ন তলের মধ্যে বাঁধা</div>",
+            "option2": "<div>(খ) তরলের ধর্ম</div>",
+            "option3": "<div>(গ) পরিবাহীর বিভিন্ন স্তরের গতে বাঁধা</div>",
+            "option4": "<div>(ঘ ঘর্ষণ বল</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩১১. $200\\ mm$ ব্যসার্ধের একটি ধাতব গোলক একটি তরলের মধ্যে দিয়ে $2.1\\ \\times\\ {10}^{-2}\\ {m\\ s}^{-1}$ প্রান্ত বেগে পড়ছে। তরলের সান্দ্রতাঙ্ক $0.003\\{Nms}^{-2}$ হলে তরলের সান্দ্র বল কত?</div>",
+            "option1": "<div>(ক) $1.57\\ \\times \\ {10}^{-3\\ }N$\\textit{}</div>",
+            "option2": "<div>(খ) $2\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "option3": "<div>(গ) $2.37\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "option4": "<div>(ঘ $3.5\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩১২. বেগ অবক্রম কী?</div>",
+            "option1": "<div>(ক) সময়ের সাপেক্ষে বেগের পরিবর্তনের হার</div>",
+            "option2": "<div>(খ) ত্বরণ</div>",
+            "option3": "<div>(গ) দূরত্বের সাপেক্ষে বেগের পরিবর্তনের হার</div>",
+            "option4": "<div>(ঘ বেগ হ্রাস</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩১৩. তরলের পৃষ্ঠ সর্বদা সংকৃচিত হয়ে আসতে চায় কেন?</div>",
+            "option1": "<div>(ক) সান্দ্র ধর্মের জন্য</div>",
+            "option2": "<div>(খ) পৃষ্ঠটানের জন্য</div>",
+            "option3": "<div>(গ) চাপের জন্য</div>",
+            "option4": "<div>(ঘ দাপমাত্রার জন্য</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩১৪. পানির উপরিতলে $3\\ cm$ দীর্ঘ তারকে টেনে তুলতে সর্বাধিক কত বলের প্রয়োজনহবে?</div>",
+            "option1": "<div>(ক) $2.15\\ \\times \\ {10}^{-3}\\ N$\\textit{}</div>",
+            "option2": "<div>(খ) $3\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "option3": "<div>(গ) $4.3\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "option4": "<div>(ঘ $5\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৬. একটি বৃষ্টির ফোঁটার পরার সময় সমবেগ সম্পন্ন হয় কারণ---</div>",
+            "option1": "<div>(ক) পৃষ্ঠটান</div>",
+            "option2": "<div>(খ) বায়ুর ঊর্ধ্বমুখী ধাক্কা</div>",
+            "option3": "<div>(গ) বায়ুর সান্দ্র বল</div>",
+            "option4": "<div>(ঘ বায়ু প্রবাহ</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৭. $l$ দৈর্ঘ্যের একটি বর্গাকার কাঠামোকে সাবানের পানিতে ডুবানো হলো। যখনকাঠামোটিকে বাইরে আনা হলো যখন তার উপর একটি সাবানের ফিল্ম পাওয়া যায়। সাবানেরদ্রবণের পৃষ্ঠটান $T$ হলে কাঠামোটির উপর বলের মান হবে---</div>",
+            "option1": "<div>(ক) $8Tl$</div>",
+            "option2": "<div>(খ) $4Tl$</div>",
+            "option3": "<div>(গ) $10\\ Tl$</div>",
+            "option4": "<div>(ঘ $12\\ Tl$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৮. একই পদার্থ ও ব্যাসার্ধের দুইটি তারের দৈর্ঘ্যের অনুপাত $1:2$ । যদি সমানবল দ্বারা তার দুইটিকে টানা হয়, তাহলে তার দুইটির বিকৃতির অনুপাত হবে---</div>",
+            "option1": "<div>(ক) $1\\ :4$</div>",
+            "option2": "<div>(খ) $1\\ :2$</div>",
+            "option3": "<div>(গ) $2\\ :1$</div>",
+            "option4": "<div>(ঘ $1\\ :1$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>১৯.\\textit{ }${1.5\\ \\times 10}^6\\ g$\\textit{ }ভরের একটি লিফট একটি ইস্পাতেরতারের সাহায্যে ঝুলানো আছে। উহার উঠার সময় লিফটের সর্বোচ্চ $1.2\\ m/{sec}^2$এবং অসহপীড়ন $3.0\\ \\times \\ {10}^8\\ N/m^2$ হলে তারের সর্বনিম্ন ব্যসার্ধ কত?</div>",
+            "option1": "<div>(ক) $4.33\\ \\times \\ {10}^{-3}\\ m$</div>",
+            "option2": "<div>(খ) $4.19\\ \\times \\ {10}^{-3}\\ m$</div>",
+            "option3": "<div>(গ) $3.7\\ \\times \\ {10}^{-3}\\ m$</div>",
+            "option4": "<div>(ঘ কোনোটিই নয়</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২০. কোন ধর্মের কারণে পানির ফোঁটা গোলাকৃতি হয়?</div>",
+            "option1": "<div>(ক) সান্দ্রতা</div>",
+            "option2": "<div>(খ) স্থিতিস্থাপকতা</div>",
+            "option3": "<div>(গ) পৃষ্ঠটান</div>",
+            "option4": "<div>(ঘ কৌশিকত</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২১. সান্দ্রতা গুণাঙ্কের (Co-efficient of Viscosity) মাত্রা কী?</div>",
+            "option1": "<div>(ক) $\\left[{ML}^{-2}T^{-2}\\right]$</div>",
+            "option2": "<div>(খ) $\\left[{ML}^{-1}T^{-3}\\right]$</div>",
+            "option3": "<div>(গ) $\\left[{ML}^{-1}T^{-1}\\right]$</div>",
+            "option4": "<div>(ঘ $\\left[{M^{-2}L}^1T^{-1}\\right]$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>২২. স্থিতিস্থাপক বিভব-এর সমীকরণ---</div>",
+            "option1": "<div>(ক) $W=\\frac{1}{2}\\ \\frac{\\ {TAl}^2}{L}$</div>",
+            "option2": "<div>(খ) $W=\\frac{1}{2}\\ \\frac{\\ TAl}{L}$</div>",
+            "option3": "<div>(গ) $W=\\frac{1}{2}\\ \\frac{\\ {YAL}^2}{1}$</div>",
+            "option4": "<div>(ঘ $W=\\frac{1}{2}\\ \\frac{Yl}{L}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৩. একই পুরুত্বের দুটি তামার তারের দৈর্ঘ্যে$1\\ :2$ । একই বলে প্রসারিত করলেতার দুটির বিকৃতিরি অনুপাত কত?</div>",
+            "option1": "<div>(ক) $1\\ :1$</div>",
+            "option2": "<div>(খ) $1\\ :2$</div>",
+            "option3": "<div>(গ) $2\\ :1$</div>",
+            "option4": "<div>(ঘ $1\\ :4$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৪. বিশুদ্ধ পারদের স্পর্শকোণ কত?</div>",
+            "option1": "<div>(ক) $9{}^\\circ $</div>",
+            "option2": "<div>(খ) $91{}^\\circ $</div>",
+            "option3": "<div>(গ) $16{}^\\circ $</div>",
+            "option4": "<div>(ঘ $139{}^\\circ $</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৫. পানির উপরিতলে রাখা $3\\ cm$ দীর্ঘ সুইকে টেনে তুলতে সর্বাধিক কত বল দরকার?</div>",
+            "option1": "<div>(ক) $4.9\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "option2": "<div>(খ) $4.32\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "option3": "<div>(গ) $2.16\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "option4": "<div>(ঘ $3.3\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৬. সমান দৈর্ঘ্যের তিনটি তার A, B এবং C- তে পীড়নের মান সমান এবং দৈর্ঘ্যবৃদ্ধি $l_A\\ &gt;\\ l_B&gt;l_c$ হলে নিচের কোনটি সঠিক? [যেখানে $Y$ ইয়ং এরগুণাঙ্ক ]</div>",
+            "option1": "<div>(ক) $Y_A&gt;Y_B&gt;Y_c$\\textit{}</div>",
+            "option2": "<div>(খ) $Y_C&gt;Y_B&gt;Y_A$</div>",
+            "option3": "<div>(গ) $Y_A=Y_B=Y_c$</div>",
+            "option4": "<div>(ঘ $B$ ও C</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৭. $5\\ cm\\ $ ব্যাসার্ধের বুদবুদ তৈরি করতে কী পরিমাপ কাজ করতে হবে যখন ঐদ্রবণের পৃষ্ঠটান $3\\ \\times \\ {10}^{-2}{Nm}^{-1}$ ?</div>",
+            "option1": "<div>(ক) $1.5\\ \\times \\ {10}^{-3}\\ J$</div>",
+            "option2": "<div>(খ) $18.8\\ \\times \\ {10}^{-3}\\ J$</div>",
+            "option3": "<div>(গ) $88\\times \\ {10}^{-3}\\ J$</div>",
+            "option4": "<div>(ঘ $1.88\\ \\times \\ {10}^{-3}\\ J$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৮. পয়সন অনুপাতের সীমা কী?</div>",
+            "option1": "<div>(ক) $-\\frac{1}{2}&lt;\\sigma &lt;\\frac{1}{2}$</div>",
+            "option2": "<div>(খ) $-\\frac{1}{2}&lt;\\sigma &lt;1$</div>",
+            "option3": "<div>(গ) $1&lt;\\sigma &lt;2$</div>",
+            "option4": "<div>(ঘ $-1&lt;\\sigma &lt;\\frac{1}{2}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>২৯. সর্বাপেক্ষা স্থিতিস্থাপক কোনটি?</div>",
+            "option1": "<div>(ক) লোহা</div>",
+            "option2": "<div>(খ) তামা</div>",
+            "option3": "<div>(গ) কোয়ার্টজ</div>",
+            "option4": "<div>(ঘ কাঠ</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩০. তরলের পৃষ্ঠটানের একক কোনটি?</div>",
+            "option1": "<div>(ক) ${N/m}^2$</div>",
+            "option2": "<div>(খ) $dyne/{cm}^2$</div>",
+            "option3": "<div>(গ) ${j/m}^2$</div>",
+            "option4": "<div>(ঘ $J$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩১. একটি তরল ও একটি কঠিক পদার্থের মধ্যকার স্পর্শকোণ কোনটি হলে তরল পদার্থটিকঠিন পদার্থটিকে ভেজাবে না?</div>",
+            "option1": "<div>(ক) $30{}^\\circ $</div>",
+            "option2": "<div>(খ) $0{}^\\circ $</div>",
+            "option3": "<div>(গ) $45{}^\\circ $</div>",
+            "option4": "<div>(ঘ) $110{}^\\circ $</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩২. অ্যালুমিনিয়ামের ইয়ং এর গুণাঙ্ক---</div>",
+            "option1": "<div>(ক) $7.0\\ \\times \\ {10}^{10}{Nm}^2$</div>",
+            "option2": "<div>(খ) $7.0\\ \\times \\ {10}^{12}{Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $7.0\\ \\times \\ {10}^{10}{Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $7.0\\ \\times \\ {10}^{10}{Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৩. ইস্পাতের দৃঢ়তার গুণাঙ্ক ${10}^{10}{Nm}^{-2}$ গুণিতক হবে---</div>",
+            "option1": "<div>(ক) $8.0$</div>",
+            "option2": "<div>(খ) $8.4$</div>",
+            "option3": "<div>(গ) $8.6$</div>",
+            "option4": "<div>(ঘ $9.0$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৪. $200\\ mm$ ব্যসার্ধের একটি গোলক কোনো তরলের ভেতর দিয়ে $2.1\\ \\times \\{10}^{-2}\\ m\\ s^{-1}$ প্রান্তবেগ নিয়ে পড়েছে। এ তরলের সান্দ্রতাঙ্ক $0.003\\Nsm^{-2}$ হলে সান্দ্রবলের মান কত হবে?</div>",
+            "option1": "<div>(ক) $2.374\\ \\times \\ {10}^{-8}\\ N$\\textit{}</div>",
+            "option2": "<div>(খ) $2.374\\ \\times \\ {10}^{-4}\\ N$</div>",
+            "option3": "<div>(গ) $2.374\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "option4": "<div>(ঘ $2.374\\ \\times \\ {10}^{-3}\\ N$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৫. $2\\ mm^2$ প্রস্থচ্ছেদের একটি তারের সাথে $15\\ kg$ ভর ঝুলে আছে। ভর ঝুলানোঅবস্থায় তারটির দৈর্ঘ্য $4\\ m$ । তারের উপাদানের ইয়ং এর গুণাঙ্ক $1.3\\ \\times\\ {10}^{10}\\ {N\\ m}^{-1}$ । ভর সরিয়ে নিলে তারটির দৈর্ঘ্য কি পরিমাপ সংকুচিতহবে?\\textit{}</div>",
+            "option1": "<div>(ক) $0.00225\\ m$</div>",
+            "option2": "<div>(খ) $0.0225\\ m$</div>",
+            "option3": "<div>(গ) $0.225\\ m$</div>",
+            "option4": "<div>(ঘ $2.25\\ m$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৬. একটি কৈশিক নলের ব্যাস $0.04\\ \\times \\ {10}^{-4}\\ m$ । এর এক প্রান্তপানিতে ডুবালে পানি নলের ভিতর $0.082\\ m$ উপরে উঠে। পানির তল টান কত? দেওয়াআছে, স্পর্শ কোণ=$0{}^\\circ $ এবং পানির ঘনত্ব $=1.0\\ \\times \\ {10}^3\\kg/m^3$</div>",
+            "option1": "<div>(ক) $8.5\\ \\times \\ {10}^{-4}\\ {Nm}^{-1}$</div>",
+            "option2": "<div>(খ) $7.5\\ \\times \\ {10}^{-4}\\ {Nm}^{-1}$</div>",
+            "option3": "<div>(গ) $9.0\\ \\times \\ {10}^{-4}\\ {Nm}^{-1}$</div>",
+            "option4": "<div>(ঘ $8.0\\ \\times \\ {10}^{-4}\\ {Nm}^{-1}$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৭. $1m$ দীর্ঘ ও ${10}^{-2}\\ {cm}^2$ প্রস্থচ্ছেদ একটি তারকে $2\\ kg$ ওজনদ্বারা টানা হলো। তারটির দৈর্ঘ্য বৃদ্ধি নির্ণয় কর (ইয়ং এর গুণাঙ্ক $Y=2\\\\times \\ {10}^{11}\\ {Nm}^1)$</div>",
+            "option1": "<div>(ক) $9.8\\ \\times \\ {10}^{-5}\\ m$</div>",
+            "option2": "<div>(খ) $9.8\\ \\times \\ {10}^{-2}\\ m$</div>",
+            "option3": "<div>(গ) $2\\ \\times \\ {10}^{-5}\\ m$</div>",
+            "option4": "<div>(ঘ $2\\ \\times \\ {10}^{-2}\\ m$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৮. একটি তারের উপাদানের ইয়ং-এর গুণাঙ্ক $2\\ \\times \\ {10}^{11}\\ N/m^2$ ।তারটির দৈর্ঘ্য 15\\% বৃদ্ধি করতে প্রযুক্ত পীড়ন কত হবে?</div>",
+            "option1": "<div>(ক) $3\\ \\times \\ {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $3\\ \\times \\ {10}^{10}\\ {Nm}^{-1}$</div>",
+            "option3": "<div>(গ) $3\\ \\times \\ {10}^{11}\\ {Nm}^2$</div>",
+            "option4": "<div>(ঘ $3\\ \\times \\ {10}^9\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৩৯. পদার্থের রাসায়নিক বন্ধনের মাঝে সবচেয়ে দুর্বল বন্ধন---</div>",
+            "option1": "<div>(ক) আয়নিক বন্ধন</div>",
+            "option2": "<div>(খ) সমযোজী বন্ধন</div>",
+            "option3": "<div>(গ) ভ্যানডারওয়ালস বন্ধন</div>",
+            "option4": "<div>(ঘ ধাতব বন্ধন</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪০. $20\\ {}^\\circ C$ পাপমাত্রার পানির উপরিতল হতে $0.5\\ m$ লম্বা একটিঅনুভূমিক তারকে টেনে তুলতে যে সর্বাধিক তলের প্রয়োজন তার মান $7.28\\ \\times \\{10}^{-3}\\ N,$ পানির পৃষ্ঠটান বের কর? [তারের ওজন নগণ্য]\\textit{}</div>",
+            "option1": "<div>(ক) $7.2\\ \\times \\ {10}^{-2}\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $7.2\\ \\times \\ {10}^{-2}\\ {Nm}^{-1}$</div>",
+            "option3": "<div>(গ) $7.2\\ \\times \\ {10}^{-3}\\ {Nm}^{-1}$</div>",
+            "option4": "<div>(ঘ $7.2\\ \\times \\ {10}^{-1}\\ {Nm}^{-1}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪১. $1m$ দৈর্ঘ্য এবং $5\\ \\times \\ {10}^{-4}\\ m^2$ । তাদের দৈর্ঘ্য $10\\%$বৃদ্ধি করতে প্রযুক্ত বল হবে---</div>",
+            "option1": "<div>(ক) $4.99\\ \\times \\ {10}^9\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $5.99\\ \\times \\ {10}^9\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $4.99\\ \\times \\ {10}^7\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $5.99\\ \\times \\ {10}^7\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪২. একটি তারের উপাদানের ইয়ং-এর গুণাঙ্ক $2\\ \\times \\ {10}^{11}\\ {Nm}^{-2}$এবং প্রস্থচ্ছেদের ক্ষেত্রফল $1\\ \\times \\ {10}^{-4}\\ m^2$ । তাদের দৈর্ঘ্য$10\\%\\ $ বৃদ্ধি করতে প্রযুক্ত বল হবে---</div>",
+            "option1": "<div>(ক) ${4\\ \\times 10}^{-6}\\ N$\\textit{}</div>",
+            "option2": "<div>(খ) ${2\\ \\times 10}^6\\ N$</div>",
+            "option3": "<div>(গ) ${2\\ \\times 10}^{10}\\ N$</div>",
+            "option4": "<div>(ঘ কোনোটিই নয়</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৩. $300\\ {cm}^3$ পারদের উপর কি পরিমাপ চাপ প্রয়োগ করলে এর আয়তন ${270\\cm}^3$ হবে? পারদের গুণাঙ্ক $2.6\\ \\times \\ {10}^{10}\\ {Nm}^{-2}$ ।</div>",
+            "option1": "<div>(ক) $2.6\\ \\times \\ {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option2": "<div>(খ) $2.6\\ \\times \\ {10}^9\\ {Nm}^{-2}$</div>",
+            "option3": "<div>(গ) $2.4\\ \\times \\ {10}^{10}\\ {Nm}^{-2}$</div>",
+            "option4": "<div>(ঘ $2.6\\ \\times \\ {10}^9\\ {Nm}^{-2}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৪. সান্দ্রতা গুণাঙ্কের মাত্রা কত?</div>",
+            "option1": "<div>(ক) $\\left[{ML}^{-2}T^{-1}\\right]$</div>",
+            "option2": "<div>(খ) $\\left[{M^{-1}L}^{-1}T^{-1}\\right]$</div>",
+            "option3": "<div>(গ) $\\left[{ML}^{-1}T^{-2}\\right]$</div>",
+            "option4": "<div>(ঘ $\\left[{ML}^{-1}T^{-1}\\right]$</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৫. একটি গ্রানাইট পাথরের প্রস্থচ্ছেদের ক্ষেত্রফল $0.03\\ m^2$, অসহ পীড়ন$3.267\\ \\times \\ {10}^5\\ {Nm}^{-2}\\ $। অসহ ভার কত?</div>",
+            "option1": "<div>(ক) $9801\\ N$\\textit{}</div>",
+            "option2": "<div>(খ) $8801\\ N$</div>",
+            "option3": "<div>(গ) $7801\\ N$</div>",
+            "option4": "<div>(ঘ $6801\\ N$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৬. সান্দ্রতার গুণাঙ্ক হবে---</div>",
+            "option1": "<div>(ক) $\\eta =\\frac{\\frac{F}{A}}{\\frac{dv}{dy}}$</div>",
+            "option2": "<div>(খ) $\\eta =\\frac{\\frac{F}{A}}{\\frac{dl}{DL}}$</div>",
+            "option3": "<div>(গ) $\\eta =A\\theta $</div>",
+            "option4": "<div>(ঘ $\\eta =\\frac{\\frac{F}{A}}{\\frac{l}{L}}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৭. বিভিন্ন পদার্থের অণুগুলোর মধ্যে পারস্পরিক আকর্ষণ বলকে হবে---</div>",
+            "option1": "<div>(ক) সংসক্তি বল</div>",
+            "option2": "<div>(খ) আণবিক বল</div>",
+            "option3": "<div>(গ) পারমাণবিক বল</div>",
+            "option4": "<div>(ঘ আসঞ্জন বল</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৮. কোনো একটি তরল তলের একক দৈর্ঘ্যৈর উপর লম্বভাবে তরল স্পর্শক বরাবর যেপরিমাপ বল ক্রিয়ামীল তাকে বলে---</div>",
+            "option1": "<div>(ক) সান্দ্রতা</div>",
+            "option2": "<div>(খ) আসঞ্জন</div>",
+            "option3": "<div>(গ) সংশক্তি</div>",
+            "option4": "<div>(ঘ পৃষ্ঠ টান</div>",
+            "mcqAnswer": "<div>d</div>"
+        },
+        {
+            "mcqQuestion": "<div>৪৯. একই পদার্থের তৈরি দুটি তারের ব্যাসার্ধের অনুপাত $3\\ :1$ । যদি তারদুটোকে সমান বল দ্বারা টানা হয় তবে তাদের পীড়নের অনপাত কত হবে?</div>",
+            "option1": "<div>(ক) $9\\ :1$</div>",
+            "option2": "<div>(খ) $1\\ :9$</div>",
+            "option3": "<div>(গ) $3\\ :1$</div>",
+            "option4": "<div>(ঘ $1\\ :3$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫০. $1\\ {mm}^2$ প্রস্থচ্ছেদ বিশিষ্ট একটি তারের ইয়ং এর গুণাঙ্ক $2\\ \\times \\{10}^{11}\\ {Nm}^{-2}$ । তারটিতে কত বল প্রয়োগ করলে এর দের্ঘ্য বৃদ্ধি আদিদৈর্ঘ্যের 10\\% হবে?</div>",
+            "option1": "<div>(ক) $2\\ \\times \\ {10}^4\\ N$</div>",
+            "option2": "<div>(খ) $2\\ \\times \\ {10}^6\\ N$</div>",
+            "option3": "<div>(গ) $2\\ \\times \\ {10}^{11}\\ N$</div>",
+            "option4": "<div>(ঘ $2\\ \\times \\ {10}^{-5}\\ N$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫১. কোন বন্ধনটি বেশি শক্তিশালী হয়?</div>",
+            "option1": "<div>(ক) $সমযোজী$\\textit{}</div>",
+            "option2": "<div>(খ) আয়নিক</div>",
+            "option3": "<div>(গ) ধাতব</div>",
+            "option4": "<div>(ঘ ভ্যানডারওয়ালস</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫২. কৈশিক নল পদ্ধতিতে $2\\ mm\\ $ ব্যাসের কৈশিক নল দিয়ে পানির পৃষ্ঠটান $72\\dyce/cm$ বের হলো। যদি পরীক্ষাটি $1\\ mm\\ $ ব্যাসের কৈশিক নল নিয়ে করা হতো,তবে পানির পৃষ্ঠটান কত?</div>",
+            "option1": "<div>(ক) $36\\ dyne/cm$</div>",
+            "option2": "<div>(খ) $72\\ dyne/cm$</div>",
+            "option3": "<div>(গ) $144\\ dyne/cm$</div>",
+            "option4": "<div>(ঘ কোনোটিই নয়</div>",
+            "mcqAnswer": "<div>a</div>",
+            "mcqImage": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫৩. ইয়ং এর গুণাঙ্কের মাত্রা সমীকরণ---</div>",
+            "option1": "<div>(ক) $\\left[{MLT}^{-2}\\right]$</div>",
+            "option2": "<div>(খ) $\\left[ML^{-1}T^{-1}\\right]$</div>",
+            "option3": "<div>(গ) $\\left[{ML}^{-1}T^{-2}\\right]$</div>",
+            "option4": "<div>(ঘ $\\left[{MLT}^3\\right]$</div>",
+            "mcqAnswer": "<div>(ঙ) $\\left[{ML}^{-2}T^{-2}\\right]$</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫৪.একটি ${10}^{-2}\\ m^2$ প্রস্থচ্ছেদের ক্ষেত্রফল বিশিষ্ট পাতের পুরুত্ব $2\\\\times \\ {10}^{-3}\\ m$ । ঐ প্লেটকে $0.03\\ {m\\ s}^{-1}$ বেগে চালনা করতে$0.235\\ N$ অনভূমিক বলের প্রয়োজন হলে তরলের সান্দ্রতাঙ্ক কত?</div>",
+            "option1": "<div>(ক) $3\\ kg\\ s^{-1}\\ m^{-1}$\\textit{}</div>",
+            "option2": "<div>(খ) $1.567\\ kg\\ s^{-1}\\ m^{-1}$</div>",
+            "option3": "<div>(গ) $1\\ kg\\ s^{-1}\\ m^{-1}$</div>",
+            "option4": "<div>(ঘ $4\\ kg\\ s^{-1}\\ m^{-1}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫৪. একটি সাবানের বুদবুদের ব্যাসার্ধ $1\\ cm$ এবং সাবানের দ্রবণের পৃষ্ঠটান$3.2\\ \\times \\ {10}^{-2}N/m$ । বুদবুদের বাইরের এবং ভিতরের তলের মদ্যেঅতিরিক্ত চাপের পরিমাপ কত $N/m^2$?</div>",
+            "option1": "<div>(ক) $10.8$</div>",
+            "option2": "<div>(খ) $11.8$</div>",
+            "option3": "<div>(গ) $12.8$</div>",
+            "option4": "<div>(ঘ $13.8$</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫৬. একটি কৈশিক নলের ব্যাস $0.2\\ mm$ । একে $7.2\\ \\times \\ {10}^{-2}\\ N/m$পৃষ্ঠটান এবং ${10}^3\\ kg/m^3$ ঘনত্বের পানিতে ডুবালে নলের কত $m$ উচ্চতায়পানি উঠবে?</div>",
+            "option1": "<div>(ক) $\\mathrm{0.15}$</div>",
+            "option2": "<div>(খ) $\\mathrm{0.25}$</div>",
+            "option3": "<div>(গ) $\\mathrm{0.35}$</div>",
+            "option4": "<div>(ঘ $\\mathrm{.45}$</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫৭. একটি সম্পূর্ণ দৃঢ়বস্তুর আয়তন গুণাঙ্ক---</div>",
+            "option1": "<div>(ক) $0$</div>",
+            "option2": "<div>(খ) $1$</div>",
+            "option3": "<div>(গ) $\\infty $</div>",
+            "option4": "<div>(ঘ $-1$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫৮. একটি গোলক কোনো তরলের ভেতর দিয়ে অন্ত্যবেগে পড়ছে। গোলকটির উপর ক্রিয়াশীলনিট বল কী?</div>",
+            "option1": "<div>(ক) তরলের প্লবতা</div>",
+            "option2": "<div>(খ) সান্দ্র বল</div>",
+            "option3": "<div>(গ) শূণ্য</div>",
+            "option4": "<div>(ঘ গোলকের ওজন</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৫৯. যদি স্পর্শকোণ 90$\\mathrm{{}^\\circ}$ এর কম হয়, তবে তরলের পৃষ্ঠ কেমন হবে?</div>",
+            "option1": "<div>(ক) উত্তল</div>",
+            "option2": "<div>(খ) অবতল</div>",
+            "option3": "<div>(গ) সমতলাবতল</div>",
+            "option4": "<div>(ঘ সমতলোত্তল</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬০. বিভিন্ন পদার্থের অণুগলোর মধ্যে পারস্পরিক আকর্ষণ বলকে বলে---</div>",
+            "option1": "<div>(ক) সংসক্তি বল</div>",
+            "option2": "<div>(খ) আণবিক পাল্লা</div>",
+            "option3": "<div>(গ) আসঞ্জণ বল</div>",
+            "option4": "<div>(ঘ আসঞ্জণা শক্তি</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬১. একটি স্টিলের তারের তাপমাত্রা বাড়ালে ইয়ং এর গুণাঙ্ক---</div>",
+            "option1": "<div>(ক) ক্রমে বৃদ্ধি পেয়ে পরে কমবে</div>",
+            "option2": "<div>(খ) বৃদ্ধি পাবে</div>",
+            "option3": "<div>(গ) হ্রাস পাবে</div>",
+            "option4": "<div>(ঘ একই থাকবে</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬২. 4m দৈর্ঘ্য এবং $35.5\\ mm$ ব্যাসের একটি স্টিলের তারের উপর $5kg$ ভরপ্রয়োগ করলে দৈর্ঘ্য বৃদ্ধি হবে---</div>",
+            "option1": "<div>(ক) $4.9\\ \\times \\ {10}^{-2}\\ m$\\textit{}</div>",
+            "option2": "<div>(খ) $4.9\\ \\times \\ {10}^{-5}\\ m$</div>",
+            "option3": "<div>(গ) $4.9\\ \\times \\ {10}^{-4}\\ m$</div>",
+            "option4": "<div>(ঘ $4.9\\ \\times \\ {10}^{-3}\\ m$</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬৩. কোনটি রাসায়নিক বন্ধনের প্রকারভেদে পড়ে না?</div>",
+            "option1": "<div>(ক) সন্নিবেশ আয়নিক বন্ধন</div>",
+            "option2": "<div>(খ) আয়নিক বন্ধন</div>",
+            "option3": "<div>(গ) সমযোজী বন্ধন</div>",
+            "option4": "<div>(ঘ সন্নিবেশ সমযোজী বন্ধন</div>",
+            "mcqAnswer": "<div>a</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬৪. সান্দ্রতাঙ্গের উপর তাপমাত্রা ও চাপের প্রভাবে ক্ষেত্রে কোনটি সঠিক নয়?</div>",
+            "option1": "<div>(ক) তরল পদার্থের সান্দ্রতা তাপমাত্রা বৃদ্ধির সাথে</div>",
+            "option2": "<div>(খ) গ্যাসের সান্দ্রতা গ্যাস অণুসমূহের গড় বেগের সমানুপাতিক</div>",
+            "option3": "<div>(গ) গ্যাসের সান্দ্রতাঙ্গে চাপের উপর নির্ভরশীল</div>",
+            "option4": "<div>(ঘ চাপ বৃদ্ধি পেলে তরল পদার্থের সান্দ্রতাংক বৃদ্ধি পায়</div>",
+            "mcqAnswer": "<div>c</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬৫. যেসব বস্তুর স্থিতিস্থাপক ধর্ম বিভিন্ন দিকে বিভিন্ন তাকে বলে---</div>",
+            "option1": "<div>(ক) পূর্ণ দৃঢ় বস্তু</div>",
+            "option2": "<div>(খ) অসম দিকধর্মী বস্তু</div>",
+            "option3": "<div>(গ) সম দিকধর্মী বস্তু</div>",
+            "option4": "<div>(ঘ পূর্ণ স্থিতিস্থাপক বস্তু</div>",
+            "mcqAnswer": "<div>b</div>"
+        },
+        {
+            "mcqQuestion": "<div>৬৬. স্থিতিস্থাপকতা সম্পর্কে নিম্নের কোন উক্তিটি সত্য নয়?</div>",
+            "option1": "<div>(ক) স্থিতিস্থাপক গুণাঙ্ক = পীড়ন/বিকৃতি</div>",
+            "option2": "<div>(খ) স্থিতিস্থাপক গুণাঙ্ক=বিকৃতি/পীড়ন</div>",
+            "option3": "<div>(গ) অসহ পীড়ন = $\\frac{অসহ\\ ভার}{ক্ষেত্রফল}$</div>",
+            "option4": "<div>(ঘ স্থিতিস্থাপক গুণাঙ্কের একক ${Nm}^{-1}$</div>",
+            "mcqAnswer": "<div>b</div>"
+        }
+    ]
+}

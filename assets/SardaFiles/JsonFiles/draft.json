@@ -1,0 +1,189 @@
+
+{
+  "subjectName": "PT Table 1",
+  "chapters": [
+    {
+      "chapterNumber": "প্রথম অধ্যায়",
+      "chapterName": "Marching & Running",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
+      "data": [
+        {
+          "title": "Heel Raise\nকুইক মার্চ, হিল রেইজ (সাবধান থেকে বলতে হবে)",
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "title": "Quick March Bending Knee\nহাটু ভাজ করে কুইজ মার্চ",
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "title": "Left-Up Right-Up\nকোমর ধরে লেফট আপ রাইট আপ",
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "title": "Walking on Heel",
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "দ্বিতীয় অধ্যায়",
+      "chapterName": "Introductory",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
+      "data": [
+        {
+          "title": "কোমর ধরে ধীরে উঠা বসা",
+          "image": "https://example.com/vector-resolution",
+          "topicPdfUrl": "https://example.com/vector-resolution.pdf"
+        },
+        {
+          "title": "ফিঙ্গার স্ট্রেইট হেড টার্নিং",
+          "image": "https://example.com/vector-multiplication",
+          "topicPdfUrl": "https://example.com/vector-multiplication.pdf"
+        },
+        {
+          "title": "সাবধান পজিশন ৬ মোশন",
+          "image": "https://example.com/vector-calculus"
+        },
+        {
+          "title": "৩ ফুট পা খোলা কোমর হাত, কোমন ডানে বামে ঘোরানো",
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PtTable1Files/Introductory-4.html"
+        },
+        {
+          "title": "সাইড জাম্প করা",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Theory.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "তৃতীয় অধ্যায়",
+      "chapterName": "Heaving",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/DynamicsIcon.gif",
+      "data": [
+        {
+          "title": "Tow People sawing\nদুই জন ডানে মুখোমুখি হয়ে হাত টানাটানি",
+          "image": "https://example.com/newtons-formulas",
+          "topicPdfUrl": "https://example.com/newtons-formulas.pdf"
+        },
+        {
+          "title": "সাবধান থেকে দুই হাত উপরে উঠানো নামানো",
+          "image": "https://example.com/falling-objects",
+          "topicPdfUrl": "https://example.com/falling-objects.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "চতুর্থ অধ্যায়",
+      "chapterName": "Lateral",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/chapterFourIcon.gif",
+      "data": [
+        {
+          "title": "৩ ফুট পা খোলা হাত প্রসারিত ডানে বামে কাত হওয়া",
+          "image": "https://example.com/concept-of-force",
+          "topicPdfUrl": "https://example.com/concept-of-force.pdf"
+        },
+        {
+          "title": "৩ ফুট পা খোলা পাখি মারা",
+          "image": "https://example.com/newtons-formulas",
+          "topicPdfUrl": "https://example.com/newtons-formulas.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "পঞ্চম অধ্যায়",
+      "chapterName": "Balance",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/ChapterFiveIcon.gif",
+      "data": [
+        {
+          "title": "কোমর ধরে পা সামনে পাশে ও পিছনে নেওয়া",
+          "image": "https://example.com/work",
+          "topicPdfUrl": "https://example.com/work.pdf"
+        },
+        {
+          "title": "কোমর ধরে left leg one-one/two-one-two",
+          "image": "https://example.com/nature-of-energy",
+          "topicPdfUrl": "https://example.com/nature-of-energy.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "ষষ্ঠ অধ্যায়",
+      "chapterName": "Abdominal",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/GravityIcon.gif",
+      "data": [
+        {
+          "title": "পশু আপ (বুক ডাউন)",
+          "image": "https://example.com/gravity-force",
+          "topicPdfUrl": "https://example.com/gravity-force.pdf"
+        },
+        {
+          "title": "পশু আপ left leg one/two",
+          "image": "https://example.com/gravity-strength-and-potential",
+          "topicPdfUrl": "https://example.com/gravity-strength-and-potential.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "সপ্তম অধ্যায়",
+      "chapterName": "Dorsal",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/SpringIcon.gif",
+      "data": [
+        {
+          "title": "৩ ফোট পা খোলা হাত দিয়ে মাটি ছোয়া ও সোজা হওয়া",
+          "image": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "অষ্টম অধ্যায়",
+      "chapterName": "Jumping & Bouldering",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/PeriodicMotionIcon.gif",
+      "data": [
+        {
+          "title": "সাবধান পজিশনে অর্ধেক বসা লাফ দেওয়া ও সোজা হওয়া",
+          "image": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "title": "হ্যান্ড কিকিং",
+          "image": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "title": "লং জাম্প ৩ জাম্প ডাবল হল্ট",
+          "image": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "নবম অধ্যায়",
+      "chapterName": "Final Exercise",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/ChapterNineIcon.gif",
+      "data": [
+        {
+          "title": "৩ ফুট পা খোলা হাত প্রসারিত করে পাতা উল্টনো",
+          "image": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "দশম অধ্যায়",
+      "chapterName": "Corrective Exercise",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/10.Gas/GasIcon.gif",
+      "data": [
+        {
+          "title": "৩ ফুট পা খোলা, কোমরে হাত, নিঃশ্বাসের সাথে আগে পিছে মুঠি খোলা",
+          "image": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "title": "সাবধান উল্টা ঘোর আরামে দারা চেক পজিশন",
+          "image": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        }
+      ]
+    }
+  ]
+}

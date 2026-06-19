@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hidden Navigation Panel</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+  }
+  nav {
+    position: fixed;
+    top: 0;
+    left: -250px; /* Off-screen initially */
+    width: 250px;
+    height: 100%;
+    background: #333;
+    transition: left 0.3s ease;
+  }
+  nav.visible {
+    left: 0; /* Moves onto screen when visible class is added */
+  }
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  nav ul li {
+    padding: 10px;
+  }
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+  }
+  .content {
+    margin-left: 20px;
+  }
+</style>
+</head>
+<body>
+
+<nav id="nav">
+  <ul>
+    <li><a href="#section1">Section 1</a></li>
+    <li><a href="#section2">Section 2</a></li>
+    <li><a href="#section3">Section 3</a></li>
+    <li><a href="#section4">Section 4</a></li>
+  </ul>
+</nav>
+
+<div class="content">
+  <h1 id="section1">Section 1</h1>
+  <p>This is the content of section 1.</p>
+  
+  <h1 id="section2">Section 2</h1>
+  <p>This is the content of section 2.</p>
+  
+  <h1 id="section3">Section 3</h1>
+  <p>This is the content of section 3.</p>
+  
+  <h1 id="section4">Section 4</h1>
+  <p>This is the content of section 4.</p>
+</div>
+
+<script>
+  var touchStartX = 0;
+  var touchEndX = 0;
+
+  // Function to toggle the visibility of the navigation panel based on swipe direction
+  function toggleNav() {
+    var nav = document.getElementById("nav");
+    nav.classList.toggle("visible");
+  }
+
+  // Add touch event listeners to handle swipe gestures
+  document.addEventListener('touchstart', function(event) {
+    touchStartX = event.touches[0].clientX;
+  }, false);
+
+  document.addEventListener('touchend', function(event) {
+    touchEndX = event.changedTouches[0].clientX;
+    handleSwipe();
+  }, false);
+
+  // Function to handle swipe gestures and toggle navigation panel accordingly
+  function handleSwipe() {
+    var swipeDistance = touchEndX - touchStartX;
+    if (swipeDistance > 50) { // Swipe right
+      toggleNav();
+    }
+  }
+</script>
+
+</body>
+</html>

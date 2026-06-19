@@ -1,0 +1,215 @@
+{
+  "subjectName": "PT Table 1",
+  "chapters": [
+    {
+      "chapterNumber": "প্রথম অধ্যায়",
+      "chapterName": "Marching & Running",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "PT Table 2 Chart",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_extra/AllPtTable2.html"
+        },
+        {
+          "topicName": "কুইক থেকে ডবল, ডবল থেকে হল্ট (সাবধান থেকে শুরু)",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "topicName": "হাটু ভাজ করে ডবল মার্চ",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "topicName": "স্লো মার্চ",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "topicName": "হাত উপরে ও পাশে লেফট আপ রাইট আপ",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        },
+        {
+          "topicName": "নবাবী চাল",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html"
+        }
+        
+      ]
+    },
+    {
+      "chapterNumber": "দ্বিতীয় অধ্যায়",
+      "chapterName": "Introductory",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "কোমর ধরে দ্রুত উঠা বসা",
+          "topicUrl": "https://example.com/vector-resolution",
+          "topicPdfUrl": "https://example.com/vector-resolution.pdf"
+        },
+        {
+          "topicName": "ফিঙ্গার স্ট্রেইট হেড রোলিং",
+          "topicUrl": "https://example.com/vector-multiplication",
+          "topicPdfUrl": "https://example.com/vector-multiplication.pdf"
+        },
+        {
+          "topicName": "সাবধান হতে দুই হাত সামনে দিয়ে সোজা ও প্রসারিত করা",
+          "topicUrl": "https://example.com/vector-calculus",
+          "topicPdfUrl": "https://example.com/vector-calculus.pdf"
+        },
+        {
+          "topicName": "৩ ফুট পা খোলা কোমর হাত শরীর ঘোরানো",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh02_RefinedVector.pdf"
+        },
+        {
+          "topicName": "উপর তালি",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Theory.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "তৃতীয় অধ্যায়",
+      "chapterName": "Heaving",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/DynamicsIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "৩ ফুট পা খোলা হাত উপরে রেখে পানি কাটা",
+          "topicUrl": "https://example.com/newtons-formulas",
+          "topicPdfUrl": "https://example.com/newtons-formulas.pdf"
+        },
+        {
+          "topicName": "একজনের পিঠে আরেক জনকে উঠানো নামানো",
+          "topicUrl": "https://example.com/falling-objects",
+          "topicPdfUrl": "https://example.com/falling-objects.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "চতুর্থ অধ্যায়",
+      "chapterName": "Lateral",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/chapterFourIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "৩ ফুট পা খোলা হাত উপরে কলাগাছ ডানে বামে নুয়ানো",
+          "topicUrl": "https://example.com/concept-of-force",
+          "topicPdfUrl": "https://example.com/concept-of-force.pdf"
+        },
+        {
+          "topicName": "৩ ফুট পা খোলা ৬ মোশন",
+          "topicUrl": "https://example.com/newtons-formulas",
+          "topicPdfUrl": "https://example.com/newtons-formulas.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "পঞ্চম অধ্যায়",
+      "chapterName": "Balance",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/ChapterFiveIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "সাবধান হতে হাত ও পা সামনে পাশে ও পিছনে নেওয়া",
+          "topicUrl": "https://example.com/work",
+          "topicPdfUrl": "https://example.com/work.pdf"
+        },
+        {
+          "topicName": "কোমর ধরে left leg one-one ফুট রোলিং",
+          "topicUrl": "https://example.com/nature-of-energy",
+          "topicPdfUrl": "https://example.com/nature-of-energy.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "ষষ্ঠ অধ্যায়",
+      "chapterName": "Abdominal",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/GravityIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "পশু আপ পজিশন জোরা পা সামনে ও পিছনে নেওয়া",
+          "topicUrl": "https://example.com/gravity-force",
+          "topicPdfUrl": "https://example.com/gravity-force.pdf"
+        },
+        {
+          "topicName": "৩ ফুট পা খোলা পশু আপ জাম্প",
+          "topicUrl": "https://example.com/gravity-strength-and-potential",
+          "topicPdfUrl": "https://example.com/gravity-strength-and-potential.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "সপ্তম অধ্যায়",
+      "chapterName": "Dorsal",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/SpringIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "সাবধান পজিশন ফিট ক্লোজ হাত দিয়ে পা ধরা সোজা হওয়া(মুরুব্বি সালাম)",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "৩ ফুট পা খোলা হাত উপরে কুড়াল মারা",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "অষ্টম অধ্যায়",
+      "chapterName": "Jumping & Bouldering",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/PeriodicMotionIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "সাবধান পজিশন লেফট-লেফট/রাইট-রাইট",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "একজনের পিঠে উপর লাফিয়ে আর একজন যাওয়া",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "লাফ ধাপ ঝাপ করা",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "নবম অধ্যায়",
+      "chapterName": "Final Exercise",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/ChapterNineIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "৩ ফুট পা খোলা পাতা উলটিয়ে হাত ৪ মোশন",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "দশম অধ্যায়",
+      "chapterName": "Corrective Exercise",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/10.Gas/GasIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "৩ ফুট পা খোলা, কোমরে হাত, নিঃশ্বাসের সাথে আগে পিছে মুষ্টি বন্দ",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "সাবধান উল্টা ঘোর আরামে দারা চেক পজিশন",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "অতিরিক্ত",
+      "chapterName": "All PT Chart",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/CandelaBackground.webp",
+      "topicsData": [
+        {
+          "topicName": "PT Table 2 Chart",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_extra/AllPtTable2.html"
+        }
+      
+      ]
+    }
+  ]
+}

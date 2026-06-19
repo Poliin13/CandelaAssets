@@ -1,0 +1,609 @@
+{
+  "subjectName": "Physics 2nd Paper",
+  "chapters": [
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "প্রথম অধ্যায়",
+      "chapterName": "তাপগতিবিদ্যা",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.01.Thermodynamics/Ch.01.Icon.gif",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "হ্যান্ডনোট তাপগতিবিদ্যা",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/ThermodynamicsHandnote.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch1Theory_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch1Math_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch1Objective_compressed.pdf"
+        }
+      ]
+    },
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "দ্বিতীয় অধ্যায়",
+      "chapterName": "স্থির তড়িৎ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/Ch.02.Icon.webp",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "ধারণা-স্থির তড়িৎ",
+          "pdfLink": "",
+          "htmlLink": "",
+          "cardList": [
+            {
+              "cardData": [
+                {
+                  "title": "কুলম্বের সূত্র"
+                },
+                {
+                  "ytVideo": "a4fd2HhD7h4"
+                },
+                {
+                  "title": "কুলম্বের সূত্র"
+                },
+                {
+                  "text": "নির্দিষ্ট মাধ্যমে দুটি বিন্দু আধান এর মধ্যে ক্রিয়াশীল আকর্ষণ বা বিকর্ষণ বলের মান আধানদ্বয়ের গুণফলের সমানুপাতিক, এদের মধ্যবর্তী দূরত্বের বর্গের ব্যস্তানুপাতিক এবং এই বল আধানদ্বয়ের সংযোজক সরলরেখা বরাবর ক্রিয়া করে।"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/CulombsLaw/culombs_Law_1.webp"
+                },
+                {
+                  "text": "ধরে নেই, একটা মাধ্যমে d দুরত্বে দুটি আধান q1 ও q2 রাখা। যেহেতু, দূরত্বের তুলনায় তাদের আকার অনেক ছোট কাজেই তারা বিন্দু আধান। দুটি আধানই নিজেদের উপর F বল প্রয়োগ করবে।"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/CulombsLaw/culombs_Law_2.webp"
+                },
+                {
+                  "title": "কুলম্বের সূত্রের গাণিতিক প্রকাশ"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/CulombsLaw/culombs_law_equation.webp"
+                },
+                {
+                  "text": "K হচ্ছে সমানুপাতিক ধ্রুবক যা কুলম্ব ধ্রুবক (Coulomb's Constant) নামে পরিচিত। ধ্রুবকটি মাধ্যমের প্রকৃতি ও যথাক্রমে F, d, ও q এর এককের উপর নির্ভর করে। একে লেখা যায়\n"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/CulombsLaw/k.webp"
+                },
+                {
+                  "text": "ε0 একটি ধ্রুব সংখ্যা। এর একটা বিশেষ নাম হল শূন্যস্থানের ভেদনযোগ্যতা (Permittivity of Free Space)।\nকুলম্ব বল মাধ্যমের প্রকৃতির উপর নির্ভর করে। কুলম্ব বল মাধ্যমের যে ধর্মের উপর নির্ভর করে তাই হল ভেদনযোগ্যতা। "
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "text": "কুলম্বের সূত্র উদাহরন ১"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/CulombsLaw/CulombsLawExample(1).webp"
+                },
+                {
+                  "text": "কুলম্বের সূত্র উদাহরন ২"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/CulombsLaw/CulombsLawExample(2).webp"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "flipCardFront": "দুটি চার্জের মধ্যবর্তী দূরত্ব 0.06m হলে, এরা পরস্পরকে 16×10-5N বলে বিকর্ষণ করে। এদের মধ্যবর্তী দূরত্ব 0.08m হলে, এরা কত বলে বিকর্ষণ করবে?",
+                  "flipCardBack": "উত্তরঃ 9×10-5N"
+                },
+                {
+                  "flipCardFront": "k পরাবৈদ্যুতিক ধ্রুবক বিশিষ্ট মাধ্যমে দুটি ধন চার্জের মধ্যবর্তী দূরত্ব 0.05m এবং এদের মধ্যে পারস্পারিক বিকর্ষণ বল 8×10-5N | চার্জ দুটির একটির পরিমাণ  অপরটির দ্বিগুণ হলে চার্জদয়ের পরিমাণ কত?",
+                  "flipCardBack": "উত্তরঃ ±3.33×10-9 C; ±6.66×10-9 C"
+                },
+                {
+                  "flipCardFront": "3×10-6 C মানের চারটি বিন্দু চার্জ একটি বর্গক্ষেত্রের চার কোণায় স্থাপন করা হল | বর্গক্ষেত্রের প্রতিটি বাহুর দৈর্ঘ্য 0.2m হলে যেকোনো একটি চার্জের উপর ক্রিয়াশীল বল বের কর ",
+                  "flipCardBack": "উত্তরঃ 3.87N"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "title": "তড়িৎক্ষেত্র"
+                },
+                {
+                  "ytVideo": "LB8Rhcb4eQM"
+                },
+                {
+                  "title": "তড়িৎক্ষেত্র "
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/ElectricField/Electric_field_1.gif"
+                },
+                {
+                  "text": "একটি চার্জিত বস্তু তার চারদিকে যতদুর পর্যন্ত তার প্রভাব বিস্তার করে বা অন্য একটি চার্জের উপর আকর্ষন বা বিকর্ষন বল প্রয়োগ করে সেই অঞ্চলকে চার্জিত বস্তুর তড়িৎক্ষেত্র বলে।"
+                },
+                {},
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/ElectricField/Electric_field_2.gif"
+                },
+                {
+                  "text": "কোন বিন্দুতে তড়িৎক্ষেত্র আছে কিনা তা দেখার জন্য পরীক্ষামূলকভাবে যে আধান বা চার্জ স্থাপন করা হয় তাকে পরখ চার্জ বলে। একটি তড়িৎক্ষেত্রের সকল বিন্দুতে পরখ চার্জ সমান বল অনুভব করবে না। পরখ চার্জকে চার্জিত বস্তুটির কাছে আনলে সবল বল অনুভব করবে আর দুরে যেতে থাকলে বলের সবলতা কমতে থাকে। তাই বলা যায়, তড়িৎ ক্ষেত্রের কোন বিন্দুতে একটি একক ধনাত্মক আধান স্থাপন করলে সেটি যে বল অনুভব করে তাই তড়িৎ প্রাবল্য। একে E দ্বারা প্রকাশকরা হয়।"
+                },
+                {},
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/ElectricField/E_direction.webp"
+                },
+                {
+                  "text": "যেহেতু তড়িৎপ্রাবল্য একক চার্জের উপর ক্রিয়ারত বল। তাই বলা যায় এটি একটি ভেক্টর রাশি। কারন বল একটি ভেক্টর রাশি। অর্থাৎ তড়িৎ প্রাবল্যের দিক থাকবে। প্রাবল্যের দিক হবে পরখ চার্জ q যে দিকে বল অনুভব করে সে দিকে।"
+                },
+                {
+                  "text": "মনে কর একটি বিন্দু চার্জ +q এর জন্য একটি তড়িৎক্ষেত্র সৃষ্টি হয়েছে। +q বিন্দু চার্জ থেকে r দুরত্বে P বিন্দুতে একটি পরখ চার্জ +q0 স্থাপন করা হল। কুলম্বের সূত্র অনুসারে q0এর উপর +q দ্বারা প্রযুক্ত বল,"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/CulombsLaw/culombs_law_equation.webp"
+                },
+                {
+                  "text": "যেহেতু তড়িৎপ্রাবল্য একক চার্জের উপর ক্রিয়ারত বল। তাই বলা যায় এটি একটি ভেক্টর রাশি। কারন বল একটি ভেক্টর রাশি। অর্থাৎ তড়িৎ প্রাবল্যের দিক থাকবে। প্রাবল্যের দিক হবে পরখ চার্জ q যে দিকে বল অনুভব করে সে দিকে।"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/ElectricField/E_equation_2.webp"
+                },
+                {
+                  "text": "তাহলে সংজ্ঞানুসারে p বিন্দুতে তড়িৎ প্রাবল্য,"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/ElectricField/E_equation_1.webp"
+                },
+                {
+                  "title": "বিভবের স্কেলার ধর্ম"
+                },
+                {
+                  "text": "বল একটি ভেক্টর রাশি। তাই তড়িৎ প্রাবল্য একটি ভেক্টর রাশি। তাই এর যোগ ভেক্টর যোগের নিয়ম অনুসারে হয়। অর্থাৎ,"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/ElectricField/e_vector.webp"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "text": "তড়িৎক্ষেত্র উদাহরন ১"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/ElectricField/ElectricFieldExample(1).webp"
+                },
+                {
+                  "text": "তড়িৎক্ষেত্র উদাহরন ২"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/ElectricField/ElectricFieldExample(2).webp"
+                },
+                {
+                  "text": "তড়িৎক্ষেত্র উদাহরন ৩"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/ElectricField/ElectricFieldExample(3).webp"
+                },
+                {
+                  "text": "তড়িৎক্ষেত্র উদাহরন ৪"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/ElectricField/ElectricFieldExample(4).webp"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "flipCardFront": "১. একটি সমবাহু ত্রিভুজের A, B এবং C তিনটি কৌণিক বিন্দু এবং ক্রিভুজের প্রত্যেক বাহুর দৈর্ঘ্য 0.1m. ত্রিভুজের A এবং B বিন্দুতে +100C এবং -100C চার্জ স্থাপন করা হল। C বিন্দুতে প্রাবল্যের মান ও দিক নির্ণয় কর।",
+                  "flipCardBack": "উত্তরঃ 9×10^-13 NC-1"
+                },
+                {
+                  "flipCardFront": "২. 10x10^-8 C চার্জ বিশিষ্ট দুটি ক্ষুদ্রাকারের গােলকের মধ্যবর্তী দূরত্ 10cm আধান দুটির ঠিক মধ্যবিন্দুতে তড়িৎ প্রাবল্য কত হবে?",
+                  "flipCardBack": "উত্তরঃ 5.4x10 NC-1"
+                },
+                {
+                  "flipCardFront": "৩. 2m বাহু বিশিষ্ট সমবাহু ক্রিভুজের দুই কৌণিক বিন্দুতে 2 কুলম্ব মানের দুটি চার্জ স্থাপিত আছে । তৃতীয় কৌণিক বিন্দুতে প্রাবল্যের মান নির্ণয় কর।",
+                  "flipCardBack": "Ans. 7.79x10^9 NC-1"
+                },
+                {
+                  "flipCardFront": "৩. 2m বাহু বিশিষ্ট সমবাহু ক্রিভুজের দুই কৌণিক বিন্দুতে 2 কুলম্ব মানের দুটি চার্জ স্থাপিত আছে । তৃতীয় কৌণিক বিন্দুতে প্রাবল্যের মান নির্ণয় কর।",
+                  "flipCardBack": "Ans. 7.79x10^9 NC-1"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "title": "তড়িৎ ক্ষেত্রের বিভব"
+                },
+                {
+                  "ytVideo": "SNlOPxZ-Ev4&t=5s"
+                },
+                {
+                  "title": "তড়িৎ ক্ষেত্রের বিভব"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/PotentialEnergy/potentialEnergy1.gif"
+                },
+                {
+                  "text": "অসীম দূরত্ব থেকে একটি একক ধনাত্মক আধানকে তড়িৎক্ষেত্রের কোনো বিন্দুতে আনতে যে পরিমান কার্য করতে হয় তাকে তড়িৎক্ষেত্রের ওই বিন্দুতে তড়িৎবিভব (Electric Potential) বলে।"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/PotentialEnergy/potentialEnergy2.gif"
+                },
+                {
+                  "text": "যদি অসীম বা শূণ্য বিভবের স্থান থেকে q ধণাত্মক চার্জ তড়িৎ ক্ষেত্রের কোন বিন্দুতে আনতে W পরিমাণ কাজ করতে হয় তাহলে,\nW = V × q\nঅর্থাৎ, সম্পাদিত কার্য = বিভব × আধান"
+                },
+                {
+                  "title": "বিভবের গাণিতিক প্রকাশ"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/PotentialEnergy/V_equation(1).webp"
+                },
+                {
+                  "text": "বিভবের SI একক হল ভোল্ট [volt]। যদি অসীম বা শূণ্য বিভবের স্থান থেকে q ধণাত্মক চার্জ তড়িৎ ক্ষেত্রের কোন বিন্দুতে আনতে W পরিমাণ কাজ করতে হয় তাহলে অসীম বা শূণ্য বিভবের স্থান থেকে যদি 1C(কুলম্ব) ধণাত্মক চার্জকে তড়িৎ ক্ষেত্রের কোন বিন্দুতে আনতে 1J(জুল) কাজ করতে হয় তাহলে ঐ বিন্দুর বিভবকে 1V(ভোল্ট) বলে।"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/PotentialEnergy/V_equation(2).webp"
+                },
+                {
+                  "title": "বিভবের স্কেলার ধর্ম"
+                },
+                {
+                  "text": "কাজ একটি স্কেলার রাশি। তাই বিভবও একটি স্কেলার রাশি। তাই এর যোগ স্কেলার নিয়ম অনুসারে হয়। অর্থাৎ,"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/PotentialEnergy/V_scalar.webp"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "text": "তড়িৎ ক্ষেত্রের বিভব উদাহরন ১"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/PotentialEnergy/vEquation(1).webp"
+                },
+                {
+                  "text": "তড়িৎ ক্ষেত্রের বিভব ২"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/PotentialEnergy/vEquation(2).webp"
+                },
+                {
+                  "text": "তড়িৎ ক্ষেত্রের বিভব ৩"
+                },
+                {
+                  "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.02.StaticElectricity/PotentialEnergy/vEquation(3).webp"
+                }
+              ]
+            },
+            {
+              "cardData": [
+                {
+                  "flipCardFront": "১. একটি 10C চার্জ দেওয়া আছে। চার্জের কেন্দ্র হতে 100cm দূরে বৈদ্যুতিক বিভবের মান হিসাব কর।",
+                  "flipCardBack": "উত্তরঃ 9×10^10 Volt"
+                },
+                {
+                  "flipCardFront": "২. ১২µC ও ৮µC দুটি বিন্দুচার্জ পরস্পর থেকে ১০সেমি দূরে অবস্থিত। চার্জ দুটিকে ৬সেমি ব্যবধানে আনতে কত কাজ হবে?",
+                  "flipCardBack": "উত্তরঃ ৫.৭৬ Joule"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "হ্যান্ডনোট স্থিরতড়িৎ",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteStaticElectricity.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch2Theory_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch2Math_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch2Objective_compressed.pdf"
+        }
+      ]
+    },
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "তৃতীয় অধ্যায়",
+      "chapterName": "চল তড়িৎ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.03.CurrentElectricity/Ch.03.Icon.gif",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "হ্যান্ডনোট চল তড়িৎ",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteCh02_cholo_torit.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch3Theory_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch3Math_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch3Objective_compressed.pdf"
+        }
+      ]
+    },
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "চতুর্থ অধ্যায়",
+      "chapterName": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.04.Magnetism/Ch.04.Icon.webp",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "হ্যান্ডনোট তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteCh04_torit_probaher_choumbok_kriya.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch4Theory_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch4Math_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch4Objective_compressed.pdf"
+        }
+      ]
+    },
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "পঞ্চম অধ্যায়",
+      "chapterName": "তাড়িতচৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.05.MagneticInduction/Ch.05.Icon.webp",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "হ্যান্ডনোট তাড়িতচৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteCh05_torit_chumbokiyo_abesh_o_dik_poriborti.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch5Theory_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch5Math_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch5Objective_compressed.pdf"
+        }
+      ]
+    },
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "ষষ্ঠ অধ্যায়",
+      "chapterName": "জ্যামিতিক আলোকবিজ্ঞান",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.06.GeometricOptics/Ch.06.Icon.gif",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "হ্যান্ডনোট জ্যামিতিক আলোকবিজ্ঞান",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteGeometricOptics.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch6Theory_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch6Math_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch6Objective_compressed.pdf"
+        }
+      ]
+    },
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "সপ্তম অধ্যায়",
+      "chapterName": "ভৌত আলোকবিজ্ঞান",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.07.PhysicalOptics/Ch.07.Icon.webp",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "হ্যান্ডনোট ভৌত আলোকবিজ্ঞান",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnotePhysicalOptics.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch7Theory_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch7Math_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch7Objective_compressed.pdf"
+        }
+      ]
+    },
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "অষ্টম অধ্যায়",
+      "chapterName": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.08.ModernPhysics/Ch.08.Icon.webp",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "হ্যান্ডনোট আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteModernPhysics.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch8Theory_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch8Math_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch8Objective_compressed.pdf"
+        }
+      ]
+    },
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "নবম অধ্যায়",
+      "chapterName": "পরমাণুর মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.09.AtomicModel/Ch.09.Icon.gif",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "হ্যান্ডনোট পরমাণুর মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteAtomicModel.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch9Theory_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch9Math_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch9Objective_compressed.pdf"
+        }
+      ]
+    },
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "দশম অধ্যায়",
+      "chapterName": "সেমিকন্ডাক্টর ও ইলেক্ট্রনিক্স",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.10.Electronics/Ch.10.Icon.gif",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "হ্যান্ডনোট সেমিকন্ডাক্টর ও ইলেক্ট্রনিক্স",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteElectronics.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch10Theory_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch10Math_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch10Objective_compressed.pdf"
+        }
+      ]
+    },
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "একাদশ অধ্যায়",
+      "chapterName": "জ্যোতির্বিজ্ঞান",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics2ndPaper/Ch.11.Astronomy/Ch.11.Icon.gif",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "হ্যান্ডনোট জ্যোতির্বিজ্ঞান",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/HandnoteAstronomy.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch11Theory_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch11Math_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/Ch11Objective_compressed.pdf"
+        }
+      ]
+    },
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterNumber": "অতিরিক্ত",
+      "chapterName": "২য় পত্রের প্রয়োজনীয় তথ্য",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/CandelaBackground.webp",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "সকল সুত্রসমূহ",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/AllEquations2ndPaper_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "বোর্ড প্রশ্নসমূহ",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/BoardQuestion2ndPaper_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "বোর্ড অবজেক্টিভ প্রশ্নসমূহ",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/BoardObjective2ndPaper_compressed.pdf"
+        },
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "মডেল প্রশ্ন",
+          "pdfLink": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/2ndPaperTestPaper/ModelQuestion2ndPaper_compressed.pdf"
+        }
+      ]
+    }
+  ]
+}

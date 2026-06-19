@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "title": "Direction Change",
+      "text": "1. Change Direction on the Left\n2. Change Direction on the Right"
+    },
+    {
+      "text": ""
+    },
+    {
+      "title": "Change Direction on the Left",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/ChangeDirectionLeft.gif"
+    },
+    {
+      "title": "Change Direction on the Right",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/ChangeDirectionRight.gif"
+    },
+    {
+      "title": "Change Direction Right at the Halt",
+      "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/changeDirectionRightAtHalt.png"
+    }
+  ]
+}

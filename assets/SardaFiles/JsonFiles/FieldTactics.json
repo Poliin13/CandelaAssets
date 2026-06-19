@@ -1,0 +1,1867 @@
+{
+  "subjectName": "Field Tactics",
+  "chapters": [
+    {
+      "id": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5",
+      "chapterName": "Squad Drill",
+      "chapterIconName": "",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squad_drill.png",
+      "topicsData": [
+        {
+          "id": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "topicName": "Squad Formation",
+          "contentData": [
+            {
+              "title": "Squad "
+            },
+            {
+              "text": "A squad is a small group of people, often 8-14 in number, organized for a specific purpose, such as military operations, law enforcement, sports, or business projects."
+            },
+            {
+              "text": "Squad Formartions can be 2 types-"
+            },
+            {
+              "title": "1. Squad In-Line Formation"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInLine.png"
+            },
+            {
+              "title": "2. Squad In-Threes Formation"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/squadInThrees.png"
+            }
+          ]
+        },
+        {
+          "id": "f386ade8-372d-4858-9586-d185786deb0b",
+          "topicName": "Change Formation Commands",
+          "contentData": [
+            {
+              "title": "Formation Change"
+            },
+            {
+              "text": "1. Change Formation on the Right\n2. Change Formation on the Left"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Change Formation on the Left"
+            },
+            {
+              "text": "Command: Squad, threes by the left, on the left, form squad."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/OnTheLeft.gif"
+            },
+            {
+              "title": "Change Formation on the Right"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/OnTheRIght.gif"
+            }
+          ]
+        },
+        {
+          "id": "35cf320c-d41b-4fc9-97af-b0854069319e",
+          "topicName": "Change Direction Commands",
+          "contentData": [
+            {
+              "title": "Direction Change"
+            },
+            {
+              "text": "1. Change Direction on the Left\n2. Change Direction on the Right"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Change Direction on the Left"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/ChangeDirectionLeft.gif"
+            },
+            {
+              "title": "Change Direction on the Right"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/ChangeDirectionRight.gif"
+            },
+            {
+              "title": "Change Direction Right at the Halt"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/changeDirectionRightAtHalt.png"
+            }
+          ]
+        },
+        {
+          "id": "a9814edb-4c12-441e-a6cd-0a8a512a62a2",
+          "topicName": "Single Line Forming",
+          "contentData": [
+            {
+              "title": "Form Squad Inline On the March"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/FormSquadInlineOnTheMarch.png"
+            },
+            {
+              "title": "Squad InThrees Forming Single File From The Halt"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/In3sFormingSingleFileFromTheHalt.png"
+            },
+            {
+              "title": "Squad InLine Forming Single File From The Halt"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/SquadDrill/assets/InLineFormingSingleFileFromTheHalt.png"
+            }
+          ]
+        },
+        {
+          "id": "08f24631-3c00-49b0-be80-10fd56ad374d2",
+          "topicName": "All Squad Drill Commands",
+          "contentData": [
+            {
+              "title": "Turning All Directions"
+            },
+            {
+              "text": "1. Command: Right Turning(From Inline)\nDescription: Squad, Move to the right in 3's, Right Turn\n\n2. Command: Right Turning(from In3s)\nDescription: Squad, will advance into line, Right Turn\n\n3. Command: Left Turning(From Inline)\nDescription: Squad, Move to the left in 3's, Left Turn\n\n4. Command: Left Turning(From In3s)\nDescription: Squad, will advance into line, Left Turn\n\n5. Command: About Turn(From Inline)\nDescription: Squad, will advance into line, About Turn\n\n6. Command: About Turn(From In3s)\nDescription: Squad, About Turn\n"
+            },
+            {
+              "title": "Changing Formation From InLine"
+            },
+            {
+              "text": "1. Squad, by the right, change direction right, right form\n2. Squad, by the left, change direction left, left form\n"
+            },
+            {
+              "title": "Changing Formation From InLine at the Halt"
+            },
+            {
+              "text": "1. Squad, by the right, at the halt, change direction right, right form. Quick March.\n2. Squad, by the left, at the halt, change direction left, left form. Quick March.\n"
+            },
+            {
+              "title": "Changing Formation From In3s"
+            },
+            {
+              "text": "1. Squad, threes by the right, on the right, form squad.\n2. Squad, threes by the left, on the left, form squad.\n"
+            },
+            {
+              "title": "Changing Formation From In3s at the Halt"
+            },
+            {
+              "text": "1. Squad, threes by the right, at the Halt, on the right, form squad. Quick March.\n2. Squad, threes by the left, at the Halt, on the left, form squad. Quick March.\n"
+            },
+            {
+              "title": "Squad Reform in Single Line"
+            },
+            {
+              "text": "1. Squad Reform from InLine\n2. Squad, by the right, advance in single file from the right, quick march\n3. Squad Reform from In3s\n4. Squad, threes by the left, advance in single file from the left, quick march\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beb3ed3c-de11-4570-8042-4480ff04d8af",
+      "chapterName": "Platoon Drill",
+      "chapterIconName": "",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/images/platton_drill_logo.png",
+      "topicsData": [
+        {
+          "id": "60e4c718-7235-49b1-b22a-bce9ad1ee708",
+          "topicName": "Platoon Formations",
+          "contentData": [
+            {
+              "title": "Platoon",
+              "text": "A military unit consisting of two or more squads or sections. Most police works are done by platoon. For example, Crowd controlling."
+            },
+            {
+              "text": "Platoon Formartions can be 4 types-\n1. Platoon In-Line Formation\n2. Platoon In-Threes Formation\n3. Platoon In-Line of Section in Threes\n4. Platoon In Column of Sections"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/images/PlatoonInLine.png"
+            },
+            {
+              "title": "Platoon In-Threes Formation",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/images/PlatoonInThrees.png"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/images/PlatoonInLineOfSectionInThrees.png"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/images/ColumnOfSectionsFormation.png"
+            },
+            {
+              "text": "N.B. Use Dark Mode for better view."
+            }
+          ]
+        },
+        {
+          "id": "c5a12050-01bf-4cf4-8ef4-02754a390bee",
+          "topicName": "Inline to other Formations",
+          "contentData": [
+            {
+              "title": "Command 1",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd1.gif"
+            },
+            {
+              "title": "Command 1-Node",
+              "text": "Node commands are used to return to previous position.",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd1-node.gif"
+            },
+            {
+              "title": "Command 3a(On the move)",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3a.gif"
+            },
+            {
+              "title": "Command 3b(At the Halt)",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3b.gif"
+            },
+            {
+              "title": "Command 4",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd4.gif"
+            }
+          ]
+        },
+        {
+          "id": "42faa26f-b86d-40db-8c82-40da52ac7efd",
+          "topicName": "In Threes to other formation Commands",
+          "contentData": [
+            {
+              "title": "Command 2",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd2.gif"
+            },
+            {
+              "title": "Command 9",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd9.gif"
+            },
+            {
+              "title": "Command 10",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd10.gif"
+            }
+          ]
+        },
+        {
+          "id": "d9a34333-fdd6-4eb6-834c-1581efb94a43",
+          "topicName": "Column of Section to Other formations",
+          "contentData": [
+            {
+              "title": "Command 3-Node",
+              "text": "Node commands are used to return to previous position.",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3-node.gif"
+            },
+            {
+              "title": "Command 5",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd5.gif"
+            },
+            {
+              "title": "Command 6",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd6.gif"
+            },
+            {
+              "title": "Command 7",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd7.gif"
+            },
+            {
+              "title": "Command 8",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd8.gif"
+            }
+          ]
+        },
+        {
+          "id": "1c712b5b-ff65-4640-837b-2ec95f8c13b1",
+          "topicName": "All Platoon Drills",
+          "contentData": [
+            {
+              "title": "Command 1",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd1.gif"
+            },
+            {
+              "title": "Command 1-Node",
+              "text": "Node commands are used to return to previous position.",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd1-node.gif"
+            },
+            {
+              "title": "Command 2",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd2.gif"
+            },
+            {
+              "title": "Command 3a(On the move)",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3a.gif"
+            },
+            {
+              "title": "Command 3b(At the Halt)",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3b.gif"
+            },
+            {
+              "title": "Command 3-Node",
+              "text": "Node commands are used to return to previous position.",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd3-node.gif"
+            },
+            {
+              "title": "Command 4",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd4.gif"
+            },
+            {
+              "title": "Command 5",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd5.gif"
+            },
+            {
+              "title": "Command 6",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd6.gif"
+            },
+            {
+              "title": "Command 7",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd7.gif"
+            },
+            {
+              "title": "Command 8",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd8.gif"
+            },
+            {
+              "title": "Command 8 Editors Cut",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd8WithLines.gif"
+            },
+            {
+              "title": "Command 9",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd9.gif"
+            },
+            {
+              "title": "Command 10",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PlatoonDrill/Gifs/cmd10.gif"
+            }
+          ]
+        },
+        {
+          "id": "d25b565e-8231-4e2c-a5e9-fe252a5f98af",
+          "topicName": "All Platoon Drill Commands",
+          "contentData": [
+            {
+              "title": "Command 1",
+              "text": "Platoon by the right, advance in threes from the right of sections.\nPlatoon Right turn.\nSections left wheel. Quick march."
+            },
+            {
+              "title": "Command 1-Node",
+              "text": "Sections on the right, will direct platoon threes by the left, into line, on the left, form section."
+            },
+            {
+              "title": "Command 2",
+              "text": "Platoon threes by the left, on the left, form line of section in threes, at section passage interval, remainder double march."
+            },
+            {
+              "title": "Command 3a(On the move)",
+              "text": "Platoon by the right, advance in column of sections from the right, remainder right turn. Quick march.\nNo.2 section commander: Left turn.\nDirection: Column by the right."
+            },
+            {
+              "title": "Command 3b(At the Halt)",
+              "text": "Platoon by the right, on the right, form column of sections, remainder right turn. Quick march.\nNo.2 section commander: Left turn.\nDirection: Column by the right."
+            },
+            {
+              "title": "Command 3-Node",
+              "text": "Column by the right, on the left, from inline, remainder left incline. Quick march.\n\n Remainder right incline. Halt."
+            },
+            {
+              "title": "Command 4",
+              "text": "Platoon by the right, into column(of section), sections right form.\nDirection: By the right."
+            },
+            {
+              "title": "Command 5",
+              "text": "Column by the right, change direction right, No.1 section right form, forward.\nNo.2 section right form, forward."
+            },
+            {
+              "title": "Command 6",
+              "text": "Column by the right, adcance in column of threes from the right, column right turn.\n\nSections left wheel, quick march.\n\nDirection: Platoon threes by the left."
+            },
+            {
+              "title": "Command 7",
+              "text": "Column by the left, into line(InLine), Sections left from.\n\nDir: Platoon by the left.\n\nN.b. This command is given to the left only."
+            },
+            {
+              "title": "Command 8",
+              "text": "Column by the right, move to the right in column of threes, column right turn.\nSection on the left to the front, remainder left wheel. Quick march."
+            },
+            {
+              "title": "Command 9",
+              "text": "Platoon threes by the left, into column, on the left, form section.\n\nDir: Platoon by the right."
+            },
+            {
+              "title": "Command 10",
+              "text": "(At the Halt)\nPlatoon threes by the left, at the halt, facing left, form column of seciton.\nNo.1 section left turn.\nNo.2 section left turn.\n\n(On the move)\nPlatoon threes by the left, facing left, advance in column of section.\nNo.1 section left turn.\nNo.2 section left turn.\n\nDir: Column by the right."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c566e677-8913-42a6-9b72-cd3d33a49cf3",
+      "chapterName": "Parades",
+      "chapterIconName": "",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Parades/assets/Drills_and_Parades_logo.webp",
+      "topicsData": [
+        {
+          "id": "37353f45-a2c7-4b71-ae17-8d0cb47d41f9",
+          "topicName": "Thana Inspection Parade",
+          "contentData": [
+            {
+              "title": "Thana Inspection"
+            },
+            {
+              "text": "ইন্সপেকশন প্যারেড প্রস্তুতকরণ:\nঅনার গার্ড, সাবধান হবে, সাবধান।\nঅনার গার্ড, সঙ্গিন চরাবে, সঙ্গিন।\nচড়াও।"
+            },
+            {
+              "text": "ইন্সপেক্টরের আগমন"
+            },
+            {
+              "text": "সালাম প্রদানঃ\n#ASP - বাট সালামি(কাঁধে অস্ত্র, বিগল নাই)\n#Additional SP - সশস্ত্র সালাম(বিগল নাই)\n#SP - সশস্ত্র সালাম(বিগল সহ)\n#Add. DIG to IGP - জেনারেল সালাম(বিগল সহ)\n#President - রাষ্ট্রপতি সালাম"
+            },
+            {
+              "text": "অস্ত্র নামাবে, অস্ত্র নামা।"
+            },
+            {
+              "text": "পরিদর্শন:\nপ্যারেড পরিদর্শনের জন্য প্রস্তুত, স্যার।\nঅনুমতি পেয়ে দুই কদম বামে সরতে হবে।\nপরিদর্শনের সময় প্যারেড কমান্ডার স্লো মার্চ এ থাকবে।"
+            },
+            {
+              "text": "পরিদর্শন শেষে অনুমতি নিয়ে প্যারেড শেষঃ\nপরিদর্শন প্যারেড বিরতি করবে, প্যারেড শেষ।"
+            }
+          ]
+        },
+        {
+          "id": "95644fbd-730e-4204-96b5-931837726cd9",
+          "topicName": "Funeral Drill(মুর্দা সালামি)",
+          "contentData": [
+            {
+              "title": "Funeral Drill-মুর্দা সালামি(সংক্ষিপ্ত)"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Parades/assets/funeralDrill.jpg"
+            },
+            {
+              "text": "অনার গার্ড(Honor Guard) প্রস্তুতকরণঃ\nঅনার গার্ড, সাবধান হবে, সাবধান।"
+            },
+            {
+              "text": "সশস্ত্র সালামঃ\nবীর মুক্তিযোদ্ধা ক এর স্মরণে রাষ্ট্রীয় সালাম দিবে, সশস্ত্র সালাম।"
+            },
+            {
+              "text": "Rest on your arms. Reverse.\nLeft up, one.....\nRight up, two....",
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Parades/assets/restOnYourArms.png"
+            },
+            {
+              "text": "নীরবতা পালনঃ\nবীর মুক্তিযোদ্ধা ক এর স্মরণে ১ মিনিট নীরবতা পালন করা হবে। উপস্থিত জনতা এতে অংশগ্রহণ করতে পারেন। বাঁশিতে শুরু বাঁশিতে শেষ।\nবাঁশি......বাঁশি।"
+            },
+            {
+              "text": "সশস্ত্র সালামঃ\nঅনারগার্ড সশস্ত্র সালাম দিবে, সশস্ত্র সালাম।\nঅস্ত্র নামাবে, অস্ত্র নামা।"
+            },
+            {
+              "text": "প্যারেড শেষ করার অনুমতি গ্রহণঃ\nপ্যারেড শেষ করার অনুমতি প্রার্থী, স্যার।\nঅনারগার্ড, প্যারেড বিরতি করবে, প্যারেড শেষ।"
+            }
+          ]
+        },
+        {
+          "id": "ecb04bce-dd57-4f1c-97c3-5c4e585d64b0",
+          "topicName": "Rifle Exercise Parade",
+          "contentData": [
+            {
+              "text": "সসস্ত্র সালাম(Armed Salute):\nCommand: প্লাটুন, সশস্ত্র সালাম দিবে, সশস্ত্র সালাম।"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/RifleExercise/ArmedSalute.png"
+            },
+            {
+              "text": "ঊচা পোর্ট(High Port):\nCommand: প্লাটুন, ঊচা পোর্ট করবে, ঊচা পোর্ট"
+            },
+            {
+              "text": "পুট অস্ত্র(Port Arms):\nCommand: প্লাটুন, পুট অস্ত্র করবে, পুট অস্ত্র"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/RifleExercise/portArms.jpg"
+            },
+            {
+              "text": "ঝুলা অস্ত্র(Trail Arms):\nCommand: প্লাটুন, ঝুলা অস্ত্র করবে, ঝুলা অস্ত্র"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/RifleExercise/TrailArms.jpg"
+            },
+            {
+              "text": "ঝুলিয়ে অস্ত্র:\nCommand: প্লাটুন, ঝুলিয়ে অস্ত্র করবে, ঝুলিয়ে অস্ত্র"
+            },
+            {
+              "text": "অস্ত্র বদল(Change Arms):\nCommand: প্লাটুন, অস্ত্র বদল করবে, অস্ত্র বদল"
+            },
+            {
+              "text": "অস্ত্র সামলানো(Secure Arms)"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/RifleExercise/SecureArms.jpg"
+            },
+            {
+              "text": "ভূমিতে অস্ত্র(Ground Arms):\nCommand: প্লাটুন, ভূমিতে অস্ত্র রাখবে, ভূমিতে অস্ত্র"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/RifleExercise/GroundArms.png"
+            },
+            {
+              "text": "ভূমি হতে অস্ত্র তোলা(Take up Arms):\nCommand: প্লাটুন, ভূমি হতে অস্ত্র তুলবে, অস্ত্র তোল"
+            },
+            {
+              "text": "অস্ত্র নামানো(Order Arms):\nCommand: প্লাটুন, অস্ত্র নামাবে, অস্ত্র নামা"
+            },
+            {
+              "text": "কাধে অস্ত্র(Sholder Arms):\nCommand: প্লাটুন, কাধে অস্ত্র নেবে, কাধে অস্ত্র"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7962cb45-2f19-4f74-a4ac-f8db9f7f0eaf",
+      "chapterName": "Weapons Tactics",
+      "chapterIconName": "",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/weapon_tactics_logo.webp",
+      "topicsData": [
+        {
+          "id": "3ee1c74b-1519-4104-88cb-c9e8d1f4db65",
+          "topicName": "Weapons Introduction",
+          "contentData": [
+            {
+              "title": "How a Weapon Works"
+            },
+            {
+              "title": "Pistol Parts"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/Handgun(1).jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/Handgun(2).jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/Handgun(3).jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/Handgun(4).jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/Handgun(5).jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/Handgun(6).png"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Bullet Firing Mechanism"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/1.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/2.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/3.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/4.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/5.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Handgun Animation"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/gun-guns.gif"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "SMG Animation"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/HowWorks/SmgHowWorks.gif"
+            },
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "id": "782b063f-65ce-4fd8-8799-653042fdea6c",
+          "topicName": "Ammunition",
+          "contentData": [
+            {
+              "title": "Types of Bullet-"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/allBullets.jpeg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletTypes.jpeg"
+            },
+            {
+              "text": "7.62mm & 9mm bullets -"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bullet9mm7.62.jpeg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": "Anatomy of a bullet -"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletStructure.jpg"
+            },
+            {
+              "text": "Shotgun shell -"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/shotgunShell.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": "Bullet in chamber-"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletInChambre.jpeg"
+            },
+            {
+              "text": "Bullet fired-"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Bullets/bulletFired.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "c841f24f-6471-4df1-a982-d38ddc79bfce",
+          "topicName": "Safety Rules - (ASOTA)",
+          "contentData": [
+            {
+              "title": "Basic Safety Rules(ASOTA)"
+            },
+            {
+              "text": "1. Always loaded:\nAlways consider all firearms as LOADED\nসদাসর্বদা সকল আগ্নেয়াস্ত্রকে লোডেড বিবেচনা করতে হবে।\nসবসময় মনে রাখুন, যে কোন আগ্নেয়াস্ত্রই লোডেড হতে পারে। তাই ব্যবহারের আগে অথবা নীতি অনুযায়ী প্রয়োগের সময় এটি নিশ্চিত করুন।"
+            },
+            {
+              "text": "2. Safe direction:\nAlways keep your weapon pointed in a safe direction until you intend to shoot\nকেবল শ্যুট করার ক্ষেত্র ব্যতীত সকল অস্ত্রকে সর্বদা নিরাপদ দিকে নির্দেশ করতে হবে।\nঅস্ত্রকে এমনভাবে রাখুন যাতে সেটি নিরাপদ দিকে নির্দেশিত থাকে, যেহেতু অস্ত্রটি শ্যুট করার জন্য প্রস্তুত নয়।"
+            },
+            {
+              "text": "3. Off Trigger:\nKeep your finger off the trigger until you intend to shoot\nকেবল শ্যুট করার ক্ষেত্র ব্যতীত সকল সময় ট্রিগার ফিঙ্গার ট্রিগারের বাইরে রাখতে হবে।\nযতক্ষণ না আপনি শ্যুট করার জন্য প্রস্তুত হচ্ছেন, আপনার আঙুল ট্রিগারের বাইরে রাখুন। এটি দুর্ঘটনার সম্ভাবনা কমায়।"
+            },
+            {
+              "text": "4. Target & Background:\nBe sure of your target and what is beyond\nটার্গেট এবং তার আশপাশের অবস্থা সম্পর্কে নিশ্চিত হতে হবে।\nআপনার লক্ষ্য স্পষ্টভাবে বুঝে নিন এবং লক্ষ্য স্থির করার আগে লক্ষ্য এবং তার আশপাশের অবস্থা সম্পর্কে নিশ্চিত হোন।"
+            },
+            {
+              "text": "5. Aim only to shoot:\nকেবল শ্যুট করার জন্যই লক্ষ্যস্থির করতে হবে।\nলক্ষ্য স্থির করার সময় শুধুমাত্র শ্যুট করার জন্য লক্ষ্য স্থির করুন, অন্যান্য কোনো উদ্দেশ্যে নয়।"
+            },
+            {
+              "text": "First Principle:\nএকজন পুলিশ কর্মকর্তা হিসেবে অপারেশনাল কাজ কিংবা অনুশীলনের সময় সর্বদা এই নীতিগুলো মেনে চলুন।\nএর মাধ্যমে আপনি এবং অন্যরা নিরাপদ থাকতে পারবেন। সেফটি ড্রিল, আনলোড বা অন্য কোনো প্রমাণিত পদ্ধতি না হওয়া পর্যন্ত সবসময় মনে রাখুন, সমস্ত অস্ত্রই লোডেড হতে পারে।"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/assets/SardaFiles/WeaponsTactics/assets/gunSafety.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "fe79eefa-a91d-4d3f-9157-582f927d57ce",
+          "topicName": "অস্ত্র নিরাপদকরন(Make Safe)",
+          "contentData": [
+            {
+              "title": "পিস্তল নিরাপদকরণ"
+            },
+            {
+              "text": "পিস্তল নিরাপদকরণের ক্ষেত্রে নিম্নলিখিত ১৪টি ধাপ অনুসরণ করতে হবে। ধাপগুলো মুখস্থ না করে বুঝে মনে রাখার চেষ্টা করতে হবে। কারন, এক একটি অস্ত্রের জন্য ধাপগুলোর ক্রম আলাদা হতে পারে যা পরে ব্যাখ্যা করা হয়েছে।"
+            },
+            {
+              "text": "(1) Active Guard(অ্যাকটিভ গার্ড)\n(2) Low Readyলো রেডি)\n(3) Open Magazine(ওপেন ম্যাগাজিন)\n(4) Safety Off(সেফটি অফ)\n(5) Slide Lock(স্লাইড লক)\n(6) Visual Check(ভিজুয়াল চেক)\n(7) Physical Check(ফিজিক্যাল চেক)\n(8) Release Slide(রিলিজ স্লাইড)\n(9) Rack Twice(রেক টুআইস)\n(10) Safe Direction(সেফ ডিরেকশন)\n(11) Fire(ফায়ার)\n(12) Safety On(সেফটি অন)\n(13) Close Magazine(ক্লোজ ম্যাগজিন)\n(14) Low Ready / Holster(লো রেডি / হোলস্টার)."
+            },
+            {
+              "text": "N.B. পিস্তলে সেফটি অফ না করে স্লাইড লক করা যায় না। তাই আগে সেফটি অফ করে নিতে হয়।"
+            },
+            {
+              "text": "Rack Meaning– To pull back sharply and then quickly release the cocking handle/slide of the firearm(অস্ত্রের স্লাইড পিছনে টেনে ছেড়ে দেওয়া). This will eject a misfired round, which could be a possible cause of the stoppage, and to chamber the next round. Bang/Go – aiming and firing the firearm again."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/MakeSafePullingSlide.jpg"
+            },
+            {
+              "title": "Rifle: Making Safe"
+            },
+            {
+              "text": "(1) Active Guard\n(2) Low Ready\n(3) Slide Lock\n(4) Open Magazine\n(5) Visual Check\n(6) Physical Check\n(7) Release Slide\n(8) Rack to Eyes\n(9) Safety Off\n(10) Safe Direction\n11) Fire\n(12) Safety On\n13) Close Magazine\n(14) Side Low / Rest."
+            },
+            {
+              "text": "N.B. ম্যাগাজিন খুললে স্লাইড লক হয় না। তাই আগে স্লাইড লক করে ম্যাগাজিন খুলতে হয়।"
+            },
+            {
+              "title": "SMG/SMT: Making Safe"
+            },
+            {
+              "text": "এসএমজি নিরাপদকরণ: এসএমজি নিরাপদকরণের ক্ষেত্রে নিম্নলিখিত নিয়মাবলি অনুসরণ করতে হবে:"
+            },
+            {
+              "text": "১. ম্যাগাজিন খুলে নিতে হবে।\n২. সেফটি ক্যাচ অফ (OFF) করতে হবে।\n৩. স্লাইডটি পিছনে টানতে হবে এবং বুলেট চেম্বার পরিদর্শনের জন্য খুলতে হবে। স্লাইড স্টপ লিভার থাকলে স্লাইডটিকে পিছনে লক করতে হবে।\n৪. চেম্বার চাক্ষুষ পরীক্ষা (Visual Check) ও বাস্তব পরীক্ষা (Physical Check) করতে হবে।\n৬. স্লাইড রিলিজ করতে হবে এবং অস্ত্রটিকে দুইবার রেক(Rack) করতে হবে (চেম্বারের ভিতর লক্ষ্য করতে হবে, স্লাইড নয়)।\n৭. নিরাপদ দিকে রেখে ট্রিগার টানতে হবে।"
+            }
+          ]
+        },
+        {
+          "id": "ab19a400-2b90-4c7e-b532-9554520afb59",
+          "topicName": "Weapons used in Sarda",
+          "contentData": [
+            {
+              "title": "অস্ত্র খোলা-জোড়া\n(Disassambling weapon)"
+            },
+            {
+              "title": "China Pistol"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/chinaPistol.png"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Taurus Handgun"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/taurus.jpeg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "7.62mm China Rifle -(Type 56)"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/chinaRifle.png"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/rifleParts.jpeg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "SMG(Sub Machine Gun)"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/smg.png"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "SMT(Sub Machinegun Taurus)"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/smt.png"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "LMG(Light Machine Gun)"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/LMG.png"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/machineGun.jpeg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Gasgun"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/gasGun.jpeg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Shotgun "
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/shotgun.png"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/WeaponsSarda/shotgunDetails.jpg"
+            }
+          ]
+        },
+        {
+          "id": "e1bb445a-bb25-4f3c-8ab9-591c6d6d34a5",
+          "topicName": "অস্ত্র খোলা-জোড়া(Disassambling weapon)",
+          "contentData": [
+            {
+              "title": "অস্ত্র খোলা-জোড়া\n(Disassambling weapon)"
+            },
+            {
+              "title": "China Pistol"
+            },
+            {
+              "text": "Name of the Parts -\n1. Slide\n2. Barrel\n3. Barrel Lock\n4. Counter Recoil Spring\n5. Firing Mechanism\n6. Grip Assembly\n7. Body locking pin\n8. Magazine"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/Disassambly/chinaPistolParts.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/Disassambly/chinaPistol.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Taurus Handgun"
+            },
+            {
+              "text": "Name of the Parts -\n1. Frame\n2. Slide\n3. Barrel\n4. Recoil Spring Guide Assembly\n5. Magazine"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/Disassambly/taurusDisassambled.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/Disassambly/Taurus.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "7.62mm China Rifle"
+            },
+            {
+              "text": "Name of the Parts -\n1. Barrel and Receiver\n2. Piston\n3. Gas Cylinder\n4. Bolt Carrier\n5. Bolt\n6. Counter Recoil Mechanism\n7. Receiver cover\n8. Cleaning Rod\n"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/Disassambly/chinaRifle2.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/Disassambly/chinaRifle.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "SMG(Sub Machine Gun)"
+            },
+            {
+              "text": "Name of the Parts -\n1. Barrel and Receiver\n2. Gas Cylinder\n3. Bolt and bolt carrier\n4. Counter recoil Spring\n5. Receiver Cover\n6. Cleaning Rod\n7. Magazine"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/Disassambly/SMG.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "LMG(Light Machine Gun)"
+            },
+            {
+              "text": "Name of the Parts -\n1. Barrel and Receiver\n2. Bolt(left & right shoulder) and bolt carrier\n3. Butt Group\n4. Ammunition Drum"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/Disassambly/LMGparts.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/Disassambly/LMG.jpg"
+            }
+          ]
+        },
+        {
+          "id": "bb5f993e-c9b1-45ec-a2df-a0704a0fc97c",
+          "topicName": "1. Stance(Marksmanship)",
+          "contentData": [
+            {
+              "title": "Weapon Stance(ভঙ্গি)"
+            },
+            {
+              "text": "There are three mainly 3 types of stances. They are-\n\t1. Standing Stance\n\t2. Kneeling Stance\n\t3. Prone Stance"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/AllStances.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Standing Stance"
+            },
+            {
+              "text": "There are three mainly 3 types of standing stances. They are-\n\t1. Front Stance\n\t2. Weaver Stance\n\t3. Isoscele Stance"
+            },
+            {
+              "text": "Front Stance -"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/FrontStance.jpg"
+            },
+            {
+              "text": "Weaver Stance(Pistol)-"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/PistolWeaverStance.jpg"
+            },
+            {
+              "text": "Weaver Stance(Rifle)-"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/RifleWeaverStance.webp"
+            },
+            {
+              "text": "Isoscele Stance(Only for Pistol)"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/IsosceleStance.png"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/isoscele.jpg"
+            },
+            {
+              "text": "Isoscele Stance Vs Weaver Stance-"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/WeaverVsIsoscale.jpg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Kneeling Stance"
+            },
+            {
+              "text": "There are lot of kneeling stances. These 2 are taught in Sarda-\n\t1. Tactical kneeling\n\t2. Low kneeling"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/kneelingStance2.jpg"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/kneelingStance.webp"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Prone Stance"
+            },
+            {
+              "text": "There are lot of prone stances. These 2 are taught in Sarda-\n\t1. Front Prone\n\t2. Weaver Prone"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/ProneStance2.jpg"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/Stances/ProneStance.jpg"
+            },
+            {
+              "text": "N.B. Each stance type serves specific purposes depending on the terrain, shooting distance, and the shooter’s objectives. The choice of stance can significantly affect the shooter’s stability, accuracy, and overall effectiveness in different shooting scenarios."
+            }
+          ]
+        },
+        {
+          "id": "24da5240-051c-454c-8eca-db190674c41f",
+          "topicName": "2. Grip(Marksmanship)",
+          "contentData": [
+            {
+              "title": "Grip"
+            },
+            {
+              "text": "গ্রিপ এর মূল উদ্দেশ্য অস্ত্রকে স্থির রাখা। দুই হাতে সুষম চাপ দিয়ে বা ৬০%-৪০% চাপ দিয়ে তা করা যেতে পারে। ছোট অস্ত্রে এটি বেশি গুরুত্বপূর্ণ।"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/grip.jpg"
+            }
+          ]
+        },
+        {
+          "id": "cb1a599f-3a02-47c9-91e8-2f64556c426e",
+          "topicName": "3. Sight Alignment(Marksmanship)",
+          "contentData": [
+            {
+              "title": "Sight Alignment"
+            },
+            {
+              "text": "Find your dominant eye and use it to shoot-"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/DominantEye.png"
+            },
+            {
+              "title": ""
+            },
+            {
+              "text": "নিচের ছবি থেকে সাইট কিভাবে ঠিক করতে হবে বুঝা যায়-"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight1.jpeg"
+            },
+            {
+              "text": "3 Dot Sight Alignment-"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight2.jpg"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight-alignment-problems.jpg"
+            },
+            {
+              "text": "Sight Focus:"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sightFocus.jpg"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sightFocus2.jpg"
+            },
+            {
+              "text": "Sight Rifle-"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sightRifle.gif"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight_picture-center.gif"
+            },
+            {
+              "text": "Alignment Problems:"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sightProblems.jpg"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/SightAlignment/sight-alignment-problems.jpg"
+            }
+          ]
+        },
+        {
+          "id": "5340efc0-b08c-45e5-ab64-920250d1809f",
+          "topicName": "4. Trigger Control(Marksmanship)",
+          "contentData": [
+            {
+              "title": "Trigger Pressing"
+            },
+            {
+              "text": "১. আঙ্গুলের সঠিক অংশ দিয়ে চাপ দিতে হবে।"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/TriggerControl/TriggerFinger.jpg"
+            },
+            {
+              "text": "২.সুষম ভাবে চাপ দিতে হবে। হঠাৎ করে চাপ দেয়া যাবে না।"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/TriggerControl/triggerPressureGraph.png"
+            },
+            {
+              "text": "৩. আঙ্গুল সরাসরি পেছনে টানতে হবে।"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/TriggerControl/triggerPull2.jpg"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/TriggerControl/Trigger-Finger-3.jpg"
+            }
+          ]
+        },
+        {
+          "id": "4e1a8cd9-ef22-42dc-a9aa-8698cf30c0dc",
+          "topicName": "5. Breathe Control(Marksmanship)",
+          "contentData": [
+            {
+              "title": "Breathe Control(শ্বাস প্রশ্বাস নিয়ন্ত্রন)"
+            },
+            {
+              "text": "শ্বাস ধরে রেখে শুট করতে হয়। কিন্তু ৮ সেকেন্ড এর বেশি ধরে রাখা ঠিক নয়। এতে শ্বাস নিয়ন্ত্রন এর উদ্দেশ্য(শরীরকে স্থির রাখা) ব্যাহত হয়।"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/breatheControl.png"
+            }
+          ]
+        },
+        {
+          "id": "f842ec92-4229-4f69-89e6-1be92388e138",
+          "topicName": "Problems in Shooting",
+          "contentData": [
+            {
+              "title": "Problems in Shooting -"
+            },
+            {
+              "text": "When bullet does not hit the desired location it may happen due to several shooting problems. These are showed in below charts -"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/ProblemsInShooting/problems1.jpeg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/ProblemsInShooting/problems2.jpeg"
+            },
+            {
+              "text": ""
+            },
+            {
+              "title": "Some solutions are could be -"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets//SardaFiles/WeaponsTactics/assets/ProblemsInShooting/solutions.jpeg"
+            }
+          ]
+        },
+        {
+          "id": "f6027034-8501-431b-9733-e3f103752f67",
+          "topicName": "Quick Draw",
+          "contentData": [
+            {
+              "title": "Quick Draw"
+            },
+            {
+              "text": "1. Active Guard and Grip:\nEstablish a secure grip on the pistol while maintaining awareness and readiness. Your hand should be ready to draw with a firm and proper grip."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/QuickDraw/ActiveGuard.jpg"
+            },
+            {
+              "text": "2. Lift Weapon Up:\nSmoothly draw the pistol from the holster, lifting it upward in a controlled manner while keeping the muzzle pointed in a safe direction."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/QuickDraw/LiftWeaponUp.jpg"
+            },
+            {
+              "text": "3. Pivot:\nRotate or pivot the pistol toward the target, aligning it quickly and efficiently without unnecessary movements."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/QuickDraw/PivotWeapon.jpg"
+            },
+            {
+              "text": "4. Transition:\nMove the pistol from the draw position to the firing position, ensuring the sights are aligned on the target as you extend your arm."
+            },
+            {
+              "text": "5. Fire-Ready:\nWith the sights aligned and your finger poised on the trigger, be prepared to fire as soon as you identify the threat."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/QuickDraw/FireReady.jpg"
+            },
+            {
+              "text": "6. Reholstering:\nOnce the situation is resolved, then safety on, rotate your wrist and raise your elbow, push gun straight down into holster and secure."
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/WeaponsTactics/assets/QuickDraw/Reholstering.jpg"
+            }
+          ]
+        },
+        {
+          "id": "208abbca-614c-4dba-a9e1-ad9e1fab220d",
+          "topicName": "Firearms related Laws",
+          "contentData": [
+            {
+              "title": "অগ্নেয়াস্ত্র সংক্রান্ত আইন"
+            },
+            {
+              "text": "পেশাগত কারণে একজন পুলিশ কর্মকর্তাকে প্রায়শঃই আগ্নেয়াস্ত্র বহন ও ব্যবহার করতে হয়। আগ্নেয়াস্ত্রের আইনানুগ ব্যবহারের মাধ্যমে নিজের ও অন্যের জানমাল রক্ষা করা সম্ভব হয়। দন্ডবিধি, ফৌজদারী কার্যবিধি ও পিআরবিতে একজন পুলিশ কর্মকর্তা যে সকল ক্ষেত্রে আগ্নেয়াস্ত্র ব্যবহার করতে পারেন তা নিম্নে বর্ণনা করা হলোঃ\n\n. ব্যক্তিগত আত্মরক্ষার জন্য কৃত কোন কিছুই অপরাধ নয় (দঃ বিঃ ৯৬)। ব্যক্তিগত আত্মরক্ষার প্রয়োজনে মৃত্যু পর্যন্ত ঘটানো যায়। পুলিশ কর্মকর্তার প্রতি যদি এমন আক্রমণ হয় যাতে মৃত্যু বা গুরুতর আঘাতের সম্ভাবনা তৈরি হয় সেক্ষেত্রে আক্রমণকারীর মৃত্যু পর্যন্ত ঘটানো যেতে পারে (দঃ বিঃ ১০০)।\n\n২. দস্যুতা, রাত্রিবেলায় অপথে গৃহ প্রবেশ, বাসগৃহ বা সম্পত্তিতে অগ্নিসংযোগের মতো অপরাধের ক্ষেত্রে কিংবা উক্ত অপরাধ সংঘটনকালে যদি কোনো ব্যক্তির প্রাণহানি বা গুরুতর জখম হবার সম্ভাবনা থাকে সেক্ষেত্রে উক্ত অপরাধীর মৃত্যু পর্যন্ত ঘটানো যায় (দঃ বিঃ ১০৩)।\n৩. কোনো ব্যক্তি বলপূর্বক আইনানুগ গ্রেফতারের চেষ্টায় বাধা দিলে বা গ্রেফতার এড়ানোর চেষ্টা করলে এবং উক্ত অপরাধী মৃত্যুদন্ড বা যাবজ্জীবন কারাদন্ডযোগ্য হলে তাকে গ্রেফতার করার ক্ষেত্রে আগ্নেয়াস্ত্র ব্যবহার করা যেতে পারে, এমনকি গ্রেফতার কার্যকরী করার জন্য মৃত্যু পর্যন্তও ঘটানো যেতে পারে (ফৌঃ কাঃ বিঃ ৪৬)।\n\n৪. বেআইনী সমাবেশ ম্যাজিস্ট্রেট বা পুলিশ অফিসার কর্তৃক ছত্রভঙ্গ হবার নির্দেশ দেওয়ার পরও যদি ছত্রভঙ্গ না হয় তাহলে নির্বাহী ম্যাজিস্ট্রেট বা ভারপ্রাপ্ত কর্মকর্তার নিম্নে নন এমন পুলিশ কর্মকর্তার নির্দেশে বেআইনী সমাবেশ ছত্রভঙ্গ করার জন্য আগ্নেয়াস্ত্র ব্যবহার করা যেতে পারে (ফৌঃ কাঃ বিঃ ১২৮)। তবে প্রয়োজনের অতিরিক্ত শক্তি প্রয়োগ করা যাবে না। পিআরবি প্রবিধান-১৫৩ অনুযায়ী ব্যক্তিগত আত্মরক্ষা বা সম্পত্তি রক্ষার অধিকার প্রয়োগের জন্য, ফৌজদারী কার্যবিধির বিধান সাপেক্ষে বেআইনী সমাবেশ ছত্রভঙ্গ করার জন্য এবং গ্রেফতার এড়ানোর চেষ্টারত ব্যক্তিকে গ্রেফতার করার জন্য আগ্নেয়াস্ত্র ব্যবহার করা যেতে পারে।\n\n৫. পিআরবি প্রবিধান-১৫৪ অনুযায়ী একজন পুলিশ অফিসার গুলিবর্ষণের পূর্বে বা গুলির আদেশ দানের পূর্বে যেভাবেই সম্ভব সতর্কবাণী প্রদান করবেন। গুলি সকল সময়ে নিয়ন্ত্রিত হবে ও নির্ধারিত লক্ষ্যবস্তুর প্রতি পরিচালিত হতে হবে। অপরিহার্য ক্ষেত্র ছাড়া কোনো বড় রকমের ক্ষতি সাধন করা যাবে না এবং উদ্দেশ্য সাধিত হবার সঙ্গে সঙ্গে গুলিবর্ষণ বন্ধ করতে হবে।\n\n৬. পিআরবি প্রবিধান-১৫৬ অনুযায়ী পুলিশ আগ্নেয়াস্ত্র ব্যবহার করার পর অধিনায়ক নিহত ব্যক্তির মরদেহ শবাগারে ও আহতদের হাসপাতালে প্রেরণের ব্যবস্থা করবেন, গুলির খোসা সংগ্রহ করবেন ও ইস্যুকৃত রাউন্ডের সংখ্যার সাথে মিলিয়ে দেখবেন। ম্যাজিস্ট্রেট উপস্থিত থাকলে ঘটনা সম্পর্কে নিখুঁত ও সংক্ষিপ্ত প্রতিবেদন প্রস্তুত করবেন ও প্রতিবেদনের অনুলিপি যত দ্রুত সম্ভব ঊর্ধ্বতন কর্তৃপক্ষকে প্রেরণ করবেন।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0d8c24d7-f9dc-41c0-8068-96de8ea23c5b",
+      "chapterName": "PT Table 1",
+      "chapterIconName": "",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_Table_1/PT_Table_1_logo.webp",
+      "topicsData": [
+        {
+          "id": "0882ee34-6964-4e64-bba1-a0f042b41b78",
+          "topicName": "Marching & Running",
+          "contentData": [
+            {
+              "title": "PT Table 1 Chart"
+            },
+            {
+              "title": "Heel Raise\nকুইক মার্চ, হিল রেইজ (সাবধান থেকে বলতে হবে)"
+            },
+            {
+              "ytVideo": "sgraLrS046g"
+            },
+            {
+              "title": "Quick March Bending Knee\nহাটু ভাজ করে কুইজ মার্চ"
+            },
+            {
+              "ytVideo": "MiJ8Kp1KhNY"
+            },
+            {
+              "title": "Left-Up Right-Up\nকোমর ধরে লেফট আপ রাইট আপ"
+            },
+            {
+              "ytVideo": "J9LdlovTtIQ"
+            },
+            {
+              "title": "Walking on Heel"
+            },
+            {
+              "ytVideo": "G_UCDUJIc9Q"
+            }
+          ]
+        },
+        {
+          "id": "63fe607f-06ec-410d-813a-63dc2aea097e",
+          "topicName": "Introductory",
+          "contentData": [
+            {
+              "title": "কোমর ধরে ধীরে উঠা বসা"
+            },
+            {
+              "ytVideo": "CZPs9QP6zLg"
+            },
+            {
+              "title": "ফিঙ্গার স্ট্রেইট হেড টার্নিং"
+            },
+            {
+              "ytVideo": "WVh7yNlELwk"
+            },
+            {
+              "title": "সাবধান পজিশন ৬ মোশন"
+            },
+            {
+              "ytVideo": "KvVufOYPfiA"
+            },
+            {
+              "title": "৩ ফুট পা খোলা কোমর হাত, কোমন ডানে বামে ঘোরানো"
+            },
+            {
+              "ytVideo": "xUN_iY8eO9U"
+            },
+            {
+              "title": "সাইড জাম্প করা"
+            },
+            {
+              "ytVideo": "taw76EGOMcQ"
+            }
+          ]
+        },
+        {
+          "id": "4cc5df81-f30c-4563-b242-ed498ad5742b",
+          "topicName": "Heaving",
+          "contentData": [
+            {
+              "title": "Tow People sawing\nদুই জন ডানে মুখোমুখি হয়ে হাত টানাটানি"
+            },
+            {
+              "title": "সাবধান থেকে দুই হাত উপরে উঠানো নামানো"
+            },
+            {
+              "ytVideo": "Cz3laQ0tGKY"
+            }
+          ]
+        },
+        {
+          "id": "7f655479-d580-4f91-98e3-2e987fc86bb1",
+          "topicName": "Lateral",
+          "contentData": [
+            {
+              "title": "৩ ফুট পা খোলা হাত প্রসারিত ডানে বামে কাত হওয়া"
+            },
+            {
+              "ytVideo": "68X6moG7eJs"
+            },
+            {
+              "title": "৩ ফুট পা খোলা পাখি মারা"
+            },
+            {
+              "ytVideo": "sSRD_HngbfA"
+            }
+          ]
+        },
+        {
+          "id": "0c271376-dc6a-4bb9-9ddc-064240ff77fa",
+          "topicName": "Balance",
+          "contentData": [
+            {
+              "title": "কোমর ধরে পা সামনে পাশে ও পিছনে নেওয়া"
+            },
+            {
+              "ytVideo": "HoltZqehcV4"
+            },
+            {
+              "title": "কোমর ধরে left leg one-one/two-one-two"
+            },
+            {
+              "ytVideo": "3XuJNp7x7ng"
+            }
+          ]
+        },
+        {
+          "id": "1ba17b79-2921-482c-91c2-385435d02af0",
+          "topicName": "Abdominal",
+          "contentData": [
+            {
+              "title": "পশু আপ (বুক ডাউন)"
+            },
+            {
+              "ytVideo": "ljZoBHAuMW4"
+            },
+            {
+              "title": "পশু আপ left leg one/two"
+            },
+            {
+              "ytVideo": "yMcM_D4cniI"
+            }
+          ]
+        },
+        {
+          "id": "e36346e4-6352-4065-b4e9-fcf776a999d7",
+          "topicName": "Dorsal",
+          "contentData": [
+            {
+              "title": "৩ ফোট পা খোলা হাত দিয়ে মাটি ছোয়া ও সোজা হওয়া"
+            },
+            {
+              "ytVideo": "JCGqME4iOKA"
+            }
+          ]
+        },
+        {
+          "id": "263fa05a-8bef-4b13-9537-7efa12d1035e",
+          "topicName": "Jumping & Bouldering",
+          "contentData": [
+            {
+              "title": "সাবধান পজিশনে অর্ধেক বসা লাফ দেওয়া ও সোজা হওয়া"
+            },
+            {
+              "ytVideo": "zRDOrv2IyKg"
+            },
+            {
+              "title": "হ্যান্ড কিকিং"
+            },
+            {
+              "title": "লং জাম্প ৩ জাম্প ডাবল হল্ট\n(Not in use now)"
+            }
+          ]
+        },
+        {
+          "id": "f487ab6b-ddd4-4bdf-85f4-3ccca84cbce0",
+          "topicName": "Final Exercise",
+          "contentData": [
+            {
+              "title": "৩ ফুট পা খোলা হাত প্রসারিত করে পাতা উল্টনো"
+            },
+            {
+              "ytVideo": "5ogYXblrVUY"
+            }
+          ]
+        },
+        {
+          "id": "6dd72f0d-ef9a-43a6-b94d-a940267eff70",
+          "topicName": "Corrective Exercise",
+          "contentData": [
+            {
+              "title": "৩ ফুট পা খোলা, কোমরে হাত, নিঃশ্বাসের সাথে আগে পিছে মুঠি খোলা"
+            },
+            {
+              "ytVideo": "zQzuZ6pyptU"
+            },
+            {
+              "title": "সাবধান উল্টা ঘোর আরামে দারা চেক পজিশন"
+            }
+          ]
+        },
+        {
+          "id": "79c7babf-64e6-4132-9468-22c4b3ae6a16",
+          "topicName": "All PT Chart",
+          "contentData": []
+        }
+      ]
+    },
+    {
+      "id": "1725114434442",
+      "chapterName": "PT Table 2",
+      "chapterIconName": "",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/PT_Table_2/PT_Table_2_logo.webp",
+      "topicsData": [
+        {
+          "id": "09b8f0dd-1c52-4fba-bf32-ec820f445dab",
+          "topicName": "Marching & Running",
+          "contentData": [
+            {
+              "title": "PT Table 2 Chart"
+            },
+            {
+              "title": "কুইক থেকে ডবল, ডবল থেকে হল্ট (সাবধান থেকে শুরু)"
+            },
+            {
+              "ytVideo": "K8HZ1jrZGBM"
+            },
+            {
+              "title": "হাটু ভাজ করে ডবল মার্চ"
+            },
+            {
+              "ytVideo": "dov5HoUVpLQ"
+            },
+            {
+              "title": "স্লো মার্চ"
+            },
+            {
+              "ytVideo": "9pPXU64cpYg"
+            },
+            {
+              "title": "হাত উপরে ও পাশে লেফট আপ রাইট আপ"
+            },
+            {
+              "ytVideo": "m-h9XBsOjLE"
+            },
+            {
+              "title": "নবাবী চাল"
+            },
+            {
+              "ytVideo": "mm_SEaWTmHg"
+            }
+          ]
+        },
+        {
+          "id": "72800d89-2053-418f-a287-b16644f396f7",
+          "topicName": "Introductory",
+          "contentData": [
+            {
+              "title": "কোমর ধরে দ্রুত উঠা বসা"
+            },
+            {
+              "ytVideo": "w5xiui6-JQw"
+            },
+            {
+              "title": "ফিঙ্গার স্ট্রেইট হেড রোলিং"
+            },
+            {
+              "ytVideo": "e0BcOYdYBqY"
+            },
+            {
+              "title": "সাবধান হতে দুই হাত সামনে দিয়ে সোজা ও প্রসারিত করা"
+            },
+            {
+              "ytVideo": "5p7BfMwVp3I"
+            },
+            {
+              "title": "৩ ফুট পা খোলা কোমর হাত শরীর ঘোরানো"
+            },
+            {
+              "ytVideo": "vjU_r2BVgO4"
+            },
+            {
+              "title": "উপর তালি"
+            },
+            {
+              "ytVideo": "BPyE9LBIMHw"
+            }
+          ]
+        },
+        {
+          "id": "879a387a-71a1-4ade-b375-a924b31a4da4",
+          "topicName": "Heaving",
+          "contentData": [
+            {
+              "title": "৩ ফুট পা খোলা হাত উপরে রেখে পানি কাটা"
+            },
+            {
+              "ytVideo": "d4x_HJrgPns"
+            },
+            {
+              "title": "একজনের পিঠে আরেক জনকে উঠানো নামানো\nNot in use."
+            }
+          ]
+        },
+        {
+          "id": "f7f05d7f-47fc-4933-a670-609c20e74b0f",
+          "topicName": "Lateral",
+          "contentData": [
+            {
+              "title": "৩ ফুট পা খোলা হাত উপরে কলাগাছ ডানে বামে নুয়ানো"
+            },
+            {
+              "ytVideo": "JgNZ--5jYyo"
+            },
+            {
+              "title": "৩ ফুট পা খোলা ৬ মোশন"
+            },
+            {
+              "ytVideo": "X19iMVzMzPw"
+            }
+          ]
+        },
+        {
+          "id": "a28e63aa-50b1-427f-bdff-58ac9116e1fc",
+          "topicName": "Balance",
+          "contentData": [
+            {
+              "title": "সাবধান হতে হাত ও পা সামনে পাশে ও পিছনে নেওয়া"
+            },
+            {
+              "ytVideo": "Pi7Pt-ei90Q"
+            },
+            {
+              "title": "কোমর ধরে left leg one-one ফুট রোলিং"
+            },
+            {
+              "ytVideo": "8VUJv7U2Tec"
+            }
+          ]
+        },
+        {
+          "id": "1520e16d-24cf-4d3b-b807-d023f9b961a4",
+          "topicName": "Abdominal",
+          "contentData": [
+            {
+              "title": "পশু আপ পজিশন জোরা পা সামনে ও পিছনে নেওয়া"
+            },
+            {
+              "ytVideo": "mOsoQj1117A"
+            },
+            {
+              "title": "৩ ফুট পা খোলা পশু আপ জাম্প"
+            },
+            {
+              "ytVideo": "2piS0JUlV3E"
+            }
+          ]
+        },
+        {
+          "id": "7282e6a0-3161-4fb1-ac4c-56b162459e6d",
+          "topicName": "Dorsal",
+          "contentData": [
+            {
+              "title": "সাবধান পজিশন ফিট ক্লোজ হাত দিয়ে পা ধরা সোজা হওয়া(মুরুব্বি সালাম)"
+            },
+            {
+              "ytVideo": "iK0Z5aKeZls"
+            },
+            {
+              "title": "৩ ফুট পা খোলা হাত উপরে কুড়াল মারা"
+            }
+          ]
+        },
+        {
+          "id": "474e4bd6-6b0d-4af7-9dd4-d5bc49ae3bb2",
+          "topicName": "Jumping & Bouldering",
+          "contentData": [
+            {
+              "title": "সাবধান পজিশন লেফট-লেফট/রাইট-রাইট"
+            },
+            {
+              "ytVideo": "_Km6aSX1zSI"
+            },
+            {
+              "title": "একজনের পিঠে উপর লাফিয়ে আর একজন যাওয়া"
+            },
+            {
+              "ytVideo": "PydfxWYhtpY"
+            },
+            {
+              "title": "লাফ ধাপ ঝাপ করা"
+            }
+          ]
+        },
+        {
+          "id": "f2596ea3-60b3-4163-8eb2-d90d35f55c60",
+          "topicName": "Final Exercise",
+          "contentData": [
+            {
+              "title": "৩ ফুট পা খোলা পাতা উলটিয়ে হাত ৪ মোশন"
+            },
+            {
+              "ytVideo": "yDZyk98rB-Q"
+            }
+          ]
+        },
+        {
+          "id": "dcc63a3e-54e7-4a49-8167-2169d08449ab",
+          "topicName": "Corrective Exercise",
+          "contentData": [
+            {
+              "title": "৩ ফুট পা খোলা, কোমরে হাত, নিঃশ্বাসের সাথে আগে পিছে মুষ্টি বন্দ"
+            },
+            {
+              "ytVideo": "Tmsv9J7y38s"
+            },
+            {
+              "title": "সাবধান উল্টা ঘোর আরামে দারা চেক পজিশন"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1725377000056",
+      "chapterName": "Swimming",
+      "chapterIconName": "",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Swimming/swim_logo.webp",
+      "topicsData": [
+        {
+          "id": "1725377758386",
+          "topicName": "Swimming Styles",
+          "contentData": [
+            {
+              "title": "Freestyle (Front Crawl)"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Swimming/front_stroke.gif"
+            },
+            {
+              "title": "Backstroke"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Swimming/back_stroke.gif"
+            },
+            {
+              "title": "Breaststroke"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Swimming/butterfly_style.gif"
+            },
+            {
+              "title": "Butterfly"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Swimming/breast_stroke.gif"
+            }
+          ]
+        },
+        {
+          "id": "1725377803621",
+          "topicName": "Diving into water",
+          "contentData": [
+            {
+              "title": "How to Dive"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Swimming/diving.gif"
+            },
+            {
+              "text": "Remember while DIving:"
+            },
+            {
+              "text": "1. Jump Forward"
+            },
+            {
+              "text": "2. Hands and head enters the water first"
+            },
+            {
+              "text": "3. Keep your legs together and straight"
+            },
+            {
+              "text": "4. Sound will be minimum if you jump correctly"
+            }
+          ]
+        },
+        {
+          "id": "1725377824688",
+          "topicName": "Tips for Beginners",
+          "contentData": [
+            {
+              "title": "Let go off your Fear"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Swimming/LetGoOffYourFear.jpeg"
+            },
+            {
+              "text": "Let your fear go off by: "
+            },
+            {
+              "text": "1. Stay underwater as long as possible holding your breath"
+            },
+            {
+              "text": "2. Let water enter your mouth and nose"
+            },
+            {
+              "title": "Inhale under water"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Swimming/inhaling_underwater.jpeg"
+            },
+            {
+              "text": "Relax your body holding your breath : A good tip for floating on your back is to hold your breath and have lungs full of air. Another good tip is to stick your stomach out."
+            },
+            {
+              "title": "Kick Practice"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Swimming/kick_practice.jpeg"
+            },
+            {
+              "text": "Whether you're floating on your back or still holding on to the side of the pool, you can practice kicking. "
+            },
+            {
+              "title": "Don't fold your Legs too much"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Swimming/front_stroke.gif"
+            },
+            {
+              "text": "watch this leg movement"
+            }
+          ]
+        },
+        {
+          "id": "1725377848286",
+          "topicName": "Tips for improvement",
+          "contentData": [
+            {
+              "title": "Advanced Tips"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Swimming/front_stroke.gif"
+            },
+            {
+              "text": "1. Don't fold your knees too much. Watch the leg movement in above picture. This is the most common mistake."
+            },
+            {
+              "text": "2. Synchonize legs and hands"
+            },
+            {
+              "text": "3. Keep your body parallel to the water level"
+            },
+            {
+              "text": "4. Heads should be as down as possible"
+            },
+            {
+              "text": "5. Practice breathing sideward"
+            },
+            {
+              "text": "6. Hands will go as downward as possible"
+            },
+            {
+              "text": "7. Chest will be straight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1725377139854",
+      "chapterName": "Running",
+      "chapterIconName": "",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Running/running_logo.webp",
+      "topicsData": [
+        {
+          "id": "1725418199569",
+          "topicName": "Benefits of Running",
+          "contentData": [
+            {
+              "title": "Benefits of Running for the Body"
+            },
+            {
+              "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/SardaFiles/Running/running.gif"
+            },
+            {
+              "text": "\nCardiovascular Health:\nImproves Heart Health: Running strengthens the heart muscle, improving its efficiency in pumping blood. This leads to lower resting heart rates and reduced risk of heart disease.\n\nIncreases Circulation: Running enhances blood flow, which helps deliver oxygen and nutrients to tissues more effectively and removes waste products from the body.\nWeight Management:\n\nBurns Calories: Running is a high-calorie-burning activity, making it an effective way to lose or maintain weight. The more intense the run, the more calories are burned.\n\nBoosts Metabolism: Regular running can increase your metabolic rate, meaning your body burns more calories even at rest.\nMuscle and Bone Strength:\n\nBuilds Muscle: Running, especially at varying speeds or on inclines, engages and strengthens muscles in the legs, core, and even arms.\nStrengthens Bones: The impact of running stimulates bone formation, increasing bone density and reducing the risk of osteoporosis.\nMental Health:\n\nReduces Stress and Anxiety: Running triggers the release of endorphins, known as \"feel-good\" hormones, which help reduce stress, anxiety, and depression.\nEnhances Mental Clarity: Regular running improves cognitive function and can help with mental focus and clarity.\nImproves Lung Function:\n\nEnhances Lung Capacity: Running regularly improves lung capacity and efficiency, allowing your body to take in more oxygen and expel carbon dioxide more effectively."
+            }
+          ]
+        },
+        {
+          "id": "1725418222456",
+          "topicName": "VO2 Max",
+          "contentData": [
+            {
+              "title": "VO2 Max: A Key Measure of Fitness"
+            },
+            {
+              "text": "VO2 max (or maximal oxygen uptake) is a measure of the maximum amount of oxygen your body can utilize during intense exercise. It is considered one of the best indicators of cardiovascular fitness and aerobic endurance.\n\nWhat is VO2 Max?:\n\nVO2 max represents the maximum volume (V) of oxygen (O2) your body can use per minute per kilogram of body weight during exercise.\nIt is usually measured in milliliters of oxygen used per kilogram of body weight per minute (ml/kg/min).\n\nWhy is VO2 Max Important?:\n\nIndicator of Endurance: \nA higher VO2 max indicates greater aerobic capacity, meaning your body can sustain intense exercise for longer periods.\n\nPerformance Predictor: \nVO2 max is often used to predict performance in endurance sports like running, cycling, and swimming.\n\nHealth Marker: \nA low VO2 max can be a sign of poor cardiovascular health and is associated with a higher risk of chronic diseases.\nHow Running Affects VO2 Max:\n\nIncreases Oxygen Efficiency: \nRegular running, especially interval training and long-distance runs, improves the bodyÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs ability to transport and use oxygen more efficiently.\n\nEnhances Cardiovascular Function: \nAs running strengthens the heart and improves circulation, it directly contributes to an increase in VO2 max.\n\nAdaptation Over Time: \nConsistent training leads to adaptations in the cardiovascular and respiratory systems, resulting in a higher VO2 max over time.\n\nN.B. It activates in long distance runs."
+            }
+          ]
+        },
+        {
+          "id": "1725418230504",
+          "topicName": "Tips for Running",
+          "contentData": [
+            {
+              "title": "ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸:"
+            },
+            {
+              "text": "ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ§. ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ£ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\n\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ¨. ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®-ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂª ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\n\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ©. ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ«ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ  ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ² ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ¦ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂª ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂª ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ® ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\n\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂª. ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\n\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ«. ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ (ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯), ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\n\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ¬. ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ® ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ£ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\n\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ­. ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ® ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ· ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ® ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\n\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ®. ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃï¿½ï¿½ÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ (ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ­ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ² ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ) ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ«ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\n\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ¯. ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ² ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\n\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ¦. ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ® ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¶ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ® ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ£ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¡ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤\n\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ§. ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨\nÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Ã��ÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨: ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ«ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾-ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¹ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ, ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ®ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ²ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¸ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¿ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¤ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ° ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¨ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂªÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¬ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¼ ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂ¾ÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¦ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ¤"
+            }
+          ]
+        },
+        {
+          "id": "1725419050683",
+          "topicName": "Tips for Sarda",
+          "contentData": [
+            {
+              "title": "Running Tips for Sarda"
+            },
+            {
+              "text": "1. Don't run because you have to but run for your own benefit\n\n2. Running is also a test of will power. Push and motivate yourself.\n\n3. Don't forget its an lifetime opportunity for achieving healthy lifestyle.\n\n4. Start slow and dont get injured. Especially if you are bulky. You may tear your ligaments.\n\n5. Let your Ostadji know of your health condition. \n\n6. Take medical rest after 3 or 4 days if you are too bulky. Better saving ligaments than staying a few days more.\n\n7. Eat appropriate amount food to lose your weight. Running alone can't reduce weight.\n\n8. Avoid Sugar."
+            },
+            {
+              "text": ""
+            },
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

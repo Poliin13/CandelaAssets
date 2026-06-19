@@ -1,0 +1,955 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hidden Navigation Panel</title>
+    <style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+  }
+  nav {
+    position: fixed;
+    top: 0;
+    width: 250px;
+    height: 100%;
+    background: #333; /* Dark background color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add a shadow for depth */
+    overflow-y: auto; /* Make the navigation panel scrollable */
+  }
+  nav h2 {
+    color: #fff;
+    text-align: center;
+    padding: 20px 0; /* Padding top and bottom */
+    margin: 0;
+    border-bottom: 1px solid #444; /* Border at the bottom of the title */
+  }
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  nav ul li {
+    padding: 15px; /* Larger padding for better touch target */
+    border-bottom: 1px solid #444; /* Separating lines between items */
+  }
+  nav ul li:last-child {
+    border-bottom: none; /* Remove border for last item */
+  }
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    font-size: 16px; /* Larger font size */
+  }
+  nav ul li a:hover {
+    background-color: #555; /* Darker background color on hover */
+  }
+  .content {
+    margin-left: 250px; /* Adjust content margin to accommodate navigation panel */
+    padding-left: 20px; /* Add padding to maintain content layout */
+  }
+
+  /* Hide navigation panel by default on mobile screens */
+  @media only screen and (max-width: 768px) {
+    nav {
+      left: -250px; /* Off-screen initially */
+      transition: left 0.3s ease;
+    }
+    nav.visible {
+      left: 0; /* Moves onto screen when visible class is added */
+    }
+    .content {
+      margin-left: 20px; /* Adjust content margin to remove space for navigation panel */
+    }
+  }
+
+  /* Ensure navigation panel is always visible and fixed on larger screens */
+  @media only screen and (min-width: 769px) {
+    nav {
+      left: 0;
+    }
+  }
+</style> </head>
+  <body>
+    <nav id="nav" class="visible">
+      <h2>List of Contents</h2>
+      <ul>
+        <li><a href="#ভূমিকা">ভূমিকা</a></li>
+<li><a href="#ত্রুটির-প্রকারভেদ">ত্রুটির প্রকারভেদ</a></li>
+<li><a href="#ত্রুটির-উৎস">ত্রুটির উৎস</a></li>
+<li><a href="#ত্রুটি-কমানোর-উপায়">ত্রুটি কমানোর উপায়</a></li>
+<li><a href="#ত্রুটির-পরিমাপ">ত্রুটির পরিমাপ</a></li>
+<li><a href="#১-যান্ত্রিক-ত্রুটি-instrumental-error">১. যান্ত্রিক ত্রুটি (Instrumental error) :</a></li>
+<li><a href="#২-পর্যবেক্ষণমূলক-বা-ব্যক্তিগত-ত্রুটি-observational-or-personal-error">২. পর্যবেক্ষণমূলক বা ব্যক্তিগত ত্রুটি (Observational or personal error) :</a></li>
+<li><a href="#৩-এলোমেলো-বা-অনিয়মিত-ত্রুটি-random-error">৩. এলোমেলো বা অনিয়মিত ত্রুটি (Random error) :</a></li>
+<li><a href="#8-পুনরাবৃত্তিক-বা-নিয়মিত-ত্রুটি-systematic-error">৮. পুনরাবৃত্তিক বা নিয়মিত ত্রুটি (Systematic error) :</a></li>
+<li><a href="#৫-লঘিষ্ঠগণনত্রুটি-least-count-error">৫. লঘিষ্ঠ গণন ত্রুটি (Least count error):</a></li>
+<li><a href="#সঠিকতা-ও-সূক্ষ্মতা-accuracy-and-precision">সঠিকতা ও সূক্ষ্মতা (Accuracy and Precision) :</a></li>
+<li><a href="#গড়-ভুল-mean-error">গড় ভুল (Mean error):</a></li>
+<li><a href="#স্ফেরোমিটার-spherometer">স্ফেরোমিটার (Spherometer)</a></li>
+<li><a href="#ত্রুটিহীন-স্ক্রু-গজ-screw-gauge">ত্রুটিহীন স্ক্রু গজ(Screw Gauge)</a></li>
+<li><a href="#ত্রুটিযুক্ত-স্ক্রু-গজ-screw-gauge">ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)</a></li>
+<li><a href="#ত্রুটি-পরিমাপের-সুত্রসমুহ">ত্রুটি পরিমাপের সুত্রসমুহ</a></li>
+            <li><a href="#questions-and-answers">প্রশ্নোত্তর</a></li>
+      </ul>
+    </nav>
+    <div class="content">
+    
+        <h2>পরিমাপে ভুল বা ত্রুটি (Errors in measurements)</h2>
+       
+        <h3 id="ভূমিকা">ভূমিকা:</h3>
+        <p>কোনো ভৌত রাশির সঠিক মান নির্ণয় করার জন্য আমরা বিভিন্ন যন্ত্র ব্যবহার করে
+          পরিমাপ করি। কিন্তু, যন্ত্রের ত্রুটি, পর্যবেক্ষকের ত্রুটি, পরিবেশের প্রভাব
+          ইত্যাদির কারণে পরিমাপের ফলাফল সর্বদা সঠিক হয় না। পরিমাপের ফলাফল এবং
+          প্রকৃত মানের মধ্যে পার্থক্যকেই ত্রুটি বলে।</p>
+        <h3 id="ত্রুটির-প্রকারভেদ">ত্রুটির প্রকারভেদ:</h3>
+        <h3></h3>
+        <ul>
+          <li><strong>মৌলিক ত্রুটি:</strong> পরিমাপের ফলাফল এবং প্রকৃত মানের মধ্যে
+            পার্থক্যকে মৌলিক ত্রুটি বলে।</li>
+          <li><strong>সম্পূর্ণ ত্রুটি:</strong> মৌলিক ত্রুটির সাথে পরিমাপের
+            অনিশ্চয়তা যোগ করলে সম্পূর্ণ ত্রুটি পাওয়া যায়।</li>
+          <li><strong>আপেক্ষিক ত্রুটি:</strong> ত্রুটিকে প্রকৃত মানের সাথে ভাগ করে
+            আপেক্ষিক ত্রুটি পাওয়া যায়।</li>
+          <li><strong>শতকরা ত্রুটি:</strong> আপেক্ষিক ত্রুটিকে ১০০ দিয়ে গুণ করে
+            শতকরা ত্রুটি পাওয়া যায়।</li>
+        </ul>
+        <h3 id="ত্রুটির-উৎস">ত্রুটির উৎস:</h3>
+        <h3></h3>
+        <ul>
+          <li><strong>যন্ত্রের ত্রুটি:</strong> যন্ত্রের স্কেলের সূক্ষ্মতা, যন্ত্রের
+            ত্রুটিপূর্ণ ক্যালিব্রেশন ইত্যাদির কারণে ত্রুটি দেখা দিতে পারে।</li>
+          <li><strong>পর্যবেক্ষকের ত্রুটি:</strong> পর্যবেক্ষকের ভুল পাঠ, ভুল
+            পর্যবেক্ষণ, ভুল রেকর্ডিং ইত্যাদির কারণে ত্রুটি দেখা দিতে পারে।</li>
+          <li><strong>পরিবেশের প্রভাব:</strong> তাপমাত্রা, আর্দ্রতা, বায়ুচাপ
+            ইত্যাদির পরিবর্তনের কারণে ত্রুটি দেখা দিতে পারে।</li>
+        </ul>
+        <h3 id="ত্রুটি-কমানোর-উপায়">ত্রুটি কমানোর উপায়:</h3>
+        <h3></h3>
+        <ul>
+          <li><strong>সঠিক যন্ত্র ব্যবহার:</strong> পরিমাপের জন্য সঠিক ও সুস্থ
+            যন্ত্র ব্যবহার করা উচিত।</li>
+          <li><strong>সাবধানে পর্যবেক্ষণ:</strong> পরিমাপের সময় সাবধানে ও মনোযোগ
+            দিয়ে পর্যবেক্ষণ করা উচিত।</li>
+          <li><strong>পুনরাবৃত্তিমূলক পরিমাপ:</strong> একাধিকবার পরিমাপ করে গড়
+            ফলাফল ব্যবহার করা উচিত।</li>
+        </ul>
+        <h3 id="ত্রুটির-পরিমাপ">ত্রুটির পরিমাপ:</h3>
+        <h3></h3>
+        <p>ত্রুটির পরিমাণ নির্ণয় করার জন্য বিভিন্ন পদ্ধতি ব্যবহার করা হয়। এর মধ্যে
+          কয়েকটি উল্লেখযোগ্য পদ্ধতি হলো: <br>
+          <strong>পরম ত্রুটি:</strong> প্রকৃত মান (M) এবং পরিমাপকৃত মান (m) এর
+          পার্থক্যকে পরম ত্রুটি বলে। পরম ত্রুটি = M - m <br>
+          <strong>আপেক্ষিক ত্রুটি:</strong> পরম ত্রুটিকে প্রকৃত মান (M) দিয়ে ভাগ
+          করে আপেক্ষিক ত্রুটি বের করা হয়। আপেক্ষিক ত্রুটি = (M - m) / M <br>
+          <strong>শতাংশ ত্রুটি:</strong> আপেক্ষিক ত্রুটিকে ১০০ দিয়ে গুণ করে শতাংশ
+          ত্রুটি বের করা হয়। শতাংশ ত্রুটি = (M - m) / M * 100</p>
+        <br>
+        <p><br>
+          পরিমাপের ত্রুটিগুলোকে উৎপন্নের ধরন অনুযায়ী কয়েকটি ভাগে ভাগ করা যায়;
+          যথা—<br>
+          (১) যান্ত্রিক ত্রুটি (Instrumental error)<br>
+          (২) পর্যবেক্ষণমূলক বা ব্যক্তিগত ত্রুটি (Observational or personal error)<br>
+          (৩) এলোমেলো বা অনিয়মিত ত্রুটি (Random error)<br>
+          (৪) পুনরাবৃত্তিক বা নিয়মিত ত্রুটি (Systematic error)<br>
+          (৫) লঘিষ্ঠ গণন ত্রুটি (Least count error) </p>
+        <h3> </h3>
+        <h3> </h3>
+        <h3 id="১-যান্ত্রিক-ত্রুটি-instrumental-error">১. যান্ত্রিক ত্রুটি
+          (Instrumental error) :</h3>
+        <h3></h3>
+        <h3></h3>
+        <p>ভৌত রাশি পরিমাপে যে সমস্ত যন্ত্র ব্যবহার করা হয়, সেগুলো সঠিক এবং সুবেদী
+          না হলে পরিমাপে ত্রুটি দেখা দেয়। একে যান্ত্রিক ত্রুটি বলে। বিভিন্ন ধরনের
+          যান্ত্রিক ত্রুটিগুলোর মধ্যে উল্লেখযোগ্য হলো— (i) শূন্য ত্রুটি (zero
+          error), (ii) পিছট ত্রুটি (backlash error) ও (iii) লেভেল ত্রুটি (level
+          error)।</p>
+        <h4>(i) শূন্য ত্রুটি (zero error) :</h4>
+        <p>সাধারণত ভার্নিয়ার স্কেল, স্ক্রু-গজ, স্লাইড ক্যালিপার্স, স্ফেরোমিটার
+          ইত্যাদির প্রধান স্কেলের '0' দাগ ভার্নিয়ার বা বৃত্তাকার স্কেলের ‘0’ দাগের
+          সাথে না মিলে যদি আগে বা পিছনে থাকে, তবে একে শূন্য ত্রুটি বলে।</p>
+        <h4>(ii) পিছট ত্রুটি (backlash error) :</h4>
+        <p>নাট-স্ক্রু নীতির উপর ভিত্তি করে যে সকল যন্ত্র তৈরি সেসব যন্ত্রে এই ত্রুটি
+          পরিলক্ষিত হয়। নতুন যন্ত্রের তুলনায় পুরাতন যন্ত্রে এই ত্রুটি বেশি দেখা
+          যায়। কারণ অনেকদিন ব্যবহারের ফলে নাটের গর্ত বড় হয়ে যেতে পারে বা স্ক্রু
+          ক্ষয় হয়ে আলগা হয়ে যায়; ফলে স্ক্রুকে উভয় দিকে ঘুরালে সমান সরণ হয় না।
+          এ ধরনের ত্রুটিকে পিছট ত্রুটি বলে। পাঠ নেওয়ার সময় যন্ত্রকে একই দিকে
+          ঘুরালে এ ত্রুটি দূর হয়।</p>
+        <h4>(iii) লেভেল ত্রুটি (level error) :</h4>
+        <p>কতকগুলো পরীক্ষণের ক্ষেত্রে যন্ত্রকে ভালোভাবে লেভেলিং করে না নিলে সঠিক পাঠ
+          পাওয়া যায় না। যেমন নিক্তি, বিক্ষেপ চৌম্বকমান যন্ত্র, ট্যানজেন্ট
+          গ্যালভানোমিটার ইত্যাদি। লেভেলিং স্ক্রু এবং স্পিরিট লেভেলের সাহায্যে
+          লেভেলিং করে নিতে হয়। এই সকল যন্ত্রে লেভেল ত্রুটি দেখা যায়।</p>
+        <h3 id="২-পর্যবেক্ষণমূলক-বা-ব্যক্তিগত-ত্রুটি-observational-or-personal-error">২.
+          পর্যবেক্ষণমূলক বা ব্যক্তিগত ত্রুটি (Observational or personal error) :</h3>
+        <h3></h3>
+        <p>পর্যবেক্ষকের পর্যবেক্ষণে ভুল এবং সঠিক মূল্যায়নের অভাবে এ ত্রুটি
+          পরিলক্ষিত হয়। একে পর্যবেক্ষণমূলক ত্রুটি বা ব্যক্তিগত ত্রুটি বলে।
+          পর্যবেক্ষণ ত্রুটি বিভিন্নভাবে হতে পারে। যেমন—<br>
+          (i) ব্যক্তিগত ত্রুটি<br>
+          (ii) প্রান্ত দাগ ত্রুটি<br>
+          (iii) লম্বন&nbsp;ত্রুটি<br>
+          (iv) সূচক ত্রুটি<br>
+          (v) পরিবেশগত ত্রুটি।<br>
+          দৃষ্টিভ্রম (Parallax error) এ ধরনের একটি ত্রুটি।<br>
+          <strong>প্রতিকার (Remedy) : </strong>পর্যবেক্ষণ সতর্কতার সাথে করে এবং
+          একাধিকবার পাঠ নিয়ে এ ত্রুটি দূর করা যায়।</p>
+        <h3 id="৩-এলোমেলো-বা-অনিয়মিত-ত্রুটি-random-error">৩. এলোমেলো বা অনিয়মিত
+          ত্রুটি (Random error) :</h3>
+        <h3></h3>
+        <p>ত্রুটির বিভিন্ন বিষয়ে উপযুক্ত সাবধানতা অবলম্বন করা সত্ত্বেও কোনো একটি
+          রাশির পাঠ বার বার ভিন্ন হতে দেখা যায়। পরিমাপে এ ধরনের ভিন্নতা বা পার্থক্য
+          দুই ভাবে হতে পারে। যথা—<br>
+          (১) পর্যবেক্ষকের পর্যবেক্ষণের ত্রুটির জন্য হতে পারে কিংবা<br>
+          (২) পরীক্ষাকালে যন্ত্রের অবস্থার পরিবর্তনের জন্য হতে পারে।</p>
+        <p>উদাহরণস্বরূপ, মাধ্যাকর্ষণজনিত ত্বরণ পরিমাপের ক্ষেত্রে T পরিমাপ করার জন্য
+          স্টপ ওয়াচ (stop watch) এবং <span class="katex-eq
+    katex-rendered" data-katex-display="false"><span class="katex"><span class="katex-mathml"><math
+                  xmlns="http://www.w3.org/1998/Math/MathML">
+                  <semantics>
+                    <mrow>
+                      <mi>l</mi> </mrow>
+                    <annotation encoding="application/x-tex">l</annotation> </semantics>
+                </math></span><span class="katex-html" aria-hidden="true"><span class="base"><span
+                    class="strut"
+                    style="height: 0.69444em; vertical-align: 0em;"></span><span
+                    class="mord mathnormal"
+                    style="margin-right: 0.01968em;">l</span></span></span></span></span>
+          মাপার জন্য স্কেল সূচক ব্যবহার করা হয়। T পরিমাপের জন্য যদি ঘড়িটি ঠিকমতো
+          চালানো এবং থামানো না হয় তবে T-এর পরিমাপে ভুল হবে। <span class="katex-eq katex-rendered"
+            data-katex-display="false"><span
+              class="katex"><span
+                class="katex-mathml"><math
+                  xmlns="http://www.w3.org/1998/Math/MathML">
+                  <semantics>
+                    <mrow>
+                      <mi>l</mi> </mrow>
+                    <annotation encoding="application/x-tex">l</annotation> </semantics>
+                </math></span><span class="katex-html" aria-hidden="true"><span class="base"><span
+                    class="strut"
+                    style="height: 0.69444em; vertical-align: 0em;"></span><span
+                    class="mord mathnormal"
+                    style="margin-right: 0.01968em;">l</span></span></span></span></span>
+          পরিমাপের সময় সূচক যদি স্কেলের একটি নির্দিষ্ট দাগের সাথে না মিলে দুটি
+          সন্নিহিত দাগের মধ্যে থাকে, তবে পর্যবেক্ষকের পক্ষে সূচকের অবস্থানের নির্ভুল
+          মান স্কেল থেকে নেয়া সম্ভব হয় না। এ ধরনের ভুলগুলোকে অনিয়মিত বা এলোমেলো
+          ত্রুটি বলে। এলোমেলো ত্রুটির ফলে চূড়ান্ত ফলাফল হয়ত অত্যন্ত বেশি অথবা খুব
+          কম হতে পারে।</p>
+        <h4><strong>প্রতিকার (Remedy) :</strong></h4>
+        <p>অনিয়মিত ত্রুটি পরিবর্তনশীল। প্রাপ্ত পাঠ প্রকৃত পাঠ অপেক্ষা বেশি হলে
+          ধনাত্মক এবং কম হলে ঋণাত্মক হবে। এই ত্রুটি এড়াতে হলে সতর্কতার সাথে পাঠ
+          নিতে হয়, এই ত্রুটি কমাতে হলে পরিমাপটি বার বার করতে হয়। অর্থাৎ এই ত্রুটি
+          দূর করতে হলে অধিক সংখ্যক পাঠ গ্রহণ করে তাদের গড় পাঠ বের করতে হবে।</p>
+        <h3 id="8-পুনরাবৃত্তিক-বা-নিয়মিত-ত্রুটি-systematic-error">8. পুনরাবৃত্তিক
+          বা নিয়মিত ত্রুটি (Systematic error) :</h3>
+        <p>পরীক্ষাকালে কোনো কোনো ত্রুটির ফলে পরীক্ষাধীন রাশির পরীক্ষালব্ধ মান
+          সর্বদাই এবং নিয়মিতভাবে রাশিটির প্রকৃত মান অপেক্ষা কম বা বেশি হতে পারে। এ
+          ধরনের জুটিকে নিয়মিত বা পুনরাবৃত্তিক ত্রুটি বলে। মিটার ব্রিজের প্রান্তিক
+          ত্রুটি, পোটেনশিওমিটারের প্রান্তিক ত্রুটি, স্ক্রু-গজের শূন্য তুটি এই
+          ত্রুটির অন্তর্গত। অবশ্য পুনরাবৃত্তিক ত্রুটি নির্ণয় করার কোনো যুক্তিযুক্ত
+          বা প্রামাণ্য উপায় নেই।</p>
+        <h4><b>প্রতিকার</b> <b>(Remedy) </b><b>: </b></h4>
+        <p>এই ত্রুটি সংশোধনের জন্য বিভিন্ন ক্ষেত্রে বিভিন্ন অবস্থায় পরীক্ষাকার্যটি
+          পুনরাবৃত্তি করা হয়।</p>
+        <h4><b>পরম ত্রুটি (</b><b>Absolute error) : </b></h4>
+        <p>কোনো একটি রাশির প্রকৃত মান ও পরিমাপকৃত মানের পার্থক্যকে পরম ত্রুটি বলে।
+          পরম ক্রুটির পরিবর্তে আমরা কখনও কখনও আপেক্ষিক ত্রুটি বা শতকরা ত্রুটিটি
+          ব্যবহার করে থাকি। অতএব, পরম ত্রুটি = প্রকৃত মান – পরিমাপ্য মান</p>
+        <span class="katex-eq katex-rendered" data-katex-display="false"><span class="katex"><span
+              class="katex-mathml"><math
+                xmlns="http://www.w3.org/1998/Math/MathML">
+                <semantics>
+                  <mrow>
+                    <mtext>&nbsp;শতকরা&nbsp;ত্রুটি&nbsp;:&nbsp;</mtext>
+                    <mfrac>
+                      <mrow>
+                        <mtext>&nbsp;প্রকৃত&nbsp;মান&nbsp;</mtext>
+                        <mo>∼</mo>
+                        <mtext>&nbsp;পরীক্ষালব্ধ&nbsp;মান&nbsp;</mtext> </mrow>
+                      <mtext>&nbsp;প্রকৃত&nbsp;মান&nbsp;</mtext> </mfrac>
+                    <mo>×</mo>
+                    <mn>100</mn>
+                    <mi mathvariant="normal">%</mi> </mrow>
+                  <annotation encoding="application/x-tex">\text { শতকরা ত্রুটি : }
+                    \frac{\text { প্রকৃত মান } \sim \text{ পরীক্ষালব্ধ মান }}{\text
+                    { প্রকৃত মান }} \times 100 \%</annotation> </semantics> </math></span><span
+              class="katex-html"
+              aria-hidden="true"><span
+                class="base"><span
+                  class="strut"
+                  style="height: 1.21733em; vertical-align: -0.345em;"></span><span
+                  class="mord text"><span
+                    class="mord">&nbsp;</span><span
+                    class="mord brahmic_fallback">শতকরা</span><span
+                    class="mord">&nbsp;</span><span
+                    class="mord
+    brahmic_fallback">ত্রুটি</span><span class="mord">&nbsp;:&nbsp;</span></span><span
+                  class="mord"><span
+                    class="mopen nulldelimiter"></span><span
+                    class="mfrac"><span
+                      class="vlist-t vlist-t2"><span
+                        class="vlist-r"><span
+                          class="vlist"
+                          style="height:
+    0.872331em;"><span class="" style="top: -2.655em;"><span class="pstrut" style="height: 3em;"></span><span
+                              class="sizing reset-size6 size3 mtight"><span
+                                class="mord mtight"><span
+                                  class="mord text
+    mtight"><span class="mord mtight">&nbsp;</span><span class="mord brahmic_fallback mtight">প্রকৃত</span><span
+                                    class="mord mtight">&nbsp;</span><span
+                                    class="mord brahmic_fallback mtight">মান</span><span
+                                    class="mord mtight">&nbsp;</span></span></span></span></span><span
+                            class=""
+                            style="top: -3.23em;"><span
+                              class="pstrut"
+                              style="height: 3em;"></span><span
+                              class="frac-line"
+                              style="border-bottom-width:
+    0.04em;"></span></span><span class="" style="top: -3.394em;"><span class="pstrut"
+                              style="height: 3em;"></span><span
+                              class="sizing reset-size6 size3 mtight"><span
+                                class="mord mtight"><span
+                                  class="mord text
+    mtight"><span class="mord mtight">&nbsp;</span><span class="mord brahmic_fallback mtight">প্রকৃত</span><span
+                                    class="mord mtight">&nbsp;</span><span
+                                    class="mord brahmic_fallback mtight">মান</span><span
+                                    class="mord mtight">&nbsp;</span></span><span
+                                  class="mrel mtight">∼</span><span
+                                  class="mord text mtight"><span
+                                    class="mord
+    mtight">&nbsp;</span><span class="mord
+    brahmic_fallback mtight">পরীক্ষালব্ধ</span><span class="mord mtight">&nbsp;</span><span
+                                    class="mord brahmic_fallback mtight">মান</span><span
+                                    class="mord mtight">&nbsp;</span></span></span></span></span></span><span
+                          class="vlist-s">​</span></span><span
+                        class="vlist-r"><span
+                          class="vlist"
+                          style="height:
+    0.345em;"><span class=""></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span
+                  class="mspace"
+                  style="margin-right: 0.222222em;"></span><span
+                  class="mbin">×</span><span
+                  class="mspace"
+                  style="margin-right: 0.222222em;"></span></span><span
+                class="base"><span
+                  class="strut"
+                  style="height: 0.80556em;
+    vertical-align: -0.05556em;"></span><span class="mord">100%</span></span></span></span></span>
+        <h4><b>সামগ্রিক</b> <b>বা</b> <b>মোট</b> <b>ত্রুটি</b><b> (</b><b>Gross
+            error) </b><b>: </b></h4>
+        <p>পর্যবেক্ষকের অসতর্কতা বা অমনোযোগিতার কারণে এ ত্রুটি পরিলক্ষিত হয়।
+          সতর্কতার সঙ্গে পরীক্ষণ কর্ম সম্পাদন করে এ ত্রুটি দূর করা যায়।</p>
+        <h3 id="৫-লঘিষ্ঠগণনত্রুটি-least-count-error">৫. লঘিষ্ঠ গণন ত্রুটি (Least
+          count error):</h3>
+        <p>ন্যূনতম যে পরিমাপ কোনো যন্ত্রের সাহায্যে পরিমাপ করা সম্ভব তাকে ওই
+          যন্ত্রের লঘিষ্ঠ গুণন বলে। যেমন একটি মিটার স্কেলের সাহায্যে 1 mm বা 0.1 cm
+          সূক্ষ্মভাবে পরিমাপ করা যায়। সুতরাং মিটার স্কেলের লঘিষ্ঠ গুণন 1 mm বা 0.1
+          cm। অনুরূপভাবে স্লাইড ক্যালিপার্সের ক্ষেত্রে লঘিষ্ঠ গুণন 0.01 mm, 0.001
+          cm৷ সূক্ষ্ম বা উন্নত মানের যন্ত্র ব্যবহার করে লঘিষ্ঠ গুণন ত্রুটি কমানো
+          যায়। তবে একই পরিমাপ্য রাশির অধিক সংখ্যক পাঠ নিয়ে এবং ওই পাঠসমূহের গড়
+          মান নির্ণয় করে পরিমেয় রাশির সঠিক মানের কাছাকাছি মান পাওয়া যায়। এলোমেলো
+          বা অনিয়মিত এবং পুনরাবৃত্তি বা নিয়মিত ত্রুটির ক্ষেত্রে লঘিষ্ঠ গুণন
+          &nbsp;ত্রুটি লক্ষ করা যায়।</p>
+        <h3 id="সঠিকতা-ও-সূক্ষ্মতা-accuracy-and-precision">সঠিকতা ও সূক্ষ্মতা
+          (Accuracy and Precision) :</h3>
+        <p>বিভিন্ন ভৌত রাশি পরিমাপের জন্য আমরা বিভিন্ন ধরনের যন্ত্রপাতি ব্যবহার করি।
+          যন্ত্রগুলি ব্যবহারের পূর্বে তাদের সঠিকতা ও সূক্ষ্মতা সম্বন্ধে স্পষ্ট ধারণা
+          থাকা উচিত। এখন আমরা সঠিকতা ও সূক্ষ্মতা বলতে কী বুঝি তা আলোচনা করব।</p>
+        <h4><b>সঠিকতা</b> <b>(Accuracy) </b><b>: </b></h4>
+        <p>কোনো যন্ত্রের সঠিকতা বলতে বোঝায় যে ওই যন্ত্র সংশ্লিষ্ট রাশিটির প্রকৃত
+          মানের কত কাছাকাছি পরিমাপ করতে সক্ষম। রাশিটির প্রকৃত মান ও যন্ত্রটি দ্বারা
+          পরিমাপ্য মান যত কাছাকাছি হয় যন্ত্রের সঠিকতা তত বেশি হয়।</p>
+        <p>ধরা যাক, একটি তুলাযন্ত্র (balance) দ্বারা 50 g ভরের একটি বস্তু পরিমাপ করে
+          45 g পাওয়া গেল। সুতরাং বলা যায় যে তুলা যন্ত্রটির সঠিকতা ভালো নয়। আবার,
+          অন্য একটি তুলা যন্ত্র দ্বারা ওই বস্তুটি মেপে 49.5 g পাওয়া গেল। অতএব,
+          দ্বিতীয় যন্ত্রটির সঠিকতা অনেক উন্নত মানের।</p>
+        <h4><b>সূক্ষ্মতা</b> <b>(Precision) </b><b>: </b></h4>
+        <p>কোনো যন্ত্রের সূক্ষ্মতা বলতে বোঝায় যে ওই যন্ত্র দ্বারা সংশ্লিষ্ট রাশিটি
+          পরিমাপ করতে পরপর (repeatedly) পরিমাপে প্রাপ্ত পাঠগুলি পরস্পরের কত কাছাকাছি
+          হয়। পরপর পাঠগুলির পার্থক্য যত কম হবে যন্ত্রটির সূক্ষ্মতা তত বেশি হবে।
+          উদাহরণ—ধরা যাক একটি বস্তুর ভর&nbsp; 50g৷ এটি তুলা যন্ত্রে ছয়বার পাঠ নিয়ে
+          ভর পাওয়া গেল 48 g, 49.2 g, 49 g, 49.2 g, 49.6 g, 49.5 g। এক্ষেত্রে পরপর
+          পাঠগুলোর পার্থক্য কম। তাই যন্ত্রটির সূক্ষ্মতা
+    ভালো।&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+        <h3 id="গড়-ভুল-mean-error">গড় ভুল (Mean error):</h3>
+        <h3></h3>
+        <p>বিভিন্ন সতর্কতা অবলম্বন করে পরিমাপ্য কোনো রাশির প্রকৃত মানের কাছাকাছি মান
+          আমরা পেতে পারি, তবে প্রকৃত মান পরিমাপ করতে পারি না। কোনো রাশি অনেকবার
+          পরিমাপের পাঠগুলোর গড় মানকে ঐ ভৌত রাশির সঠিক মান বলা সঙ্গত নয়। ঐ পরিমাপে
+          ত্রুটি উল্লেখ করা প্রয়োজন। পরিমাপে যে মান পাওয়া যায় তা উভয় পাশে
+          নির্দিষ্ট সীমার মধ্যে সামান্য পরিমাণ ভুল থাকার সম্ভাবনা আছে, যা&nbsp; ±
+          শতকরা মান দ্বারা প্রকাশ করা হয়।</p>
+        <h4>(i) গড় ভুল বা গড় বিচ্যুতি নির্ণয় (Determination of mean error or mean
+          deviation):</h4>
+        <p>ধরা যাক, পরিমাপ্য একটি রাশির কেবল অনিয়মিত ভুল অন্তর্ভুক্ত হচ্ছে। রাশিটি
+          যদি n সংখ্যক বার মাপ নেওয়া হয়ে থাকে এবং এর মান যথাক্রমে <span class="katex-eq katex-rendered"
+            data-katex-display="false"><span
+              class="katex"><span
+                class="katex-mathml"><math
+                  xmlns="http://www.w3.org/1998/Math/MathML">
+                  <semantics>
+                    <mrow>
+                      <msub>
+                        <mi>x</mi>
+                        <mn>1</mn> </msub>
+                      <mo separator="true">,</mo>
+                      <msub>
+                        <mi>x</mi>
+                        <mn>2</mn> </msub>
+                      <mo separator="true">,</mo>
+                      <msub>
+                        <mi>x</mi>
+                        <mn>3</mn> </msub>
+                      <mo>…</mo>
+                      <msub>
+                        <mi>x</mi>
+                        <mi>n</mi> </msub> </mrow>
+                    <annotation encoding="application/x-tex">x_{1}, x_{2}, x_{3}
+                      \ldots x_{n}</annotation> </semantics> </math></span><span class="katex-html"
+                aria-hidden="true"><span
+                  class="base"><span
+                    class="strut"
+                    style="height: 0.625em; vertical-align:
+    -0.19444em;"></span><span class="mord"><span class="mord
+    mathnormal">x</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span
+                            class="vlist"
+                            style="height: 0.301108em;"><span
+                              class=""
+                              style="top: -2.55em; margin-left:
+    0em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span
+                                class="sizing reset-size6 size3 mtight"><span
+                                  class="mord mtight"><span
+                                    class="mord
+    mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span
+                          class="vlist-r"><span
+                            class="vlist"
+                            style="height:
+    0.15em;"><span class=""></span></span></span></span></span></span><span class="mpunct">,</span><span
+                    class="mspace"
+                    style="margin-right: 0.166667em;"></span><span
+                    class="mord"><span
+                      class="mord mathnormal">x</span><span
+                      class="msupsub"><span
+                        class="vlist-t vlist-t2"><span
+                          class="vlist-r"><span
+                            class="vlist"
+                            style="height:
+    0.301108em;"><span class="" style="top: -2.55em;
+    margin-left: 0em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span
+                                class="sizing reset-size6 size3 mtight"><span
+                                  class="mord mtight"><span
+                                    class="mord
+    mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span
+                          class="vlist-r"><span
+                            class="vlist"
+                            style="height:
+    0.15em;"><span class=""></span></span></span></span></span></span><span class="mpunct">,</span><span
+                    class="mspace"
+                    style="margin-right: 0.166667em;"></span><span
+                    class="mord"><span
+                      class="mord mathnormal">x</span><span
+                      class="msupsub"><span
+                        class="vlist-t vlist-t2"><span
+                          class="vlist-r"><span
+                            class="vlist"
+                            style="height:
+    0.301108em;"><span class="" style="top: -2.55em;
+    margin-left: 0em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span
+                                class="sizing reset-size6 size3 mtight"><span
+                                  class="mord mtight"><span
+                                    class="mord
+    mtight">3</span></span></span></span></span><span class="vlist-s">​</span></span><span
+                          class="vlist-r"><span
+                            class="vlist"
+                            style="height:
+    0.15em;"><span class=""></span></span></span></span></span></span><span class="mspace"
+                    style="margin-right: 0.166667em;"></span><span
+                    class="minner">…</span><span
+                    class="mspace"
+                    style="margin-right: 0.166667em;"></span><span
+                    class="mord"><span
+                      class="mord mathnormal">x</span><span
+                      class="msupsub"><span
+                        class="vlist-t vlist-t2"><span
+                          class="vlist-r"><span
+                            class="vlist"
+                            style="height:
+    0.151392em;"><span class="" style="top: -2.55em;
+    margin-left: 0em; margin-right: 0.05em;"><span class="pstrut" style="height: 2.7em;"></span><span
+                                class="sizing reset-size6 size3 mtight"><span
+                                  class="mord mtight"><span
+                                    class="mord
+    mathnormal mtight">n</span></span></span></span></span><span class="vlist-s">​</span></span><span
+                          class="vlist-r"><span
+                            class="vlist"
+                            style="height:
+    0.15em;"><span class=""></span></span></span></span></span></span></span></span></span></span>
+          পাওয়া যায়, তবে রাশিগুলাের গড় হবে,</p>
+        <span class="katex-eq katex-rendered" data-katex-display="false"><span class="katex"><span
+              class="katex-mathml"><math
+                xmlns="http://www.w3.org/1998/Math/MathML">
+                <semantics>
+                  <mrow>
+                    <mi>A</mi>
+                    <mo>=</mo>
+                    <mfrac>
+                      <mrow>
+                        <msub>
+                          <mi>x</mi>
+                          <mn>1</mn> </msub>
+                        <mo>+</mo>
+                        <msub>
+                          <mi>x</mi>
+                          <mn>2</mn> </msub>
+                        <mo>+</mo>
+                        <msub>
+                          <mi>x</mi>
+                          <mn>3</mn> </msub>
+                        <mo>…</mo>
+                        <mo>+</mo>
+                        <msub>
+                          <mi>x</mi>
+                          <mi>n</mi> </msub> </mrow>
+                      <mi>n</mi> </mfrac> </mrow>
+                  <annotation encoding="application/x-tex">A=\frac{x_{1}+x_{2}+x_{3}
+                    \ldots + x_{n}}{n}</annotation> </semantics> </math></span><span
+              class="katex-html"
+              aria-hidden="true"><span
+                class="base"><span
+                  class="mord"><span
+                    class="mfrac"><span
+                      class="vlist-t
+    vlist-t2"><span class="vlist-r"><span class="vlist-s">​</span></span><span class="vlist-r"><span
+                          class="vlist"
+                          style="height:
+    0.345em;"><span class=""></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span>
+        <p>এই পরিমাপে কেবল অনিয়মিত ভুলই অন্তর্ভুক্ত থাকায় পরিমাপে প্রাপ্ত গড় মান
+          A প্রকৃত মানের কাছাকাছি হবে। রাশিটির প্রত্যেকটি মাপ এই গড় সংখ্যা A হতে
+          সামান্য বিচ্যুত থাকে বলে ঐ মাপের ভুল ধরা যায়। সুতরাং, রাশিটির বিভিন্ন
+          পরিমাপে যে বিচ্যুতি থাকবে তা যথাক্রমে,</p>
+        <span class="katex-eq katex-rendered" data-katex-display="false"><span class="katex"><span
+              class="katex-mathml"><math
+                xmlns="http://www.w3.org/1998/Math/MathML">
+                <semantics>
+                  <mrow>
+                    <msub>
+                      <mi>d</mi>
+                      <mn>1</mn> </msub>
+                    <mo>=</mo>
+                    <msub>
+                      <mi>x</mi>
+                      <mn>1</mn> </msub>
+                    <mo>−</mo>
+                    <mi>A</mi>
+                    <mo separator="true">,</mo>
+                    <msub>
+                      <mi>d</mi>
+                      <mn>2</mn> </msub>
+                    <mo>=</mo>
+                    <msub>
+                      <mi>x</mi>
+                      <mn>2</mn> </msub>
+                    <mo>−</mo>
+                    <mi>A</mi>
+                    <mo separator="true">,</mo>
+                    <msub>
+                      <mi>d</mi>
+                      <mn>3</mn> </msub>
+                    <mo>=</mo>
+                    <msub>
+                      <mi>x</mi>
+                      <mn>3</mn> </msub>
+                    <mo>−</mo>
+                    <mi>A</mi>
+                    <mo separator="true">,</mo>
+                    <mo>…</mo>
+                    <mo>…</mo>
+                    <msub>
+                      <mi>d</mi>
+                      <mi>n</mi> </msub>
+                    <mo>=</mo>
+                    <msub>
+                      <mi>x</mi>
+                      <mi>n</mi> </msub>
+                    <mo>−</mo>
+                    <mi>A</mi> </mrow>
+                  <annotation encoding="application/x-tex">d_{1}=x_{1}-A ,
+                    d_{2}=x_{2}-A , d_{3}=x_{3}-A, \ldots \ldots d_{n}=x_{n}-A</annotation>
+                </semantics> </math></span></span></span>
+        <p>এখন বিচ্যুতির চিহ্ন বাদ দিয়ে এগুলোর গড় নিলেই গড় বিচ্যুতি বা গড় ভুল
+          পাওয়া যায়।<br>
+          অতএব, গড় বিচ্যুতি বা গড় ভুল, <span class="katex-eq
+    katex-rendered" data-katex-display="false"><span class="katex"><span class="katex-mathml"><math
+                  xmlns="http://www.w3.org/1998/Math/MathML">
+                  <semantics>
+                    <mrow>
+                      <mi>d</mi>
+                      <mo>=</mo>
+                      <mfrac>
+                        <mrow>
+                          <msub>
+                            <mi>d</mi>
+                            <mn>1</mn> </msub>
+                          <mo>+</mo>
+                          <msub>
+                            <mi>d</mi>
+                            <mn>2</mn> </msub>
+                          <mo>+</mo>
+                          <msub>
+                            <mi>d</mi>
+                            <mn>3</mn> </msub>
+                          <mo>+</mo>
+                          <mo>⋯</mo>
+                          <mo>…</mo>
+                          <mo>…</mo>
+                          <mo>…</mo>
+                          <mo>…</mo>
+                          <mo>+</mo>
+                          <msub>
+                            <mi>d</mi>
+                            <mi>n</mi> </msub> </mrow>
+                        <mi>n</mi> </mfrac> </mrow>
+                    <annotation encoding="application/x-tex">d=\frac{d_{1}+d_{2}+d_{3}+\cdots
+    
+    
+    
+    
+    \ldots
+                      \ldots \ldots \ldots+d_{n}}{n}</annotation> </semantics> </math></span></span></span></p>
+        <p>সুতরাং পরিমাপ্য রাশিটির প্রকৃত মাপ, <span class="katex-eq
+    katex-rendered" data-katex-display="false"><span class="katex"><span class="katex-mathml"><math
+                  xmlns="http://www.w3.org/1998/Math/MathML">
+                  <semantics>
+                    <mrow>
+                      <mi>x</mi>
+                      <mo>=</mo>
+                      <mo stretchy="false">(</mo>
+                      <mi>A</mi>
+                      <mo>±</mo>
+                      <mi>d</mi>
+                      <mo stretchy="false">)</mo> </mrow>
+                    <annotation encoding="application/x-tex">x=(A \pm d)</annotation>
+                  </semantics> </math></span><span class="katex-html" aria-hidden="true"><span
+                  class="base"><span
+                    class="strut"
+                    style="height: 0.43056em; vertical-align: 0em;"></span><span
+                    class="mord mathnormal">x</span><span
+                    class="mspace"
+                    style="margin-right: 0.277778em;"></span><span
+                    class="mrel">=</span><span
+                    class="mspace"
+                    style="margin-right: 0.277778em;"></span></span><span
+                  class="base"><span
+                    class="strut"
+                    style="height: 1em;
+    vertical-align: -0.25em;"></span><span class="mopen">(</span><span class="mord mathnormal">A</span><span
+                    class="mspace"
+                    style="margin-right: 0.222222em;"></span><span
+                    class="mbin">±</span><span
+                    class="mspace"
+                    style="margin-right: 0.222222em;"></span></span><span
+                  class="base"><span
+                    class="strut"
+                    style="height: 1em;
+    vertical-align: -0.25em;"></span><span class="mord
+    mathnormal">d</span><span class="mclose">)</span></span></span></span></span></p>
+        <h4>(ii) প্রমাণ বিচ্যুতি (Standard deviation) :</h4>
+        <p>অনেক সময় এই বিচ্যুতিগুলাের গড় নির্ণয়ের পরিবর্তে তাদের বর্গের গড় বের
+          করে তার বর্গমূল নির্ণয় করা হয়। এই বর্গমূলের পরিমাণকে প্রমাণ বিচ্যুতি
+          বলে।</p>
+        <p>সুতরাং, প্রমাণ বিচ্যুতি, <span class="katex-eq katex-rendered" data-katex-display="false"><span
+              class="katex"><span
+                class="katex-mathml"><math
+                  xmlns="http://www.w3.org/1998/Math/MathML">
+                  <semantics>
+                    <mrow>
+                      <mi>D</mi>
+                      <mo>=</mo>
+                      <msqrt>
+                        <mfrac>
+                          <mrow>
+                            <msub>
+                              <mi>d</mi>
+                              <mn>1</mn> </msub>
+                            <msup>
+                              <mrow></mrow>
+                              <mn>2</mn> </msup>
+                            <mo>+</mo>
+                            <msub>
+                              <mi>d</mi>
+                              <mn>2</mn> </msub>
+                            <msup>
+                              <mrow></mrow>
+                              <mn>2</mn> </msup>
+                            <mo>+</mo>
+                            <msub>
+                              <mi>d</mi>
+                              <mn>3</mn> </msub>
+                            <msup>
+                              <mrow></mrow>
+                              <mn>2</mn> </msup>
+                            <mo>…</mo>
+                            <mo>…</mo>
+                            <mo>…</mo>
+                            <mo>…</mo>
+                            <mo>…</mo>
+                            <mo>…</mo>
+                            <mo>+</mo>
+                            <msub>
+                              <mi>d</mi>
+                              <mi>n</mi> </msub>
+                            <msup>
+                              <mrow></mrow>
+                              <mn>2</mn> </msup> </mrow>
+                          <mi>n</mi> </mfrac> </msqrt>
+                      <mo>=</mo>
+                      <msqrt>
+                        <mfrac>
+                          <mrow>
+                            <msub>
+                              <mo>∑</mo>
+                              <mi>d</mi> </msub>
+                            <msup>
+                              <mrow></mrow>
+                              <mn>2</mn> </msup> </mrow>
+                          <mi>n</mi> </mfrac> </msqrt> </mrow>
+                    <annotation encoding="application/x-tex">D=\sqrt{\frac{d_{1}{
+                      }^{2}+d_{2}{ }^{2}+d_{3}{ }^{2} \ldots \ldots \ldots \ldots
+                      \ldots \ldots+d_{n}{ }^{2}}{n}}=\sqrt{\frac{\sum_{d}{
+                      }^{2}}{n}}</annotation> </semantics> </math> </span></span></span></p>
+        <p>অতএব, রাশিটির প্রকৃত মাপ হবে, <span class="katex-eq
+    katex-rendered" data-katex-display="false"><span class="katex"><span class="katex-mathml"><math
+                  xmlns="http://www.w3.org/1998/Math/MathML">
+                  <semantics>
+                    <mrow>
+                      <mi>x</mi>
+                      <mo>=</mo>
+                      <mo stretchy="false">(</mo>
+                      <mi>A</mi>
+                      <mo>±</mo>
+                      <mi>D</mi>
+                      <mo stretchy="false">)</mo> </mrow>
+                    <annotation encoding="application/x-tex">x=(A \pm D)</annotation>
+                  </semantics> </math></span><span class="katex-html" aria-hidden="true"><span
+                  class="base"><span
+                    class="strut"
+                    style="height: 0.43056em; vertical-align: 0em;"></span><span
+                    class="mord mathnormal">x</span><span
+                    class="mspace"
+                    style="margin-right: 0.277778em;"></span><span
+                    class="mrel">=</span><span
+                    class="mspace"
+                    style="margin-right: 0.277778em;"></span></span><span
+                  class="base"><span
+                    class="strut"
+                    style="height: 1em;
+    vertical-align: -0.25em;"></span><span class="mopen">(</span><span class="mord mathnormal">A</span><span
+                    class="mspace"
+                    style="margin-right: 0.222222em;"></span><span
+                    class="mbin">±</span><span
+                    class="mspace"
+                    style="margin-right: 0.222222em;"></span></span><span
+                  class="base"><span
+                    class="strut"
+                    style="height: 1em;
+    vertical-align: -0.25em;"></span><span class="mord
+    mathnormal" style="margin-right: 0.02778em;">D</span><span class="mclose">)</span></span></span></span></span></p>
+        <p>এবার পরিমাপ্য রাশিটির আন্তর্জাতিক স্বীকৃত মান প্রাকৃতিক ধুবক তালিকা
+          (Physical constant table) থেকে সংগ্রহ করে রাশিটির শুদ্ধতার শতকরা হিসাব
+          নিম্নোক্তভাবে নির্ণয় করতে পারি।</p>
+        <p><strong>পরিমাপ্য রাশির শুদ্ধ মান= <span class="katex-eq
+    katex-rendered" data-katex-display="false"><span class="katex"><span class="katex-mathml"><math
+                    xmlns="http://www.w3.org/1998/Math/MathML">
+                    <semantics>
+                      <mrow>
+                        <mo>=</mo>
+                        <mfrac>
+                          <mrow>
+                            <mtext>&nbsp;রাশিটির&nbsp;সঠিক</mtext>
+                            <mo>∼</mo>
+                            <mtext>&nbsp;মান&nbsp;প্রান্ত&nbsp;মান&nbsp;</mtext> </mrow>
+                          <mtext>&nbsp;সঠিক&nbsp;মান&nbsp;</mtext> </mfrac>
+                        <mo>×</mo>
+                        <mn>100</mn>
+                        <mi mathvariant="normal">%</mi> </mrow>
+                      <annotation encoding="application/x-tex">=\frac{\text {
+                        রাশিটির সঠিক} \sim \text { মান প্রান্ত মান }}{\text { সঠিক
+                        মান }} \times 100 \%</annotation> </semantics> </math></span><span
+                  class="katex-html"
+                  aria-hidden="true"><span
+                    class="base"><span
+                      class="strut"
+                      style="height:
+    0.36687em; vertical-align: 0em;"></span><span class="mrel">=</span><span class="mspace"
+                      style="margin-right: 0.277778em;"></span></span><span
+                    class="base"><span
+                      class="strut"
+                      style="height:
+    1.21733em; vertical-align: -0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span
+                        class="mfrac"><span
+                          class="vlist-t vlist-t2"><span
+                            class="vlist-r"><span
+                              class="vlist"
+                              style="height: 0.872331em;"><span
+                                class=""
+                                style="top: -2.655em;"><span
+                                  class="pstrut"
+                                  style="height: 3em;"></span><span
+                                  class="sizing reset-size6 size3 mtight"><span
+                                    class="mord mtight"><span
+                                      class="mord
+    text mtight"><span class="mord mtight">&nbsp;</span><span class="mord brahmic_fallback mtight">সঠিক</span><span
+                                        class="mord mtight">&nbsp;</span><span
+                                        class="mord brahmic_fallback mtight">মান</span><span
+                                        class="mord mtight">&nbsp;</span></span></span></span></span><span
+                                class=""
+                                style="top: -3.23em;"><span
+                                  class="pstrut"
+                                  style="height: 3em;"></span><span
+                                  class="frac-line"
+                                  style="border-bottom-width: 0.04em;"></span></span><span
+                                class=""
+                                style="top: -3.394em;"><span
+                                  class="pstrut"
+                                  style="height: 3em;"></span><span
+                                  class="sizing reset-size6 size3 mtight"><span
+                                    class="mord mtight"><span
+                                      class="mord
+    text mtight"><span class="mord mtight">&nbsp;</span><span class="mord brahmic_fallback mtight">রাশিটির</span><span
+                                        class="mord mtight">&nbsp;</span><span
+                                        class="mord brahmic_fallback mtight">সঠিক</span></span><span
+                                      class="mrel mtight">∼</span><span
+                                      class="mord text mtight"><span
+                                        class="mord mtight">&nbsp;</span><span
+                                        class="mord brahmic_fallback mtight">মান</span><span
+                                        class="mord mtight">&nbsp;</span><span
+                                        class="mord brahmic_fallback mtight">প্রান্ত</span><span
+                                        class="mord mtight">&nbsp;</span><span
+                                        class="mord brahmic_fallback mtight">মান</span><span
+                                        class="mord mtight">&nbsp;</span></span></span></span></span></span><span
+                              class="vlist-s">​</span></span><span
+                            class="vlist-r"><span
+                              class="vlist"
+                              style="height: 0.345em;"><span
+                                class=""></span></span></span></span></span><span
+                        class="mclose nulldelimiter"></span></span><span
+                      class="mspace"
+                      style="margin-right: 0.222222em;"></span><span
+                      class="mbin">×</span><span
+                      class="mspace"
+                      style="margin-right: 0.222222em;"></span></span><span
+                    class="base"><span
+                      class="strut"
+                      style="height:
+    0.80556em; vertical-align: -0.05556em;"></span><span class="mord">100%</span></span></span></span></span>
+          </strong>; ইহাই ভুলের শতকরা হার। </p>
+        <h3 id="স্ফেরোমিটার-spherometer">স্ফেরোমিটার (Spherometer)</h3>
+        <p><img src="https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer1.gif"
+            alt="স্ফেরোমিটার">
+          <img src="https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/Spherometer2.gif"
+            alt="স্ফেরোমিটার"></p>
+        <div class="page">
+          <h3 id="ত্রুটিহীন-স্ক্রু-গজ-screw-gauge">ত্রুটিহীন স্ক্রু গজ(Screw Gauge)</h3>
+          <img src="https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeNoError.gif"
+            alt="ত্রুটিহীন স্ক্রু গজ">
+          <h3 id="ত্রুটিযুক্ত-স্ক্রু-গজ-screw-gauge">ত্রুটিযুক্ত স্ক্রু গজ(Screw
+            Gauge)</h3>
+          <img src="https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ScrewGaugeWithError.gif"
+            alt="ত্রুটিযুক্ত স্ক্রু গজ"></div>
+        <div class="page">
+          <h3 id="ত্রুটি-পরিমাপের-সুত্রসমুহ">ত্রুটি পরিমাপের সুত্রসমুহ</h3>
+          <img src="https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ErrorCalculationFormulas.webp"
+            alt="ত্রুটি পরিমাপের সুত্রসমুহ"></div>
+        <p></p>
+        <p><br>
+        </p>
+        <p></p>
+        <h3 id="questions-and-answers">প্রশ্নোত্তর </h3>
+        <h3></h3>
+        <ol>
+          <li><strong>পরীক্ষায় অভিকর্ষজ ত্বরণ, g = 9.8 m/s^2 পাওয়া গেল। কিন্তু ঐ
+              স্থানে অভিকর্ষজ ত্বরণের প্রকৃত মান হলো 9.87m/s^2 ত্রুটির শতকরা হার বের
+              কর।</strong><br>
+            উত্তরঃ 0.709%</li>
+          <li><strong>একটি বস্তুর প্রকৃত ওজন 70 N। কিন্তু স্প্রিং নিক্তিতে তার ওজন
+              পাওয়া গেল 80N. বস্তুটির ভরের শতকরা ত্রুটি বের কর।</strong><br>
+            উত্তরঃ 14.28%</li>
+          <li><strong>একটি স্ক্রু গজের মধ্যবর্তী ফাঁক যখন শুন্য তখন বৃত্তাকার
+              স্কেলের শূনয় দাগ রৈখিক শূনয় দাগ অপেক্ষা 7 ঘর নিচে আছে।ঘরের মান 1mm ।
+              যন্ত্রটির যান্ত্রিক ত্রুটি কত?</strong><br>
+            উত্তরঃ নিজে কর</li>
+          <li><strong>জিম একটি মাইক্রোমিটার স্ক্রু গজের সাহায্যে একটি সরু তারের
+              ব্যাস পরিমাপ করছে।সে প্রধান স্কেলের পাঠ পেল 0.1 cm এবং বৃত্তাকার
+              স্কেলের পাঠ পেল 32 । বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা ছিল 50. রৈখিক
+              স্কেলের ক্ষুদ্রতম ঘরের মান 0.5mm<br>
+              (i) জিমের পরিমারকৃত তারটির ব্যাস কত?<br>
+              (ii) তারটির প্রকৃত ব্যাস 0.115 cm হলে ঐ স্ক্রু-গজটির ব্যবহারে তারটির
+              ব্যাস নির্নয় করলে নূন্যতম কত শতাংশ ভুল হবে?</strong><br>
+            উত্তরঃ i) 0.101 cm ii) 12%</li>
+          <li><strong>একটি স্ফেরোমিটারের বৃত্তাকার স্কেলের দাগ সংখ্যা 100 এবং পিচ
+              1mm তিনটি পায়ের মধ্যবর্তী দূরত্ব যথাক্রমে 71 mm,70mm, এবং 70mm।
+              যন্ত্রটির সাহায্যে একটি গোলকীয় উত্তল তলের উচ্চতা পাওয়া গেল 8mm।
+              স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক এবং গোলকীয় তলে বক্রতার ব্যাসার্ধ বের কর।</strong><br>
+            উত্তরঃ 0.01 mm, 107.048 mm</li>
+        </ol>
+        
+    
+
+
+
+
+
+
+
+
+    </div>
+    <script>
+  var touchStartX = 0;
+  var touchEndX = 0;
+
+  // Function to toggle the visibility of the navigation panel based on swipe direction
+  function toggleNav(show) {
+    var nav = document.getElementById("nav");
+    if (show) {
+      nav.classList.add("visible");
+    } else {
+      nav.classList.remove("visible");
+    }
+  }
+
+  // Add touch event listeners to handle swipe gestures only on mobile screens
+  if (window.innerWidth <= 768) {
+    document.addEventListener('touchstart', function(event) {
+      touchStartX = event.touches[0].clientX;
+    }, false);
+
+    document.addEventListener('touchend', function(event) {
+      touchEndX = event.changedTouches[0].clientX;
+      handleSwipe();
+    }, false);
+
+    // Hide navigation panel when a selection is made
+    document.addEventListener('click', function(event) {
+      var nav = document.getElementById("nav");
+      if (nav.classList.contains("visible")) {
+        toggleNav(false);
+      }
+    });
+  }
+
+  // Function to handle swipe gestures and toggle navigation panel accordingly
+  function handleSwipe() {
+    var swipeDistance = touchStartX - touchEndX; // Calculate swipe distance
+    if (swipeDistance > 50) { // Swipe left
+      toggleNav(false); // Hide navigation panel on left swipe
+    } else if (swipeDistance < -50) { // Swipe right
+      toggleNav(true); // Show navigation panel on right swipe
+    }
+  }
+</script>
+  </body>
+</html>

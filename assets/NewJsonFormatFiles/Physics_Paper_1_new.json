@@ -1,0 +1,574 @@
+{
+  "subjectName": "Physics 1st Paper",
+  "chapters": [
+    {
+      "chapterNumber": "প্রথম অধ্যায়",
+      "chapterName": "ভৌত জগত ও পরিমাপ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/01.Measurement/ChapterIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "ত্রুটি পরিমাপ",
+          "topicUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataTopic.html",
+          "math_solutions_url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataMath.html",
+          "objective_questions_url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/dataObjective.html",
+          "subjective_questions_url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/NewJsonFormatFiles/ErrorsInMeasurement.html"
+        },
+        {
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Theory.pdf"
+        },
+        {
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Math.pdf"
+        },
+        {
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter1Objective.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "দ্বিতীয় অধ্যায়",
+      "chapterName": "ভেক্টর",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/02.Vector/VectorIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "ভেক্টর রাশির লব্ধি নির্ণয়",
+          "topicUrl": "https://example.com/vector-resolution",
+          "topicPdfUrl": "https://example.com/vector-resolution.pdf"
+        },
+        {
+          "topicName": "ভেক্টর গুন",
+          "topicUrl": "https://example.com/vector-multiplication",
+          "topicPdfUrl": "https://example.com/vector-multiplication.pdf"
+        },
+        {
+          "topicName": "ভেক্টর ক্যালকুলাস",
+          "topicUrl": "https://example.com/vector-calculus",
+          "topicPdfUrl": "https://example.com/vector-calculus.pdf"
+        },
+        {
+          "topicName": "হ্যান্ডনোট ভেক্টর",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh02_RefinedVector.pdf"
+        },
+        {
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Theory.pdf"
+        },
+        {
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Math.pdf"
+        },
+        {
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter2Objective.pdf"
+        },
+        {
+          "topicName": "MCQ Quiz",
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter2Mcq.json"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "তৃতীয় অধ্যায়",
+      "chapterName": "গতিবিদ্যা",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/DynamicsIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "নিউটনের সূত্র",
+          "topicUrl": "https://example.com/newtons-formulas",
+          "topicPdfUrl": "https://example.com/newtons-formulas.pdf"
+        },
+        {
+          "topicName": "পড়ন্ত বস্তু",
+          "topicUrl": "https://example.com/falling-objects",
+          "topicPdfUrl": "https://example.com/falling-objects.pdf"
+        },
+        {
+          "topicName": "রৈখিক গতি",
+          "topicUrl": "https://example.com/linear-motion",
+          "topicPdfUrl": "https://example.com/linear-motion.pdf"
+        },
+        {
+          "topicName": "প্রাস",
+          "topicUrl": "https://example.com/projectile-motion",
+          "topicPdfUrl": "https://example.com/projectile-motion.pdf"
+        },
+        {
+          "topicName": "বৃত্তাকার গতি",
+          "topicUrl": "https://example.com/circular-motion",
+          "topicPdfUrl": "https://example.com/circular-motion.pdf"
+        },
+        {
+          "topicName": "হ্যান্ডনোট গতিবিদ্যা",
+          "topicUrl": "https://example.com/handwritten-dynamics",
+          "topicPdfUrl": "https://example.com/handwritten-dynamics.pdf"
+        },
+        {
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "topicUrl": "https://example.com/creative-dynamics-test",
+          "topicPdfUrl": "https://example.com/creative-dynamics-test.pdf"
+        },
+        {
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "topicUrl": "https://example.com/math-problems-dynamics-test",
+          "topicPdfUrl": "https://example.com/math-problems-dynamics-test.pdf"
+        },
+        {
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "topicUrl": "https://example.com/objective-dynamics-test",
+          "topicPdfUrl": "https://example.com/objective-dynamics-test.pdf"
+        },
+        {
+          "topicName": "MCQ Quiz",
+          "topicUrl": "https://example.com/mcq-quiz-dynamics",
+          "topicPdfUrl": "https://example.com/mcq-quiz-dynamics.pdf"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "চতুর্থ অধ্যায়",
+      "chapterName": "নিউটনিয়ান বলবিদ্যা",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/chapterFourIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "জড়তার ধারনা",
+          "topicUrl": "https://example.com/concept-of-force",
+          "topicPdfUrl": "https://example.com/concept-of-force.pdf"
+        },
+        {
+          "topicName": "নিউটনের সূত্র",
+          "topicUrl": "https://example.com/newtons-formulas",
+          "topicPdfUrl": "https://example.com/newtons-formulas.pdf"
+        },
+        {
+          "topicName": "ভরবেগের নিত্যতা ও সংঘর্ষ",
+          "topicUrl": "https://example.com/moment-of-inertia-and-collision",
+          "topicPdfUrl": "https://example.com/moment-of-inertia-and-collision.pdf"
+        },
+        {
+          "topicName": "ঘর্ষণ",
+          "topicUrl": "https://example.com/friction",
+          "topicPdfUrl": "https://example.com/friction.pdf"
+        },
+        {
+          "topicName": "ঘাত বল",
+          "topicUrl": "https://example.com/impact-force",
+          "topicPdfUrl": "https://example.com/impact-force.pdf"
+        },
+        {
+          "topicName": "রকেটের গতি",
+          "topicUrl": "https://example.com/rocket-motion",
+          "topicPdfUrl": "https://example.com/rocket-motion.pdf"
+        },
+        {
+          "topicName": "জড়তার ভ্রামক ও চক্রগতির ব্যাসার্ধ",
+          "topicUrl": "https://example.com/torque-and-angular-acceleration",
+          "topicPdfUrl": "https://example.com/torque-and-angular-acceleration.pdf"
+        },
+        {
+          "topicName": "টর্ক ও কৌণিক ত্বরণ",
+          "topicUrl": "https://example.com/torque-and-angular-acceleration",
+          "topicPdfUrl": "https://example.com/torque-and-angular-acceleration.pdf"
+        },
+        {
+          "topicName": "কৌণিক গতিশক্তি",
+          "topicUrl": "https://example.com/angular-momentum",
+          "topicPdfUrl": "https://example.com/angular-momentum.pdf"
+        },
+        {
+          "topicName": "কেন্দ্রমুখী বল ও রাস্তার ব্যাংকিং",
+          "topicUrl": "https://example.com/centripetal-force-and-banking",
+          "topicPdfUrl": "https://example.com/centripetal-force-and-banking.pdf"
+        },
+        {
+          "topicName": "হ্যান্ডনোট নিউটনিয়ান গতিবিদ্যা",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh04_NewtonianMechanics.pdf"
+        },
+        {
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Theory.pdf"
+        },
+        {
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Math.pdf"
+        },
+        {
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter4Objective.pdf"
+        },
+        {
+          "topicName": "MCQ Quiz",
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter4Mcq.json"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "পঞ্চম অধ্যায়",
+      "chapterName": "কাজ,শক্তি ও ক্ষমতা",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/ChapterFiveIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "কাজ",
+          "topicUrl": "https://example.com/work",
+          "topicPdfUrl": "https://example.com/work.pdf"
+        },
+        {
+          "topicName": "শক্তির নিত্যতা",
+          "topicUrl": "https://example.com/nature-of-energy",
+          "topicPdfUrl": "https://example.com/nature-of-energy.pdf"
+        },
+        {
+          "topicName": "বিভব শক্তি/স্থিতিশক্তি",
+          "topicUrl": "https://example.com/potential-energy",
+          "topicPdfUrl": "https://example.com/potential-energy.pdf"
+        },
+        {
+          "topicName": "গতিশক্তি",
+          "topicUrl": "https://example.com/kinetic-energy",
+          "topicPdfUrl": "https://example.com/kinetic-energy.pdf"
+        },
+        {
+          "topicName": "ক্ষমতা ও কর্মদক্ষতা",
+          "topicUrl": "https://example.com/power-and-efficiency",
+          "topicPdfUrl": "https://example.com/power-and-efficiency.pdf"
+        },
+        {
+          "topicName": "হ্যান্ডনোট কাজ,শক্তি ও ক্ষমতা",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh05_WorkEnergyPower.pdf"
+        },
+        {
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Theory.pdf"
+        },
+        {
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Math.pdf"
+        },
+        {
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter5Objective.pdf"
+        },
+        {
+          "topicName": "MCQ Quiz",
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter5Mcq.json"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "ষষ্ঠ অধ্যায়",
+      "chapterName": "মহাকর্ষ ও অভিকর্ষ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/GravityIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "মহাকর্ষ বল",
+          "topicUrl": "https://example.com/gravity-force",
+          "topicPdfUrl": "https://example.com/gravity-force.pdf"
+        },
+        {
+          "topicName": "মহাকর্ষ প্রাবল্য ও বিভব",
+          "topicUrl": "https://example.com/gravity-strength-and-potential",
+          "topicPdfUrl": "https://example.com/gravity-strength-and-potential.pdf"
+        },
+        {
+          "topicName": "অভিকর্ষজ ত্বরণ",
+          "topicUrl": "https://example.com/acceleration-due-to-gravity",
+          "topicPdfUrl": "https://example.com/acceleration-due-to-gravity.pdf"
+        },
+        {
+          "topicName": "পৃথিবীর উপরে ও নিচে g এর পরিবর্তন",
+          "topicUrl": "https://example.com/change-in-g-above-and-below-earth",
+          "topicPdfUrl": "https://example.com/change-in-g-above-and-below-earth.pdf"
+        },
+        {
+          "topicName": "অক্ষাংশের পরিবর্তনের কারণে g এর পরিবর্তন",
+          "topicUrl": "https://example.com/change-in-g-due-to-latitude",
+          "topicPdfUrl": "https://example.com/change-in-g-due-to-latitude.pdf"
+        },
+        {
+          "topicName": "মুক্তিবেগ",
+          "topicUrl": "https://example.com/escape-velocity",
+          "topicPdfUrl": "https://example.com/escape-velocity.pdf"
+        },
+        {
+          "topicName": "কৃত্রিম উপগ্রহ ও ভূ-স্থির উপগ্রহ",
+          "topicUrl": "https://example.com/artificial-satellites-and-geostationary-satellites",
+          "topicPdfUrl": "https://example.com/artificial-satellites-and-geostationary-satellites.pdf"
+        },
+        {
+          "topicName": "গ্রহের গতি সম্পর্কিত কেপলারের সূত্র",
+          "topicUrl": "https://example.com/keplers-laws",
+          "topicPdfUrl": "https://example.com/keplers-laws.pdf"
+        },
+        {
+          "topicName": "হ্যান্ডনোট মহাকর্ষ ও অভিকর্ষ",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh06_Gravity.pdf"
+        },
+        {
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter6Theory.pdf"
+        },
+        {
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter6Math.pdf"
+        },
+        {
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter6Objective.pdf"
+        },
+        {
+          "topicName": "MCQ Quiz",
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter6Mcq.json"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "সপ্তম অধ্যায়",
+      "chapterName": "পদার্থের গাঠনিক ধর্ম",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/SpringIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "পীড়ন ও বিকৃতি",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "হুকের সূত্র",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "পয়সনের অনুপাত",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "স্থিতিস্থাপক গুনাংক",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "কৃন্তন বা কাঠিন্যের গুনাংক এবং আয়তন গুনাংক",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "বিকৃতি দ্বারা কৃতকাজ ও শক্তি",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "পৃষ্ঠটান",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "পৃষ্ঠটানের কাজ ও শক্তি",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "কৈশিক নল",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "সান্দ্রতা",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "হ্যান্ডনোট পদার্থের গাঠনিক ধর্ম",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh07_PhysicalPropertiesOfMatter.pdf"
+        },
+        {
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Theory.pdf"
+        },
+        {
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Math.pdf"
+        },
+        {
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter7Objective.pdf"
+        },
+        {
+          "topicName": "MCQ Quiz",
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter7Mcq.json"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "অষ্টম অধ্যায়",
+      "chapterName": "পর্যাবৃত্ত গতি",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/PeriodicMotionIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "সরল ছন্দিত স্পন্দন",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "অন্তরক সমীকরণ ও সমাধান",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "সরল দোলন গতির ক্ষেত্রে শক্তি",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "সরল দোলক ও স্প্রিং এর দোলন",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "হ্যান্ডনোট পর্যাবৃত্ত গতি",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh08_SHM.pdf"
+        },
+        {
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter8Theory.pdf"
+        },
+        {
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter8Math.pdf"
+        },
+        {
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter8Objective.pdf"
+        },
+        {
+          "topicName": "MCQ Quiz",
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter8Mcq.json"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "নবম অধ্যায়",
+      "chapterName": "তরঙ্গ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/ChapterNineIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "তরঙ্গ সংক্রান্ত রাশিসমূহ",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "অগ্রগামী তরঙ্গ",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "তরঙ্গের উপরিপাতন নীতি",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "স্থির তরঙ্গ",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "বীট",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "অনুনাদ ও তীব্রতা লেভেল",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "হারমোনিক ও স্বরগ্রাম,তারের কম্পন",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "হ্যান্ডনোট তরঙ্গ",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh09_wave.pdf"
+        },
+        {
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter9Theory.pdf"
+        },
+        {
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter9Math.pdf"
+        },
+        {
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter9Objective.pdf"
+        },
+        {
+          "topicName": "MCQ Quiz",
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter9Mcq.json"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "দশম অধ্যায়",
+      "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/10.Gas/GasIcon.gif",
+      "topicsData": [
+        {
+          "topicName": "গ্যাসের গতিতত্ত্ব",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "গ্যাস সূত্রাবলি",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "আর্দ্রতা",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "topicUrl": "url_to_topic_page",
+          "topicPdfUrl": "url_to_topic_pdf"
+        },
+        {
+          "topicName": "হ্যান্ডনোট আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/HandnoteCh10_IdealGas.pdf"
+        },
+        {
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Math.pdf"
+        },
+        {
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Objective.pdf"
+        },
+        {
+          "topicName": "MCQ Quiz",
+          "mcqJsonFile": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/AllMcqJsonFiles/paper1chapter10Mcq.json"
+        }
+      ]
+    },
+    {
+      "chapterNumber": "অতিরিক্ত",
+      "chapterName": "১ম পত্রের প্রয়োজনীয় তথ্য",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/CandelaBackground.webp",
+      "topicsData": [
+        {
+          "topicName": "সকল সুত্রসমূহ",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/AllFormulas1stPaper.pdf"
+        },
+        {
+          "topicName": "বোর্ড প্রশ্নসমূহ",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardQuestion1stPaper.pdf"
+        },
+        {
+          "topicName": "বোর্ড অবজেক্টিভ প্রশ্নসমূহ",
+          "topicPdfUrl": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/BoardMCQ1stPaper.pdf"
+        }
+      ]
+    }
+  ]
+}
