@@ -1,0 +1,105 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "স্থিতিশক্তি(Potential energy)"
+        },
+        {
+          "text": "পদার্থবিজ্ঞানে বিভব শক্তি (Potential energy) বলতে কোন বস্তু বা কোন ব্যবস্থা তার স্বাভাবিক অবস্থা বা অবস্থানের পরিবর্তনের জন্য কাজ করার যে সামর্থ্য অর্থাৎ শক্তি লাভ করে তা বোঝানো হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/PotentialEnergyTheory.webp"
+        },
+        {
+          "text": "বিভব শক্তি অনেকক্ষেত্রেই প্রত্যয়নী বল দ্বারা অর্জিত হয়। যেমন বাহ্যিক বল প্রয়োগের মাধ্যমে স্প্রিং-এর প্রান্ত টেনে এর দৈর্ঘ্য বৃদ্ধি করা হলে বা অভিকর্ষের বিরুদ্ধে কোন বস্তুকে ভূমি থেকে উত্তোলন করা হলে কোন বস্তু বিভব শক্তি উপার্জন করে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/PotentialEnergyTheory.gif"
+        },
+        {
+          "title": "অভিকর্ষজ বিভবশক্তি"
+        },
+        {
+          "text": "যখন m ভরের কোনো বস্তুকে ভূ-পৃষ্ঠ থেকে h উচ্চতায় ওঠানো হয়,তখন অভিকর্ষ বলের বিরুদ্ধে কৃত কাজই হচ্ছে বিভব শক্তি। \nm ভরের বস্তুকে ত্বরণ ছাড়া সমবেগে উপরের দিকে ওঠাতে প্রয়োজনীয় বল F হচ্ছে বস্তুর উপর প্রযুক্ত বল বস্তুর ওজন mg এর সমান। .: অভিকর্ষজ বিভব শক্তি, \n\nU = Fh = mgh"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/PotentialEnergyTheoryGravitational.webp"
+        },
+        {
+          "title": "স্প্রিং এর বিভবশক্তি"
+        },
+        {
+          "text": "স্প্রিং এ বিভব শক্তি প্রত্যয়নী বল হিসেবে জমা থাকে। সাম্যাবস্থা থেকে যেকোনো দিকে সরালেই প্রত্যয়নী এ বলের উদ্ভব হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/PotentialEnergyTheorySpring.gif"
+        },
+        {
+          "text": "প্রত্যয়নী এ বলের মান সমাকলন করে পাওয়া যায়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/PotentialEnergyTheorySpring.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "বিভব শক্তি উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/PotentialEnergyExample(1).webp"
+        },
+        {
+          "text": "বিভব শক্তি উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/PotentialEnergyExample(2).webp"
+        },
+        {
+          "text": "বিভব শক্তি উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/PotentialEnergyExample(3).webp"
+        },
+        {
+          "text": "বিভব শক্তি উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/PotentialEnergyExample(4).webp"
+        },
+        {
+          "text": "বিভব শক্তি উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/PotentialEnergyExample(5).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। ১০০মি উচ্চতা থেকে ৫ কেজি ভর মুক্তভাবে অভিকর্ষের টানে পড়তে থাকলে ৪ সেকেন্ডে ভরটির স্থিতিশক্তি কত হবে?",
+          "flipCardBack": "উত্তরঃ ১০৫৮.৬ J"
+        },
+        {
+          "flipCardFront": "২। স্থির অবস্থায় থাকা ৫০ কেজি ভরের একটি গাড়ি নির্দিষ্ট বলের ক্রিয়ায় ২ সেকেন্ড পর ১৫মি/সে বেগ অর্জন করে এর ওপর প্রযুক্ত বল বের কর এবং ৪ সেকেন্ড পর এর গতিশক্তি কত হবে?",
+          "flipCardBack": "উত্তরঃ ২২৫০০ জুল"
+        },
+        {
+          "flipCardFront": "৩। দেখাও যে পড়ন্ত বস্তুর ক্ষেত্রে নিদির্ষ্ট দূরত্ব অতিক্রমএ গতিশক্তি যতটুকু বৃদ্ধি পায় বিভবশক্তি ততটুকু হ্রাস পায়।",
+          "flipCardBack": "উত্তরঃ দেখাও"
+        },
+        {
+          "flipCardFront": "৪। একটি স্প্রিংকে স্বাভাবিক অবস্থা থেকে 10cm  প্রসারিত করতে 30N বলের প্রয়োজন হয়। স্প্রিংটিকে 8cm প্রসারিত করতে কৃতকাজের পরিমাণ কত হবে?",
+          "flipCardBack": "উত্তরঃ 0.96 J"
+        },
+        {
+          "flipCardFront": "৫। ২ কেজি ভরের একটি বস্তু স্থির অবস্থান থেকে 1 m নিচে অবস্থিত একটি খাড়া স্প্রিং এর উপরে স্প্রিংটিকে সংকুচিত করে। স্প্রিং ধ্রুবক 80N/m হল্র স্প্রিংটির সর্বোচ্চ সংকোচন কত?",
+          "flipCardBack": "উত্তরঃ 0.98 m"
+        }
+      ]
+    }
+  ]
+}

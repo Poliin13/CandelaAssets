@@ -1,0 +1,44 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "text": "মহাকর্ষ একটি প্রাকৃতিক ঘটনা যা দ্বারা সকল বস্তু একে অপরকে আকর্ষণ করে। প্রকৃতির চারটি মৌলিক বলের একটি হলো মহাকর্ষ। মহাকর্ষের কারণেই পৃথিবীসহ অন্যান্য গ্রহগুলি সূর্যের চারিদিকে ঘূর্ণায়মান থাকে। স্যার আইজাক নিউটন ১৬৮৭ খ্রিষ্টাব্দে তার ফিলোসফিয়া ন্যাচারালিস প্রিন্সিপিয়া ম্যাথামেটিকা গ্রন্থে এ বিষয়ে ধারণা প্রদান করেন৷"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/F_Theory.webp"
+        },
+        {
+          "title": "নিউটনের তত্ত্ব"
+        },
+        {
+          "text": "এই বিশ্বে যে-কোনো দুটি বস্তুকণা তাদের সংযোজী সরলরেখা বরাবর পরস্পরকে আকর্ষণ করে। এই আকর্ষণ বল কণাদুটির ভরের গুণফলের সমানুপাতিক এবং তাদের দূরত্বের বর্গের ব্যস্তানুপাতিক।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/F_Theory(1).gif"
+        },
+        {
+          "text": "\nএ সূত্রানুসারে যদি দুটি বস্তুর ভর যথাক্রমে m1,m2 এবং মধ্যবর্তী দূরত্ব r হয় তবে"
+        },
+        {
+          "title": "মহাকর্ষীয় বল"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/F_Theory_Formula.webp"
+        },
+        {
+          "text": "আধুনিক পদার্থবিদ্যায় মহাকর্ষ সবচেয়ে সঠিকভাবে আপেক্ষিকতার সাধারণ তত্ত্ব (আইনস্টাইন দ্বারা প্রস্তাবিত) দ্বারা বর্ণনা করা হয়। আইনস্টাইনের মতে স্থান-কালের বক্রতার কারণেই মহাকর্ষ বল সৃষ্টি হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/F_Theory(2).gif"
+        },
+        {
+          "title": "মহাকর্ষ বল"
+        },
+        {
+          "ytVideo": "YlxKh4oCKhw"
+        }
+      ]
+    }
+  ]
+}

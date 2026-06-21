@@ -1,0 +1,111 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {},
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/ViscosityTheory.webp"
+        },
+        {
+          "title": "সান্দ্রতা"
+        },
+        {
+          "text": "তরল পদার্থের অভ্যন্তরীণ ঘর্ষণের ফলে প্রবাহে (বয়ে যেতে) বাধা দেবার প্রবণতাকে সান্দ্রতা বলা হয়। \n\nতরল পদার্থ বলতে বস্তুত পদার্থের সেই দশাকে বোঝায় যাতে তার উপর ব্যাবর্তন পীড়ন প্রয়োগ করলে তা বইতে আরম্ভ করে, যেখানে \n\nবয়ে যাওয়া বলতে তার বিভিন্ন তলের মধ্যে আপেক্ষিক গতিকেই বর্ণনা করা হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/ViscosityTheory.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/ViscosityTheoryFormula.webp"
+        },
+        {
+          "text": "উদাহরণস্বরূপ বলা যায় মধুর সান্দ্রতা water থেকে বেশি।"
+        },
+        {
+          "title": "স্টোকসের সূত্র"
+        },
+        {
+          "text": "কোন তরলের মধ্যে দিয়ে চলমান বস্তু তার গতির বিপরীত দিকে একটি বল অনুভব করে। এই বলের মান স্টোকসের সূত্র হতে পাওয়া যায়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/StokesLawTheory.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/StokesLawFormula.webp"
+        },
+        {
+          "title": "অন্ত্য-বেগ"
+        },
+        {
+          "text": "যেকোন প্রবাহীর মধ্য দিয়ে একটি বস্তু নিচে পরতে থাকলে, তার ওপর তিনটা বল কাজ করে:\n     বস্তুটির ওজন, W [নিম্নমুখী]\n     ঊর্ধ্বমুখী প্লবতা, U\n     ঊর্ধ্বমুখী সান্দ্র বল, F"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/TerminalVelocityTheory.webp"
+        },
+        {
+          "text": "বস্তুটি যখন প্রবাহীর মধ্যে দিয়ে পরতে থাকে, একসময় ওপরের দিকের বল আর নিচে ওজন ক্রমান্বয়ে সমান হতে থাকে, অর্থাৎ ত্বরণ শূণ্য হয় আর বেগ সমবেগ হয়। এই সমবেগটার নাম অন্ত্য-বেগ।\nএকটা গোলকের ক্ষেত্রে তার অন্ত্যবেগের সমীকরণঃ"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/TerminalVelocityTheoryProof.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/TerminalVelocityFormula.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "সান্দ্রতাংক উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/ViscosityExample(1).webp"
+        },
+        {
+          "text": "সান্দ্রতাংক উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/ViscosityExample(2).webp"
+        },
+        {
+          "text": "সান্দ্রতাংক উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/ViscosityExample(3).webp"
+        },
+        {
+          "text": "সান্দ্রতাংক উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/ViscosityExample(4).webp"
+        },
+        {
+          "text": "সান্দ্রতাংক উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/ViscosityExample(5).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 1×10-3m ব্যাসার্ধের একটি ক্ষুদ্র গোলক একটি তরলের মধ্যদিয়ে 2×10-2ms-1প্রান্ত বেগে পড়ছে । তরলের সান্দ্রতাংক 0.003kgm-1s-1।সান্দ্রবল নির্ণয় কর।",
+          "flipCardBack": "উত্তরঃ 1.1304×10^-6 N"
+        },
+        {
+          "flipCardFront": "২। 2×10-3m ব্যাসের একটি ক্ষুদ্র গোলক একটি তরলেরমধ্য দিয়ে 4×10-2 ms-1 প্রান্তবেগে পড়ছে।গোলকের উপর ক্রিয়ারত সান্দ্রবল 3×10-6N।তরলের সান্দ্রতাংক নির্ণয় কর।",
+          "flipCardBack": "উত্তরঃ 3.98×10^-3k/gm/s"
+        },
+        {
+          "flipCardFront": "৩। পানি স্তম্ভের উচ্চতা= 20cm; নলের দৈর্ঘ্য= 20 cm,নলের অভ্যন্তরীণ ব্যাসার্ধ= 0.081 cm। নল হতে 12 min এ 864cc পানি বের হলে সান্দ্রতা গুণাঙ্ক কত?",
+          "flipCardBack": "উত্তরঃ 0.0138dyne cm-2"
+        },
+        {
+          "flipCardFront": "৪। 200mm ব্যাসার্ধের একটি ক্ষুদ্র গোলক একটি তরলের মধ্য দিয়ে 2.1×10-2 m/s প্রান্তবেগে পড়ছে। তরলের সান্দ্রতাংক 0.003 Nsm-2 হলে সান্দ্র বল কত?",
+          "flipCardBack": "উত্তরঃ 2.37×10-4 N"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "তরঙ্গের উপরিপাতন নীতি"
+        },
+        {
+          "text": "যখন দুটি বা তার বেশি তরঙ্গ একই সাথে একই মাধ্যমের ভেতর দিয়ে এগোতে থাকে তখন এরা একটি অপরটি সাপেক্ষে স্বাধীনভাবে সঞ্চালিত হয়। মাধ্যমের যে অংশে তরঙ্গ গুলো উপরিপাতিত হয়, সেই অংশে যেকোনো কণার লব্ধি সরণ প্রতিটি তরঙ্গ পৃথকভাবে ওই কণার যে সরণ সৃষ্টি করে তাদের ভেক্টরের যোগফলের সমান হয়। এটিই তরঙ্গের ঊপরিপাতন নীতি।\n"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/SuperPositionTheory.gif"
+        },
+        {
+          "title": "নীতি ১"
+        },
+        {
+          "text": "কোনো কণার লব্ধি সরণ (ধরি ) প্রত্যেক তরঙ্গ কণাটিতে নিজে যে সরণ সৃষ্টি করবে তাদের ভেক্টর যোগফলের সমান হবে। অর্থাৎ, Y = Y1+Y2"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/SuperPositionTheory2.gif"
+        },
+        {
+          "title": "নীতি ২"
+        },
+        {
+          "text": "মাধ্যমের কোন কণায় যখন দুই বা ততোধিক তরঙ্গ উপরিপাতিত হয়ে একই সময়ে ক্রিয়া করে তখন কোন তরঙ্গই একে অপরের দ্বারা বাধাপ্রাপ্ত বা প্রভাবিত হয় না। উপরিপাতনের পরেও তরঙ্গগুলোর নিজ নিজ বৈশিষ্ট্য বজায় থাকবে অর্থাৎ নিজ নিজ বিস্তার, কম্পাঙ্ক, তরঙ্গ বেগ, ইত্যাদি বৈশিষ্ট্য বজায় থাকে। উপরিপাতনের আগে যে নির্দিষ্ট দিকে যাচ্ছিল পরেও সেই নির্দিষ্ট দিকে যেতে থাকবে। মনে হবে যে এরা কখনো উপরিপাতিত হয়নি!"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/BeatTheory2.gif"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "শক্তি উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/SuperposionExample.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১।  Y1 = 5cos(3x-4t) cm ও Y2 = 5cos(3+4t) cm তরঙ্গের উপরিপাতনে যে স্থির তরঙ্গ পাওয়া যায় তাতে নিস্পন্দ বিন্দুগুলোর দূরত্ব কত হবে?",
+          "flipCardBack": "উত্তরঃ 1.05cm"
+        }
+      ]
+    }
+  ]
+}

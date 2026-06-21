@@ -1,0 +1,119 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "ভরবেগের নিত্যতা বা সংরক্ষণ সূত্র"
+        },
+        {
+          "text": "একাধিক বস্তুর মধ্যে শুধু ক্রিয়া প্রতিক্রিয়া ছাড়া অন্য কোন বল কাজ না করলে, কোনো নির্দিষ্ট দিকে বস্তুসমূহের ভরবেগের কোনো পরিবর্তন হয় না। এটাই ভরবেগের নিত্যতা বা সংরক্ষণ সূত্র। "
+        },
+        {
+          "title": "স্থিতিস্থাপক সংঘর্ষ(Elastic Collision)"
+        },
+        {
+          "text": "দুটি বস্তুর মধ্যে সংঘর্ষ হলে যদি বস্তুগুলোর মোট গতি শক্তির পরিবর্তন না হয় তাকে স্থিতিস্থাপক সংঘর্ষ বলে। পদার্থের পরমাণুর সংঘর্ষ হল স্থিতিস্থাপক সংঘর্ষের উদাহরণ।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/ConservationOfMomentum/ConservationOfMomentum.gif"
+        },
+        {
+          "title": "অস্থিতিস্থাপক সংঘর্ষের(Elastic Collision)"
+        },
+        {
+          "text": "দুটি বস্তুর মধ্যে সংঘর্ষ হলে যদি বস্তুগুলোর মোট গতি শক্তির পরিবর্তন হয় তাকে অস্থিতিস্থাপক সংঘর্ষ বলে। অস্থিতিস্থাপক সংঘর্ষে বস্তুর বিকৃতি ঘটে বলে কিছু শক্তি শোষিত হয়ে মোট গতিশক্তির পরিবর্তন ঘটে। এছাড়াও দুই গতিশক্তির পার্থক্য তাপ, আলো, শব্দ হিসেবে প্রকাশ পায় এবং ভরবেগ সংরক্ষিত হয়। "
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/ConservationOfMomentum/InelasticCollision.webp"
+        },
+        {
+          "title": "কৌণিক ভরবেগের নিত্যতার সুত্র"
+        },
+        {
+          "text": "যদি কোনো অক্ষের সাপেক্ষে ঘূর্ণনরত কণার উপর বাহ্যিক টর্ক ক্রিয়া না করলে কণার কৌণিক ভরবেগ সংরক্ষিত থাকে অর্থাৎ কণার কৌণিক ভরবেগ সময়ের সাথে অপরিবর্তিত থাকবে।\nকোনো অক্ষের সাপেক্ষে ঘুর্ণনরত বস্তুকনার কৌণিক ভরবেগ L হলে,কৌণিক ভরবেগের সঙ্গানুসারে পাই,"
+        },
+        {
+          "title": " L = r×p = Ixω"
+        },
+        {},
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/ConservationOfMomentum/AngularMomentum.gif"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "ভরবেগের নিত্যতা উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/ConservationOfMomentum/MomentumExample(1).webp"
+        },
+        {
+          "text": "ভরবেগের নিত্যতা উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/ConservationOfMomentum/MomentumExample(2).webp"
+        },
+        {
+          "text": "ভরবেগের নিত্যতা উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/ConservationOfMomentum/MomentumExample(3).webp"
+        },
+        {
+          "text": "ভরবেগের নিত্যতা উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/ConservationOfMomentum/MomentumExample(4).webp"
+        },
+        {
+          "text": "ভরবেগের নিত্যতা উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/ConservationOfMomentum/MomentumExample(5).webp"
+        },
+        {
+          "text": "ভরবেগের নিত্যতা উদাহরন ৬"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/ConservationOfMomentum/MomentumExample(6).webp"
+        },
+        {
+          "text": "ভরবেগের নিত্যতা উদাহরন ৭"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/ConservationOfMomentum/MomentumExample(7).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 5 kg ভরের একটি বস্তু 4 m/s বেগে উত্তর দিকে চলছে। 3 kg ভরের অপর একটি বস্তু 2m/s বেগে দক্ষিণ দিকে চলছে। কোন এক সময় বস্তু দুটি এর মধ্যে সংঘর্ষের ফলে এরা মিলে এক হয়ে গেলে।মিলিত বস্তুটি কত বেগে,কোন দিকে চলবে?",
+          "flipCardBack": "উত্তরঃ 1.75m/s,প্রথম বস্তুর দিকে"
+        },
+        {
+          "flipCardFront": "২। একটি বস্তুর উপর 5N বল 10s ধরে ক্রিয়া করল।বস্তুটির ভরবেগের পরিবর্তন বের কর।",
+          "flipCardBack": "উত্তরঃ 50kgm/s"
+        },
+        {
+          "flipCardFront": "৩। 0.03kg ভরের রাইফেলের গুলি 30 m/s বেগে ছোঁড়া হল। রাইফেলের পশ্চাৎ বেগ 0.6m/s হলে রাইফেলের ভর কত?\nHints:MV=-mv",
+          "flipCardBack": "উত্তরঃ 1.5kg"
+        },
+        {
+          "flipCardFront": "৪। 0.4 kgভর ও 3m/s বেগবিশিষ্ট একটি বস্তু 0.6 kg ভর বিশিষ্ট অপর একটি বস্তুর সঙ্গে মুখোমুখি ও সম্পুর্ণ স্থিতিস্থাপক সংঘর্ষ ঘটায়। সংঘর্ষের পরে উভয় বস্তুর বেগ বের কর।",
+          "flipCardBack": "উত্তরঃ 2.4m/s,-0.6m/s"
+        },
+        {
+          "flipCardFront": "৫। 10g ভরের একটি 4 kg ভরের একটি বন্দুক থেকে 200m/s বেগে নিক্ষিপ্ত হল। বন্দুকটির পশ্চাৎ বেগ কত?",
+          "flipCardBack": "উত্তরঃ 0.5m/s"
+        },
+        {
+          "flipCardFront": "৬। 1200kg ভরের একটি গাড়ি 20m/s বেগে চলছিল। গাড়িটি চলতে চলতে থেমে থাকা 800kg ভরের অন্য একটি স্থির গাড়িকে ধাক্কা দিল। ধাক্কার পর গাড়ি দুটি একত্রিত 50 m পথ অগ্রসর হয়ে থেমে গেল। বাধাদানকারী বলের মান কত?",
+          "flipCardBack": "উত্তরঃ 2880N"
+        }
+      ]
+    }
+  ]
+}

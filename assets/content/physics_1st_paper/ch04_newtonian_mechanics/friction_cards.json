@@ -1,0 +1,86 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": " ঘর্ষণ(Friction)"
+        },
+        {
+          "text": " ঘর্ষণ হল এমন একটি বল যা পরস্পরের সংস্পর্শে থাকা দুটি বস্তুর মধ্যবর্তী আপেক্ষিক গতিকে বাধা দান করে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/FrictionTheory.gif"
+        },
+        {
+          "text": "কোনো দুটি তল যখন পরস্পরের সংস্পর্শে থেকে চলতে থাকে, তখন অর্থাৎ তাদের মধ্যে আপেক্ষিক গতির সঞ্চার হলে তাদের স্পর্শতলে এই ঘর্ষণ বল তাপ ও অন্যান্য শক্তিতে রূপান্তরিত হয়। এই প্রক্রিয়া কাজে লাগিয়ে প্রাচীনকালের মানুষ কাঠ বা পাথরে ঘর্ষণের মাধ্যমে আগুন তৈরি করত।"
+        },
+        {
+          "text": "ঘর্ষণ বিভিন্ন প্রকারের হতে পারে, যেমন:\n     দুটি কঠিন তলের মধ্যবর্তী ঘর্ষণ\n     তরলের মধ্যেকার দুটি তলের মধ্যবর্তী ঘর্ষণ\n     কঠিন ও তরলের মধ্যবর্তী ঘর্ষণ\n     পদার্থের অভ্যন্তরীণ ঘর্ষণ"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/FrictionTheory.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "রকেটের গতি উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/FrictionExample(1).webp"
+        },
+        {
+          "text": "রকেটের গতি উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/FrictionExample(2).webp"
+        },
+        {
+          "text": "রকেটের গতি উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/FrictionExample(3).webp"
+        },
+        {
+          "text": "রকেটের গতি উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/FrictionExample(4).webp"
+        },
+        {
+          "text": "রকেটের গতি উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/FrictionExample(5).webp"
+        },
+        {
+          "text": "রকেটের গতি উদাহরন ৬"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/FrictionExample(6).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 5 মিটার দীর্ঘ একটি আনত তলের শীর্ষ ভূমি থেকে 2.5 মিটার উপরে অবস্থিত। 10 কিলোগ্রাম ভরের একটি বস্তুকে তলের সমান্তরালে বল প্রয়োগ করে তলের পাদ দেশ থেকে শীর্ষ বিন্দুতে সমবেগে উঠাতে কি পরিমাণ কাজ করতে হবে? (তল ও বস্তুর মধ্যে ঘর্ষণ গুণাংক, µk=0.25)",
+          "flipCardBack": "উত্তরঃ 351 J"
+        },
+        {
+          "flipCardFront": "২। ধরা যাক একজন লোক কতগুলো বিস্ফোরকসহ 40000kg এর একটি দ্রুতগামী ট্রাকে 35m /s বেগে এগিয়ে চলছে।সুপারম্যান খবর পেয়ে রাস্তার উপর দাঁড়িয়ে এসে ট্রাকের সম্মুখের দিকে হাত প্রসারিত করে ট্রাকটি তৎক্ষণাৎ থামিয়ে দিল। পদার্থবিদ্যায় পারদর্শী একজন দর্শক সমস্ত ঘটনা বিবেচনা করে দেখে যে ঘটনা পদার্থবিদ্যার নীতির সাথে সঙ্গতিপূর্ণ কিনা বা ট্রাকটি সুপারম্যানকে নিয়ে কতদূরে থামবে? [সুপারম্যানের ভর 100kg এবং তার স্যান্ডেল(!!!) ও রাস্তার ঘর্ষণ গুণাংক µs = µk =1",
+          "flipCardBack": "উত্তরঃ 25km"
+        },
+        {
+          "flipCardFront": "৩। একটি গাড়িকে ভুমির সাথে 5 ডিগ্রি নতি কোণের তলে নিচের দিকে চলতে দেওয়া হল। গাড়ির চাকার সাথে তলের ঘর্ষণ গুণাঙ্ক 0.08 হলে গাড়ির তরণ কত হবে?",
+          "flipCardBack": "উত্তরঃ 0.07 m/s^2"
+        },
+        {
+          "flipCardFront": "৪। অনুভূমিক তলে স্থাপিত ৫ কেজি ভরের একটি বস্তুকে আনুভুমিক এর সাথে 60 ডিগ্রি কোণে 5N বলে টানলে বস্তুটির ত্বরণ কত হবে? বস্তুটির উপর তলের অভিলম্ব প্রতিক্রিয়া কত হবে? বস্তু ও তলের মধ্যবর্তী ঘর্ষণ গুণাঙ্ক কত ?",
+          "flipCardBack": "উত্তরঃ 0.5m/s^2, 44.67N, 0.055"
+        }
+      ]
+    }
+  ]
+}

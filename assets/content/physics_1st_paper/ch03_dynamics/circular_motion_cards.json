@@ -1,0 +1,73 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "বৃত্তাকার গতি"
+        },
+        {
+          "text": "বৃত্তাকার পথে সমদ্রুতিতে ঘূর্ণায়মান কোনো বস্তুর গতিকে সুষম বৃত্তীয় গতি বলে।ঘড়ির কাঁটার গতি, সৌর জগতে গ্রহগুলোর গতি, ইলেকট্রনের গতি, ফ্যানের পাখার গতি, বৃত্তাকার রোলারকোস্টের গতি ইত্যাদি বৃত্তাকার গতির উদাহরণ। মূল কথা হল বৃত্তাকার পথে চলা কোনো বস্তুর গতিই বৃত্তাকার গতি।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/CircularMotionTheory.gif"
+        },
+        {
+          "text": "পাথরটা বৃত্তাকার পথে সুষম বৃত্তাকার গতিতে ঘুরছিলো। সেক্ষেত্রে সময়ের সাথে সাথে পাথরটার বেগের মান অপরিবর্তিত থাকলেও বেগের অভিমুখ বা দিক কিন্তু বারবার পরিবর্তন হয়।\nঅন্য ভাবে বলা যায় একটা ত্বরণ কাজ করে। এই ত্বরণটার দিক হল গতিপথের লম্ব বরাবর বৃত্তের কেন্দ্রের দিকে। এই ব্যাপারটাকে বলে কেন্দ্রমুখী ত্বরণ।"
+        },
+        {
+          "title": "কেন্দ্রমুখী ত্বরণ"
+        },
+        {
+          "ytVideo": "KvCezk9DJfk"
+        },
+        {
+          "title": "কৌণিক বেগ"
+        },
+        {
+          "text": "কোনো বিন্দু বা অক্ষকে কেন্দ্র করে বৃত্তাকার পথে চলমান কোন বস্তুর সময়ের সাথে কৌণিক সরণ এর হারকে বলে কৌণিক বেগ।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/CircularMotionTheory.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "বৃত্তাকার গতি উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/CircularMotion(1).webp"
+        },
+        {
+          "text": "বৃত্তাকার গতি উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/CircularMotion(2).webp"
+        },
+        {
+          "text": "বৃত্তাকার গতি উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/CircularMotion(3).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 50gm ভরের একটি বস্তুকে 1m দীর্ঘ একটি সুতার সাহায্যে বৃত্তাকার পথে ঘুরানো হল। বস্তুটি প্রতি সেকেন্ডে 4 বার বৃত্তপথ আবর্তন করে।সুতার টান কত?",
+          "flipCardBack": "উত্তরঃ 31.6ms-1"
+        },
+        {
+          "flipCardFront": "২। একটি পানি ভর্তি বালতিকে 160cm ব্যাসের বৃত্তাকার পথে উলম্ব ভাবে ঘুরানো হচ্ছে যে বালতি উপুর হওয়া সত্তেও পানি পড়ছে না। এর বেগ কত?",
+          "flipCardBack": "উত্তরঃ 280 cms^-1"
+        },
+        {
+          "flipCardFront": "৩। একটি গাড়ির চাকার ব্যাস 0.6m। গাড়িটি স্থিরবস্থা হতে সমতরণে চলে 4s শেষে 7.5m/s বেগ লাভ করে।চাকার কৌণিক তরণ ও ঊক্ত সময়ের ঘূর্ণ্ন সংখ্যা বের কর।",
+          "flipCardBack": "উত্তরঃ 6.25rad/s2 , 7.96rev "
+        }
+      ]
+    }
+  ]
+}

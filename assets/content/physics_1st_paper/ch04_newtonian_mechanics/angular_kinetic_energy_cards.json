@@ -1,0 +1,76 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {},
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/AngularEnergyTheory(3).gif"
+        },
+        {
+          "text": "গিনিপিগটি দৌড়ানো বন্ধ করলে কি হবে? কেন?"
+        },
+        {
+          "title": "কৌণিক গতিশক্তি"
+        },
+        {
+          "text": "বস্তু ঘূর্ণনের কারনে যে শক্তি সঞ্চয় করে তাকে কৌণিক গতিশক্তি বলে। "
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/AngularEnergyTheory(1).webp"
+        },
+        {},
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/AngularEnergyTheory(2).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "কৌণিক গতিশক্তি উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/AngularMomentumExample(1).webp"
+        },
+        {
+          "text": "কৌণিক গতিশক্তি উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/AngularMomentumExample(2).webp"
+        },
+        {
+          "text": "কৌণিক গতিশক্তি উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/AngularMomentumExample(3).webp"
+        },
+        {
+          "text": "কৌণিক গতিশক্তি উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/AngularMomentumExample(4).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি সিলিন্ডারের ভর 50kg এবং ব্যাসার্ধ 0.2m। সিলিন্ডারটির অক্ষের সাপেক্ষে জড়তার ভ্রামক 1 kgm3। সিলিন্ডারটি যখন 2m/s বেগে আনুভূমিকভাবে গড়াতে থাকে তখন মোট গতিশক্তি কত?",
+          "flipCardBack": "উত্তরঃ 150J"
+        },
+        {
+          "flipCardFront": "২। 5kg ভর ও 0.5m চক্রগতির ব্যাসার্ধবিশিষ্ট একটি চাকা প্রতি মিনিটে 300বার ঘুরছে।চাকাটির মোট গতিশক্তি কত?",
+          "flipCardBack": "উত্তরঃ 616.84J"
+        },
+        {
+          "flipCardFront": "৩। নির্দিষ্ট অক্ষের উপর ঘূর্ণায়মান একটি ছুরি ধার দেওয়া পাথর স্থির অবস্থান থেকে 0.40rads-2 ত্বরণে গতিশীল হয়\na)\t10s এ পাথরটির কৌণিক সরণ কত?\nb)\tকতবার আর্বতিত হয়?\nc)\tএই 10s এ পাথরটির কৌণিক বেগ কত?",
+          "flipCardBack": "উত্তরঃ 20rad; 3.18; 4rad/s"
+        },
+        {
+          "flipCardFront": "৪। 400 kg ভর ও 1m ব্যাসার্ধের একটি নিরেট গোলক ২ম/স বেগে চলছে।মোট গতিশক্তি কত?",
+          "flipCardBack": "উত্তরঃ 1120J"
+        }
+      ]
+    }
+  ]
+}

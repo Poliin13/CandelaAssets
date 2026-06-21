@@ -1,0 +1,63 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "রবার্ট হুক এর সূত্র"
+        },
+        {
+          "text": "স্থিতিস্থাপক সীমার মধ্যে বস্তুর উপর পীড়ন তার বিকৃতির সমানুপাতিক।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/HooksLawTheory(2).webp"
+        },
+        {
+          "text": "১৬৭৬ সালে রবার্ট হুক বস্তুর পীড়ন আর বিকৃতি এর মধ্যে একটি সম্পর্ক খুঁজে পান। তিনি তার সেই সূত্রটি আমেরিকার একটি খবরের কাগজে ল্যাটিন ভাষায় একটি ধাঁধার মাধ্যমে প্রকাশ করেন, ধাঁধাটি ছিল এইরকম, \"cciiinosststuv\", তিনি বলেন এই শব্দটিকে ভালোভাবে সাজালে একটি অর্থপূর্ণ বাক্য পাওয়া যায়। অনেকে এই ধাঁধা সমাধানের চেষ্টা করে ব্যর্থ হয়। অবশেষে ১৬৯৪ সালে, প্রায় ১৮ বছর পর তিনি নিজেই ধাঁধা পুনরুদ্ধার করে দিলেন। সমাধানটি ছিলো এরকম, \"ut tensio,sic vis\"। ইংরেজিতে যার অর্থ, \"as the extension, so is the force\"। বাংলায় বস্তুর সম্প্রসারণ প্রযুক্ত বলের সমানুপাতিক। এখান থেকেই হুকের সূতের বিবৃতি নেওয়া হয়েছে অর্থাৎ \"স্থিতিস্থাপক সীমার মধ্যে বস্তুর পীড়ন বিকৃতির সমানুপাতিক। \""
+        },
+        {
+          "title": "স্থিতিস্থাপক সীমা"
+        },
+        {
+          "text": "প্রত্যেক বস্তুই বাহ্যিক বলের একটি নির্দিষ্ট সীমা পর্যন্ত  পূর্ণ স্থিতিস্থাপক বস্তুর ন্যায় আচরণ করে। এই সীমাকে  স্থিতিস্থাপক সীমা বলা হয়।\n\nহুকের সূত্র শুধুমাত্র স্থিতিস্থাপক সীমার মধ্যে কাজ করে। নিচের গ্রাফে তা দেখানো হল-"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/HooksLawTheory(1).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "হুকের সূত্র উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/HooksLawExample(1).webp"
+        },
+        {
+          "text": "হুকের সূত্র উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/HooksLawExample(2).webp"
+        },
+        {
+          "text": "হুকের সূত্র উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/HooksLawExample(3).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 200 mm^2 প্রস্থচ্ছেদের ক্ষেত্রফলবিশিষ্ট একটি ইস্পাতের তারে কত বল প্রয়ােগ করলে এর দৈর্ঘ্য দ্বিগুণ হবে? [Y = 2x10^11 Pa]",
+          "flipCardBack": "উত্তরঃ 4x10^7 N"
+        },
+        {
+          "flipCardFront": "২। 4 m দীর্ঘ একটি তামার তারের এক প্রান্তে 20 kg ভর চালানাে হলে তারটির দের্ঘ্য 6mm বৃদ্ধি পায়। তারের ব্যাসার্ধ 0.58 mm হলে তারের ইয়ং গুণাংক নির্ণয় কর।",
+          "flipCardBack": "উত্তরঃ 1.24x10^11 N/m^2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "কাজ"
+        },
+        {
+          "text": "বল প্রয়োগ করার ফলে কোনো বস্তুর সরণ ঘটলে তখনই কেবল কাজ হয়।\nকাজ বলতে বল ও বলের ক্রিয়ার অভিমুখে প্রয়োগবিন্দুর সরণের গুণফলকে বুঝায়। কাজ, \n\nW = Fscosθ\n\nএখানে,\nF=প্রযুক্ত বল \ns=সরণ এবং \nθ=বল ও সরণের মধ্যবর্তী কোণ।\n"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/WorkEnergyTheorem.gif"
+        },
+        {
+          "text": "**বল প্রয়োগ করা বন্ধ করার পরও কোনো বস্তুর সরণ হতে পারে। কিন্তু সেই সরণ কাজ নির্ণয়ে ব্যবহৃত হবেনা কারণ সেই সরণ দ্বারা কোনো কাজ হয় না"
+        },
+        {
+          "text": "কাজ দুইভাবে হতে পারে - \nক) ধ্রুব বল দ্বারা কৃতকাজ\nখ) পরিবর্তনশীল বল দ্বারা কৃতকাজ। যেমন-\n     ক) স্প্রিং দ্বারা কৃতকাজ\n     খ) মহাকর্ষ বল দ্বারা কৃতকাজ। ইত্যাদি"
+        },
+        {
+          "title": "স্প্রিং বলের বিপরীতে কাজ"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/WorkEnergyTheoremSpring.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/WorkEnergyTheoremSpring.webp"
+        },
+        {
+          "title": "মহাকর্ষ বল দ্বারা কৃতকাজ"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/WorkEnergyTheoremGravity.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/WorkExample(1).webp"
+        },
+        {
+          "text": "উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/WorkExample(2).webp"
+        },
+        {
+          "text": "উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/05.WorkEnergyPower/WorkExample(3).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 5kg ভরের একটি বস্তু 5m উঁচু থেকে একটি পেরেকের ওপর পড়লে পেরেকটি মাটির ভিতরে 10 cm  ঢুকে যায়। মাটির গড় প্রতিরোধ বল বের কর।",
+          "flipCardBack": "উত্তরঃ 2499N"
+        },
+        {
+          "flipCardFront": "২।2N বল একটি নির্দিষ্ট ভরের বস্তুর উপর ক্রিয়া করায় বস্তুটি বলের দিকে 60° কোণ উৎপন্ন করে 5m দূরে সরে গেল । কাজের পরিমাণ নির্ণয় কর ।",
+          "flipCardBack": "উত্তরঃ 5 J "
+        },
+        {
+          "flipCardFront": "৩। 4m দৈর্ঘ্যের একটি মই AB এর ভর 28kg এবং ভারকেন্দ্র B প্রান্ত হতে A এর দিকে 2.5m দূরে অবস্থিত। 5kg ভরের একটি বস্তু সাথে করে 65 kg ভরের কোন ব্যক্তি মইকে খাড়া করে শীর্ষ A তে আরোহণ করে। কৃতকাজ কত?",
+          "flipCardBack": "উত্তরঃ 3430 J"
+        },
+        {
+          "flipCardFront": "৪। একটি ঘোড়া ভূমিএর সাথে 30 ডিগ্রি কোনে 120N বল প্রয়োগে একটি বস্তুকে টেনে 2m/s সমবেগে সরাতে পারে। 5 min এ ঘোড়াটি কত কাজ করবে?",
+          "flipCardBack": "উত্তরঃ 63500 J"
+        },
+        {
+          "flipCardFront": "৫। অনুভূমিক তলের ওপর অবস্থিত একটি বস্তকে স্প্রিং এর সাথে যুক্ত করা হলো। 2.4N বল দ্বারা সাম্যবস্থা হতে স্প্রিংটি 3cm সংকুচিত করা হলো। স্প্রিং দ্বারা কৃতকাজ কত হবে?",
+          "flipCardBack": "উত্তরঃ 0.036 J"
+        }
+      ]
+    }
+  ]
+}

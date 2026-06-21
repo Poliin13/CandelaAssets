@@ -1,0 +1,63 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {},
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/PoisonsRationTheory(2).gif"
+        },
+        {
+          "text": "একটা রাবার নিয়ে চিত্রের মতো দৈর্ঘ্য বরাবর বল প্রয়োগ করা হলে, রাবারটি দৈর্ঘ্যে বৃদ্ধি পেয়েছে, শুধু দৈর্ঘ্যে বৃদ্ধিই হয়নি সাথে প্রস্থ ও হ্রাস পেয়েছে।\n\nস্থিতিস্থাপক সীমার মধ্যে বস্তুর পার্শ্ব বিকৃতি এবং দৈর্ঘ্য বিকৃতির অনুপাত একটি ধ্রুব রাশি, যাকে পয়সন এর অনুপাত বলা হয় । একে σ দিয়ে প্রকাশ করা হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/PoisonsRationTheory(3).webp"
+        },
+        {},
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/PoisonsRationTheory(5).webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/PoisonsRationTheory(4).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "পয়সনের অনুপাত উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/PoisonRatio(1).webp"
+        },
+        {
+          "text": "পয়সনের অনুপাত উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/PoisonRatio(2).webp"
+        },
+        {
+          "text": "পয়সনের অনুপাত উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/PoisonRatio(3).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১।  একটি তামার ব্যাস 5mm এবং দৈর্ঘ্য 1m । উহার দৈর্ঘ্য বরাবর বল প্রয়োগ করার ফলে দৈর্ঘ্য 1cm বৃদ্ধি পায় । কিন্তু ব্যাস 0.01mm হ্রাস পায় । তারের উপাদানের পয়সনের অনুপাত বের কর।",
+          "flipCardBack": "উত্তরঃ 0.2"
+        },
+        {
+          "flipCardFront": "২। কত চাপে ৫০০ ঘনসেমি পারদের ১ ঘন সেমি সংকোচন হবে? (B=2.6×1010 N/m2)",
+          "flipCardBack": "উত্তরঃ 5.2×10^7 Nm-2"
+        },
+        {
+          "flipCardFront": "৩। 1m দীর্ঘ কোন তারের ব্যাস 5mm তারের দৈর্ঘ্য বরাবর একটি বল প্রয়োগ করায় ব্যাস 0.01 mm হ্রাস প্রায় এবং দৈর্ঘ্য 2cm বৃদ্ধি পায়। পয়সনের অনুপাত বের কর।",
+          "flipCardBack": "উত্তরঃ 0.1"
+        }
+      ]
+    }
+  ]
+}

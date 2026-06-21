@@ -1,0 +1,99 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "পর্যাবৃত্ত গতি"
+        },
+        {
+          "text": "কোন গতিশীল কণার গতি যদি এমন হয় যে এটি এর গতিপথের কোন নির্দিষ্ট বিন্দুকে একটি নির্দিষ্ট সময় পর পর একই দিক হতে অতিক্রম করে তবে সে গতিকে পর্যাবৃত্ত গতি বলে। এ গতি বৃত্তাকার, উপবৃত্তাকার, সরল রৈখিক বা আরো জটিল হতে পারে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/SHMtheory1.gif"
+        },
+        {
+          "text": "ঘড়ির কাটা, বৈদ্যুতিক পাখা, সাইকেলের চাকা ইত্যাদির গতি পর্যায়বৃত্ত গতির উদাহরণ। কম্পন/স্পন্দন গতিও এক ধরনের পর্যাবৃত্ত গতি। পর্যায়বৃত্ত গতি সম্পন্ন কণা একটি নির্দিষ্ট বিন্দুকে নির্দিষ্ট সময় পর পর একই দিক থেকে অতিক্রম করে। সকল স্পন্দন গতিই পর্যায়বৃত্ত গতি।"
+        },
+        {
+          "title": "স্পন্দন গতি"
+        },
+        {
+          "text": "পর্যাবৃত্ত গতি সম্পন্ন কোন বস্তুকণা যদি এর পর্যায়কালের অর্ধেক সময় একটি নির্দিষ্ট দিকে এবং বাকি অর্ধেক সময় পূর্বগতির বিপরীত দিকে চলে তবে তার সে গতিকে স্পন্দন (Oscillation) গতি বলে। অর্থাৎ, স্পন্দন গতিকে অগ্র পশ্চাৎ পর্যাবৃত্ত গতিও বলা যেতে পারে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/SHMtheory2.gif"
+        },
+        {
+          "text": "সরল দোলকের গতি, কম্পনশীল সুর শলাকা, গীটারের তারের গতি ইত্যাদি স্পন্দন/কম্পন গতির উদাহরণ। এছাড়া, কঠিন বস্তুসমূহের অভ্যন্তরে পরমাণু স্পন্দিত হয়।\n\nসাধারণভাবে বলা যায়, সকল শব্দের উদ্ভবই কোন না কোন স্পন্দন গতি থেকে হয়।"
+        },
+        {
+          "title": "কৌণিক কম্পাঙ্ক"
+        },
+        {
+          "text": "সময়ের সাথে দশার পরিবর্তনের হারকে কৌণিক কম্পাঙ্ক ω বলে।T সময়ে দশার পার্থক্য হয় 2π. তাই,"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/OmegaFormula.webp"
+        },
+        {
+          "title": "পর্যাবৃত্ত গতির সাথে স্পন্দন গতির সম্পর্ক"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/SHMtheory3.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/SHMtheory4.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/SHMtheory5.gif"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "সরল ছন্দিত স্পন্দন উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/SHMExample(1).webp"
+        },
+        {
+          "text": "সরল ছন্দিত স্পন্দন উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/SHMExample(2).webp"
+        },
+        {
+          "text": "সরল ছন্দিত স্পন্দন উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/SHMExample(3).webp"
+        },
+        {
+          "text": "সরল ছন্দিত স্পন্দন উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/SHMExample(4).webp"
+        },
+        {
+          "text": "সরল ছন্দিত স্পন্দন উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/08.PeriodicMotion/SHMExample(5).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি প্লাটফর্ম 4.9m বিস্তারে কাঁপতে শুরু করলে এর অপর একজন মানুষ দাঁড়িয়ে থাকলে তার পা প্লাটফর্ম হত আলাদা হবার জন্য প্লাটফর্মের কৌণিক কম্পাংক কত হবে?",
+          "flipCardBack": "উত্তরঃ √2"
+        },
+        {
+          "flipCardFront": "২। একটি সরল ছন্দিত কণার পর্জায় কাল 0.0028 এবং বিস্তার 0.006m কণাটির গরিষ্ঠ বেগ এবং গতি পথের মধ্য অবস্থান হতে 0.0025m দুরের ত্বরণ কত?",
+          "flipCardBack": "উত্তরঃ 13.46 m/s, 12600 m/s2 "
+        }
+      ]
+    }
+  ]
+}

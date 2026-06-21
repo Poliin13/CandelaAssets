@@ -1,0 +1,80 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "অভিকর্ষজ ত্বরণ 'g'-এর পরিবর্তন ঘটে-"
+        },
+        {
+          "text": "   ক.উচ্চতর ক্রিয়ায়\n   খ.পৃথিবীর অভ্যন্তরে \n   গ.অক্ষাংশ ক্রিয়ায়(আলাদা টপিক)\n   ঘ.পৃথিবীর ঘূর্ণন ক্রিয়ায়"
+        },
+        {
+          "title": "পৃথিবীর উপরে g এর পরিবর্তন"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/upAndDown_Theory(1).webp"
+        },
+        {
+          "title": "পৃথিবীর নিচে g এর পরিবর্তন"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/upAndDown_Theory(1).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "g এর পরিবর্তন উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/upAndDown(1).webp"
+        },
+        {
+          "text": "g এর পরিবর্তন উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/upAndDown(2).webp"
+        },
+        {
+          "text": "g এর পরিবর্তন উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/upAndDown(3).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১. পৃথিবীকে 6400km ব্যাসার্ধের একটি গােলক ধরলে ভূ-পৃষ্ঠ হতে কত উচ্চতায় অভিকর্যজ ত্বরণের মান ভূ-পৃষ্ঠের ত্বরণের মানের 1/64 অংশ হবে?",
+          "flipCardBack": "উত্তরঃ 44800 km"
+        },
+        {
+          "flipCardFront": "২. পৃথিবীর ব্যাসার্ধ 6400km এবং এর পৃষ্ঠে অভিকর্ষজ ত্বরণ 9.8ms^-2। ভূপুষ্ঠ থেকে 6.4x10^5 m উচ্চতায় অভিকর্যজ ত্বরণের মান বের করাে .",
+          "flipCardBack": "উত্তরঃ 8.1ms^-2"
+        },
+        {
+          "flipCardFront": "৩. পৃথিবীপৃষ্ঠ হতে কত উচ্চতায় অভিকর্ষজ ত্বরণের মান 4.9ms^-2 হবে? পৃথিবীর ব্যাসার্ধ 6400km?",
+          "flipCardBack": "উত্তরঃ 2.65 x 10^6 m"
+        },
+        {
+          "flipCardFront": "৪. পৃথিবীপৃষ্ঠ হতে কত উচ্চতায় অভিকর্ষজ তুরণের মান পৃথিবী পৃষ্ঠের  ত্বরণের মানের শতকরা চল্লিশ ভাগ হবে? পৃথিবীর ব্যাসাধ 6400km.",
+          "flipCardBack": "উত্তরঃ 3.7x10^6 m"
+        },
+        {
+          "flipCardFront": "৫. ভূ-পৃষ্ঠ হতে কত উপরে ও কত গভীরে অভিকর্যজ তুরণের মান ভ-পষ্ঠে তুরণের মানের এক-পঞ্চমাংশ হবে? পৃথিবীর ব্যাসাধ 6370km.",
+          "flipCardBack": "উত্তরঃ 7.91x10^6 m; 5.12x10^6 m"
+        },
+        {
+          "flipCardFront": "৬. ভূ-পৃষ্ঠ হতে 400 km অভ্যন্তরে ও ভূ-পৃষ্ঠে অভিকর্ষীয় ত্বরণের অনুপাত বের করাে। (পৃথিবীর ব্যাসার্ধ 6400 km)",
+          "flipCardBack": "উত্তরঃ 15 : 16"
+        },
+        {
+          "flipCardFront": "৭. ভূপৃষ্ঠ থেকে কত উঁচুতে অভিকর্ষজ ত্বরণের মান ভূ-পক্ঠে অভিকর্যজ তরণের মানের এক শতাংশ হবে? পৃথিবীর ব্যাসাধ 6370km.",
+          "flipCardBack": "উত্তরঃ 5.742x10^-7 m"
+        }
+      ]
+    }
+  ]
+}

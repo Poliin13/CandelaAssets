@@ -1,0 +1,99 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "স্থির তরঙ্গ"
+        },
+        {
+          "text": "একই বিস্তার এবং পর্যায়কাল বা সম-তরঙ্গ দৈর্ঘ্য বিশিষ্ট দুটি অভিন্ন তীর্যক বা অনুদৈর্ঘ্য তরঙ্গ যখন কোন বিস্তৃত মাধ্যমের সীমিত অংশে বিপরীত দিক থেকে সমবেগে একে অপরের উপর আপতিত হয় তখন একটি লব্ধি তরঙ্গের সৃষ্টি হয়। এই তরঙ্গ কোন দিকে অগ্রসর না হয়ে সৃষ্ট স্থানেই পর্যায়ক্রমে সংকুচিত ও প্রসারিত হতে থাকে। এ ধরনের তরঙ্গকে স্থির তরঙ্গ বা নিশ্চল তরঙ্গ বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/StaticWaveTheory1.gif"
+        },
+        {
+          "text": "স্থির তরঙ্গ দুটো তরঙ্গের উপরিপাতনের ফলে তৈরী হয়। যেহেতু তরঙ্গ প্রবাহের অর্থই হচ্ছে শক্তির এক স্থান থেকে অন্য স্থানে স্থানান্তর, তাই স্থির তরঙ্গের ক্ষেত্রে সাধারণভাবে বলা যায় যে, শক্তি সীমিত অংশে সীমাবদ্ধ থেকে পর্যায়ক্রমে গতিশক্তি থেকে স্থিতিশক্তিতে পরিবর্তিত হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/StaticWaveTheory2.gif"
+        },
+        {
+          "title": "সুস্পন্দ বিন্দু"
+        },
+        {
+          "text": "স্থির তরঙ্গের উপরস্থ কোনো কোনো বিন্দুতে বস্তুকণার বিস্তার শূন্য এবং কোনো কণ বিন্দুতে বিস্তার সর্বাধিক। যে বিন্দুতে বিস্তার সর্বাধিক তাদেরকে সুস্পন্দ বিন্দু বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/StaticWaveTheoryNode.webp"
+        },
+        {
+          "title": "নিস্পন্দ বিন্দু"
+        },
+        {
+          "text": "স্থির তরঙ্গের উপরস্থ যে সকল বিন্দুতে বিস্তার শূন্য তাদেরকে নিস্পন্দ বিন্দু বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/StaticWaveTheoryAntiNode.webp"
+        },
+        {
+          "title": "স্থির তরঙ্গের সূত্র"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/StaticWaveTheoryFormula.webp"
+        },
+        {
+          "title": "স্থির তরঙ্গের সূত্রের প্রমাণ"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/SuperPositionTheory2.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/StaticWaveTheoryFormulaProof.webp"
+        },
+        {
+          "title": "বদ্ধ নলে স্থির তরঙ্গ"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/StaticWaveTheoryTube1.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/StaticWaveTheoryTube2.gif"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "স্থির তরঙ্গ উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/StaticWaveExample(1).webp"
+        },
+        {
+          "text": "স্থির তরঙ্গ উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/StaticWaveExample(2).webp"
+        },
+        {
+          "text": "স্থির তরঙ্গ উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/StaticWaveExample(3).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১।  Y1 = 5cos(3x-4t) cm ও Y2 = 5cos(3+4t) cm তরঙ্গের উপরিপাতনে যে স্থির তরঙ্গ পাওয়া যায় তাতে নিস্পন্দ বিন্দুগুলোর দূরত্ব কত হবে?",
+          "flipCardBack": "উত্তরঃ 1.05cm"
+        },
+        {
+          "flipCardFront": "২। y = 5sin(120πt)cos(πx/10) যদি একটা স্থির তরঙ্গ হয়, মূল অগ্রগামী তরঙ্গ গুলো কী ছিল?",
+          "flipCardBack": "উত্তরঃ 2.5sin(120πt + πx/10); 2.5sin(120πt - πx/10)"
+        }
+      ]
+    }
+  ]
+}

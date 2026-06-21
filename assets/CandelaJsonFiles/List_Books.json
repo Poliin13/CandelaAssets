@@ -1,18 +1,18 @@
 [
   {
     "subjectName": "পদার্থবিদ্যা ১ম পত্র",
-    "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/CandelaJsonFiles/Physics_Paper_1.json"
+    "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/assets/CandelaJsonFiles/Physics_Paper_1.json"
   },
   {
     "subjectName": "পদার্থবিদ্যা ২য় পত্র",
-    "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/CandelaJsonFiles/Physics_Paper_2.json"
+    "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/assets/CandelaJsonFiles/Physics_Paper_2.json"
   },
   {
     "subjectName": "গণিত ১ম পত্র",
-    "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/CandelaJsonFiles/Math_Paper_1.json"
+    "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/assets/CandelaJsonFiles/Math_Paper_1.json"
   },
   {
     "subjectName": "গণিত ২য় পত্র",
-    "url": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/CandelaJsonFiles/Math_Paper_2.json"
-  } 
+    "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/assets/CandelaJsonFiles/Math_Paper_2.json"
+  }
 ]

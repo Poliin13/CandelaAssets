@@ -1,0 +1,81 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {},
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/MomentOfInertiaTheory(1).gif"
+        },
+        {
+          "text": "উপরের বলগুলোর ভর সমান এবং সবাইকে একসাথে ছেড়ে দেওয়া হলেও তারা সবাই একসাথে ফিনিশ লাইনে পৌছায় না। এর কারণ কি? এর কারণ হল জড়তার ভ্রামক।\n\nকোনো একটি অক্ষের সাপেক্ষে ঘূর্ণনরত একটি বস্তুর ঘূর্ণন গতির পরিবর্তনকে বাধা দেওয়ার প্রয়াস হচ্ছে জড়তার ভ্রামক ।\n\nএকটা বস্তু সরলেরেখায় চললে ভরের যে ভূমিকা , কৌণিক গতিতে চললে জড়তার ভ্রামকের একই ভূমিকা।"
+        },
+        {
+          "title": "চক্রগতির ব্যাসার্ধ"
+        },
+        {
+          "text": "ঘূর্ণন অক্ষের সাপেক্ষে দৃঢ় বস্তুতে এমন একটি বিন্দু আছে, যে স্থানে বস্তর সমস্ত ভর কেন্দ্রীভূত বলে বিবেচনা করা গেলে, ঘূর্ণন অক্ষের সাপেক্ষের ঐ বিন্দুতে বস্তুর জড়তার ভ্রামক দৃঢ় বস্তুর জড়তার ভ্রামকের সমান হবে। ঘূর্ণন অক্ষের সাপেক্ষে ঐ কেন্দ্রীভূত বিন্দুর দূরত্বকে চক্রগতির ব্যাসার্ধ বলা হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/MomentOfInertiaTheory(4).gif"
+        },
+        {
+          "title": "কতগুলো গুরুত্বপূর্ণ আকৃতির জড়তার ভ্রামক দেওয়া হল।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/MomentOfInertiaTheory(2).gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/MomentOfInertiaTheory(3).webp"
+        },
+        {
+          "title": "জড়তার ভ্রামক"
+        },
+        {
+          "ytVideo": "Bls5KnQOWkY"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "জড়তার ভ্রামক উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/MomentOfInertiaExample(1).webp"
+        },
+        {
+          "text": "জড়তার ভ্রামক উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/MomentOfInertiaExample(2).webp"
+        },
+        {
+          "text": "জড়তার ভ্রামক উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/04.NewtonianMechanics/MomentOfInertiaExample(3).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 0.05kg ভরের একটি লোহার বলকে 2m দীর্ঘ একটি সুতার একপ্রান্তে বেধে বৃত্তাকার পথে ঘুরানো হচ্ছে। ঘুর্ণন অক্ষ সাপেক্ষে এর জড়তার ভ্রামক কত?চক্রগতির ব্যাসার্ধ কত?",
+          "flipCardBack": "উত্তরঃ 0.2 kgm2; 2 m"
+        },
+        {
+          "flipCardFront": "২। কোন অক্ষ কাপেক্ষে একটি বস্তুর জড়তার ভ্রামক 200kgm2 । উক্ত অক্ষ সাপেক্ষে বস্তুটির চক্রগতির ব্যাসার্ধ  কত?(বস্তুর ওজন 19.6N)",
+          "flipCardBack": "উত্তরঃ 10m"
+        },
+        {
+          "flipCardFront": "৩। একটি চাকার ভর 10kg এবং চক্রগতির ব্যাসার্ধ 0.5m। এর জড়তার ভ্রামক কত?",
+          "flipCardBack": "উত্তরঃ ২.৫kgm^2"
+        },
+        {
+          "flipCardFront": "৪। 40kg এবং 0.20 m ব্যাসার্ধের একটি বেলনাকার বস্তুর 2 m/s বেগে অনুভূমিক তলে গড়াতে থেকে অক্ষের সাপেক্ষে জড়তার ভ্রামক কত?",
+          "flipCardBack": "উত্তরঃ 0.2kgm2"
+        }
+      ]
+    }
+  ]
+}

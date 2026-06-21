@@ -1,0 +1,2446 @@
+{
+  "mcqList": [
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১. গ্যাসের গতিতত্ত্ব অনুসারে কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) অণুগুলোর সংঘর্ষ অস্থিতিস্থাপক</div>",
+      "option2": "<div>(খ) অণুগুলোর স্থিতিশক্তি নেই</div>",
+      "option3": "<div>(গ) অণুগলোর গতিশক্তি নেই</div>",
+      "option4": "<div>(ঘ) অণুগুলোর ভরবেগ নেই</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২. মূলগড় বর্গবেগ C এবং চাপ P এর মধ্যে সম্পর্ক হলো --</div>",
+      "option1": "<div>(ক) $C=\\sqrt{\\frac{3P}{\\rho }}$</div>",
+      "option2": "<div>(খ) $C=\\sqrt{\\frac{3\\rho }{P}}$</div>",
+      "option3": "<div>(গ) $C=\\sqrt{\\frac{P}{3\\rho }}$</div>",
+      "option4": "<div>(ঘ) $C=\\sqrt{\\frac{\\rho }{3P}}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৩. স্বাভাবিক তাপমাত্রা ও চাপে R -এর সঠিক মান নিচের কোনটি?</div>",
+      "option1": "<div>(ক) 8.31 JK${}^{-1}$ mol${}^{-1}$</div>",
+      "option2": "<div>(খ) 8.30 JK${}^{-1}$ mol${}^{-1}$</div>",
+      "option3": "<div>(গ) 8.31 JK${}^{-1}$ mol${}^{-1}$</div>",
+      "option4": "<div>(ঘ) 8.13 JK${}^{-1}$ mol${}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৪. C.G.S এককে বোলজম্যান ধ্রবকের মান S.I এককের মান অপেক্ষা কত গুণ বেশি?</div>",
+      "option1": "<div>(ক) 10${}^{-7}$</div>",
+      "option2": "<div>(খ) 10${}^{7}$</div>",
+      "option3": "<div>(গ) 10${}^{-5}$</div>",
+      "option4": "<div>(ঘ) 10${}^{5}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Mcq/05.webp",
+      "mcqQuestion": "<div>৫. নিচের কোন লেখচিত্রটি `বয়েল'- এর সূত্রের জন্য প্রযোজ্য?</div>",
+      "option1": "<div>(ক)</div>",
+      "option2": "<div>(খ)</div>",
+      "option3": "<div>(গ)</div>",
+      "option4": "<div>(ঘ)</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Mcq/06.webp",
+      "mcqQuestion": "<div>৬. বয়েল এর সূত্রানুযায়ী গ্যাসের চাপ (P) ও আয়তন (V) হলে নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক)</div>",
+      "option2": "<div>(খ)</div>",
+      "option3": "<div>(গ)</div>",
+      "option4": "<div>(ঘ)</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৭. গড়বেগের বর্গমূল মান ও পরম তাপমাত্রার মধ্যে সম্পর্ক কোনটি?</div>",
+      "option1": "<div>(ক) $C_{r.m.s}\\propto T$</div>",
+      "option2": "<div>(খ) $C_{r.m.s}\\propto \\sqrt{T}$</div>",
+      "option3": "<div>(গ) $C_{r.m.s}\\propto \\frac{1}{T}$</div>",
+      "option4": "<div>(ঘ) $C_{r.m.s}\\propto \\frac{1}{\\sqrt{T}}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৮. আদর্শ গ্যাসের প্রতিটি অণুর স্বাধীনতার মাত্রা --</div>",
+      "option1": "<div>(ক) 2</div>",
+      "option2": "<div>(খ) 3</div>",
+      "option3": "<div>(গ) 4</div>",
+      "option4": "<div>(ঘ) 5</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৯. পরম শুন্য তাপমাত্রা হচ্ছে --</div>",
+      "option1": "<div>(ক) -273 K</div>",
+      "option2": "<div>(খ) $\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) -273 $\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 273 K</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১০. তাপমাত্রায় নাইট্রোজেন গ্যাসের মোট গতিশক্তি হিসাব কর। [ নাইট্রোজেনের গ্রাম আণবিক ভর =]</div>",
+      "option1": "<div>(ক) 125.55 J</div>",
+      "option2": "<div>(খ) 128.62 J</div>",
+      "option3": "<div>(গ) 944.22 J</div>",
+      "option4": "<div>(ঘ) 14958.00 J</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১১. শিশিরাঙ্ক বলতে আমরা বুঝি --</div>",
+      "option1": "<div>(ক) আর্দ্রতা</div>",
+      "option2": "<div>(খ) পরম আর্দ্রতা</div>",
+      "option3": "<div>(গ) তাপমাত্রাা</div>",
+      "option4": "<div>(ঘ) তাপ</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১২. গ্যাসের গতিতত্ত্ব অনুসারে নিচের কোন বিবৃতিটি অসঙ্গতিপূর্ণ?</div>",
+      "option1": "<div>(ক) অণুগুলো নিউটনের সূত্র মেনে চলে</div>",
+      "option2": "<div>(খ) অণুগলো সবদিকে সমবেগে গতিশীল</div>",
+      "option3": "<div>(গ) অণুগুলো অতি ক্ষুদ্র</div>",
+      "option4": "<div>(ঘ) অণুগুলো স্থিতিস্থাপক গোলক সদৃশ</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৩. মেঘমুক্ত দিনে দুপুরের আগেই শিশির তিরোহিত হয় কেন?</div>",
+      "option1": "<div>(ক) দিনের আলোর তীব্রতা বৃদ্ধি পায়</div>",
+      "option2": "<div>(খ) আপেক্ষিক আর্দ্রতা বৃদ্ধি পায়</div>",
+      "option3": "<div>(গ) তাপমাত্রা বৃদ্ধিতে বায়ু অসম্পৃক্ত হয়</div>",
+      "option4": "<div>(ঘ) বাষ্পায়নের হার হ্রাস পায়</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৪. গ্যাসের অণুগুলোর মূল গড় বর্গ বেগ $C_{r.m.s}$ এবং পরম তাপমাত্রা T হলে নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) $C_{r.m.s}\\propto T$</div>",
+      "option2": "<div>(খ) $C_{r.m.s}\\propto \\sqrt{T}$</div>",
+      "option3": "<div>(গ) $C_{r.m.s}\\propto \\frac{1}{T}$</div>",
+      "option4": "<div>(ঘ) $C_{r.m.s}\\propto \\frac{1}{\\sqrt{T}}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৫. গ্যাসের গড়মুক্ত পথ ব্যস্তানুপাতিক হবে --</div>",
+      "option1": "<div>(ক) গ্যাসের ঘনত্বের</div>",
+      "option2": "<div>(খ) গ্যাস অণুর আণবিক ব্যাসের</div>",
+      "option3": "<div>(গ) একক আয়তনে অণুর সংখ্যার বর্গের</div>",
+      "option4": "<div>(ঘ) অণুর অতিক্রান্ত দূরত্বের</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৬. এর আণবিক ভর চিত্রানুযায়ী পাত্রের গ্যাসের মোট গতিশক্তি -</div>",
+      "option1": "<div>(ক)</div>",
+      "option2": "<div>(খ)</div>",
+      "option3": "<div>(গ)</div>",
+      "option4": "<div>(ঘ)</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Mcq/17.webp",
+      "mcqQuestion": "<div>১৭. কোন লেখচিত্রটি `বয়েল' এর সূত্রের জন্য প্রযোজ্য?</div>",
+      "option1": "<div>(ক)</div>",
+      "option2": "<div>(খ)</div>",
+      "option3": "<div>(গ)</div>",
+      "option4": "<div>(ঘ)</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৮. শিশিরাঙ্ক বলতে আমরা বুঝি --</div>",
+      "option1": "<div>(ক) তাপ</div>",
+      "option2": "<div>(খ) তাপমাত্রা</div>",
+      "option3": "<div>(গ) আর্দ্রতা</div>",
+      "option4": "<div>(ঘ) আপেক্ষিক আর্দ্রতা</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৯. শিশির হচ্ছে --</div>",
+      "option1": "<div>(ক) পানির ফোঁটা</div>",
+      "option2": "<div>(খ) তাপমাত্রা</div>",
+      "option3": "<div>(গ) তাপ</div>",
+      "option4": "<div>(ঘ) আর্দ্রতা</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২০. `PV' রাশিটি গ্যাসের ক্ষেত্রে নির্দেশ করে --</div>",
+      "option1": "<div>(ক) শক্তি</div>",
+      "option2": "<div>(খ) ক্ষমতা</div>",
+      "option3": "<div>(গ) ভরবেগ</div>",
+      "option4": "<div>(ঘ) জড়তা</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২১. $PV=\\frac{1}{3}\\ {mNC}^2$ স মীকরণে C -</div>",
+      "option1": "<div>(ক) গড়বেগ</div>",
+      "option2": "<div>(খ) গড় বর্গবেগ</div>",
+      "option3": "<div>(গ) মূল গড় বর্গবেগ</div>",
+      "option4": "<div>(ঘ) আলোর বেগ</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২২. CO${}_{2}$ গ্যাসের জন্য $\\mathrm{\\gamma }$ এর মান কত?</div>",
+      "option1": "<div>(ক) 1.66</div>",
+      "option2": "<div>(খ) 1.41</div>",
+      "option3": "<div>(গ) 1.33</div>",
+      "option4": "<div>(ঘ) 1.2</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Mcq/23.webp",
+      "mcqQuestion": "<div>২৩. আদর্শ গ্যাসের ক্ষেত্রে গতিশক্তি (E) বনাম তাপমাত্রা (T) এর লেখচিত্র কোনটি?</div>",
+      "option1": "<div>(ক)</div>",
+      "option2": "<div>(খ)</div>",
+      "option3": "<div>(গ)</div>",
+      "option4": "<div>(ঘ)</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২৪. S.T.P তে 2 mole আদর্শ গ্যাসের গতিশক্তি কত হবে? [R=8.31 J mole${}^{-1}$ k${}^{-1}$]</div>",
+      "option1": "<div>(ক) 1300 J</div>",
+      "option2": "<div>(খ) 2700 J</div>",
+      "option3": "<div>(গ) 3403 J</div>",
+      "option4": "<div>(ঘ) 6806 J</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২৫. 12 স্বাধীনতা মাত্রা সম্পন্ন কোনো অণুর মোট শক্তি হবে --</div>",
+      "option1": "<div>(ক) $\\frac{1}{2}\\ KT$</div>",
+      "option2": "<div>(খ) ) $\\frac{3}{2}\\ KT$</div>",
+      "option3": "<div>(গ) ) $6\\ KT$</div>",
+      "option4": "<div>(ঘ) ) $12\\ KT$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২৬. অসম্পৃক্ত বাস্প চাপকে F এবং সম্পৃক্ত বাস্প চাপকে F দ্বারা সূচিত করলে নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) f$\\mathrm{&gt;}$F</div>",
+      "option2": "<div>(খ) f$\\mathrm{\\ge }$F</div>",
+      "option3": "<div>(গ) f$\\mathrm{&lt;}$F</div>",
+      "option4": "<div>(ঘ) f$\\mathrm{\\le }$F</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২৭. নির্দিষ্ট তাপমাত্রার সকল গ্যাস অণুর জন্য কোন রাশিটি ধ্র্রবক?</div>",
+      "option1": "<div>(ক) ভর</div>",
+      "option2": "<div>(খ) ভরবেগ</div>",
+      "option3": "<div>(গ) আয়তন</div>",
+      "option4": "<div>(ঘ) গতিশক্তি</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২৮. অসম্পৃক্ত বাস্প মেনে চলে --</div>",
+      "option1": "<div>(ক) চাপের সূত্র</div>",
+      "option2": "<div>(খ) চার্লসের সূত্র</div>",
+      "option3": "<div>(গ) বয়েলর সূত্র</div>",
+      "option4": "<div>(ঘ) বয়েল ও চার্লসের সূত্র</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২৯. স্বাভাবিক তাপমাত্রা ও চাপে R এর মান --</div>",
+      "option1": "<div>(ক) 8.31 JK${}^{-1}$ mol${}^{-1}$</div>",
+      "option2": "<div>(খ) 8.31 kJ${}^{-1}$ mol${}^{-1}$</div>",
+      "option3": "<div>(গ) 8.31 JK${}^{-1}$ mol</div>",
+      "option4": "<div>(ঘ) 8.31 J${}^{-1}$K mol${}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৩০. 30$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় প্রতি গ্রাম অণূ হিলিয়াম গ্যাসের গতিশক্তি --</div>",
+      "option1": "<div>(ক) 7544.7 J mol${}^{-1}$</div>",
+      "option2": "<div>(খ) 3772.35 J mol${}^{-1}$</div>",
+      "option3": "<div>(গ) 1676.6 J mol${}^{-1}$</div>",
+      "option4": "<div>(ঘ) 373.5 J mol${}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৩১. শুষ্ক ও সিক্ত বাষ্প যন্ত্রে থার্মোমিটার দুটির তাপমাত্রার পার্থক্য হঠাৎ কমে গেলে কোনটি বোঝায়?</div>",
+      "option1": "<div>(ক) বাতাস শুষ্ক</div>",
+      "option2": "<div>(খ) ঝড় হতে পারে</div>",
+      "option3": "<div>(গ) বাতাস আর্দ্র</div>",
+      "option4": "<div>(ঘ) বৃষ্টি হতে পারে</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৩২. 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ উষ্ণতায় কোনো নির্দিষ্ট আয়তনের গ্যাসের চাপ 3$\\mathrm{\\times}$10${}^{5}$ Pa হলে 60$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ উষ্ণতায় এর চাপ কত হবে?</div>",
+      "option1": "<div>(ক) 3.66$\\mathrm{\\times}$10${}^{5}$ Pa</div>",
+      "option2": "<div>(খ) 2.45$\\mathrm{\\times}$10${}^{5}$ Pa</div>",
+      "option3": "<div>(গ) 0.27$\\mathrm{\\times}$10${}^{5}$ Pa</div>",
+      "option4": "<div>(ঘ) 0.40$\\mathrm{\\times}$10${}^{5}$ Pa</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৩৩. তাপমাত্রা কতগুন হলে অক্সিজেন গ্যাসের অণুর বেগ দ্বিগুণ হবে?</div>",
+      "option1": "<div>(ক) 2</div>",
+      "option2": "<div>(খ) 4</div>",
+      "option3": "<div>(গ) 8</div>",
+      "option4": "<div>(ঘ) 16</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৩৪. যে তাপমাত্রায় কোনো নির্দিষ্ট আয়তনের বায়ু উপস্থিত জলীয় বাষ্প দ্বারা সম্পৃক্ত হয় তাকে বলে --</div>",
+      "option1": "<div>(ক) শিশিরাঙ্ক</div>",
+      "option2": "<div>(খ) পরম আর্দ্রতা</div>",
+      "option3": "<div>(গ) আপেক্ষিক আর্দ্রতা</div>",
+      "option4": "<div>(ঘ) প্রমাণ তাপমাত্রা</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৩৫. `h' উচ্চতাবিশিষ্ট ঘনকের মধ্যে m ভরের আদর্শ গ্যাস আছে। তার বিভবশক্তি--</div>",
+      "option1": "<div>(ক) $mgh$</div>",
+      "option2": "<div>(খ) $\\frac{1}{2}\\ {mc}^2$</div>",
+      "option3": "<div>(গ) ) $\\frac{3}{2}\\ KT$</div>",
+      "option4": "<div>(ঘ) শূন্য</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৩৬. একক আয়তনের অণুগুলোর গতিশক্তি E এবং গ্যাসের চাপের সম্পর্ক স্থাপনকারী সমীকরণ কোনটি?</div>",
+      "option1": "<div>(ক) $E=\\frac{3}{2}\\ P$</div>",
+      "option2": "<div>(খ) $E=\\frac{2}{3}\\ P$</div>",
+      "option3": "<div>(গ) $E=\\frac{1}{2}\\times \\frac{3}{2}\\ P$</div>",
+      "option4": "<div>(ঘ) $E=\\frac{1}{2}\\times \\frac{2}{3}\\ P$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Mcq/37.webp",
+      "mcqQuestion": "<div>৩৭. বৃষ্টির ফোঁটা বাতাসের মধ্য দিয়ে পড়তে থাকলে দূরত্ব বনাম বেগ লেখচিত্রের প্রকৃতি কোনটি?</div>",
+      "option1": "<div>(ক)</div>",
+      "option2": "<div>(খ)</div>",
+      "option3": "<div>(গ)</div>",
+      "option4": "<div>(ঘ)</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৩৮. স্বাভাবিক তাপমাত্রা ও চাপে অক্সিজেন অণুর গড় বর্গবেগের বর্গমূল --</div>",
+      "option1": "<div>(ক) 461 ms${}^{-1}$</div>",
+      "option2": "<div>(খ) 361 ms${}^{-1}$</div>",
+      "option3": "<div>(গ) 261 ms${}^{-1}$</div>",
+      "option4": "<div>(ঘ) 162 ms${}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৩৯. T তাপমাত্রার আদর্শ গ্যাসের ক্ষেত্রে অণুর গড় গতিশক্তি --</div>",
+      "option1": "<div>(ক) ) $\\frac{2}{3}\\ KT$</div>",
+      "option2": "<div>(খ) $\\frac{3}{2}\\ {KT}^2$</div>",
+      "option3": "<div>(গ)$\\ \\frac{1}{2}\\ {KT}^4$</div>",
+      "option4": "<div>(ঘ) $\\frac{3}{2}\\ KT$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৪০. 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় 4g অক্সিজেন গ্যাসের মোট গতিশক্তি --</div>",
+      "option1": "<div>(ক) 116.86 J</div>",
+      "option2": "<div>(খ) 207.75 J</div>",
+      "option3": "<div>(গ) 467.44 J</div>",
+      "option4": "<div>(ঘ) 149.58 J</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৪১. দ্বি-পারমাণবিক গ্যাস অণুর স্বাধীনতার মাত্রা কয়টি?</div>",
+      "option1": "<div>(ক) 2</div>",
+      "option2": "<div>(খ) 3</div>",
+      "option3": "<div>(গ) 4</div>",
+      "option4": "<div>(ঘ) 5</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৪২. বায়ুমন্ডলের জলীয় বাষ্পের ঘনীভবনের জন্য নিচের কোনটি সংঘটিত হয় না?</div>",
+      "option1": "<div>(ক) শিশির</div>",
+      "option2": "<div>(খ) কুয়াশা</div>",
+      "option3": "<div>(গ) ঝড়</div>",
+      "option4": "<div>(ঘ) বৃষ্টি</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৪৩. স্বাভাবিক তাপমাত্রা ও চাপে নাইট্রোজেনের ঘনত্ব হলো 1.25 kg m${}^{-3}$ । মূল গড় বর্গবেগ (Crms) হলো --</div>",
+      "option1": "<div>(ক) 491.07 ms${}^{-1}$</div>",
+      "option2": "<div>(খ) 492.07 ms${}^{-1}$</div>",
+      "option3": "<div>(গ) 493.07 ms${}^{-1}$</div>",
+      "option4": "<div>(ঘ) 495.07 ms${}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৪৪. বয়েলের সূত্র নিচের কোন প্রক্রিয়া মেনে চলে?</div>",
+      "option1": "<div>(ক) সমচাপ</div>",
+      "option2": "<div>(খ) সমোষ্ণ</div>",
+      "option3": "<div>(গ) রুদ্ধতাপীয়</div>",
+      "option4": "<div>(ঘ) সম আয়তন</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৪৫. 15$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় প্রতিগ্রাম অণু হিলিয়াম গ্রাসের গতিশক্তি কত?</div>",
+      "option1": "<div>(ক) 12.47 J</div>",
+      "option2": "<div>(খ) 1196.64 J</div>",
+      "option3": "<div>(গ) 3589.92 J</div>",
+      "option4": "<div>(ঘ) 7179.84 J</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৪৬. বাস্তব গ্যাসের কখন আদর্শ গ্যাসের ন্যায় আচরণ করে?</div>",
+      "option1": "<div>(ক) উচ্চচাপে ও নিন্ম তাপমাত্রায়</div>",
+      "option2": "<div>(খ) উচ্চচাপে ও উচ্চ তাপমাত্রায়</div>",
+      "option3": "<div>(গ) নিন্মচাপে ও নিন্ম তাপমাত্রায়</div>",
+      "option4": "<div>(ঘ) নিন্মচাপে ও উচ্চ তাপমাত্রায়</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Mcq/47.webp",
+      "mcqQuestion": "<div>৪৭. সম্পৃক্ত বাষ্পচাপের ক্ষেত্রে নিন্মের কোন লেখচিত্রটি সঠিক?</div>",
+      "option1": "<div>(ক)</div>",
+      "option2": "<div>(খ)</div>",
+      "option3": "<div>(গ)</div>",
+      "option4": "<div>(ঘ)</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৪৮. কোন গ্যাসের মূল গড় বর্গবেগ এবং পরম তাপমাত্রার সম্পর্ক --</div>",
+      "option1": "<div>(ক) সমানুপাতিক</div>",
+      "option2": "<div>(খ) ব্যস্তানুপাতিক</div>",
+      "option3": "<div>(গ) বর্গমূলের সমানুপাতিক</div>",
+      "option4": "<div>(ঘ) বর্গের ব্যস্তানুপাতিক</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৪৯. সম্পৃক্ত বাষ্পের ক্ষেত্রে --<br>i. $\\frac{P_1}{{\\rho }_1\\ T_1}=\\frac{P_2}{{\\rho }_2\\ T_2}$<br>ii. $\\frac{\\rho }{P}=\\ $ধ্র্রুবক, যখন স্থির T থাকে<br>iii. এটি বয়েল ও চার্লসের সূত্র মেনে চলে<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৫০. অসম্পৃক্ত বাষ্পের ক্ষেত্রে --<br>i. আবদ্ধ বা খোলা যে কোনো স্থানে এটি তৈরি করা যায়<br>ii. তাপমাত্রা বাড়িয়ে এটিকে সম্পৃক্ত বাষ্পে পরিণত করা যায়<br>iii. এটি বয়েল ও চার্লসের সূত্র মেনে চলে<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) I, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৫১. গ্যাসের গতিতত্ত্বের মৌলিক স্বীকর্য্ অনুসারে --<br>i. তাপমাত্রা বৃদ্ধির সাথে অণুর বেগ বৃদ্ধি পায়<br>ii. অণুগুলোর মধ্যবর্তী দূরত্বের তুলনায় অণুগুলোর আয়তন উপেক্ষণীয়<br>iii. দুটি ধাক্কার মধ্যবর্তী সময়ে অণুগুলো সমবেগে সরলরেখায় চলে না<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Mcq/52.webp",
+      "mcqQuestion": "<div>৫২. নিন্মের চিত্রে P-V তিনটি লেখচিত্র দেওয়া হলো --<br>i.<br>ii.<br>iii.<br>বয়েল এর সূত্রের ক্ষেত্রে কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) ii ও iii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) i ও ii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৫৩. বায়ুতে জলীয় বাষ্পের পরিমাণ বেড়ে গেলে --<br>i. বায়ুর ঘনত্ব কমে<br>ii. বায়ুর চাপ কমে<br>iii. জলীয় বাষ্প চাপ কমে<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৫৪. গ্যাসের পরমশুন্য তাপমাত্রার মান হচ্ছে --<br>i. 0 $\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$<br>ii. 0 K<br>iii. -273 $\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) ii</div>",
+      "option2": "<div>(খ) iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) I, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৫৫. জলীয় বাষ্প সম্পর্কে বলা যায় --<br>i. সম্পৃক্ত জলীয় বাষ্প সর্বাধিক চাপ দেয়<br>ii. অসম্পৃক্ত জলীয় বাষ্প বয়েলের সূত্র মেনে চলে<br>iii. সম্পৃক্ত জলীয় বাষ্প চার্লসের সূত্র মেনে চলে<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) ii</div>",
+      "option2": "<div>(খ) iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) I, ii ও iii<<br>নিচের উদ্দীপকের আলোকে ৫৬ ও ৫৭ নং প্রশ্নের উত্তর দাও :<br>20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় একটি গ্যাসের চাপ স্থির রেখে এর আয়তন দ্বিগুণ করা হলো ।</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৫৬. উদ্দীপকটি নিচের কোন সূত্রকে সমর্থন করে?</div>",
+      "option1": "<div>(ক) বয়েলের সূত্র</div>",
+      "option2": "<div>(খ) চার্লস এর সূত্র</div>",
+      "option3": "<div>(গ) চাপের সূত্র</div>",
+      "option4": "<div>(ঘ) অ্যাভাগ্যাড্রোর সূত্র</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৫৭. গ্যাসটির চূড়ান্ত তাপমাত্রা কত?</div>",
+      "option1": "<div>(ক) -273$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) -300$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) 313$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 586$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$<<br>নিচের উদ্দীপকের আলোকে ৫৮ ও ৫৯ নং প্রশ্নের উত্তর দাও:<br>উপরের লেখচিত্রে নির্দিষ্ট পরিমাণ আদর্শ গ্যাসের ক্ষেত্রে PV বনাম P লেখচিত্র দেখানো হয়েছে।</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Mcq/58.webp",
+      "mcqQuestion": "<div>৫৮. লেখচিত্রটি কোন সূত্রকে সমর্থন করে?</div>",
+      "option1": "<div>(ক) বয়েলের</div>",
+      "option2": "<div>(খ) চার্লসের</div>",
+      "option3": "<div>(গ) চাপের</div>",
+      "option4": "<div>(ঘ) কেলভিন</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৫৯. ও বিন্দুতে গ্যাসের আয়তন অনুপাত --</div>",
+      "option1": "<div>(ক) 1:1</div>",
+      "option2": "<div>(খ) 1:2</div>",
+      "option3": "<div>(গ) 1:3</div>",
+      "option4": "<div>(ঘ) 2:1</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৬০. একটি আদর্শ গ্যাস হল তাই যা --</div>",
+      "option1": "<div>(ক) তরল করা যায় না</div>",
+      "option2": "<div>(খ) সহজে তরল করা যায়</div>",
+      "option3": "<div>(গ) আন্তঃআণবিক শক্তি বেশি</div>",
+      "option4": "<div>(ঘ) বৃহৎ অণুসমূহ দ্বারা গঠিত</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৬১. স্থির তাপমাত্রা ও 1 atm চাপে কোনো নির্দিষ্ট ভরের অক্সিজেন গ্যাসের আয়তন 3.15 L হয়। ঐ অক্সিজেন গ্যাসের চাপ বৃদ্ধি করে 2.5 atm করা হলে তখন ঐ গ্যাসের আয়তন কত?</div>",
+      "option1": "<div>(ক) 2.16</div>",
+      "option2": "<div>(খ) 1.26</div>",
+      "option3": "<div>(গ) 1.62</div>",
+      "option4": "<div>(ঘ) 6.21</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৬২. যে তাপমাত্রায় বিশুদ্ধ বরফ, বিশুদ্ধ পানি ও সম্পৃক্ত বাষ্প তাপগত সহাবস্থানে থাকে তাকে বলে --</div>",
+      "option1": "<div>(ক) কুরী বিন্দু</div>",
+      "option2": "<div>(খ) শিশিরাঙ্ক</div>",
+      "option3": "<div>(গ) ত্রৈধ বিন্দু</div>",
+      "option4": "<div>(ঘ) সঙ্কট তাপমাত্রা</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৬৩. গ্যাসীয় সূত্রের সাথে অসামঞ্জসপূর্ণ কোন বিষয়টি?</div>",
+      "option1": "<div>(ক) তাপমাত্রা</div>",
+      "option2": "<div>(খ) আয়তন</div>",
+      "option3": "<div>(গ) চাপ</div>",
+      "option4": "<div>(ঘ) আধান</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৬৪. বাস্তব গ্যাস বয়েলের সূত্র মেনে চলে --</div>",
+      "option1": "<div>(ক) খুব উচ্চ তাপমাত্রায়</div>",
+      "option2": "<div>(খ) কক্ষ তাপমাত্রায়</div>",
+      "option3": "<div>(গ) খুব নিন্ম তাপমাত্রায়</div>",
+      "option4": "<div>(ঘ) 0 $\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৬৫. নির্দিষ্ট তাপমাত্রায়, একটি গ্যাসের চাপ 5% বৃদ্ধি করলে, এর আয়তন হ্রাস পাবে --</div>",
+      "option1": "<div>(ক) 5%</div>",
+      "option2": "<div>(খ) 5.26%</div>",
+      "option3": "<div>(গ) 4.26</div>",
+      "option4": "<div>(ঘ) 4.76%</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৬৬. 24$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় কোনো গ্যাসকে স্থির চাপে উত্তপ্ত করে আয়তন দ্বিগুণ করা হলে, গ্যাসের তাপমাত্রা কত হবে?</div>",
+      "option1": "<div>(ক) 273$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 283$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$\\textbf{}</div>",
+      "option3": "<div>(গ) 293$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 321$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৬৭. কোন নির্দিষ্ট ভরের গ্যাসের উষ্ণতা 33$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$, আয়তন স্থির থাকলে কোন উষ্ণতায় এর চাপ তিনগুণ হবে?</div>",
+      "option1": "<div>(ক) 297$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 918$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) 918 K</div>",
+      "option4": "<div>(ঘ) 998 K</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৬৮. 1 গ্রাম-অণু গ্যাসের ক্ষেত্রে আদর্শ গ্যাস সমীকরণটি হচ্ছে --</div>",
+      "option1": "<div>(ক) $PV=RT$</div>",
+      "option2": "<div>(খ) $PV=nRT$</div>",
+      "option3": "<div>(গ) $PV=\\frac{m}{M}RT$</div>",
+      "option4": "<div>(ঘ) $PV=KRT$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৬৯. স্থির তাপমাত্রায় নির্দিষ্ট ভরের কোন গ্যাসের ঘনত্ব তার --</div>",
+      "option1": "<div>(ক) আয়তনের সমানুপাতিক</div>",
+      "option2": "<div>(খ) চাপের ব্যস্তানুপাতিক</div>",
+      "option3": "<div>(গ) চাপের সমানুপাতিক</div>",
+      "option4": "<div>(ঘ) আয়তনের ব্যস্তানুপাতিক</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৭০. প্রমাণ তাপমাত্রা কত?</div>",
+      "option1": "<div>(ক) 0 K</div>",
+      "option2": "<div>(খ) 273$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) -273 K</div>",
+      "option4": "<div>(ঘ) 273 K</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৭১. নির্দিষ্ট ভরের একটি আদর্শ গ্যাসের আয়তন ধ্র্রুব চাপে দ্বিগুণ করা হলো। যদি গ্যাসের প্রাথমিক তাপমাত্রা 13$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ হয়, তবে চূড়ান্ত তাপমাত্রা কত?</div>",
+      "option1": "<div>(ক) 7.5$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 299$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) 13$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 23$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৭২. $PV=RT$ সমীকরণটি কয় মোল গ্যাসের ক্ষেত্রে প্রযোজ্য?</div>",
+      "option1": "<div>(ক) n mole</div>",
+      "option2": "<div>(খ)1 mole</div>",
+      "option3": "<div>(গ) $\\mathrm{\\propto }$ mole</div>",
+      "option4": "<div>(ঘ) যেকোন মোল হতে পারে</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৭৩. M আণবিক ভর বিশিষ্ট m পরিমাণ গ্যাসের ক্ষেত্রে আদর্শ গ্যাস সমীকরণ কোনটি?</div>",
+      "option1": "<div>(ক) $PV=\\frac{m}{N}RT$</div>",
+      "option2": "<div>(খ) $\\mathrm{\\ }PV=\\frac{M}{m}RT$</div>",
+      "option3": "<div>(গ) $MV=mRT$</div>",
+      "option4": "<div>(ঘ) $P\\frac{m}{M}=VRT$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৭৪. একই তাপমাত্রার একটি নির্দিষ্ট ভরের গ্যাসের আয়তন 10% কমালে চাপ শকতরা কত বাড়াতে হবে?</div>",
+      "option1": "<div>(ক) 8.1%</div>",
+      "option2": "<div>(খ) 9.1%</div>",
+      "option3": "<div>(গ) 11.1%</div>",
+      "option4": "<div>(ঘ) 10.1%</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৭৫. 1 মোল গ্যাসের ক্ষেত্রে PV এর যে সকল পাওয়া যায় n মৌল গ্যাসের ক্ষেত্রে PV এর মান তার --</div>",
+      "option1": "<div>(ক) দ্বিগুন হবে</div>",
+      "option2": "<div>(খ) n গুণ হবে</div>",
+      "option3": "<div>(গ) অর্ধেক হবে</div>",
+      "option4": "<div>(ঘ) একই হবে</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৭৬. যদি R=8.31 Jmol${}^{-1}$K${}^{-1}$ হয়, তবে 72 cm পারদচাপে এবং 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় 20g অক্সিজেনের আয়তন কত হবে?</div>",
+      "option1": "<div>(ক) 0.625 $m^3$</div>",
+      "option2": "<div>(খ) $6.24\\times {10}^{-3}m^3$ $m^3$</div>",
+      "option3": "<div>(গ) $16.24\\times {10}^{-3}$ $m^3$</div>",
+      "option4": "<div>(ঘ) $18.42\\times {10}^{-3}$ $m^3$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৭৭. গ্যাসের গতিতন্তু হতে গ্যাসের কী সম্পর্ক জানা যায়?</div>",
+      "option1": "<div>(ক) গতির প্রকৃতি</div>",
+      "option2": "<div>(খ) উদ্ভুত তাপ</div>",
+      "option3": "<div>(গ) বিচরন কাল</div>",
+      "option4": "<div>(ঘ) গতির প্রকৃতি ও উদ্ভুত তাপ</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৭৮. একটি পাত্রে \\textbf{P${}_{1}$}${}_{\\ }$চাপে কিছু গ্যাস আবদ্ধ আছে। যদি গ্যাস অণুগুলোর প্রত্যেকটির ভর অর্ধেক হয় এবং তাদের বেগ দ্বিগুণ হয়, তবে চাপ কত হবে?</div>",
+      "option1": "<div>(ক) একই ধাকবে</div>",
+      "option2": "<div>(খ) অর্ধেক হবে</div>",
+      "option3": "<div>(গ) দ্বিগুণ হবে</div>",
+      "option4": "<div>(ঘ) চারগুণ হবে</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৭৯. গ্যাসের অণুগুলো দুটি সংঘর্ষের মধ্যবর্তী সময়ে --</div>",
+      "option1": "<div>(ক) এলোমেলোভাবে চলে</div>",
+      "option2": "<div>(খ) বিক্ষিপ্তভাবে চলে</div>",
+      "option3": "<div>(গ) সরলরেখায় চলে</div>",
+      "option4": "<div>(ঘ) বক্রপথে চলে</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৮০. গ্যাসের অণুগুলোর পর পর দুটি ধাক্কার মধ্যবর্তী পথকে কী বলে?</div>",
+      "option1": "<div>(ক) মুক্তপথ</div>",
+      "option2": "<div>(খ) গড় মুক্তপথ</div>",
+      "option3": "<div>(গ) সম্ভাব্য পথ</div>",
+      "option4": "<div>(ঘ) সম্ভাব্য বেগ</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৮১. গড় মুক্তপথের সাথে গ্যাসের অণুর আণবিক ব্যাস ও একক আয়তনে অণুর সংখ্যার মধ্যে সম্পর্ক হচ্ছে --</div>",
+      "option1": "<div>(ক) $\\mathrm{\\ }\\lambda =\\frac{{\\sigma }^2}{\\pi {\\sigma }^2l}$</div>",
+      "option2": "<div>(খ) $\\mathrm{\\ }\\lambda =\\frac{l}{\\pi {\\sigma }^2n}$</div>",
+      "option3": "<div>(গ) $\\mathrm{\\ }\\lambda =\\frac{n}{\\pi {\\sigma }^2l}$</div>",
+      "option4": "<div>(ঘ) $\\mathrm{\\ }\\lambda =\\frac{\\pi l}{{\\sigma }^2n}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৮২. একক আয়তনে গ্যাসের মোট অণুর ভর --</div>",
+      "option1": "<div>(ক) গ্যাসের চাপের সমান</div>",
+      "option2": "<div>(খ) গ্যাসের আয়তনের সমান</div>",
+      "option3": "<div>(গ) গ্যাসের ঘনত্বের সমান</div>",
+      "option4": "<div>(ঘ) গ্যাসের আয়তনের অর্ধেক</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৮৩. কোন গ্যাস অণুর ব্যাস $7\\times {10}^{-10}\\ $m এবং প্রতি ঘনমিটারে গ্যাসের অণুর সংখ্যা $2.79\\times {10}^{25}$। গ্যাসটির গড় মুক্তপথ কত?</div>",
+      "option1": "<div>(ক) $23.38\\times {10}^{-9}\\ m$</div>",
+      "option2": "<div>(খ) $23.50\\times {10}^{-9}\\ m$</div>",
+      "option3": "<div>(গ) $24.50\\times {10}^{-9}\\ m$</div>",
+      "option4": "<div>(ঘ) $25\\times {10}^{-9}\\ m$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৮৪. তিনটি গ্যাসের বেগ যথাক্রমে $3m\\ s^{-1}$ , $5m\\ s^{-1}$ , $2m\\ s^{-1}$ হলে, অণুগুলোর বর্গমূল গড় বর্গবেগ কত হবে?</div>",
+      "option1": "<div>(ক) $3.56\\ m\\ s^{-1}$</div>",
+      "option2": "<div>(খ) $3.79\\ m\\ s^{-1}$</div>",
+      "option3": "<div>(গ) $3.66\\ m\\ s^{-1}$</div>",
+      "option4": "<div>(ঘ) $3.72\\ m\\ s^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৮৫. $C_1$, $C_2$, $C_3\\ $বেগ তিনটি গ্যাসের অণুর হলে, অণুগুলোর বড় বর্গবেগ কত?</div>",
+      "option1": "<div>(ক) $\\frac{C_1+C_2+C_3}{C_1.C_2.C_3}$</div>",
+      "option2": "<div>(খ) $\\frac{C_1+C_2+C_3}{3}$</div>",
+      "option3": "<div>(গ) $\\frac{C_{1^2}+C_{2^2}+C_{3^2}}{3}$</div>",
+      "option4": "<div>(ঘ)$\\ \\frac{C_{1^2}+C_{2^2}+C_{3^2}}{C_{1^2}.C_{2^2}.C_{3^2}}$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৮৬. কোনো গ্যাস অণুর গড় মুক্ত পথ এর ব্যাসের --</div>",
+      "option1": "<div>(ক) সমানুপাতিক</div>",
+      "option2": "<div>(খ) বর্গের সমানুপাতিক</div>",
+      "option3": "<div>(গ) ব্যস্তানুপাতিক</div>",
+      "option4": "<div>(ঘ) বর্গের ব্যস্তানুপাতিক</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৮৭. গড় মুক্তপথের জন্য ম্যাক্সওয়েলের সমীকরণ কোনটি?</div>",
+      "option1": "<div>(ক) $\\mathrm{\\ }\\lambda =\\frac{1}{\\pi {\\sigma }^2n}$</div>",
+      "option2": "<div>(খ) $\\mathrm{\\ }\\lambda =\\frac{1}{\\sqrt{2}\\ \\pi {\\sigma }^2n}$</div>",
+      "option3": "<div>(গ) $\\mathrm{\\ }\\lambda =\\frac{n}{\\pi {\\sigma }^2}$</div>",
+      "option4": "<div>(ঘ) $\\mathrm{\\ }\\lambda =\\frac{n}{{\\sqrt{2}\\ \\pi \\sigma }^2}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৮৮. কোনো গ্যাস অণুর ব্যাস $2\\times {10}^{-8}\\ cm$ এবং প্রতি ঘন সেন্টিমিটারে 3\\times {10}^{20}$ হলে অণুর গড় মুক্ত পথ কত হবে?</div>",
+      "option1": "<div>(ক) $5.30\\times {10}^{-14}\\ cm$</div>",
+      "option2": "<div>(খ) $\\ 2.65\\times {10}^{-6}\\ cm$</div>",
+      "option3": "<div>(গ) $1.76\\times {10}^{-31}\\ cm$</div>",
+      "option4": "<div>(ঘ) $3.76\\times {10}^{-6}\\ cm$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৮৯. গ্যাসের গতিতন্তু অনুসারে, গ্যাস কত তাপমাত্রায় স্থিতি অবস্থা অর্জন করে?</div>",
+      "option1": "<div>(ক) 273$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 273 K</div>",
+      "option3": "<div>(গ) 0 $\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 0 K</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৯০. একটি নির্দিষ্ট তাপমাত্রায় নিচের কোন গ্যাসটির বর্গমূল গড় বর্গবেগ সর্বোচ্চ?</div>",
+      "option1": "<div>(ক) হাইড্রোজেন</div>",
+      "option2": "<div>(খ) অক্সিজেন</div>",
+      "option3": "<div>(গ) নাইট্রোজেন</div>",
+      "option4": "<div>(ঘ) কার্বন ডাই অক্সাইড</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৯১. 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় 3g নাইট্রোজেনের মোট গতিশক্তি কত?</div>",
+      "option1": "<div>(ক) 400.66 J</div>",
+      "option2": "<div>(খ) 300.33 J</div>",
+      "option3": "<div>(গ) 204.98 J</div>",
+      "option4": "<div>(ঘ) 504.64 J</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৯২. স্বাভাবিক তাপমাত্রা ও চাপে কোনো গ্যাসের ঘনত্ব $1.25\\ kg\\ m^{-3}$। গ্যাস অণুর বর্গমূল গড় বর্গবেগের কত হবে?</div>",
+      "option1": "<div>(ক) $493\\ {ms}^{-1}$</div>",
+      "option2": "<div>(খ) $497\\ {ms}^{-1}$</div>",
+      "option3": "<div>(গ) $503\\ {ms}^{-1}$</div>",
+      "option4": "<div>(ঘ) $507\\ {ms}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৯৩. বোল্টজম্যান ধ্র্রুবক K-এর মান কত?</div>",
+      "option1": "<div>(ক) $1.38\\times {10}^{-2}\\ {JK}^{-1}$</div>",
+      "option2": "<div>(খ) $1.12\\times {10}^{-23}\\ {JK}^{-1}$</div>",
+      "option3": "<div>(গ) $1.56\\times {10}^{-21}\\ {JK}^{-1}$</div>",
+      "option4": "<div>(ঘ) $1.38\\times {10}^{-23}\\ {JK}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৯৪. গ্যাস অণুর গড় বর্গবেগের সাথে তাপমাত্রার সম্পর্ক মুক্ত সঠিক সমীকরণ কোনটি?</div>",
+      "option1": "<div>(ক) $c^{-2}=\\sqrt{\\frac{RT}{M}}$</div>",
+      "option2": "<div>(খ) $c^{-2}=\\sqrt{\\frac{3RT}{M}}$</div>",
+      "option3": "<div>(গ) $c=\\sqrt{\\frac{3RT}{M}}$</div>",
+      "option4": "<div>(ঘ) $c=\\sqrt{\\frac{3P}{\\rho }}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৯৫. গ্যাসের একক আয়তনে চাপ (P) গতিশক্তির (E) কত অংশ?</div>",
+      "option1": "<div>(ক) $\\frac{3}{2}\\ অংশ$</div>",
+      "option2": "<div>(খ) $\\frac{1}{3}\\ অংশ$</div>",
+      "option3": "<div>(গ) $\\frac{2}{3}\\ অংশ$</div>",
+      "option4": "<div>(ঘ) $\\frac{1}{2}\\ অংশ$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৯৬. কোনো বস্তু স্বাধীনভাবে বা অবাধে যে কয় প্রকার গতির অধিকারী হতে পারে , সেই সংখ্যাকে ঐ বস্তুর গতির কি বলে?</div>",
+      "option1": "<div>(ক) গড় বর্গবেগ</div>",
+      "option2": "<div>(খ) মূল গড় বর্গবেগ</div>",
+      "option3": "<div>(গ) স্বাধীনতার মাত্রা</div>",
+      "option4": "<div>(ঘ) অ্যাভোগেড্রোর সংখ্যা</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৯৭. এক পরমাণুক হিলিয়াম গ্যাস অণুর স্বাধীনতার মাত্রা কত?</div>",
+      "option1": "<div>(ক) 1</div>",
+      "option2": "<div>(খ) 2</div>",
+      "option3": "<div>(গ) 3</div>",
+      "option4": "<div>(ঘ) 4</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৯৮. দ্বি-পরমাণুক অক্সিজেন গ্যাস অণুর স্বাধীনতার মাত্রা কত?</div>",
+      "option1": "<div>(ক) 2</div>",
+      "option2": "<div>(খ) 3</div>",
+      "option3": "<div>(গ) 4</div>",
+      "option4": "<div>(ঘ) 5</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৯৯. একটি পরমাণুর তিনটি স্বাধীনতার মাত্রার প্রতিটি বরাবর কত শক্তি সমভাবে বিভোজিত হয়?</div>",
+      "option1": "<div>(ক) $\\frac{1}{2}\\ KT$</div>",
+      "option2": "<div>(খ) $\\frac{3}{2}\\ KT$</div>",
+      "option3": "<div>(গ) $\\frac{2}{3}\\ KT$</div>",
+      "option4": "<div>(ঘ) $\\frac{5}{2}\\ KT$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১০০. f স্বাধীনতার মাত্রাসম্পন্ন কোনো অণুর মোট জড়শক্তি কত?</div>",
+      "option1": "<div>(ক) $\\frac{1}{2}\\ KT$</div>",
+      "option2": "<div>(খ) $\\frac{2}{3}fKT$</div>",
+      "option3": "<div>(গ) $\\frac{f}{2}\\ KT$</div>",
+      "option4": "<div>(ঘ) $\\frac{3}{2}\\ fKT$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১০১. বায়ুতে জলীয় বাষ্পের পরিমাণ ভিন্ন হয়ে থাকে --</div>",
+      "option1": "<div>(ক) স্থানভেদে</div>",
+      "option2": "<div>(খ) শিশিরের মিশ্রণে</div>",
+      "option3": "<div>(গ) ঋতুভেদে</div>",
+      "option4": "<div>(ঘ) ঋতু ও স্থানভেদে</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১০২. জলীয় বাষ্পের সংকট তাপমাত্রা কত?</div>",
+      "option1": "<div>(ক) -240$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) -119$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) 31$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 374$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১০৩. নিচের কোনটির সংকট তাপমাত্রা সবচেয়ে বেশি?</div>",
+      "option1": "<div>(ক) অক্সিজেন</div>",
+      "option2": "<div>(খ) জলীয় বাষ্প</div>",
+      "option3": "<div>(গ) হাইড্রোজেন</div>",
+      "option4": "<div>(ঘ) কার্বন ডাই অক্সাইড</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১০৪. তাপমাত্রার কোন ধরনের পরিবর্তনে সম্পৃক্ত বাষ্পে পরিণত হয়?</div>",
+      "option1": "<div>(ক) বৃদ্ধি</div>",
+      "option2": "<div>(খ) হ্রাস</div>",
+      "option3": "<div>(গ) অপরিবর্তন</div>",
+      "option4": "<div>(ঘ) কখনও বৃদ্ধি কখনও হ্রাস</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১০৫. কোনটির সাহায্যে আপেক্ষিক আর্দ্রতা নির্ণয় করা হয় না?</div>",
+      "option1": "<div>(ক) সিক্ত ও শুষ্ক বাল্ব হাইগ্রোমিটার</div>",
+      "option2": "<div>(খ) শিশিরাংক হাইগ্রোমিটার</div>",
+      "option3": "<div>(গ) বাষ্পচাপ হাইগ্রোমিটার</div>",
+      "option4": "<div>(ঘ) কেশ হাইগ্রোমিটার</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১০৬. বাতাসে জলীয় বাষ্পের পরিমাণ বেশি হলে এটি -- হয়?</div>",
+      "option1": "<div>(ক) বেশি আর্দ্র</div>",
+      "option2": "<div>(খ) কম আর্দ্র</div>",
+      "option3": "<div>(গ) শুষ্ক</div>",
+      "option4": "<div>(ঘ) হালকা</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১০৭. শুষ্ক বায়ু বলতে বোঝায় --</div>",
+      "option1": "<div>(ক) শিশিরাঙ্ক 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) পরম আর্দ্রতা শূন্য</div>",
+      "option3": "<div>(গ) শিশিরাঙ্ক 1$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) আপেক্ষিক আর্দ্রতা 0%</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১০৮. কোনো সময়ে বায়ুমন্ডলের তাপমাত্রা 17$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ ও শিশিরাঙ্ক 12$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$, 17$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ ও 12$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় সম্পৃক্ত বাষ্পচাপ যথাক্রমে $14.42\\times {10}^{-3}\\ m$ ও 10.46\\times {10}^{-3}\\ m$ পারদ । ঐ সময়ের বায়ুর আপেক্ষিক আর্দ্রতা কত?</div>",
+      "option1": "<div>(ক) 72.5%</div>",
+      "option2": "<div>(খ) 79.5%</div>",
+      "option3": "<div>(গ) 70.5%</div>",
+      "option4": "<div>(ঘ) 95%</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১০৯. কোন একদিনের বায়ুর শিশিরাঙ্ক 20.4$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$, 20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ ও 22$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে 17.54 mm (Hg) এবং 19.83 mm(Hg) হলে, শিশিরাংকে সম্পৃক্ত জলীয়বাষ্প চাপ কত?</div>",
+      "option1": "<div>(ক) 17.99 mm (Hg)</div>",
+      "option2": "<div>(খ) 20.99 mm (Hg)</div>",
+      "option3": "<div>(গ) 18.99 mm (Hg)</div>",
+      "option4": "<div>(ঘ) 19.99 mm (Hg)</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১১০. কোনো স্থানের তাপমাত্রা বাড়লে বায়ুর জলীয় বাষ্প ধারণ ক্ষমতা --</div>",
+      "option1": "<div>(ক) বেড়ে যায়</div>",
+      "option2": "<div>(খ) কমে যায়</div>",
+      "option3": "<div>(গ) অপরিবর্তিত থাকে</div>",
+      "option4": "<div>(ঘ) কোনো পরিবর্তন হয় না</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১১১. শিশিরাঙ্কে সম্পৃক্ত জলীয় বাষ্পচাপ 26.37 mm (Hg) এবং বায়ুর তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পচাপ 31.85 mm (Hg) হলে, আপেক্ষিক আর্দ্রতা কত?</div>",
+      "option1": "<div>(ক) 85.69%</div>",
+      "option2": "<div>(খ) 88.39%</div>",
+      "option3": "<div>(গ) 82.79%</div>",
+      "option4": "<div>(ঘ) 81.49%</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১১২. আদর্শ গ্যাসের ক্ষেত্রে --<br>i. আদশ্য গ্যাস সমীকরণটি গ্যাসের ক্ষেত্রে প্রযোজ্য<br>ii. মোলার গ্যাস ধ্র্রুবক<br>iii. মোল সংখ্যা গ্যাসের ভর এবং আণবিক ভরের অনুপাত<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১১৩. আপেক্ষিক আর্দ্রতার ক্ষেত্রে প্রযোজ্য<br>i. সাধারণত সমুদ্রের কাছাকাছি স্থানের আপেক্ষিক আর্দ্রতা বেশি<br>ii. সাধারণত শীতকালে আপেক্ষিক আর্দ্রতা কম থাকে<br>iii. বায়ুর আপেক্ষিক আর্দ্রতা বেশি হলে পানির বাষ্পায়ন দ্রুত হয়<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১১৪. গড় মুক্ত পথের ক্ষেত্রে --<<br>নিচের কোনটি সঠিক?<br>i. $\\mathrm{\\ }{\\lambda }_C=\\frac{m}{\\pi {\\sigma }^2\\rho }$<br>ii. $\\mathrm{\\ }{\\lambda }_B=\\frac{3}{4}.\\frac{1}{\\pi {\\sigma }^2\\rho }$<br>iii. $\\mathrm{\\ }{\\lambda }_M=\\frac{1}{\\sqrt{2}\\pi {\\sigma }^2\\rho }$<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১১৫. গ্যাসের গতিশক্তির ক্ষেত্রে<br>i. $P=\\frac{1}{3}\\ {\\rho c}^2$<br>ii. $P=\\frac{3}{2}\\ E$<br>iii. $P=\\frac{1}{3}\\ {mNc}^2$<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১১৬. গ্যাসের গতিতত্ব অনুসারে --<br>i. বার্নোলি সর্বপ্রথম গ্যাসের গতিতত্বের সাহায্যে গ্যাসের সূত্রাবলি ব্যাখ্যা করেন<br>ii. গ্যাসীয় পদার্থের নির্দিষ্ট আকার নেই<br>iii. গ্যাসের গতিশীলতার জন্য তাপ উৎপন্ন হয়<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১১৭. আদর্শ গ্যাসের ক্ষেত্রে চাপ, আয়তন ও তাপমাত্রার মধ্যে সম্পর্ক হচ্ছে --<<br>নিচের কোনটি সঠিক?<br>i. $PV=KT$<br>ii. $PV=vRT$<br>iii. $PV=RT$<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও iii</div>",
+      "option2": "<div>(খ) i ও ii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১১৮. আপেক্ষিক আর্দ্রতাকে প্রকাশ করা হয় --<br>i. $R=\\frac{f}{F}$<br>ii. $R=\\frac{F}{f}$<br>iii. $R=\\frac{f}{F}\\times 100%$<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i, ii ও iii</div>",
+      "option4": "<div>(ঘ) i ও iii</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১১৯. বায়ুতে আর্দ্রতা কমে গেলে --<br>i. দ্রুত বাষ্পায়ন ঘটে<br>ii. হাইগ্রোমিটারের দুই থার্মোমিটারের ব্যবধান কমে যায়<br>iii. বাষ্পায়ন বন্ধ হয়ে যাবে<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i</div>",
+      "option2": "<div>(খ) ii</div>",
+      "option3": "<div>(গ) iii</div>",
+      "option4": "<div>(ঘ) i ও ii</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১২০. গতিতত্ত্ব অনুযায়ী গ্যাসের অণুগুলো --<br>i. সম্পূর্ণ স্থিতিস্থাপক<br>ii. দৃঢ়<br>iii. গোলাকার<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i</div>",
+      "option2": "<div>(খ) i ও ii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) I, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১২১. গড় মুক্তপথ গ্যাস অণুর --<br>i. পরম তাপমাত্রার সমানুপাতিক<br>ii. ঘনত্বের ব্যস্তানুপাতিক<br>iii. চাপের সমানুপাতিক<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রা ও স্বাভাবিক চাপে 4g নাইট্রোজেন গ্যাস আছে। উপরের তথ্যের আলোকে নিচের ১২২ ও ১২৩ নং প্রশ্নের উত্তর দাও:<br>১২২. নাইট্রোজেনের মোট গতিশক্তি --</div>",
+      "option1": "<div>(ক) 3739.3 J</div>",
+      "option2": "<div>(খ) 534.471 J</div>",
+      "option3": "<div>(গ) 61.15 J</div>",
+      "option4": "<div>(ঘ) 0.62$\\mathrm{\\times}$${10}^{-21}$ J</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১২৩. নাইট্রোজেনের 1 টি অণুর গড় গতিশক্তি --</div>",
+      "option1": "<div>(ক) 3741.3 J</div>",
+      "option2": "<div>(খ) 534.221 J</div>",
+      "option3": "<div>(গ) 24.84$\\mathrm{\\times}$${10}^{-21}$ J</div>",
+      "option4": "<div>(ঘ) 6.21$\\mathrm{\\times}$${10}^{-21}$ J</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>24$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় কোন গ্যসকে স্থির চাপে উত্তপ্ত করে আয়তন দ্বিগুণ করা হল।<br>নিচের তথ্য হতে ১২৪ ও ১২৫ নং প্রশ্নের উত্তর দাও :<br>১২৪. গ্যাসের চূড়ান্ত তাপমাত্রা কত হবে?</div>",
+      "option1": "<div>(ক) 221$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 297$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) 321$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 379$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১২৫. গ্যাসের তাপমাত্রা কত বৃদ্ধি পাবে?</div>",
+      "option1": "<div>(ক) 273$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 297$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) 321$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 594$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>প্রমাণ তাপমাত্রা ও চাপে একটি ফ্লাস্কে নাইট্রোজেন গ্যাস আছে। উপরের তথ্যের আলোকে ১২৬ ও ১২৭ নং প্রশ্নের উত্তর দাও :<br>১২৬. প্রতিটি নাইট্রোজেন অণুর মূল গড় বর্গবেগ কত?</div>",
+      "option1": "<div>(ক) $393\\ {ms}^{-1}$</div>",
+      "option2": "<div>(খ) $493\\ {ms}^{-1}$</div>",
+      "option3": "<div>(গ) $523\\ {ms}^{-1}$</div>",
+      "option4": "<div>(ঘ) $693\\ {ms}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১২৭. প্রতিটি অণুর --<br>i. গড় বর্গবেগের মান<br>ii. গড় গতিশক্তি<br>iii. সংঘর্ষে ভরবেগের পরিবর্তনের মান 273<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>স্বাভাবিক তাপমাত্রা ও চাপে অক্সিজেনের ঘনত্ব $1.43\\ kg\\ m^{-3}$একে একটি 4\\times {10}^{-3}\\ m^{-3}$ আয়তনের পাত্রে 68.25$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ পর্য্ন্ত উত্তপ্ত করা হলো। ফলে গ্যাসটির আয়তন ${10}^{-3}\\ m^3$ বৃদ্ধি পেল।<br>এ তথ্য থেকে নিচের ১২৮-১৩০ নং প্রশ্নের উত্তর দাও :<br>১২৮. অক্সিজেন গ্যাসের গড় বর্গবেগের বর্গমূল কত হবে?</div>",
+      "option1": "<div>(ক) $461.05\\ {ms}^{-1}$</div>",
+      "option2": "<div>(খ) $561.05\\ {ms}^{-1}$</div>",
+      "option3": "<div>(গ) $661.05\\ {ms}^{-1}$</div>",
+      "option4": "<div>(ঘ) $761.05\\ {ms}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১২৯. স্থির চাপে গ্যাসের আয়তন প্রসারণ গুণাঙ্ক কত হয় -- (উচ্চতর দক্ষতায়)</div>",
+      "option1": "<div>(ক) 0.00136</div>",
+      "option2": "<div>(খ) 0.00336</div>",
+      "option3": "<div>(গ) 0.00366</div>",
+      "option4": "<div>(ঘ) 0.00660</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৩০. পরম শূন্য তাপমাত্রা কত হবে?</div>",
+      "option1": "<div>(ক) 0 $\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 4 $\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) -273 $\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 273 $\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৩১. হ্রদের তলদেশে বুদবুদের আয়তন কত হয়?</div>",
+      "option1": "<div>(ক) $3.236\\times {10}^{-4}\\ CC$</div>",
+      "option2": "<div>(খ) $4.236\\times {10}^{-4}\\ CC$</div>",
+      "option3": "<div>(গ)$\\ 5.236\\times {10}^{-4}\\ CC$</div>",
+      "option4": "<div>(ঘ) $6.236\\times {10}^{-4}\\ CC$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৩২. হ্রদের উপরিতলে পৌছালে বুদবুদটির ব্যাস কত হবে?</div>",
+      "option1": "<div>(ক) 0.2 cm</div>",
+      "option2": "<div>(খ) 0.3 cm</div>",
+      "option3": "<div>(গ) 0.4 cm</div>",
+      "option4": "<div>(ঘ) 0.5 cm</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৩৩. 0 $\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় কোন গ্যাসের চাপ হলে, 50$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় এর চাপ কত হবে?</div>",
+      "option1": "<div>(ক) $2.663\\times {10}^5\\ Pa$</div>",
+      "option2": "<div>(খ) $2.363\\times {10}^5\\ Pa$</div>",
+      "option3": "<div>(গ)$\\ 2.636\\times {10}^5\\ Pa$</div>",
+      "option4": "<div>(ঘ) $3.266\\times {10}^5\\ Pa$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৩৪. $\\frac{V_1}{T_1}=\\frac{V_2}{T_2}$ সম্পর্কটি কোন সূত্রকে সমর্থন করে?</div>",
+      "option1": "<div>(ক) বয়েলের সূত্র</div>",
+      "option2": "<div>(খ) চার্লসের সূত্র</div>",
+      "option3": "<div>(গ) চাপের সূত্র</div>",
+      "option4": "<div>(ঘ) রেঁনোর সূত্র</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৩৫. গ্যাসের কোন সূত্র থেকে পরম শূন্য তাপমাত্রা সংজ্ঞা পাওয়া যায়?</div>",
+      "option1": "<div>(ক) বয়েলের সূত্র</div>",
+      "option2": "<div>(খ) চার্লসের সূত্র</div>",
+      "option3": "<div>(গ) ক্লসিয়াসের সূত্র</div>",
+      "option4": "<div>(ঘ) ভ্যানডার ওয়ালস সূত্র</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৩৬. বাস্তব গ্যাস কখন আদর্শ গ্যাসের ন্যায় আচরণ করে?</div>",
+      "option1": "<div>(ক) উচ্চচাপে ও নিন্ম তাপমাত্রায়</div>",
+      "option2": "<div>(খ) উচ্চচাপে ও উচ্চ তাপমাত্রায়</div>",
+      "option3": "<div>(গ) নিন্ম চাপে ও নিন্ম তাপমাত্রায়</div>",
+      "option4": "<div>(ঘ) নিন্মচাপে ও উচ্চ তাপমাত্রায়</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৩৭. নির্দিষ্ট তাপমাত্রায় একটি গ্যাসের চাপ 5% বৃদ্ধি করলে এর আয়তন হ্রাস পাবে?</div>",
+      "option1": "<div>(ক) 4.26%</div>",
+      "option2": "<div>(খ) 4.76%</div>",
+      "option3": "<div>(গ) 5%</div>",
+      "option4": "<div>(ঘ) 5.26%</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৩৮. কোন হ্রদের তলদেশে থেকে পানির উপরিতলে আসার একটি বুদবুদের আয়তন 5 গুণ হয়। বায়ুমন্ডলের চাপ হলে হ্রদের গভীরতা কত?</div>",
+      "option1": "<div>(ক) 30.82 m</div>",
+      "option2": "<div>(খ) 40.82 m</div>",
+      "option3": "<div>(গ) 50.82 m</div>",
+      "option4": "<div>(ঘ) 60.82 m</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৩৯. A ও B পাত্রে একই ভরের একই গ্যাস তাপীয় অবস্থায় আছে। যদি পাত্র দুটির চাপ ও আয়তন যথাক্রমে$P_A\\ P_B$ ও $V_A\\ V_B$ তবে<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) $P_A\\neq P_B,\\ V_A=\\ V_B$</div>",
+      "option2": "<div>(খ) $P_A=P_B,\\ V_A\\neq \\ V_B$</div>",
+      "option3": "<div>(গ) $\\frac{P_A}{P_B}=\\frac{V_A}{T_B}$</div>",
+      "option4": "<div>(ঘ) $P_AV_A,\\ V_A=\\ P_BV_B$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৪০. a atm বায়ুচাপ 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় একটি হ্রদের তলদেশ হতে একটি বায়ু বুদ বুদ উপরিতলে আসায় দ্বিগুণ হয়। হ্রদের গভীরতা হলো-</div>",
+      "option1": "<div>(ক) -10.34 m</div>",
+      "option2": "<div>(খ) 10.34 m</div>",
+      "option3": "<div>(গ) -1.02$\\mathrm{\\times}$${10}^{-4}$m</div>",
+      "option4": "<div>(ঘ) 1.02$\\mathrm{\\times}$${10}^{-4}$ m</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৪১. স্থির তাপমাত্রায় পানির তলদেশ হতে একটি বুদ বুদ উপরে উঠতে থাকলে বুদ বুদের আয়তন বৃদ্ধির কারণ --</div>",
+      "option1": "<div>(ক) পৃষ্ঠটান</div>",
+      "option2": "<div>(খ) সান্দ্রতা</div>",
+      "option3": "<div>(গ) চাপ</div>",
+      "option4": "<div>(ঘ) ঘনত্ব</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৪২. স্থির চাপে গ্যাসের আয়তন প্রসারণ সহগের মান --</div>",
+      "option1": "<div>(ক) 0.0366$\\mathrm{{}^\\circ}$ ${সেন্টিগ্রেড}^১$</div>",
+      "option2": "<div>(খ) .366$\\mathrm{{}^\\circ}$ ${সেন্টিগ্রেড}^১$</div>",
+      "option3": "<div>(গ) $\\frac{1}{273}{}^\\circ {সেন্টিগ্রেড}^{-১}$</div>",
+      "option4": "<div>(ঘ) 273$\\mathrm{{}^\\circ}$ ${সেন্টিগ্রেড}^১$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৪৩. আদর্শ গ্যাসের সমীকরণ: এখানে কী?</div>",
+      "option1": "<div>(ক) মোলার সংখ্যা</div>",
+      "option2": "<div>(খ) মোল সংখ্যা</div>",
+      "option3": "<div>(গ) অণু সংখ্যা</div>",
+      "option4": "<div>(ঘ) কম্পাঙ্ক</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৪৪. 4 মোল $O_2$গ্যাসের ক্ষেত্রে R এর মান হবে --</div>",
+      "option1": "<div>(ক) 33.24 JK${}^{-1}$mol${}^{-1}$</div>",
+      "option2": "<div>(খ) 1.038 JK${}^{-1}$mol${}^{-1}$</div>",
+      "option3": "<div>(গ) 8.31 JK${}^{-1}$mol${}^{-1}$</div>",
+      "option4": "<div>(ঘ) 1.06${\\times 10}^3$ JK${}^{-1}$mol${}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Mcq/145.webp",
+      "mcqQuestion": "<div>১৪৫. n${}_{1}$ এবং n${}_{2}$মোল সংখ্যা বিশিষ্ট গ্যাসের ক্ষেত্রে P-V গ্রাফ হলো --<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) n${}_{1}$${}_{\\ }$$\\mathrm{&gt;}$ n${}_{2}$</div>",
+      "option2": "<div>(খ) n${}_{1}$${}_{\\ }$= n${}_{2}$</div>",
+      "option3": "<div>(গ) n${}_{1}$${}_{\\ }$$\\mathrm{&lt;}$ n${}_{2}$</div>",
+      "option4": "<div>(ঘ) কোনটিই নয়</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৪৬. স্থির উষ্নতায় কত চাপ প্রয়োগ করলে একটি গ্যাসের আয়তন এর স্বাভাবিক চাপের আয়তনের ৪ গুণ হবে?</div>",
+      "option1": "<div>(ক) ${1.013\\times 10}^5Pa$</div>",
+      "option2": "<div>(খ) ${3.25\\times 10}^4Pa$</div>",
+      "option3": "<div>(গ)$\\ {2.53\\times 10}^4Pa$</div>",
+      "option4": "<div>(ঘ)$\\ {5\\times 10}^4Pa$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৪৭. একটি গাড়ির চাকা তাপমাত্রায় এবং চাপে আয়তনের বাতাস ধরে রাখে। চাকার অভ্যন্তরস্থ বাতাসের ভর কত?</div>",
+      "option1": "<div>(ক) 2.41 g</div>",
+      "option2": "<div>(খ) 28.8 g</div>",
+      "option3": "<div>(গ) 69.3 g</div>",
+      "option4": "<div>(ঘ) 239.3 g</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৪৮. নিচের কোন সমীকরণটি ঠিক?</div>",
+      "option1": "<div>(ক) ${1\\ Pa=1\\ N\\ m}^3$</div>",
+      "option2": "<div>(খ) ${1\\ atm=1.013\\times 10}^5\\ mm\\ Hg$</div>",
+      "option3": "<div>(গ) ${1\\ atm=101.32\\ Pa}$</div>",
+      "option4": "<div>(ঘ) ${1\\ atm=1.01\\times \\ 10}^2\\ kPa$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৪৯. 1 torr=?</div>",
+      "option1": "<div>(ক) $\\frac{1}{2}\\ mmHg$</div>",
+      "option2": "<div>(খ) $1\\ mmHg$</div>",
+      "option3": "<div>(গ) $1\\frac{1}{2}\\ mmHg$</div>",
+      "option4": "<div>(ঘ) $2\\ mmHg$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৫০. 72 cmপারদ চাপে এবং 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় 20kg অক্সিজেন গ্যাসের আয়তন কত?</div>",
+      "option1": "<div>(ক) 0.16 $m^3$</div>",
+      "option2": "<div>(খ) 0.162 $m^3$</div>",
+      "option3": "<div>(গ) 0.0162 $m^3$</div>",
+      "option4": "<div>(ঘ) 0.62 $m^3$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৫১. গ্যাসের চাপ, আয়তন ও তাপমাত্রার মধ্যে সম্পর্ক কি নামে পরিচিত?</div>",
+      "option1": "<div>(ক) বয়েলের সূত্র</div>",
+      "option2": "<div>(খ) চার্লসের সূত্র</div>",
+      "option3": "<div>(গ) চাপের সূত্র</div>",
+      "option4": "<div>(ঘ) গ্যাসের সূত্র</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৫২. 10$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় 1 লিটার বায়ুতে তাপ প্রয়োগ করা হলো যে পর্যন্ত এর আয়তন ও চাপ দ্বিগুণ না হয়। বায়ুর চূড়ান্ত তাপমাত্রা কত?</div>",
+      "option1": "<div>(ক) 483 K</div>",
+      "option2": "<div>(খ) 566 K</div>",
+      "option3": "<div>(গ) 283 K</div>",
+      "option4": "<div>(ঘ) 1132 K</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৫৩. গ্যাস সমীকরণের নির্দেশ করে --</div>",
+      "option1": "<div>(ক) পাত্রের আয়তন</div>",
+      "option2": "<div>(খ) মোল গ্যাসের আয়তন</div>",
+      "option3": "<div>(গ) 1 মোল গ্যাসের আয়তন</div>",
+      "option4": "<div>(ঘ) 2 মোল গ্যাসের আয়তন</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৫৪. গ্যাসের গতিতত্ত্বের মৌলিক স্বীকার্য অনুযায়ী বেগ --</div>",
+      "option1": "<div>(ক) শূন্য</div>",
+      "option2": "<div>(খ) অসীম</div>",
+      "option3": "<div>(গ) শূন্য হতে অসীম</div>",
+      "option4": "<div>(ঘ) শূন্য ও অসীমের মাঝামাঝি</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৫৫. গ্যাসের গতিত্ত্ব অনুসারে একটি গ্যাস সিলিন্ডারের চাপের সৃষ্টি হয়, কারণ--</div>",
+      "option1": "<div>(ক) সিলিন্ডারের দেয়ালের সাথে অণুগুলোর ধাক্কার দরুন</div>",
+      "option2": "<div>(খ) সিলিন্ডারের দেয়ালে গ্যাস অণুগুলোর বিস্ফোরণের দরুন</div>",
+      "option3": "<div>(গ) সিলিন্ডারের গ্যাসের অণুগুলোর অস্থিতিস্থাপক সংঘর্ষের দরুন</div>",
+      "option4": "<div>(ঘ) গ্যাস অণুগুলো একটি আরেকটির চেয়ে অনেক দূরে</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৫৬. কোনো গ্যাসের মূল গড় বর্গবেগ এর পরম তাপমাত্রার --</div>",
+      "option1": "<div>(ক) সমানুপাতিক</div>",
+      "option2": "<div>(খ) ব্যস্তানুপাতিক</div>",
+      "option3": "<div>(গ) বর্গমূলের সমানুপাতিক</div>",
+      "option4": "<div>(ঘ) বর্গমূলের ব্যস্তানুপাতিক</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৫৭. ক্লাসিয়াস, বোল্টজম্যান, ম্যাক্সওয়েলের গড় মুক্তপথের সমীকরণের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) ${\\lambda }_C={\\lambda }_B={\\lambda }_M$</div>",
+      "option2": "<div>(খ) ${0.75\\ \\lambda }_C={\\lambda }_B={0.70\\ \\lambda }_M$</div>",
+      "option3": "<div>(গ) $0.707\\ {\\lambda }_C=2{\\lambda }_B=0.75{\\lambda }_M$</div>",
+      "option4": "<div>(ঘ) ${\\lambda }_C=\\frac{{\\lambda }_B}{0.75}=\\frac{{\\lambda }_M}{0.707}$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৫৮. 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় অণুর মূল গড় বর্গ বেগেরে মান কত?</div>",
+      "option1": "<div>(ক) 415.28 ${ms}^{-1}$</div>",
+      "option2": "<div>(খ) 341.8 ${ms}^{-1}$</div>",
+      "option3": "<div>(গ) 465.9 ${ms}^{-1}$</div>",
+      "option4": "<div>(ঘ) 483.44 ${ms}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৫৯. কোন গ্যাসের অণুর গড় মুক্ত পথ ${2.2\\times 10}^{-8}m$ এবং ${2\\times 10}^{-16}m$ ব্যাস হলে প্রতি ঘনসেন্টিমিটারে অণুর সংখ্যা কত?</div>",
+      "option1": "<div>(ক) ${2.55\\times 10}^{26}$</div>",
+      "option2": "<div>(খ) ${2.55\\times 10}^{24}$</div>",
+      "option3": "<div>(গ) ${2.55\\times 10}^{20}$</div>",
+      "option4": "<div>(ঘ) ${1.81\\times 10}^{26}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৬০. কোনটা সব কণার জন্য এবং সব তাপমাত্রায় গ্যাসের জন্য কোনটা প্রযোজ্য?</div>",
+      "option1": "<div>(ক) ভর</div>",
+      "option2": "<div>(খ) ভরবেগ</div>",
+      "option3": "<div>(গ) আয়তন</div>",
+      "option4": "<div>(ঘ) গতিশক্তি</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৬১. স্থির চাপে কোন তাপমাত্রায় কোন গ্যাসের অণুর মূল গড় বর্গবেগ S.T.P এ মূলগড় বর্গবেগের অর্ধেক হবে?</div>",
+      "option1": "<div>(ক) 68.25 K</div>",
+      "option2": "<div>(খ) 273 K</div>",
+      "option3": "<div>(গ) 300 K</div>",
+      "option4": "<div>(ঘ) 373 K</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৬২. একটি গ্যাসের ঘনত্ব 1.25 kg $m^3$ , গড় বর্গবেগ 3750 ${ms}^{-1}$ হলে চাপ কত?</div>",
+      "option1": "<div>(ক) 1662.5 Pa</div>",
+      "option2": "<div>(খ) 1562.5 Pa</div>",
+      "option3": "<div>(গ) 1762.5 Pa</div>",
+      "option4": "<div>(ঘ) 1462.5 Pa</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৬৩. একটি গ্যাস অণুর গতিশক্তি বিষয়ক সমীকরণ কোনটি?</div>",
+      "option1": "<div>(ক) $K.E=\\frac{3}{2}KT$</div>",
+      "option2": "<div>(খ) $K.E=\\frac{1}{2}KT$</div>",
+      "option3": "<div>(গ) $K.E=\\frac{1}{3}KT$</div>",
+      "option4": "<div>(ঘ)$\\ K.E=\\frac{2}{3}KT$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৬৪. 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় 4g অক্সিজেন গ্যাসের মোট গতিশক্তি?</div>",
+      "option1": "<div>(ক) 116.86 J</div>",
+      "option2": "<div>(খ) 207.75 J</div>",
+      "option3": "<div>(গ) 467.44 J</div>",
+      "option4": "<div>(ঘ) 149.58 J</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৬৫. গ্যাসের অণুর গড় গতিশক্তি কত?</div>",
+      "option1": "<div>(ক) $\\frac{3}{2}RT$</div>",
+      "option2": "<div>(খ) $\\frac{3}{2}KT$</div>",
+      "option3": "<div>(গ) $\\frac{1}{2}KT$</div>",
+      "option4": "<div>(ঘ) $\\frac{1}{2}RT$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৬৬. 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় এক মোল গ্যাসের গতিশক্তি একটি অণুর গতিশক্তির প্রায় কত গুণ?</div>",
+      "option1": "<div>(ক) $6\\times {10}^{19}$</div>",
+      "option2": "<div>(খ) $6\\times {10}^{21}$</div>",
+      "option3": "<div>(গ) $6\\times {10}^{23}$</div>",
+      "option4": "<div>(ঘ)$\\ 6\\times {10}^{25}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৬৭. স্বাভাবিক তাপমাত্রায় নাইট্রোজেন গ্যাসের মোট গতিশক্তি কত?</div>",
+      "option1": "<div>(ক) 2431.8 J</div>",
+      "option2": "<div>(খ) 4431.8 J</div>",
+      "option3": "<div>(গ) 3431.8 J</div>",
+      "option4": "<div>(ঘ) 5431.8 J</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৬৮. 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় এক গ্রাম অণু হিলিয়াম গ্যাসের গতিশক্তি --</div>",
+      "option1": "<div>(ক) 7393 J mol${}^{-1}$</div>",
+      "option2": "<div>(খ) 7339 J mol${}^{-1}$</div>",
+      "option3": "<div>(গ) 3759.3 J mol${}^{-1}$</div>",
+      "option4": "<div>(ঘ) 3739.5 J mol${}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৬৯. বোলজম্যান ধ্র্রুবক এর একক কোনটি?</div>",
+      "option1": "<div>(ক) J mol${}^{-1}$k${}^{-1}$</div>",
+      "option2": "<div>(খ) J k${}^{-1}$</div>",
+      "option3": "<div>(গ) J</div>",
+      "option4": "<div>(ঘ) কোন একক নয়</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৭০. 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় অক্সিজেন গ্যাসের গতিশক্তি কত?</div>",
+      "option1": "<div>(ক) 3742 J</div>",
+      "option2": "<div>(খ) 374 J</div>",
+      "option3": "<div>(গ) 37.4 J</div>",
+      "option4": "<div>(ঘ) 734 J</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৭১. 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় অক্সিজেনের মূল গড় বর্গবেগ কত?</div>",
+      "option1": "<div>(ক) 431 ${ms}^{-1}$</div>",
+      "option2": "<div>(খ) 441 ${ms}^{-1}$</div>",
+      "option3": "<div>(গ) 451 ${ms}^{-1}$</div>",
+      "option4": "<div>(ঘ) 461 ${ms}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৭২. মূল গড় বর্গবেগের সাথে চাপের সম্পর্ক কোনটি?</div>",
+      "option1": "<div>(ক) $c=\\sqrt{\\frac{3P}{\\rho }}$</div>",
+      "option2": "<div>(খ) $c=\\sqrt{\\frac{3\\rho }{P}}$</div>",
+      "option3": "<div>(গ) $c=\\sqrt{\\frac{P}{3\\rho }}$</div>",
+      "option4": "<div>(ঘ) $c=\\frac{\\sqrt{}3P}{\\rho }$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৭৩. তাপমাত্রায় এক মোল আদর্শ গ্যাসের গতিশক্তি --</div>",
+      "option1": "<div>(ক) $\\frac{1}{3}RT$</div>",
+      "option2": "<div>(খ) $\\frac{2}{3}RT$</div>",
+      "option3": "<div>(গ) $\\frac{3}{2}RT$</div>",
+      "option4": "<div>(ঘ) $\\frac{3}{2}KT$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৭৪. শূন্যস্থানে এক পরমাণুক গ্যাসের একটি অণুর স্বাধীনতার মাত্রা সংখ্যা হলো-</div>",
+      "option1": "<div>(ক) 0</div>",
+      "option2": "<div>(খ) 1</div>",
+      "option3": "<div>(গ) 3</div>",
+      "option4": "<div>(ঘ) 6</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৭৫. 20 স্বাধীনতা মাত্রাসম্পন্ন কোন অণুর মোট জড়শক্তি হবে --</div>",
+      "option1": "<div>(ক) $\\frac{3}{2}KT$</div>",
+      "option2": "<div>(খ) $\\frac{1}{2}KT$</div>",
+      "option3": "<div>(গ) $10\\ RT$</div>",
+      "option4": "<div>(ঘ) $20\\ KT$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৭৬. একটি দ্বি-পারমাণবিক গ্যাস অণুর স্বাধীনতার মাত্রা কত?</div>",
+      "option1": "<div>(ক) 2</div>",
+      "option2": "<div>(খ) 4</div>",
+      "option3": "<div>(গ) 5</div>",
+      "option4": "<div>(ঘ) 6</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৭৭. একটি লেকের তলদেশ থেকে উপরিতলে আসার সময় বাতাসের বুদবুদ আয়তেন দ্বিগুণ হয়ে। বায়ুর চাপ হলে লেকের গভীরতা কত?</div>",
+      "option1": "<div>(ক) 10 m</div>",
+      "option2": "<div>(খ) 10.2 m</div>",
+      "option3": "<div>(গ) 20 m</div>",
+      "option4": "<div>(ঘ) 30 m</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৭৮. জলীয় বাষ্পের সংকট তাপমাত্রা কত?</div>",
+      "option1": "<div>(ক) -119$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) -240$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) 100$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 361$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৭৯. সাধারণ গ্যাসের ন্যায় আচরণ করে --</div>",
+      "option1": "<div>(ক) সম্পৃক্ত বাষ্প</div>",
+      "option2": "<div>(খ) অসম্পৃক্ত বাষ্প</div>",
+      "option3": "<div>(গ) উভয়টি</div>",
+      "option4": "<div>(ঘ) কোনটিই নয়</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৮০. অসম্পৃক্ত বাষ্পচাপ এবং সম্পৃক্ত বাষ্পচাপ হলে নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) f $\\mathrm{&gt;}$ F</div>",
+      "option2": "<div>(খ) f$\\mathrm{\\ge }$F</div>",
+      "option3": "<div>(গ) f $\\mathrm{&lt;}$ F</div>",
+      "option4": "<div>(ঘ) f=F</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৮১. বায়ুমন্ডলে জলীয় বাষ্প ঘনীভূত হওয়ার ফল নয় কোনটি?</div>",
+      "option1": "<div>(ক) শিশির</div>",
+      "option2": "<div>(খ) কুয়াশা</div>",
+      "option3": "<div>(গ) ঝড়</div>",
+      "option4": "<div>(ঘ) বৃষ্টি</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৮২. যদি সিক্ত ও শুষ্ক বাল্বের পাঠের পার্থক্য শূন্য হলে --</div>",
+      "option1": "<div>(ক) বাতাস অসম্পৃক্ত</div>",
+      "option2": "<div>(খ) বাতাসের তাপমাত্রা শিশিরাঙ্কের সমান</div>",
+      "option3": "<div>(গ) বাতাস শুষ্ক</div>",
+      "option4": "<div>(ঘ) আর্দ্রতা সর্বনিন্ম</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৮৩. আপেক্ষিক আর্দ্রতা কত হলে শিশিরাঙ্ক বায়ুর তাপমাত্রার সমান হবে?</div>",
+      "option1": "<div>(ক) শূন্য</div>",
+      "option2": "<div>(খ) 50%</div>",
+      "option3": "<div>(গ) 75%</div>",
+      "option4": "<div>(ঘ) 100%</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৮৪. কোন একদিন সিক্ত ও শুষ্ক বাল্ব আর্দ্রতামাপক যন্ত্রের শুষ্ক ও সিক্ত বাল্বের পাঠ যথাক্রমে 30$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ ও 28$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ হলে শিশিরাঙ্ক কত?</div>",
+      "option1": "<div>(ক) 29$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 28.7$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) 26.7$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 26$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৮৫. একই তাপমাত্রায় কোন শহরে বিশ স্বস্থি বোধ করবে?</div>",
+      "option1": "<div>(ক) নাটোর</div>",
+      "option2": "<div>(খ) রাজশাহী</div>",
+      "option3": "<div>(গ) চট্টগ্রাম</div>",
+      "option4": "<div>(ঘ) কক্সবাজার</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৮৬.NTP তে 1 মোল গ্যাসের আয়তন --<br>i. 22.4 লিটার<br>ii. 22.4 সিসি<br>iii. 22.4 মিলিলিটার<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৮৭. কোনো ঘরের উষ্ঞতা ও শিশিরাংক সমান হলে কোনটি সত্য হবে?<br>i. আপেক্ষিক আর্দ্রতা হবে ১০০%<br>ii. ঘরের বায়ু, তাতে উপস্থিত জলীয় বাষ্প দ্বারা সম্পৃক্ত থাকবে<br>iii. ঘরের বায়ু সম্পূর্ণ শুষ্ক থাকবে<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৮৮. স্থির চাপে নির্দিষ্ট ভরের গ্যাসের আয়তন এর পরম তাপমাত্রার --<br>i. ব্যস্তানুপাতিক<br>ii. সমানুপাতিক<br>iii. সমান<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i</div>",
+      "option2": "<div>(খ) i ও ii</div>",
+      "option3": "<div>(গ) I,ii ও iii</div>",
+      "option4": "<div>(ঘ) ii</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৮৯. তাপমাত্রা বাড়লে কোন নির্দিষ্ট ভর গ্যাসের --<br>i. আয়তন বৃদ্ধি পায়<br>ii. ঘনত্ব বৃদ্ধি পায়<br>iii. সংঘর্ষ বৃদ্ধি পায়<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৯০. দুইটি অণুর মধ্যে সংঘর্ষে --<br>i. ভরবেগ সংরক্ষিত হয়<br>ii. গতিশক্তি সংরক্ষিত হয়<br>iii.তাপ উৎপন্ন হয়<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i</div>",
+      "option2": "<div>(খ) ii</div>",
+      "option3": "<div>(গ) i ও ii</div>",
+      "option4": "<div>(ঘ) iii</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৯১. গ্যাসের গতিতত্ত্বের মৌলিক স্বীকার্যের অন্তর্ভুক্ত --<br>i. অণুগুলো স্থিতিস্থাপক গোলক<br>ii. এদের শক্তি সম্পূর্ণটাই গতিশক্তি<br>iii. এদের গতি নিউটনের গতিসূত্র মেনে চলে<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) i, ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৯২. $PV=\\frac{1}{3}{mac}^2$ সমীকরণে c কী নির্দেশ করে?<br>i. গ্যাসের একটি অণুর বেগ<br>ii. গ্যাসের সকল অণুর গড় বেগ<br>iii. গ্যাসের সকল অণুর মূল গড় বর্গবেগ<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i</div>",
+      "option2": "<div>(খ) ii</div>",
+      "option3": "<div>(গ) iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>কোন একদিন বায়ুর তাপমাত্রা 26$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ এবং শিশিরাঙ্ক 20.4$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$, 20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$, 22$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ এবং 26$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় সম্পৃক্ত বাষ্পের চাপ যথাক্রমে 17.54, 19.83 এবং 25.21 পারদ চাপ।<br>এ তথ্য থেকে নিচের ১৯৩ ও ১৯৪ নং প্রশ্নের উত্তর দাও :<br>১৯৩. শিশিরাঙ্ক 20.4$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ কত হবে?</div>",
+      "option1": "<div>(ক) 12.998 mm Hg</div>",
+      "option2": "<div>(খ) 15.998 mm Hg</div>",
+      "option3": "<div>(গ) 17.998 mm Hg</div>",
+      "option4": "<div>(ঘ) 20.998 mm Hg</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৯৪. আপেক্ষিক আর্দ্রতা কত হবে?</div>",
+      "option1": "<div>(ক) 71.39%</div>",
+      "option2": "<div>(খ) 81.39%</div>",
+      "option3": "<div>(গ) 91.39%</div>",
+      "option4": "<div>(ঘ) 93.39%</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় কোন দ্বিপারমাণবিক গ্যাসের গড়বর্গের বর্গমূল মান 1930 ms${}^{-1}$ পাওয়া গেল।<br>উপরের তথ্যের আলোকে নিচের ১৯৫ ও ১৯৬ নং প্রশ্নের উত্তর দাও:<br>১৯৫. গ্যাসটি কী?</div>",
+      "option1": "<div>(ক) H${}_{2}$</div>",
+      "option2": "<div>(খ) F${}_{2}$</div>",
+      "option3": "<div>(গ) O${}_{2}$</div>",
+      "option4": "<div>(ঘ) Cl${}_{2}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৯৬. গ্যাসটির শক্তির সমবিভাজন নীতি অনুযায়ী গড় গতিশক্তি কত?</div>",
+      "option1": "<div>(ক) $\\frac{5}{2}KT$</div>",
+      "option2": "<div>(খ) $\\frac{3}{2}KT$</div>",
+      "option3": "<div>(গ) $\\frac{7}{2}KT$</div>",
+      "option4": "<div>(ঘ) $\\frac{1}{2}KT$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>তথ্যের ভিত্তিতে ১৯৭ ও ১৯৮ নং প্রশ্নের উত্তর দাও:<br>১৯৭. 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় গ্যাসের গতিশক্তি কত?</div>",
+      "option1": "<div>(ক) 3403 J</div>",
+      "option2": "<div>(খ) 2403 J</div>",
+      "option3": "<div>(গ) 2.07 J</div>",
+      "option4": "<div>(ঘ) 3404 J</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৯৮. 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় গ্যাসের একটি অণুর গতিশক্তি কত?</div>",
+      "option1": "<div>(ক) 3404 J</div>",
+      "option2": "<div>(খ) 2404 J</div>",
+      "option3": "<div>(গ) 5.65 J</div>",
+      "option4": "<div>(ঘ) 3404 J</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>পারদ চাপে তাপমাত্রায় নাইট্রোজেনের কিছু আয়তন পাওয়া গেল।<br>উপরের তথ্যের আলোকে নিচের ১৯৯ ও ২০০ নং প্রশ্নের উত্তর দাও :<br>১৯৯. নাইট্রোজেনের আয়তন কত?</div>",
+      "option1": "<div>(ক)$\\ 10.99\\times {10}^{-3}\\ m^3$</div>",
+      "option2": "<div>(খ) $11.99\\times {10}^{-3}\\ m^3$</div>",
+      "option3": "<div>(গ) $12.99\\times {10}^{-3}\\ m^3$</div>",
+      "option4": "<div>(ঘ) $13.99\\times {10}^{-3}\\ m^3$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২০০. নাইট্রোজেনের কত মোল ব্যবহৃত হয়েছে?</div>",
+      "option1": "<div>(ক) 2.5</div>",
+      "option2": "<div>(খ) 2</div>",
+      "option3": "<div>(গ) 1</div>",
+      "option4": "<div>(ঘ) 0.5</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>উদ্দীপকটি পড়ে ২০১ ও ২০২ নং প্রশ্নের উত্তর দাও:<br>রানা একটি ঘরের আপেক্ষিক আর্দ্রতা নির্ণয় করতে গিয়ে দেখল সিক্ত ও শুষ্ক বাল্ব থার্মোমিটারের পাঠ 22$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ ও 30$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$এবং 30$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় গ্লেসিয়ারের উৎপাদক 1.60<br>২০১. উদ্দীপকে উল্লিখিত ঘরের শিশিরাঙ্ক কত?</div>",
+      "option1": "<div>(ক) 113.2</div>",
+      "option2": "<div>(খ) 17.2</div>",
+      "option3": "<div>(গ) 9.2</div>",
+      "option4": "<div>(ঘ) 7.8</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২০২. উদ্দীপকে উল্লিখিত দুই থার্মোমিটারের পাঠ হঠাৎ বেড়ে গেলে বুঝা যায় ঐ স্থানে --<br>i. আপেক্ষিক আর্দ্রতা বৃদ্ধি পেয়েছে<br>ii. আপেক্ষিক আর্দ্রতা হ্রাস পেয়েছে<br>iii. ভিজা কাপড় তাড়াতাড়ি শুকাবে<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i</div>",
+      "option2": "<div>(খ) i ও ii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২০৩. ধ্র্রুবক সমীকরণটি সাধারণভাবে কোন সূত্রের প্রকাশ?</div>",
+      "option1": "<div>(ক) বয়েলের সূত্র</div>",
+      "option2": "<div>(খ) চার্লসের সূত্র</div>",
+      "option3": "<div>(গ) চাপীয় সূত্র</div>",
+      "option4": "<div>(ঘ) আদর্শ গ্যাস সমীকরণ</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২০৪. তাপমাত্রা বৃদ্ধি পেলে অণুগুলোর গড় বর্গবেগ --</div>",
+      "option1": "<div>(ক) হ্রাস পায়</div>",
+      "option2": "<div>(খ) বৃদ্ধি পায়</div>",
+      "option3": "<div>(গ) অপরিবর্তিত থাকে</div>",
+      "option4": "<div>(ঘ) শূন্য হয়</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২০৫. গড় মুক্তপথ --<br>i. একক আয়তনের অণুর সংখ্যার ব্যস্তানুপাতিক<br>ii. অণুর ব্যাসের বর্গের ব্যস্তানুপাতিক<br>iii. গ্যাসের চাপ ও তাপমাত্রার সমানুপাতিক<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>কোনো গ্যাসের ৪টি অণুর বেগ যথাক্রমে 2, 3, 4, 4, 5, 7, 7 এবং 8 ms${}^{-1}$।<br>উপরের তথ্যের আলোকে ২০৬ ও ২০৭ নং প্রশ্নের উত্তর দাও:<br>২০৬. গ্যাসের অণুগুলোর গড় বর্গবেগ কত হবে?</div>",
+      "option1": "<div>(ক) 3 ms${}^{-1}$</div>",
+      "option2": "<div>(খ) 4 ms${}^{-1}$</div>",
+      "option3": "<div>(গ) 5 ms${}^{-1}$</div>",
+      "option4": "<div>(ঘ) 6 ms${}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২০৭. গ্যাস অণুগুলোর গড়বর্গের বর্গমূল এর মান কত?</div>",
+      "option1": "<div>(ক) 2.385 ms${}^{-1}$</div>",
+      "option2": "<div>(খ) 3.385 ms${}^{-1}$</div>",
+      "option3": "<div>(গ) 4.385 ms${}^{-1}$</div>",
+      "option4": "<div>(ঘ) 5.385 ms${}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২০৮. ধ্র্রুবক, সমীকরণটি নিচের কোন প্রক্রিয়াকে সমর্থন করে?</div>",
+      "option1": "<div>(ক) সমোষ্ণ</div>",
+      "option2": "<div>(খ) সম আয়তন</div>",
+      "option3": "<div>(গ) সমচাপ</div>",
+      "option4": "<div>(ঘ) রুদ্ধতাপীয়</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqImage": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/assets/1stPaperTestPaper/Chapter10Mcq/209.webp",
+      "mcqQuestion": "<div>২০৯. স্থির তাপমাত্রায় নির্দিষ্ট ভরের কোনো আদর্শ গ্যাসের ক্ষেত্রে লেখচিত্র নিচের কোনটি?</div>",
+      "option1": "<div>(ক)</div>",
+      "option2": "<div>(খ)</div>",
+      "option3": "<div>(গ)</div>",
+      "option4": "<div>(ঘ)</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২১০. গ্যাসের চলরাশি কয়টি?</div>",
+      "option1": "<div>(ক) 2</div>",
+      "option2": "<div>(খ) 3</div>",
+      "option3": "<div>(গ) 4</div>",
+      "option4": "<div>(ঘ) 5</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২১১. গরম বস্তু ঠান্ডা করতে কোনটি অধিক উপযোগী?</div>",
+      "option1": "<div>(ক) শীতল বাতাস</div>",
+      "option2": "<div>(খ) শীতল পানি</div>",
+      "option3": "<div>(গ) বরফ</div>",
+      "option4": "<div>(ঘ) সবগুলো সমান</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২১২. আদর্শ গ্যাসের অণুর গড় গতিশক্তি কত?</div>",
+      "option1": "<div>(ক) $\\frac{1}{2}KT$</div>",
+      "option2": "<div>(খ) $\\frac{1}{2}RT$</div>",
+      "option3": "<div>(গ) $nRT$</div>",
+      "option4": "<div>(ঘ) $\\frac{2}{3}KT$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২১৩. কোনো গ্যাসের আপেক্ষিক তাপ --</div>",
+      "option1": "<div>(ক) একটি</div>",
+      "option2": "<div>(খ) দুটি</div>",
+      "option3": "<div>(গ) তিনটি</div>",
+      "option4": "<div>(ঘ) অসংখ্য</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২১৪. বায়ুর আপেক্ষিক আর্দ্রতা কম হলে বাষ্পায়ন --</div>",
+      "option1": "<div>(ক) তাড়াতাড়ি হবে</div>",
+      "option2": "<div>(খ) ধীরে হবে</div>",
+      "option3": "<div>(গ) একই থাকবে</div>",
+      "option4": "<div>(ঘ) কোনটিই নয়</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২১৫. 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ এ অক্সিজেনের মূল গড়বেগ 461 m/s হলে 100$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ এ মূল গড়বেগ কত হবে?</div>",
+      "option1": "<div>(ক) 539 m/s</div>",
+      "option2": "<div>(খ) 1458 m/s</div>",
+      "option3": "<div>(গ) 798 m/s</div>",
+      "option4": "<div>(ঘ) 4610 m/s</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২১৬. সার্বজনীন গ্যাস ধ্র্রুবকের মান কত?</div>",
+      "option1": "<div>(ক) $R=8.314\\ J/k/mol$</div>",
+      "option2": "<div>(খ) $R=8.314\\ J/k$</div>",
+      "option3": "<div>(গ) $R=8.314\\ J/mol$</div>",
+      "option4": "<div>(ঘ) $R=8.314\\ kJ/mol$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২১৭. অক্সিজেন গ্যাসে কত মোল অক্সিজেন বিদ্যমান?</div>",
+      "option1": "<div>(ক) 5</div>",
+      "option2": "<div>(খ) 8</div>",
+      "option3": "<div>(গ) 12</div>",
+      "option4": "<div>(ঘ) 16</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২১৮. 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ উষ্ণতায় 2g নাইট্রোজেনের গতিশক্তি হবে -</div>",
+      "option1": "<div>(ক) 267 J</div>",
+      "option2": "<div>(খ) 276 J</div>",
+      "option3": "<div>(গ) 627 J</div>",
+      "option4": "<div>(ঘ) 672 J</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২১৯. 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ উষ্নতায় কোনো নির্দিষ্ট আয়তনের গ্যাসের চাপ $3\\times {10}^5\\ Pa$ হলে 60$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ উঞ্হতায় এর চাপ কত হবে?</div>",
+      "option1": "<div>(ক) $3.66\\times {10}^5\\ Pa$</div>",
+      "option2": "<div>(খ) $2.45\\times {10}^5\\ Pa$</div>",
+      "option3": "<div>(গ) $0.27\\times {10}^{-5}\\ Pa$</div>",
+      "option4": "<div>(ঘ) $0.40\\times {10}^{-5}\\ Pa$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২২০. গ্যাসের অণুর গতিশক্তি হলো --</div>",
+      "option1": "<div>(ক) $\\frac{1}{2}KT$</div>",
+      "option2": "<div>(খ) $\\frac{3}{2}KT$</div>",
+      "option3": "<div>(গ) $\\frac{1}{3}KT$</div>",
+      "option4": "<div>(ঘ) $\\frac{2}{3}KT$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২২১. শিশিরাঙ্ক বলতে আমরা বুঝি --</div>",
+      "option1": "<div>(ক) তাপ</div>",
+      "option2": "<div>(খ) তাপমাত্রা</div>",
+      "option3": "<div>(গ) আর্দ্রতা</div>",
+      "option4": "<div>(ঘ) আপেক্ষিক আর্দ্রতা</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২২২. গ্যাসের জন্য এর মান কত?</div>",
+      "option1": "<div>(ক) 1.66</div>",
+      "option2": "<div>(খ) 1.41</div>",
+      "option3": "<div>(গ) 1.33</div>",
+      "option4": "<div>(ঘ) 1.2</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২২৩. অসম্পৃক্ত বাষ্পের ক্ষেত্রে --<br>i. আবদ্ধ বা খোলা যে কোনো স্থানে এটি তৈরি করা যায়<br>ii. তাপমাত্রা বাড়িয়ে এটিকে সম্পৃক্ত বাষ্পে পরিণত করা যায়<br>iii. এটি বয়েল এবং চার্লেসের সূত্র মেনে চলে<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) ii ও iii</div>",
+      "option3": "<div>(গ) i ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২২৪. $\\frac{V_1}{T_1}=\\frac{V_2}{T_2}$ সম্পর্কটি কোন সূত্রকে সমর্থন করে?</div>",
+      "option1": "<div>(ক) বয়েলের সূত্র</div>",
+      "option2": "<div>(খ) চার্লসের সূত্র</div>",
+      "option3": "<div>(গ) চাপের সূত্র</div>",
+      "option4": "<div>(ঘ) অ্যাভোগ্যাড্রোর সূত্র</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২২৫. স্থির চাপে নির্দিষ্ট ভরের গ্যাসের আয়তন এর পরম তাপমাত্রার --<br>i. ব্যস্তানুপাতিক ii. সমানুপাতিক iii. বর্গের ব্যস্তানুপাতিক<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i</div>",
+      "option2": "<div>(খ) i ও ii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) ii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২২৬. পরম স্কেলে চাপের সূত্র হলো --</div>",
+      "option1": "<div>(ক) $P\\propto T^2$</div>",
+      "option2": "<div>(খ) $P\\propto \\frac{1}{T}$</div>",
+      "option3": "<div>(গ) $P\\propto T$</div>",
+      "option4": "<div>(ঘ) $P\\propto \\sqrt{}T$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২২৭. আদর্শ গ্যাসের বৈশিষ্ট হলো --<br>i. সকল তাপমাত্রা ও চাপে সমীকরণ মেনে চলে<br>ii. স্থির তাপমাত্রায় এর অভ্যন্তরীণ শক্তি এর আয়তনের উপর নির্ভরশীল<br>iii. আদর্শ গ্যাসের অণুসমূহের মধ্যে কোনো আকর্ষণ ও বিকর্ষণ নেই<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২২৮. গ্যাসের গতিতত্ত্ব অণুসারে গ্যাস অণুগুলোর মধ্যে কোনো আন্তঃআণবিক আকর্ষণ বল নেই। সুতরাং অণুগুলোর --</div>",
+      "option1": "<div>(ক) রৈখিক ভরবেগ নেই</div>",
+      "option2": "<div>(খ) গতিশক্তি নেই</div>",
+      "option3": "<div>(গ) স্থিতিশক্তি নেই</div>",
+      "option4": "<div>(ঘ) যান্ত্রিক শক্তি নেই</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২২৯. নির্দিষ্ট পরিশাণ কোনো গ্যাসকে থেকে যে তাপমাত্রায় উন্নীত করলে অণুগুলোর বেগ দ্বিগুণ হয় তা হলো --</div>",
+      "option1": "<div>(ক) 327$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 600$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) 927$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 1200$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২৩০. এক বায়ুমন্ডলীয় চাপ সমান --<br>i. 1.013$\\mathrm{\\times}$${10}^5{\\ Nm}^{-2}$<br>ii. 1.013$\\mathrm{\\times}$${10}^5Pa$<br>iii. 760 mm Hg<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২৩১. গ্যাসের অণুর মৌলিক স্বীকার্য হলো --<br>i. কোনো একটি গ্যাসের অণুগুলো সদৃশ<br>ii. গ্যাসের অণুগুলো বিন্দুভর আদর্শ অস্থিতিস্থাপক গোলক<br>iii. অণুগুলোর মধ্যে ধাক্কা সবই তাৎক্ষণিক<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২৩২. গ্যাসের গতিতত্ত্বের ক্ষেত্রে --<br>i. গ্যাসের আয়তনের তুলনায় অণুগুলোর আয়তন নগণ্য<br>ii. সর্বত্র গ্যাসের ঘনত্ব সমান থাকে<br>iii. গ্যাসের শক্তি সম্পূর্ণটাই গতিশক্তি<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২৩৩. আণবিক গতিশক্তি কোন রাশির উপর নির্ভরশীল?</div>",
+      "option1": "<div>(ক) ঘর্ষণ</div>",
+      "option2": "<div>(খ) তাপমাত্রা</div>",
+      "option3": "<div>(গ) অন্তস্থশক্তি</div>",
+      "option4": "<div>(ঘ) তাপ</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২৩৪. জলীয় বাষ্পের চাপ বেড়ে যায় --<br>i. তাপমাত্রা হ্রাস পেলে<br>ii. তাপমাত্রা বৃদ্ধি পেলে<br>iii. তাপমাত্রা স্থির থাকলে<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২৩৫. সম্পৃক্ত বাষ্প চাপের বৈশিষ্ট হলো --<br>i. এটি একটি আবদ্ধ স্থানে তৈরি করা যায়<br>ii. সম্পৃক্ত বাষ্প বয়েল ও চার্লস এর সূত্র মেনে চলে<br>iii. তাপমাত্রা বৃদ্ধি করে একটি নির্দিষ্ট পরিমাণ সম্পৃক্ত বাষ্পকে অসম্পৃক্ত বাষ্পে পরিণত করা যায়<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২৩৬. আপেক্ষিক আর্দ্রতা প্রকাশ করা হয় --<br>i. $R=\\frac{F}{f}$<br>ii. $R=\\frac{f}{F}$<br>iii. $R=\\frac{f}{F}\\times 100%$<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২৩৭. কোনো একদনের শিশিরাঙ্ক 10$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ ও আপেক্ষিক আর্দ্রতা 67.30% । ঐ দিনের বায়ুর সম্পৃক্ত বাষ্প চাপ কত?</div>",
+      "option1": "<div>(ক) $1.01\\times {10}^4\\ m$</div>",
+      "option2": "<div>(খ) $2.02\\times {10}^4\\ m$</div>",
+      "option3": "<div>(গ) $2.02\\times {10}^{-4}\\ m$</div>",
+      "option4": "<div>(ঘ)$\\ 1.01\\times {10}^{-4}\\ m$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২৩৮. বায়ুর আর্দ্রতা কমে গেলে --<br>i. দ্রুত বাষ্পায়ন ঘটে<br>ii. বাষ্পায়ন বন্ধ হয়ে যাবে<br>iii. হাইগ্রোমিটারের দুই থার্মোমিটারের ব্যবধান কমে যায়<<br>নিচের কোনটি সঠিক?</div>",
+      "option1": "<div>(ক) i ও ii</div>",
+      "option2": "<div>(খ) i ও iii</div>",
+      "option3": "<div>(গ) ii ও iii</div>",
+      "option4": "<div>(ঘ) i,ii ও iii</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২৩৯. বর্ষার দিন অপেক্ষা শীতকালে ভিজা কাপড়গ তাড়াতাড়ি শুকায় কেন?</div>",
+      "option1": "<div>(ক) বাতাসে জলীয় বাষ্প বেশি থাকে</div>",
+      "option2": "<div>(খ) বাতাসে জলীয় বাষ্প কম থাকে</div>",
+      "option3": "<div>(গ) বাতাসের চাপ বেশি</div>",
+      "option4": "<div>(ঘ) বাতাসের চাপ কম</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>২৪০. একই তাপমাত্রায় রংপুর অপেক্ষা টেকনাফ অস্বস্থিকর কেন?</div>",
+      "option1": "<div>(ক) বাতাসের চাপ কম</div>",
+      "option2": "<div>(খ) আপেক্ষিক আর্দ্রতা কম</div>",
+      "option3": "<div>(গ) আপেক্ষিক আর্দ্রতা বেশি</div>",
+      "option4": "<div>(ঘ) বাতাসের চাপ বেশি</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২৪১. শুষ্ক ও সিক্ত বাল্বের মধ্যে তাপমাত্রার অধিক পার্থক্য নির্দেশ করে --</div>",
+      "option1": "<div>(ক) উচ্চ আপেক্ষিক আর্দ্রতা</div>",
+      "option2": "<div>(খ) নিন্ম আপেক্ষিক আর্দ্রতা</div>",
+      "option3": "<div>(গ) উচ্চ শিশিরাঙ্ক</div>",
+      "option4": "<div>(ঘ) কোনটিই নয়</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৫. একটি গ্যাসের অণুর ব্যাসার্ধ $3.5\\times {10}^{-10}\\ m$ এবং প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা $2.69\\times {10}^{19}\\ $ । অণুর গড় মুক্ত পথ কত?</div>",
+      "option1": "<div>(ক) $2.42\\times {10}^{-8}\\ m$</div>",
+      "option2": "<div>(খ) $2.42\\times {10}^{-6}\\ m$</div>",
+      "option3": "<div>(গ) $4.22\\times {10}^{-8}\\ m$</div>",
+      "option4": "<div>(ঘ) $4.22\\times {10}^{-6}\\ m$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>১৬. একটি বড় পাত্রের আয়তন $480\\ m^3\\ $ এবং তাপমাত্রা 293 K । তাপমাত্রা 298 K এ উন্নীত হলে বায়ুর শতকরা কত অংশ বের হয়ে যাবে?</div>",
+      "option1": "<div>(ক) 1.71%</div>",
+      "option2": "<div>(খ) 48.71%</div>",
+      "option3": "<div>(গ) 20.1%</div>",
+      "option4": "<div>(ঘ) None of them</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>১৭. একটি নির্দিষ্ট ভরের শুষ্ক বায়ুর 20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় আয়তন 100 cc । যদি উক্ত শুষ্ক বায়ুকে স্থির চাপে 50$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ পর্যন্ত উত্তপ্ত করা হয়, তবে আয়তন কত হবে?</div>",
+      "option1": "<div>(ক) 109 cc</div>",
+      "option2": "<div>(খ) 115 cc</div>",
+      "option3": "<div>(গ) 112 cc</div>",
+      "option4": "<div>(ঘ) 110.2 cc</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>১৮. চাপ স্থির রেখে 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রার কোনো নির্দিষ্ট ভরের গ্যাসকে কত তাপমাত্রায় এর আয়তন দ্বিগুণ হবে?</div>",
+      "option1": "<div>(ক) 159 K</div>",
+      "option2": "<div>(খ) 300 K</div>",
+      "option3": "<div>(গ) 600 K</div>",
+      "option4": "<div>(ঘ) 900 K</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>১৯. গরম বস্তু ঠান্ডা করতে কোনটি অধিক উপযোগী?</div>",
+      "option1": "<div>(ক) শীতল বাতাস</div>",
+      "option2": "<div>(খ) শীতল পানি</div>",
+      "option3": "<div>(গ) বরফ</div>",
+      "option4": "<div>(ঘ) সবগুলো সমান</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২০. তাপধারণ ক্ষমতার মাত্রা সমীকরণ কোনটি?</div>",
+      "option1": "<div>(ক) ML${}^{2}$T${}^{1}$$\\mathrm{\\theta }$${}^{-2}$</div>",
+      "option2": "<div>(খ) ML${}^{2}$T${}^{-2}$$\\mathrm{\\theta }$${}^{-}$${}^{1}$</div>",
+      "option3": "<div>(গ) ML${}^{-1}$T${}^{-2}$$\\mathrm{\\theta }$${}^{-}$${}^{1}$</div>",
+      "option4": "<div>(ঘ) ML${}^{2}$T${}^{-2}$$\\mathrm{\\theta }$${}^{-}$${}^{1 }$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২১. কোনো একদিনের শিশিরাঙ্ক 20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ ও আপেক্ষিক আর্দ্রতা 75%. ঐ দিনের সম্পৃ্ক্ত বায়ুর বাষ্পচাপ কত?</div>",
+      "option1": "<div>(ক) 17.7 mm</div>",
+      "option2": "<div>(খ) $17\\times {10}^{-4}\\ m$</div>",
+      "option3": "<div>(গ) $23.6\\times {10}^{-6}\\ m$</div>",
+      "option4": "<div>(ঘ) $23.6\\times {10}^{-4}\\ m$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২২. কোন গ্যাস অণুর গড় মুক্তপথ এর ব্যাসের --</div>",
+      "option1": "<div>(ক) সমানুপাতিক</div>",
+      "option2": "<div>(খ) বর্গের ব্যস্তানুপাতিক</div>",
+      "option3": "<div>(গ) বর্গের সমানুপাতিক</div>",
+      "option4": "<div>(ঘ) বর্গমূলের সমানুপাতিক</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২৩. কোনো একটি গ্যাসের অণুগুলোর গড় মুক্ত পথ $2.4\\times {10}^{-6}\\ m$ ও আণবিক ব্যাস $2.0\\times {10}^{-6}\\ cm$ হলে প্রতি ঘন সেন্টিমিটারে অণুর সংখ্যা কত?</div>",
+      "option1": "<div>(ক) $2.345\\times {10}^{26}$</div>",
+      "option2": "<div>(খ) $3.2\\times {10}^{22}$</div>",
+      "option3": "<div>(গ) $2.342\\times {10}^{28}$</div>",
+      "option4": "<div>(ঘ) $2.344\\times {10}^{20}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২৪. গ্যাসের গতিতত্ত্ব অনুসারে তাপমাত্রায় গ্যাসের গতিশক্তি হবে --</div>",
+      "option1": "<div>(ক) সর্বাধিক</div>",
+      "option2": "<div>(খ) শূন্য</div>",
+      "option3": "<div>(গ) মাঝামাঝি</div>",
+      "option4": "<div>(ঘ) কোনটিই নয়</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>২৫. S.T.P তে সকল গ্যাসের মোলার আয়তন --</div>",
+      "option1": "<div>(ক) 22.4 L</div>",
+      "option2": "<div>(খ) 22.9 L</div>",
+      "option3": "<div>(গ) 28.4 L</div>",
+      "option4": "<div>(ঘ) 22.8 L</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২৬. n সংখ্যক গ্যাসের অণুর প্রত্যেকটির দ্রুতি $2\\ {ms}^{-1}$। অণুগুলোর r.m.s দ্রুতি কত $2\\ {ms}^{-1}$?</div>",
+      "option1": "<div>(ক) $\\frac{2}{n}$</div>",
+      "option2": "<div>(খ) $\\frac{n}{2}$</div>",
+      "option3": "<div>(গ) $\\frac{\\sqrt{}2}{2}$</div>",
+      "option4": "<div>(ঘ) 2</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>২৭. দ্বি-পরমাণুর গ্যাসের গতিশক্তির পরিমাণ কত?</div>",
+      "option1": "<div>(ক) $\\frac{1}{2}\\ KT$</div>",
+      "option2": "<div>(খ) $\\frac{3}{2}\\ KT$</div>",
+      "option3": "<div>(গ) $\\frac{7}{2}\\ KT$</div>",
+      "option4": "<div>(ঘ) $\\frac{5}{2}\\ KT$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২৮. কোন আদর্শ গ্যাসের তাপমাত্রা 120 K থেকে 400 K এ উন্নীত করা হলো। যদি 120 K এ মূল গড় বর্গবেগ v হয় তবে 480 K এ তা হবে --</div>",
+      "option1": "<div>(ক) 4 V</div>",
+      "option2": "<div>(খ) 2 V</div>",
+      "option3": "<div>(গ) $\\frac{V}{2}$</div>",
+      "option4": "<div>(ঘ) $\\frac{V}{4}$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>২৯. স্থির তাপমাত্রার আদর্শ গ্যাসের লেখচিত্রটি হবে একটি --</div>",
+      "option1": "<div>(ক) অক্ষের সমান্তরাল সরলরেখা</div>",
+      "option2": "<div>(খ) আয়তাকার অধিবৃত্ত</div>",
+      "option3": "<div>(গ) পরাবৃত্ত</div>",
+      "option4": "<div>(ঘ) উপবৃত্ত</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৩০. গ্যাসের একটি অণুর স্বাধীনতার মাত্রা হলে শক্তির সমবিভাজন নীতি অনুসারে প্রতি অণুর গড়শক্তি কত?</div>",
+      "option1": "<div>(ক) 3 KT</div>",
+      "option2": "<div>(খ) 6 KT</div>",
+      "option3": "<div>(গ) $\\frac{3}{2}\\ KT$</div>",
+      "option4": "<div>(ঘ) 2 KT</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৩১. তিনটি গ্যাস অণুর বেগ যথাক্রমে $25\\ {ms}^{-1}\\ $ , $30\\ {ms}^{-1}\\ $ এবং 35\\ {ms}^{-1}\\ $ তাদের মূল গড় বর্গবেগ কত?</div>",
+      "option1": "<div>(ক) 10.5 ${ms}^{-1}$</div>",
+      "option2": "<div>(খ) 15.5 ${ms}^{-1}$</div>",
+      "option3": "<div>(গ) 20.3 ${ms}^{-1}$</div>",
+      "option4": "<div>(ঘ) 30.3 ${ms}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৩২. স্বাভাবিক তাপমাত্রা ও চাপে কিছু পরিমাণ শুষ্ক বায়ুকে ধ্র্রুব তাপমাত্রায় সংক্রমিত করে আয়তন অর্ধেক করাহলে চূড়ান্ত চাপ কত হবে?</div>",
+      "option1": "<div>(ক) $2.02\\times {10}^{-2}\\ {Nm}^{-2}$</div>",
+      "option2": "<div>(খ) $2.02\\times {10}^{-3}\\ {Nm}^{-2}$</div>",
+      "option3": "<div>(গ) $2.02\\times {10}^4\\ {Nm}^{-2}$</div>",
+      "option4": "<div>(ঘ) $2.02\\times {10}^5\\ {Nm}^{-2}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৩৩. একটি গ্যাস অণুর ব্যাস $2\\times {10}^{-10}\\ $এবং প্রতি ঘন সেন্টিমিটারে অনুর সংখ্যা $3\\times {10}^{19}$হলে গ্যাস অণুর গড় মুক্তপথ হবে --</div>",
+      "option1": "<div>(ক) $3\\times {10}^{-3}cm$</div>",
+      "option2": "<div>(খ) $3\\times {10}^{-4}cm$</div>",
+      "option3": "<div>(গ) $3\\times {10}^{-5}cm$</div>",
+      "option4": "<div>(ঘ) $3\\times {10}^{-6}cm$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৩৪. কোনো আদর্শ গ্যাসের তাপমাত্রা কেলভিন স্কেলে দ্বিগুণ করা হলে, তার অণুগুলোর বেগ কত গুণ বৃদ্ধি পায়?</div>",
+      "option1": "<div>(ক) 4</div>",
+      "option2": "<div>(খ) 2</div>",
+      "option3": "<div>(গ) 1.41</div>",
+      "option4": "<div>(ঘ) 0.5</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৩৫. একটি কণার স্বাধীনতার মাত্রার সংখ্যা 5 হলে শক্তির সমবিভাজন নীতি অনুযায়ী কণাটির মোট শক্তি কত?</div>",
+      "option1": "<div>(ক) $\\frac{kT}{2}$</div>",
+      "option2": "<div>(খ) KT</div>",
+      "option3": "<div>(গ) $\\frac{3kT}{2}$</div>",
+      "option4": "<div>(ঘ) $\\frac{5kT}{2}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৩৬. একটুকরা কর্কযুক্ত 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রার একটি বরফখন্ড বরফ পানিতে ভাসমান। বরফখন্ডটি গলে গেলে পানির স্তরের উচ্চতা --</div>",
+      "option1": "<div>(ক) বৃদ্ধি পাবে</div>",
+      "option2": "<div>(খ) কমে যাবে</div>",
+      "option3": "<div>(গ) সমান থাকবে</div>",
+      "option4": "<div>(ঘ) আদি অবস্থায় পানি ও বরফের অনুপাতের উর নির্ভরশীল</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৩৭. একটি পাত্রে 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় হিলিয়াম আছে। হিলিয়াম অণুর গড় গতি শক্তি কত?</div>",
+      "option1": "<div>(ক) $6.21\\times {10}^{-21}J$</div>",
+      "option2": "<div>(খ) $5.6\\times {10}^{-22}J$</div>",
+      "option3": "<div>(গ) $1.9\\times {10}^{-22}J$</div>",
+      "option4": "<div>(ঘ) $2\\times {10}^{-21}J$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৩৮. লেখচিত্রে, দ্বারা একটি গ্যাসের প্রাথমিক অবস্থা দেখানো হচ্ছে। লেখচিত্রে কোন রেখাটি একটি প্রক্রিয়ায় গ্যাসটি দ্বারা বা গ্যাসের উপর কোনো কাজ করা হচ্ছে না নির্দেশ করে।</div>",
+      "option1": "<div>(ক) XA</div>",
+      "option2": "<div>(খ) XB</div>",
+      "option3": "<div>(গ) XC</div>",
+      "option4": "<div>(ঘ) XD</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৩৯. একটি আদর্শ গ্যাসের নমুনার তাপমাত্রা 20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$, যদি নমুনাটির চাপ এবং আয়তন দ্বিগুণ করা হয, তবে পরিবর্তিত তাপমাত্রা কত?</div>",
+      "option1": "<div>(ক) 20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 80$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) 900$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 1200$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৪০. একটি সিলিন্ডারে রাখা একটি আদর্শ গ্যাসের অণুগুলোর বর্গমূল গড় বর্গবেগ U। গ্যাসে তাপ প্রয়োগের ফলে চাপ 9 গুণ বৃদ্ধি পেল। সিলিন্ডারের আয়তন অপরিবর্তিত থাকলে গ্যাসের অণুগুলোর পরিবর্তিত বর্গমূল গড় বর্গবেগ কত?</div>",
+      "option1": "<div>(ক) 9 u</div>",
+      "option2": "<div>(খ) 6 u</div>",
+      "option3": "<div>(গ) $\\mathrm{\\sqrt{}}$3 $\\frac{u}{2}$</div>",
+      "option4": "<div>(ঘ) 3 u</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৪১. কোন একদিনে বায়ুমন্ডলের তাপমাত্রা 20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ এবং শিশিরাঙ্ক 15$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ । 20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ ও 15$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় সম্পৃক্ত জলীয় বাষ্পের চাপ যথাক্রমে $4\\times {10}^{-3}$ ও 2\\times {10}^{-3}\\ $পারদ হলে ঐ দিনের আপেক্ষিক আর্দ্রতা কত?</div>",
+      "option1": "<div>(ক) 20%</div>",
+      "option2": "<div>(খ) 40%</div>",
+      "option3": "<div>(গ) 50%</div>",
+      "option4": "<div>(ঘ) 60%</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৪২. আদর্শ গ্যাসের চাপের রাশিমালা --</div>",
+      "option1": "<div>(ক) $PV=\\frac{1}{3}mnc^2$</div>",
+      "option2": "<div>(খ) $PV=\\frac{1}{3}c^2$</div>",
+      "option3": "<div>(গ) $P=\\frac{1}{3}mnc^2$</div>",
+      "option4": "<div>(ঘ) $PV=RTn$</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৪৩. 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রার কোনো গ্যাসের চাপ $3\\times {10}^3\\ Pa$ হলে 60$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় এর চাপ কত হবে?</div>",
+      "option1": "<div>(ক) $3.66\\times {10}^5\\ Pa$</div>",
+      "option2": "<div>(খ) $3.85\\times {10}^5\\ Pa$</div>",
+      "option3": "<div>(গ) $3.00\\times {10}^6\\ Pa$</div>",
+      "option4": "<div>(ঘ) $3.66\\times {10}^3\\ Pa$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৪৪. স্বাভাবিক তাপমাত্রা ও চাপে হাইড্রোজেনের ঘনত্ব $0.99{kgm}^{-3}$ । হাইড্রোজেন অণুর গড় বর্গবেগের বর্গমূল কত?</div>",
+      "option1": "<div>(ক) $18.38\\times {10}^2{ms}^{-1}\\ $</div>",
+      "option2": "<div>(খ) $38.38\\times {10}^2{ms}^{-1}$</div>",
+      "option3": "<div>(গ) $29.38\\times {10}^2{ms}^{-1}$</div>",
+      "option4": "<div>(ঘ) $37.38\\times {10}^2{ms}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৪৫. এক ঘনমিটার আয়তনের বায়ুতে যে পরিমাণ জলীয় বাষ্প থাকে, তা বায়ুর --</div>",
+      "option1": "<div>(ক) আর্দ্রতা</div>",
+      "option2": "<div>(খ) আপেক্ষিক আর্দ্রতা</div>",
+      "option3": "<div>(গ) পরম আর্দ্রতা</div>",
+      "option4": "<div>(ঘ) কোনটিই নয়</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৪৬. 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় প্রতি গ্রাম অণু হিলিয়াম গ্যাসের গতিশক্তি হবে --</div>",
+      "option1": "<div>(ক) 3735 J mol${}^{-1}$</div>",
+      "option2": "<div>(খ) 3739.5 J mol${}^{-1}$</div>",
+      "option3": "<div>(গ) 7335 J mol${}^{-1}$</div>",
+      "option4": "<div>(ঘ) 7355 J mol${}^{-1}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৪৭. পরম স্কেলে চাপের সূত্র হলো --</div>",
+      "option1": "<div>(ক) P$\\mathrm{\\propto }$T</div>",
+      "option2": "<div>(খ) P$\\mathrm{\\propto }$T${}^{2}$</div>",
+      "option3": "<div>(গ) P$\\mathrm{\\propto }$$\\frac{1}{T}$</div>",
+      "option4": "<div>(ঘ) P$\\mathrm{\\propto }$$\\mathrm{\\sqrt{}}$T</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৪৮. T- তাপমাত্রায় আদর্শ গ্যাসের ক্ষেত্রে একটি অণুর গড় গতিশক্তি --</div>",
+      "option1": "<div>(ক) $\\frac{2}{3}\\ kT$</div>",
+      "option2": "<div>(খ) $\\frac{3}{2}\\ kT^2$</div>",
+      "option3": "<div>(গ) $\\frac{3}{2}\\ kT^4$</div>",
+      "option4": "<div>(ঘ) $\\frac{3}{2}\\ kT$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৪৯. সমচাপে 15$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় 200 ${cm}^3$ বায়ুকে 65$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় উঠানো হলে আয়তন কত {cm}^3$ হবে?</div>",
+      "option1": "<div>(ক) 432.72</div>",
+      "option2": "<div>(খ) 342.72</div>",
+      "option3": "<div>(গ) 237.72</div>",
+      "option4": "<div>(ঘ) 334.72</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৫০. স্থির চাপে কত তাপমাত্রায় কোন গ্যাসে অণুর গড় বর্গমূল প্রমাণ চাপ ও তাপমাত্রার গড় বর্গবেগের বর্গমূলের দ্বিগুণ হবে?</div>",
+      "option1": "<div>(ক) 546 K</div>",
+      "option2": "<div>(খ) 1092 K</div>",
+      "option3": "<div>(গ) 273 K</div>",
+      "option4": "<div>(ঘ) 2184 K</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৫১. আপেক্ষিক গুরুত্ব 0.8 বিশিষ্ট একটি কঠিন পদার্থের বাতাসে ওজন 120 গ্রাম পানিতে উহার ওজন কত?</div>",
+      "option1": "<div>(ক) 96 গ্রাম</div>",
+      "option2": "<div>(খ) 99.50 গ্রাম</div>",
+      "option3": "<div>(গ) 98.95 গ্রাম</div>",
+      "option4": "<div>(ঘ) 98.50 গ্রাম</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৫২. কোন একদিনের শিশিরাংক সেলসিয়াস আপেক্ষিক আর্দ্রতা 70%। ঐ দিনের বায়ুর সম্পৃক্ত বাষ্পচাপ কত?</div>",
+      "option1": "<div>(ক) 20 mmHg</div>",
+      "option2": "<div>(খ) 25 mmHg</div>",
+      "option3": "<div>(গ) 14 mmHg</div>",
+      "option4": "<div>(ঘ) 35 mmHg</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৫৩. এ্যাভোগাড্রোর সংখ্যা এর মান কত?</div>",
+      "option1": "<div>(ক) $6.02\\times {10}^{22}$</div>",
+      "option2": "<div>(খ) $6.02\\times {10}^{23}$</div>",
+      "option3": "<div>(গ) $6.02\\times {10}^{29}$</div>",
+      "option4": "<div>(ঘ) $6.02\\times {10}^{25}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৫৪. একজন ডুবুরী হ্রদের তলদেশে কাজ করার সময় $2\\ {cm}^2$আয়তনের বুদবুদ উপরের দিকে প্রবাহিত হচ্ছে। পানির উপরিতলে বুদবুদের আয়তন $4\\ {cm}^2$হয়, কিন্তু তাপমাত্রা অপরিবর্তিত থাকে। যদি বায়ুমন্ডলীয় চাপ পানির চাপের সমান হয়, হ্রদের গভীরতা কত?</div>",
+      "option1": "<div>(ক) 10 m</div>",
+      "option2": "<div>(খ) 20 m</div>",
+      "option3": "<div>(গ) 30 m</div>",
+      "option4": "<div>(ঘ) 40 m</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৫৫. কোনো একদিনের শিশিরাঙ্ক 20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ ও আপেক্ষিক আর্দ্রতা 75%. ঐ দিনের সম্পৃক্ত বায়ুর সম্পৃক্ত বাষ্পচাপ কত?</div>",
+      "option1": "<div>(ক) $17.7\\ mm$</div>",
+      "option2": "<div>(খ) $17.7\\times {10}^{-4}\\ m$</div>",
+      "option3": "<div>(গ) $23.6\\times {10}^{-5}\\ m$</div>",
+      "option4": "<div>(ঘ) $23.6\\times {10}^{-4}\\ m$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৫৬. স্থির তাপমাত্রায় কোন গ্যাসের আয়তন বৃদ্ধি পেলে --</div>",
+      "option1": "<div>(ক) চাপ বাড়ে</div>",
+      "option2": "<div>(খ) চাপ কমে</div>",
+      "option3": "<div>(গ) অণুর গতিশক্তি কমে</div>",
+      "option4": "<div>(ঘ) কোনটিই নয়</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৫৭. 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় কোন গ্যাস নমুনার আয়তন-চাপ গুণফল যত, তা দ্বিগুণ করতে কত তাপমাত্রা প্রয়োজন?</div>",
+      "option1": "<div>(ক) 54$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 327 K</div>",
+      "option3": "<div>(গ) 300 K</div>",
+      "option4": "<div>(ঘ) 327$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৫৮. একটি খোলা লিটার ফ্লাস্কে 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় 1.32$\\mathrm{\\times}$${10}^{-3}\\ $kg বায়ু আছে। 97$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় ফ্লাস্ক হতে কী পরিমাণ বায়ু বের হয়ে যাবে?</div>",
+      "option1": "<div>(ক) $3.3\\times {10}^{-3}\\ kg$</div>",
+      "option2": "<div>(খ) $3.3\\times {10}^{-4}\\ kg$</div>",
+      "option3": "<div>(গ) $2.5\\times {10}^{-4}\\ kg$</div>",
+      "option4": "<div>(ঘ) $5\\times {10}^{-3}\\ kg$\\textbf{}</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৫৯. গড় মুক্ত পথ গ্যাসের ঘনত্ব এর --</div>",
+      "option1": "<div>(ক) সমানুপাতিক</div>",
+      "option2": "<div>(খ) বর্গের ব্যস্তানুপাতিক</div>",
+      "option3": "<div>(গ) বর্গের সমানুপাতিক</div>",
+      "option4": "<div>(ঘ) ব্যস্তানুপাতিক</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৬০. নির্দিষ্ট ভরের কোনো গ্যাসের আয়তন উল্লেখ করতে কী প্রয়োজন?</div>",
+      "option1": "<div>(ক) চাপ</div>",
+      "option2": "<div>(খ) তাপমাত্রা</div>",
+      "option3": "<div>(গ) চাপ ও তাপমাত্রা</div>",
+      "option4": "<div>(ঘ) পরম শূন্য তাপমাত্রা</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৬১. একটি নির্দিষ্ট চাপে যে তাপমাত্রায় কোনো পদার্থ কঠিন, তরল ও বায়বীয় রূপে সাম্যাবস্থায় থাকে, তাকে বলে ঐ পদার্থের --</div>",
+      "option1": "<div>(ক) স্থির বিন্দু</div>",
+      "option2": "<div>(খ) ত্রৈধ বিন্দু</div>",
+      "option3": "<div>(গ) স্টিম বিন্দু</div>",
+      "option4": "<div>(ঘ) বরফ বিন্দু</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৬২. পানির ত্রৈধ বিন্দুর চাপ?</div>",
+      "option1": "<div>(ক) 3.58 mm Hg P</div>",
+      "option2": "<div>(খ) 5.58 m Hg P</div>",
+      "option3": "<div>(গ) 4.58 cm Hg P</div>",
+      "option4": "<div>(ঘ) কোনটিই নয়</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৬৩. নির্দিষ্ট চাপে নির্দিষ্ট ভরের কোন গ্যাসের আয়তন তার পরম তাপমাত্রার সমানুপাতিক। এটি {\\dots}.. নামে পরিচিত।</div>",
+      "option1": "<div>(ক) রেনোর সূত্র</div>",
+      "option2": "<div>(খ) বয়েলের সূত্র</div>",
+      "option3": "<div>(গ) পরম তাপমাত্রার সূত্র</div>",
+      "option4": "<div>(ঘ) চার্লসের সূত্র</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৬৪. একটি দ্বিপারমাণবিক গ্যাসের জন্য স্বাধীনতার মাত্রা --</div>",
+      "option1": "<div>(ক) 3</div>",
+      "option2": "<div>(খ) 8</div>",
+      "option3": "<div>(গ) 5</div>",
+      "option4": "<div>(ঘ) 2</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৬৫. 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় এক মোল হিলিয়াম গ্যাসের গতিশক্তির পরিমাণ --</div>",
+      "option1": "<div>(ক) 3500 J</div>",
+      "option2": "<div>(খ) 3741 J</div>",
+      "option3": "<div>(গ) 3650 J</div>",
+      "option4": "<div>(ঘ) 3845 J</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৬৬. প্রমাণ তাপমাত্রা ও চাপে কোন আদর্শ গ্যাসের এক মোলের আয়তন --</div>",
+      "option1": "<div>(ক) 0.0224 $m^3$</div>",
+      "option2": "<div>(খ) 0.224 $m^3$</div>",
+      "option3": "<div>(গ) 2.24 $m^3$</div>",
+      "option4": "<div>(ঘ) 22.4 $m^3$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৬৭. লিটারে কত ঘনমিটার?</div>",
+      "option1": "<div>(ক) $1.0\\times {10}^{-3}$</div>",
+      "option2": "<div>(খ) $1.0\\times {10}^{-2}$</div>",
+      "option3": "<div>(গ) $1.0\\times {10}^{-1}$</div>",
+      "option4": "<div>(ঘ) $1.0\\times {10}^2$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৬৮. $\\frac{PV}{T}$ধ্র্রুবক, একই সূত্রটি সত্য যখন --</div>",
+      "option1": "<div>(ক) শুধু সমোষ্ণ পরিবর্তন হয়</div>",
+      "option2": "<div>(খ) শুধু রুদ্ধতাপ পরিবর্তন হয়</div>",
+      "option3": "<div>(গ) সমোঞ্হ ও রুদ্ধতাপ উভযটি পরিবর্তন হয়</div>",
+      "option4": "<div>(ঘ) সবগুলো</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৬৯. গ্যাসের গতিতত্ত্ব অনুযায়ী, একটি অণুর গতিশক্তি কত?</div>",
+      "option1": "<div>(ক) KT</div>",
+      "option2": "<div>(খ) $\\mathrm{\\sqrt{}}$KT</div>",
+      "option3": "<div>(গ) K$\\mathrm{\\sqrt{}}$T</div>",
+      "option4": "<div>(ঘ) $\\frac{1}{2}\\ KT$</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৭০. 40$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় 3g নাইট্রোজেন গ্যাসের মোট গতিশক্তি কত?</div>",
+      "option1": "<div>(ক) 416 J</div>",
+      "option2": "<div>(খ) 418 J</div>",
+      "option3": "<div>(গ) 403 J</div>",
+      "option4": "<div>(ঘ) 407 J</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৭১. সার্বজনীন গ্যাস ধ্র্রুবক</div>",
+      "option1": "<div>(ক) $\\frac{PV}{nT}$</div>",
+      "option2": "<div>(খ) $\\frac{PV}{nT^2}$</div>",
+      "option3": "<div>(গ) $\\frac{PT}{nV}$</div>",
+      "option4": "<div>(ঘ) $\\frac{Pn}{TV}$</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৭২. কোন তাপমাত্রায় গ্যাসের গতিশক্তি শূন্য হয়?</div>",
+      "option1": "<div>(ক) -273$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option2": "<div>(খ) 273$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option3": "<div>(গ) 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>",
+      "option4": "<div>(ঘ) 303$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$</div>"
+    },
+    {
+      "mcqAnswer": "c",
+      "mcqQuestion": "<div>৭৩. 27$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় 300 ml একটি পাত্রে একই চাপে 7$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ রোধে তাপমাত্রায় নিয়ে আসা হলে ইহার আয়তনে হবে --</div>",
+      "option1": "<div>(ক) 135 ml</div>",
+      "option2": "<div>(খ) 240 ml</div>",
+      "option3": "<div>(গ) 350 ml</div>",
+      "option4": "<div>(ঘ) 280 ml</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৭৪. বাস্তব গ্যাস বয়েলের সূত্র মেনেচলে --</div>",
+      "option1": "<div>(ক) নিন্ম তাপমাত্রায়</div>",
+      "option2": "<div>(খ) কক্ষ তাপমাত্রায়</div>",
+      "option3": "<div>(গ) 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায়</div>",
+      "option4": "<div>(ঘ) খুব উচ্চ তাপমাত্রায়</div>"
+    },
+    {
+      "mcqAnswer": "a",
+      "mcqQuestion": "<div>৭৫. পানিকে 0$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রা হতে 1$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় উত্তপ্ত করলে উহার আয়তন --</div>",
+      "option1": "<div>(ক) প্রথমে বাড়ে তারপর কমে</div>",
+      "option2": "<div>(খ) বৃদ্ধি পায়</div>",
+      "option3": "<div>(গ) কমে</div>",
+      "option4": "<div>(ঘ) অপরিবর্তিত থাকে</div>"
+    },
+    {
+      "mcqAnswer": "b",
+      "mcqQuestion": "<div>৭৬. 20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় 80 kPa চাপে একটি নির্দিষ্ট পরিমাণ গ্যাসের আয়তন 0.25 $m^3$ । 20$\\mathrm{\\mathtt{{}^\\circ\\!{C}}}$ তাপমাত্রায় উক্ত গ্যাসের আয়তন 0.50 $m^3$ হলে গ্যাসটির চাপ কত হবে?</div>",
+      "option1": "<div>(ক) 20 kPa</div>",
+      "option2": "<div>(খ) 40 kPa</div>",
+      "option3": "<div>(গ) 50 kPa</div>",
+      "option4": "<div>(ঘ) 60 kPa</div>"
+    },
+    {
+      "mcqAnswer": "d",
+      "mcqQuestion": "<div>৭৭. আয়তন ও পরম তাপমাত্রা উভয়ই দ্বিগুণ হলে গ্যাসের চাপ --</div>",
+      "option1": "<div>(ক) দ্বিগুণ হবে</div>",
+      "option2": "<div>(খ) অর্ধেক হবে</div>",
+      "option3": "<div>(গ) চারগুণ হবে</div>",
+      "option4": "<div>(ঘ) অপরিবর্তিত থাকবে</div>"
+    }
+  ]
+}

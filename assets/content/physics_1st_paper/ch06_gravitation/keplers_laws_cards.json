@@ -1,0 +1,78 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "text": "জ্যোতির্বিজ্ঞানে কেপলারের গ্রহীয় গতিসূত্র (ইংরেজি ভাষায়: Kepler's laws of planetary motion) সূর্যের চারদিকে গ্রহগুলোর গতি ব্যাখ্যা করে। অবশ্য যেকোন তারার চারপাশে গ্রহের আবর্তন বা আরও সাধারণভাবে যেকোন বস্তুর চারপাশে আরেকটি বস্তুর ঘূর্ণন ব্যাখ্যার কাজে এটি ব্যবহার করা যেতে পারে। বিখ্যাত জার্মান জ্যোতির্বিজ্ঞানী ইয়োহানেস কেপলার গ্রহের গতির তিনটি সূত্র দিয়েছিলেন।"
+        },
+        {
+          "title": "প্রথম সূত্র (কক্ষপথের সূত্র)"
+        },
+        {
+          "text": "সব গ্রহগুলো সূর্যকে উপকেন্দ্রে (focus) রেখে উপবৃত্তাকার কক্ষে প্রদক্ষিণ করছে। \n\nচিত্রে উপবৃত্তের দুটি উপকেন্দ্র(Focus) দেখানো হয়েছে। উপকেন্দ্রদ্বয়ের যেকোনো একটিতে সূর্যকে রেখে গ্রহগুলো এরূপ উপবৃত্তাকার পথে সূর্যকে প্রদক্ষিণ করে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/kepler_law_1.gif"
+        },
+        {
+          "title": "দ্বিতীয় সূত্র (ক্ষেত্রফলের সূত্র)"
+        },
+        {
+          "text": "সূর্য ও গ্রহের সংযোজক রেখা সমান সময়ে সমান ক্ষেত্রফল অতিক্রম করে। "
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/kepler_law_2_1.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/kepler_law_2_2.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/kepler_law_2_3.gif"
+        },
+        {
+          "title": "তৃতীয় সূত্র (পর্যায়কালের সূত্র)"
+        },
+        {
+          "text": "প্রতিটি গ্রহের আবর্তনকালের বর্গ সূর্য থেকে ঐ গ্রহের গড় দূরত্বের ঘনফলের সমানুপাতিক।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/kepler_law_3_2.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/kepler_law_3_3.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/kepler_law_3_1.webp"
+        },
+        {
+          "text": "গ্রহের গতি সম্পর্কিত কেপলারের সূত্র"
+        },
+        {
+          "ytVideo": "AKbfR5KHUm4&t=4s"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "তৃতীয় সূত্র (পর্যায়কালের সূত্র): প্রতিটি গ্রহের আবর্তনকালের বর্গ সূর্য থেকে ঐ গ্রহের গড় দূরত্বের ঘনফলের সমানুপাতিক।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/06.Gravity/kepler_example_math_1.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১. সূর্য থেকে পৃথিবী ও মঙ্গল গ্রহের দূরত্বের অনুপাত 3:4. সূর্যের চারদিকে পৃথিবী 365 দিনে একবার প্রদক্ষিণ করে। সূর্যের  চারদিকে মঙ্গলের প্রদক্ষিণকাল নির্ণয় করো । ",
+          "flipCardBack": "উত্তর: 561.95 দিন"
+        },
+        {
+          "flipCardFront": "২. সূর্য হতে পৃথিবীর গড় দূরত্ব বর্তমান গড় দূরত্বের অর্ধেক হয়ে গেলে এক বছরে কত দিন হবে?",
+          "flipCardBack": "উত্তর: নিজে কর "
+        }
+      ]
+    }
+  ]
+}

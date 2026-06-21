@@ -1,0 +1,96 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "মুক্ত কম্পন"
+        },
+        {
+          "text": "যেকোন বস্তু যখন তার নিজের কম্পাঙ্কে আন্দোলিত হয়, তাকে মুক্ত কম্পন বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/FreeVibration.webp"
+        },
+        {
+          "title": "পরবশ বা আরোপিত কম্পন"
+        },
+        {
+          "text": "কোন বস্তুর ওপর যদি একটা পর্যাবৃত্ত স্পন্দন আরোপিত হয়, যার কম্পাঙ্ক সেই বস্তুটির নিজের কম্পাঙ্ক থেকে আলাদা। তাহলে, বস্তুটা প্রথমে অনিয়মিতভাবে কাঁপে আর এরপর সেই আরোপিত বলের কম্পাঙ্কে কাঁপে। এই কম্পন হল পরবশ বা আরোপিত কম্পন।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/InducedVibration.webp"
+        },
+        {
+          "text": "যেকোন একটা জিনিস যখন কাঁপে, সে কিন্তু অবশ্যই বাতাস (বা অন্য মাধ্যম) থেকে একটা বাঁধা পায়। এই বাধাঁর কারণে তার গতি আস্তে আস্তে শ্লথ হয়। নাহলে কিন্তু কোন মুক্ত গতি কখনো থামত না।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/Escapement.gif"
+        },
+        {
+          "text": "গতি ধীর হওয়া মানে হল, আস্তে আস্তে শক্তি কমে যাওয়া বা ক্ষয় হওয়া। এই ক্ষয় পূরণ করার জন্য দরকার হয় একটা পদ্ধতি। অনেক সময় এই কাজেই পরবশ কম্পন লাগে। তবে, পরবশ কম্পন ছাড়াও এটা সম্ভব। পেন্ডুলাম ঘড়িতে এরকম একটা যান্ত্রিক পদ্ধতি ব্যবহার করে গতি অব্যাহত রাখা হয়।\nএই পদ্ধতিটার নাম হল “Escapement”। এটা মুক্ত কম্পনও নয়, পরবশ কম্পনও নয়। (মতান্তরে-এটা পরবশ কম্পন)"
+        },
+        {
+          "title": "অনুনাদ"
+        },
+        {
+          "text": "কোনো বস্তুর ওপর প্রযুক্ত পর্যাবৃত্ত বলের কম্পাংক বস্তুটির স্বাভাবিক কম্পাংকের সমান হলে বস্তুটি সর্বোচ্চ বিস্তারে কম্পিত হয়।এ ধরনের কম্পনকে অনুনাদ বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/Resonance.gif"
+        },
+        {
+          "title": "শব্দের তীব্রতা"
+        },
+        {
+          "text": "শব্দ চলার পথে একক ক্ষেত্রফল হতে লম্বভাবে প্রতি সেকেন্ডে নির্গত শব্দ শক্তিই হলো শব্দের তীব্রতা।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/SoundIntensity.webp"
+        },
+        {
+          "title": "তীব্রতা লেভেল"
+        },
+        {
+          "text": "প্রমাণ তীব্রতার শব্দের সাথে তুলনা করে অন্য শব্দের তীব্রতাকে প্রকাশ করলে তাকে শব্দের তীব্রতা লেভেল বলে। এর একক ডেসিবেল। প্রমাণ তীব্রতার শব্দের কম্পাঙ্ক 1000 Hz ধরা হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/IntensityLevel.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "তীব্রতা লেভেল উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/BeatExample(1).webp"
+        },
+        {
+          "text": "তীব্রতা লেভেল উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/BeatExample(2).webp"
+        },
+        {
+          "text": "তীব্রতা লেভেল উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/09.Wave/BeatExample(3).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। কোনো শ্রেনীকক্ষের শব্দএর তীব্রতা 1×10-6 Wm-2 হলে শব্দের তীব্রতা লেভেল ডেসিবেলে বের কর।",
+          "flipCardBack": "উত্তরঃ 60 dB"
+        },
+        {
+          "flipCardFront": "২। একটি ক্যাসেট প্লেয়ার হতে নিঃসৃত শব্দের ক্ষমতা 30mW হতে 60mW এ পরিবর্তিত হলে শব্দের তীব্রতা লেভেলের কত পরিবর্তন হবে?",
+          "flipCardBack": "উত্তরঃ 3 dB"
+        }
+      ]
+    }
+  ]
+}

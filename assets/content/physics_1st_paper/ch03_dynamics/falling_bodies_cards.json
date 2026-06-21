@@ -1,0 +1,92 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "text": "ইতালীয় বিজ্ঞানী গ্যালিলিও পড়ন্ত বস্তুর গতি নিয়ে গবেষণা করেন এবং ১৫৮৯ সালে তিনটি সূত্র দেন।"
+        },
+        {
+          "title": "প্রথম সূত্র"
+        },
+        {
+          "text": "স্থির অবস্থান থেকে এবং একই উচ্চতা থেকে বিনা বাধায় পড়ন্ত সকল বস্তু সমান সময়ে সমান দূরত্ব অতিক্রম করবে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/FallingBodiesTheory(1).gif"
+        },
+        {
+          "title": "দ্বিতীয় সূত্র"
+        },
+        {
+          "text": "স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত সকল বস্তুর নির্দিষ্ট সময়ে প্রাপ্ত বেগ ঐ সময়ের সমানুপাতিক। অর্থাৎ, \n\n   অর্জিত বেগ ∝ পতনকাল। \n\n   v ∝ t"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/FallingBodiesTheory(2).gif"
+        },
+        {
+          "title": "তৃতীয় সূত্র"
+        },
+        {
+          "text": "স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত সকল বস্তু নির্দিষ্ট সময়ে যে দূরত্ব অতিক্রম করে তা ঐ সময়ের বর্গের সমানুপাতিক। \n\n   অর্থাৎ, অতিক্রান্ত দূরত্ব ∝ (পতনকাল)^2 । \n\n   h ∝ t^2"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/FallingBodiesTheory(4).gif"
+        },
+        {
+          "text": "***পড়ন্ত বস্তু যে সব সময় গ্যালিলিও সূত্র মেনে চলবে তা কিন্তু নয়। পাহাড়ের চূড়ায় উঠে যদি একটা বস্তু ফেলা হয়, তবে কিন্তু উপরের সূত্রগুলো কাজে আসেনা। কারণ প্রতি মুহূর্তে উচ্চতার সাথে g পরিবর্তিত হতে থাকে। কিন্তু সূত্রানুযায়ী ত্বরণ ধ্রুবক থাকতে হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/FallingBodiesTheory(3).gif"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "পড়ন্ত বস্তু উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/FallingBodies(1).webp"
+        },
+        {
+          "text": "পড়ন্ত বস্তু উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/FallingBodies(2).webp"
+        },
+        {
+          "text": "পড়ন্ত বস্তু উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/FallingBodies(3).webp"
+        },
+        {
+          "text": "পড়ন্ত বস্তু উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/03.Dynamics/FallingBodies(4).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। কোনো বস্তুকে ২০ মিটার উঁচু কোনো দালানের ছাদ হতে কত বেগে নিচের দিকে নিক্ষেপ করলে তা ১ সেকেন্ড পরে ভূপৃষ্ঠে পতিত হবে?",
+          "flipCardBack": "উত্তরঃ ১৫.১ m/s"
+        },
+        {
+          "flipCardFront": "২। কোন বস্তুকে ভূপৃষ্ঠ থেকে একটি নির্দিষ্ট উচ্চতা হতে সোজা উপরের দিকে ১০ মি/সে বেগে ছুঁড়ে মারা হলো আর তা ৫ সেকেন্ড পরে ভূপৃষ্ঠে পতিত হলো। কত উচ্চতা হতে বস্তুটিকে ছুঁড়ে মারা হয়েছিলো?",
+          "flipCardBack": "উত্তরঃ ৭২.৫ মি"
+        },
+        {
+          "flipCardFront": "৩। এক বালক একটা টেনিস বল দিয়ে খেলার এক পর্যায়ে ভূপৃষ্ঠ থেকে উপরের দিকে তা ৫০ মি/সে বেগে ছুঁড়ে মারলো এবং তা ঠিক পাশেই অবস্থিত বাড়ির ছাদের মেঝেতে ১০ মি/সে বেগে আঘাত করলো। সে যখন বলটি ছুঁড়ে মারে, তখন তার হাত ভূমি থেকে ১ মিটার উচ্চতায় ছিলো। ছুঁড়ে মারার কত সময় পরে বলটি ছাদে পতিত হয়? বাড়িটার উচ্চতা কত?",
+          "flipCardBack": "উত্তরঃ t = 6.12 s, h = 122.45 m"
+        },
+        {
+          "flipCardFront": "৪। একই সময় দুটি পাথর উপরের দিকে ছোড়া হল,তাদের একটি আরেকটি অপেক্ষা ১১২মি উপরে উঠল এবং ২সেকেন্ড পরে মাটিতে পড়ে,পাথর খন্ড দুটি কত বেগে নিক্ষেপ করা হয়?",
+          "flipCardBack": "উত্তরঃ 116m/s,107.1 m/s"
+        }
+      ]
+    }
+  ]
+}

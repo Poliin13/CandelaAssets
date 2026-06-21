@@ -1,0 +1,79 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "text": "পৃষ্ঠটান, বল কিংবা শক্তি – উভয়ের বিচারেই পরিমাপ করা যায়।"
+        },
+        {
+          "title": "বলের বিচারে"
+        },
+        {
+          "text": "তরলে পৃষ্ঠটান হল একটি বল, যা প্রতি একক দৈর্ঘ্যে প্রযুক্ত হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/SurfaceEnergyTheory(1).webp"
+        },
+        {
+          "text": "\nT = F/2L \n\nচিত্রে দেখা যাচ্ছে যে বস্তুটির উপর ২টি রেখা ক্রিয়া করছে। তাই L না হয়ে 2L হবে।"
+        },
+        {
+          "title": "শক্তির বিচারে"
+        },
+        {
+          "text": "কোনো তরলের পৃষ্ঠটান হল ওই তরলটির স্থিতিশক্তির পরিবর্তন এবং পৃষ্ঠ ক্ষেত্রফল পরিবর্তনের (যার জন্য স্থিতিশক্তির পরিবর্তন ঘটে) অনুপাত। "
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/SurfaceEnergyTheory(2).webp"
+        },
+        {
+          "text": "\nT = W/A* \n\nA* = Change of Area"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/SurfaceTensionEnergyExample(1).webp"
+        },
+        {
+          "text": "উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/SurfaceTensionEnergyExample(2).webp"
+        },
+        {
+          "text": "উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/SurfaceTensionEnergyExample(3).webp"
+        },
+        {
+          "text": "উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaPics/master/images/Physics1stPaper/07.StructuralPropertiesOfMatter/SurfaceTensionEnergyExample(4).webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। সাবান পানির দ্বারা 5×10^-2m ব্যাসার্ধের একটি বুদবুদ ফুলাতে কৃত কাজের পরিমান নির্ণয় কর।[পৃষ্ঠটান = 50 Nm-1]",
+          "flipCardBack": "উত্তরঃ 3.14 J"
+        },
+        {
+          "flipCardFront": "২। প্রতিটি ১মিমি ব্যাসার্ধের আটটি বৃষ্টির ফোঁটা 5 cm/s প্রান্তিক বেগে পতনশীল। যদি আটটি ফোঁটা একত্রিত হয়ে একটি বড় ফোটায় পরিণত হয়, তাহলে নির্গত শক্তির বের কর। পানির পৃষ্ঠটান = 7.4×10-2 N/m",
+          "flipCardBack": "উত্তরঃ 3.72×10^-6 J"
+        },
+        {
+          "flipCardFront": "৩। 10^6 সংখ্যক 0.1mm ব্যাসার্ধের পানির ফোঁটা মিলে একটি বড় ফোটায় পরিনত করতে কত শক্তি নির্গত হয়? T = 72×10^-3 N/m",
+          "flipCardBack": "উত্তরঃ 8.936×10^-3 J "
+        }
+      ]
+    }
+  ]
+}
