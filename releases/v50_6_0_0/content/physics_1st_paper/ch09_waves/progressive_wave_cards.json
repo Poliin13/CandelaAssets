@@ -1,0 +1,88 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "অগ্রগামী তরঙ্গ"
+        },
+        {
+          "text": "মাধ্যমের মধ্যে সৃষ্ট কোন আলোড়ন যখন মাধ্যমের এক স্তর থেকে অন্য স্তরে শক্তি সঞ্চালন করে বিস্তারের কোনরকম হ্রাস বা বৃদ্ধি না ঘটিয়ে সামনের দিকে একটি নির্দিষ্ট বেগে অগ্রসর হয় থাকে অগ্রগামী তরঙ্গ বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/progressive_wave1.gif"
+        },
+        {
+          "text": "মাধ্যমের যেকোন অংশেই সৃষ্টি হোক না কেন, এই তরঙ্গ স্থির থাকে না। সময়ের সাথে সাথে মাধ্যমের মধ্য দিয়ে অগ্রসর হতে থাকে। মাধ্যমের মধ্যে সৃষ্ট কোন আলোড়ন যখন মাধ্যমের এক স্তর থেকে অন্য স্তরে শক্তি সঞ্চালন করতে করতে বিস্তারের কোনরকম হ্রাস না ঘটিয়ে সামনের দিকে একটি নির্দিষ্ট বেগে অগ্রসর হয়, তখন তাকে অগ্রগামী তরঙ্গ বলে। একে চলমান তরঙ্গও বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/progressive_wave2.gif"
+        },
+        {
+          "text": "অগ্রগামী তরঙ্গ আড় বা দীঘল হতে পারে। পানির তরঙ্গও আড় বা দীঘল হতে পারে। যেকোন ক্ষেত্রেই অনুক্রমিক কণাগুলোর মধ্যে দশা পার্থক্যের সৃষ্টি হবে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/progressive_wave3.webp"
+        },
+        {
+          "title": "অগ্রগামী তরঙ্গের সমীকরণ"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/progressive_wave_formula1.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/progressive_wave_formula2.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "অগ্রগামী তরঙ্গ উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/progressive_wave_example_1.webp"
+        },
+        {
+          "text": "অগ্রগামী তরঙ্গ উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/progressive_wave_example_2.webp"
+        },
+        {
+          "text": "অগ্রগামী তরঙ্গ উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/progressive_wave_example_3.webp"
+        },
+        {
+          "text": "অগ্রগামী তরঙ্গ উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/progressive_wave_example_4.webp"
+        },
+        {
+          "text": "অগ্রগামী তরঙ্গ উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/progressive_wave_example_5.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি অগ্রগামী তরঙ্গের সমীকরণ y = 0.12sinπ(340t-x)। তরঙ্গের বিস্তার, তরঙ্গ দৈর্ঘ্য, তরঙ্গ বেগ, কম্পাঙ্ক ও পর্যায়কাল নির্ণয় কর।",
+          "flipCardBack": "উত্তরঃ 0.1m,1m,340,340,0.00294s"
+        },
+        {
+          "flipCardFront": "২। একটি অগ্রগামী তরঙ্গের সমীকরণ হচ্ছে y = 0.1sin(200πt-20πx/17) হলে তরঙ্গের বিস্তার, কম্পাঙ্ক, তরঙ্গ দৈর্ঘ্য, তরঙ্গ বেগ নির্ণয় কর।",
+          "flipCardBack": "উত্তরঃ 10cm,100Hz,1.7m,v=170m/s"
+        },
+        {
+          "flipCardFront": "৩। একটি অগ্রগামী তরঙ্গের সমীকরণ y = 0.5sin(20πt-1.57x)। তরঙ্গটির বিস্তার, কম্পাঙ্ক, বেগ ও পর্যায়কাল নির্ণয় কর।",
+          "flipCardBack": "উত্তরঃ 0.5m,10Hz,4m,40m/s"
+        }
+      ]
+    }
+  ]
+}

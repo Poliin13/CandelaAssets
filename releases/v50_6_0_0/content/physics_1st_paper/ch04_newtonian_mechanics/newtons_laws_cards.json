@@ -1,0 +1,131 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "প্রথম সূত্র"
+        },
+        {
+          "text": "বাইরে থেকে কোন বস্তুর উপর বল প্রয়োগ না করলে, স্থির বস্তু চিরকাল স্থির থাকবে এবং গতিশীল বস্তু চিরকাল সমবেগে সরলরেখায় বা সরল পথে চলতে থাকে।"
+        },
+        {
+          "ytVideo": "5oi5j11FkQg"
+        },
+        {
+          "text": "সুতরাং, কোন বস্তুর উপর সার্বিক (total) বলের পরিমাণ শূন্য হলে, বস্তুর ভরকেন্দ্র হয় স্থির নয়তো সমবেগে গতিশীল থাকবে।"
+        },
+        {
+          "title": "দ্বিতীয় সূত্র"
+        },
+        {
+          "text": "কোন বস্তুর ভরবেগের পরিবর্তনের হার প্রযুক্ত বলের সমানুপাতিক এবং বল যে দিকে ক্রিয়া করে বস্তুর ভরবেগের পরিবর্তন সেদিকেই ঘটে।"
+        },
+        {
+          "ytVideo": "8YhYqN9BwB4"
+        },
+        {
+          "text": "অর্থাৎ কোনো বস্তুর ভর যদি অপরিবর্তিত থাকে,তবে বস্তুটির ওপর প্রযুুক্ত বাহ্যিক নেট বল বস্তুটির ভর ও ত্বরণের গুণফল হয়।"
+        },
+        {
+          "title": "তৃতীয় সূত্র"
+        },
+        {
+          "text": "প্রত্যেক ক্রিয়ারই সমান ও বিপরীত প্রতিক্রিয়া রয়েছে৷"
+        },
+        {
+          "ytVideo": "TVAxASr0iUY"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "নিউটনের সূত্র উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/newtons_laws/newtons_law_example_1.webp"
+        },
+        {
+          "text": "নিউটনের সূত্র উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/newtons_laws/newtons_law_example_2.webp"
+        },
+        {
+          "text": "নিউটনের সূত্র উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/newtons_laws/newtons_law_example_3.webp"
+        },
+        {
+          "text": "নিউটনের সূত্র উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/newtons_laws/newtons_law_example_4.webp"
+        },
+        {
+          "text": "নিউটনের সূত্র উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/newtons_laws/newtons_law_example_5.webp"
+        },
+        {
+          "text": "নিউটনের সূত্র উদাহরন ৬"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/newtons_laws/newtons_law_example_6.webp"
+        },
+        {
+          "text": "নিউটনের সূত্র উদাহরন ৭"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/newtons_laws/newtons_law_example_7.webp"
+        },
+        {
+          "text": "নিউটনের সূত্র উদাহরন ৮"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/newtons_laws/newtons_law_example_8.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "title": "সূত্রসমূহ"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/newtons_laws/formulas.webp"
+        },
+        {
+          "flipCardFront": "১। 10N এর একটি বল 2kg ভরের একটি স্থির বস্তুর উপর ক্রিয়া করে। যদি 4s পরে বলের ক্রিয়া বন্ধ হয়ে যায়। তবে প্রথমে 8s এ বস্তুটি কত দূরত্ব অতিক্রম করে?",
+          "flipCardBack": "উত্তরঃ 120m"
+        },
+        {
+          "flipCardFront": "২। 5 টনের একটি ট্রাক ঘন্টায় 36km বেগে চলছে। এটি 4m দূরত্ব এ থামাতে কত বলের প্রয়োজন ?\n[১ টন=১০০০ কেজি]",
+          "flipCardBack": "উত্তরঃ 6.25×10^4 N"
+        },
+        {
+          "flipCardFront": "৩। 1 কেজি ভরের একটি স্থির বস্তুর উপর 1 N বল 10s ক্রিয়া করলে সরণ কত হবে?",
+          "flipCardBack": "উত্তরঃ 50m"
+        },
+        {
+          "flipCardFront": "৪। 2 kg ভরের একটি স্থির বস্তুর উপর 8 N বল 10s ক্রিয়া করলো। বস্তুটির ত্বরণ ও প্রাপ্ত বেগ বের কর।",
+          "flipCardBack": "উত্তরঃ 4 m/s^2,40 m/s"
+        },
+        {
+          "flipCardFront": "৫। 900 kg ভরের একটি গাড়ি সমতল সড়ক দিয়ে 30ms-2 বেগে এগিয়ে চলছে। একে 30 m দূরত্বে থামাতে হলে কত মন্দনকারী বল প্রয়োগ করতে হবে?",
+          "flipCardBack": "উত্তরঃ 13500N"
+        },
+        {
+          "flipCardFront": "৬। একটি বস্তু স্থির অবস্থায় ছিল। 15N এর বল এর উপর 4sec ধরে কাজ করে। তারপর আর কোনো কাজ করল না। বস্তুটি এরপর 9 sec এ 54m দূরত্ব গেল। বস্তুটির ভর কত?",
+          "flipCardBack": "উত্তরঃ ১০ কেজি"
+        },
+        {
+          "flipCardFront": "৭। 60kg ভরের একটি বস্তুর ওপর কত বল প্রয়োগ করলে ১ মিনিটে এর বেগ 10m/s বৃদ্ধি পায়?",
+          "flipCardBack": "উত্তরঃ 10N"
+        }
+      ]
+    }
+  ]
+}

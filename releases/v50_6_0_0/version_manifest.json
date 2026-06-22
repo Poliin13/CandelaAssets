@@ -1,0 +1,18 @@
+{
+  "version": "50 (6.0.0)",
+  "versionId": "v50_6_0_0",
+  "createdAt": "2026-06-22T06:43:59.620784+00:00",
+  "entrypoints": {
+    "listBooksUrl": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/manifests/list_books.json",
+    "contributorsUrl": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/manifests/contributors.json",
+    "defaultSubjectUrl": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/subjects/physics_1st_paper.json"
+  },
+  "copiedFileCount": 934,
+  "unresolvedLinkCount": 58,
+  "recoveredFromGitCount": 27,
+  "notes": [
+    "Generated from the reachable Candela production graph.",
+    "Only files referenced from the app entrypoints were copied.",
+    "Original source files were not deleted or moved."
+  ]
+}

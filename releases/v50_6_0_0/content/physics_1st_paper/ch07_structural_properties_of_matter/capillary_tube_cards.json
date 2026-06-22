@@ -1,0 +1,84 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "কৈশিক ক্রিয়া বা ক্যাপিলারি অ্যাকশন"
+        },
+        {
+          "text": "কোনো তরলকে সংকীর্ণ পথে প্রবাহিত করার ক্ষমতা। এই ঘটনার সময় কোনো বল সেখানে কাজ করে না; এমনকী মধ্যাকর্ষণ শক্তির মতো বহিস্থ: কোনো শক্তিও নয়।  রঙতুলিতে তরল উঠিয়ে আনার সময় এমনটা দেখা যায়।\n\nনলের ব্যাস যথেষ্ট ক্ষুদ্র হলে তরল আর পাত্রের দেওয়ালের পৃষ্ঠটান এবং সংযুক্তি বলের সমন্বয়ে তরল ওপরে উঠে আসার ঘটনা পরিলক্ষিত হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/capillarity_theory_1.webp"
+        },
+        {
+          "title": "তরলের তল উপরে বা নিচে নামার ব্যাখ্যা"
+        },
+        {
+          "text": "এজন্য আমাদের দুটি বল সম্পর্কে জানতে হবে-\n     ক) সংশক্তি বল(cohesive force)\n     খ) আসঞ্জন বল(adhesive force)\n\nসংশক্তি বল(cohesive force)\nএকই পদার্থের অনুর মধ্যে ক্রিয়ারত পারষ্পরিক আকর্ষণ বলকে আসঞ্জন বল বলে।\n\nআসঞ্জন বল(adhesive force)\nভিন্ন পদার্থের অনুর মধ্যে ক্রিয়ারত পারষ্পরিক আকর্ষণ বলকে আসঞ্জন বল বলে ।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/capillarity_theory_cohesion_adhesion_1.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/capillarity_theory_cohesion_adhesion_2.webp"
+        },
+        {
+          "title": "স্পর্শ কোণ(Angle of contact)"
+        },
+        {
+          "text": "কঠিন ও তরলের স্পর্শ বিন্দু থেকে বক্র তরল তলে অংকিত স্পর্শক কঠিন পদার্থের সাথে তরলের ভেতরে যে কোণ উৎপন্ন করে তাকে উক্ত কঠিন ও তরলের মধ্যকার স্পর্শ কোণ বলে। "
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/capillarity_angle_of_contact.webp"
+        },
+        {
+          "title": "সূত্রের প্রমাণ"
+        },
+        {
+          "text": "ঊপরের দিকের বল(F) = ওজন(mg)"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/capillarity_theory_2.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/capillarity_theory_3.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "কৈশিক নল উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/capillary_tube_1.webp"
+        },
+        {
+          "text": "কৈশিক নল উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/capillary_tube_2.webp"
+        },
+        {
+          "text": "কৈশিক নল উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/capillary_tube_3.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি চওড়া পাত্রে 4.2×10-2 N/m পৃষ্ঠটান ও 0.84 আপেক্ষিক গুরুত্ব এর কিছু তরল পদার্থ আছে। পাত্রটির মধ্যে 0.2mm ব্যাসার্ধ ছিদ্রের একটি কৈশিক নল খাড়াভাবে রাখা হল,উক্ত তরল পদার্থ কৈশিক নলের মধ্যে কতটা উপরে ঊঠবে তা বের কর।",
+          "flipCardBack": "উত্তরঃ 10.2cm"
+        },
+        {
+          "flipCardFront": "২।0.5mm ব্যাসের ছিদ্রযুক্ত একটি কৈশিক নল 30×10-3 পৃষ্ঠটানযুক্ত তরলের মধ্যে খাড়াভাবের ডুবানো আছে। তরলের ঘনত্ব 800 kg/m3  এবং উহা নলকে চিজায়।নলের ভিতর তরল কত উচ্চতা পর্যন্ত উঠবে বের কর।",
+          "flipCardBack": "উত্তরঃ 3.03cm"
+        }
+      ]
+    }
+  ]
+}

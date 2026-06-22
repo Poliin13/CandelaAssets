@@ -1,0 +1,157 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "তরঙ্গ"
+        },
+        {
+          "text": "যে আন্দোলন কোন জড় মাধ্যমের কণাগুলোর পর্যাবৃত্ত কম্পনের সাহায্যে মাধ্যমের এক স্থান থেকে অন্য স্থানে শক্তির প্রবাহ ঘটায় কিন্তু কণাগুলোর স্থায়ী স্থানান্তর ঘটায় না তাকেই তরঙ্গ বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_theory_2.gif"
+        },
+        {
+          "title": "আড় তরঙ্গ"
+        },
+        {
+          "text": "মাধ্যমের কণাগুলোর কম্পনের দিকের সাথে লম্বভাবে যে তরঙ্গ এগিয়ে চলে তাকে আড় বা তির্যক তরঙ্গ বলে"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_theory_5.gif"
+        },
+        {
+          "title": "লম্বিক তরঙ্গ"
+        },
+        {
+          "text": "তরঙ্গ প্রবাহের অভিমুখের সমান্তরালে যদি মাধ্যমের কণাগুলো অগ্রপশ্চাৎ কাঁপতে থাকে তবে সেই তরঙ্গকে লম্বিক বা অনুদৈর্ঘ্য বা দীঘল তরঙ্গ বলে। এ ধরনের তরঙ্গ প্রসারণ ও সংকোচনের মাধ্যমে অগ্রসর হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_theory_1.gif"
+        },
+        {
+          "title": "দশা"
+        },
+        {
+          "text": "যেকোন মূহুর্তে একটা কণার দশা বলতে আসলে তার গতির সম্যক অবস্থা বোঝানো হয়।\nসরল ছন্দিত গতি আর বৃত্তীয় গতির মধ্যকার সম্পর্ক থেকে, একটা কণা যদি একটা বৃত্ত বরাবর চলতে চলতে বৃত্তের পরিধি ঘুরে আসে তাহলে ব্যাসের উপর তার ছায়ার কিন্তু একটা পূর্ণ কম্পন সম্পন্ন হয় এভাবে:"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_theory_3.gif"
+        },
+        {
+          "text": "তাহলে ছায়ার দশার পরিবর্তন হয় 2π। এইজন্য 2π দশা পার্থক্য বিশিষ্ট দুটো কণাকে সমদশাসম্পন্ন বলা হয়।"
+        },
+        {
+          "title": "তরঙ্গ দৈর্ঘ্য"
+        },
+        {
+          "text": "যে মাধ্যমের কণার পর্যাবৃত্ত কম্পনের মধ্য দিয়ে তরঙ্গ প্রবাহিত হয়। কণাগুলো যখন একটা পূর্ণ কম্পন সম্পন্ন করে সেই সময়ে তরঙ্গ যতটুকু দূরত্ব অতিক্রম করে তাকে তরঙ্গ দৈর্ঘ্য বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_theory_2.webp"
+        },
+        {
+          "text": "এখানে A,A’(শীর্ষবিন্দু); B,B’(পাদবিন্দু); C,C’(শূণ্য বিন্দু) বিন্দুগুলোর কণাগুলো সমদশাসম্পন্ন, তাই তাদের মধ্যকার দূরত্ব তরঙ্গ দৈর্ঘ্য।"
+        },
+        {
+          "title": "বিস্তার"
+        },
+        {
+          "text": "সাম্যাবস্থান থেকে যেকোন একদিকে কম্পমান কণার সর্বাধিক সরণকে বিস্তার বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_theory_1.webp"
+        },
+        {
+          "title": "কম্পাংক"
+        },
+        {
+          "text": "এক সেকেন্ডে কম্পমান কণা যতগুলো পূর্ণ স্পন্দন সম্পন্ন করে তাকে কম্পাঙ্ক বলে। সাধারনত f বা n দিয়ে কম্পাঙ্ককে প্রকাশ করা হয়।\nএকটা পূর্ণ কম্পনের ফলে যেহেতু একটা তরঙ্গ উৎপন্ন হয় তাই এক সেকেন্ডে যতগুলো পূর্ণ তরঙ্গ উৎপন্ন হয় তা-ও কম্পাঙ্কের সমানই হবে।কম্পাঙ্কের একক হল vibrations per second বা cycles per second বা Hertz(Hz)।এক সেকেন্ডে একটা পূর্ণ কম্পন হলে সে তরঙ্গের কম্পাঙ্ক হয় 1Hz।"
+        },
+        {
+          "title": "তীব্রতা"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_theory_1.webp"
+        },
+        {
+          "title": "তরঙ্গমুখ"
+        },
+        {
+          "text": "তরঙ্গের ওপর অবস্থিত সমদশা সম্পন্ন কণাগুলোর গতিপথকে তরঙ্গমুখ বলে। তরঙ্গমুখের সাহায্যে ভূমিকম্পের উৎস নির্ণয় করা যায়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_theory_4.gif"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "তরঙ্গ স্পন্দন উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_definitions_example_1.webp"
+        },
+        {
+          "text": "তরঙ্গ স্পন্দন উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_definitions_example_2.webp"
+        },
+        {
+          "text": "তরঙ্গ স্পন্দন উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_definitions_example_3.webp"
+        },
+        {
+          "text": "তরঙ্গ স্পন্দন উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_definitions_example_4.webp"
+        },
+        {
+          "text": "তরঙ্গ স্পন্দন উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_definitions_example_5.webp"
+        },
+        {
+          "text": "তরঙ্গ স্পন্দন উদাহরন ৬"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wave_definitions_example_6.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 256 Hz কম্পাঙ্ক বিশিষ্ট একটি সুরশলাকা হতে উৎপন্ন শব্দ বাতাসে 3 সেকেন্ডে 996 m দূরত্ব অতিক্রম করে। বাতাসে শব্দের তরঙ্গ দৈর্ঘ্য বের কর।",
+          "flipCardBack": "উত্তরঃ 1.30 m"
+        },
+        {
+          "flipCardFront": "২। একটি সুরশলাকা কর্তৃক সৃষ্ট তরঙ্গের দৈর্ঘ্য একটি মাধ্যমে 10 cm এবং অন্য মাধ্যমে 15 cm। প্রথম মাধ্যমে শব্দের বেগ 3 m/s হলে দ্বিতীয় মাধ্যমে 5 সেকেন্ডে শব্দ কত দূরত্ব অতিক্রম করে?",
+          "flipCardBack": "উত্তরঃ 22.5m"
+        },
+        {
+          "flipCardFront": "৩। কোন মাধ্যম A তে শব্দের বেগ B মাধ্যমে শব্দের বেগের 5 গুণ। মাধ্যম দুটিতে একটি শব্দের তরঙ্গ দৈর্ঘ্যের পার্থক্য 4 m। B মাধ্যমে শব্দের বেগ 380 m/s হলে শব্দের উৎসের কম্পাঙ্ক নির্ণয় কর।",
+          "flipCardBack": "উত্তরঃ 380Hz"
+        },
+        {
+          "flipCardFront": "৪। তিনটি সুরশলাকার কম্পাঙ্ক যথাক্রমে 123,369 ও 615 s-1 । এরা বায়ুতে যে তরঙ্গ সৃষ্টি করে তাদের তরঙ্গ দৈর্ঘ্যের অনুপাত নির্ণয় কর।",
+          "flipCardBack": "উত্তরঃ 15:5:3"
+        },
+        {
+          "flipCardFront": "৫। একটি নির্দিষ্ট কম্পাঙ্কে কম্পনশীল বস্তু A মাধ্যমে যে তরঙ্গ সৃষ্টি করে তার দৈর্ঘ্য 0.15m এবং মাধ্যমে যে তরঙ্গ সৃষ্টি করে তার দৈর্ঘ্য 0.20m। যদি A মাধ্যমে তরঙ্গের বেগ 1.20m/s হয়, তবে B মাধ্যমে কত?",
+          "flipCardBack": "উত্তরঃ 1.60 m/s"
+        },
+        {
+          "flipCardFront": "৬। কোন একটি মাধ্যমে একটি সুর শলাকা হতে উৎপন্ন শব্দের তরঙ্গ দৈর্ঘ্য 0.04m এবং ঐ মাধ্যমে শব্দের বেগ 330m/s। অপর একটি মাধ্যমে শব্দের বেগ 300m/s হলে ঐ মাধ্যমে সুরশলাকাটির 55 পূর্ণ কম্পনে শব্দ কত দূর যাবে?",
+          "flipCardBack": "উত্তরঃ 2m"
+        }
+      ]
+    }
+  ]
+}

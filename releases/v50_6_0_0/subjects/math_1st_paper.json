@@ -1,0 +1,857 @@
+{
+  "subjectName": "Math 1st Paper",
+  "chapters": [
+    {
+      "id": "math_1st_paper_ch01",
+      "chapterNumber": "প্রথম অধ্যায়",
+      "chapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/math1st_paper/1_matrix.gif",
+      "topicsData": [
+        {
+          "id": "math_1st_paper_ch01_t01",
+          "topicName": "বেসিক ফরমুলাসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/basic_formula_math1stpaper/1_2_basic_formula_matrixand_determinant_compressed_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch01_t02",
+          "topicName": "হ্যান্ডনোট ম্যাট্রিক্স",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/1_handnote_matrix_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch01_t03",
+          "topicName": "হ্যান্ডনোট নির্ণায়ক",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/2_handnote_determinant_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch01_t04",
+          "topicName": "এস ইউ আহমেদ বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/1_matrix_and_determinant/1_matrixand_determinant_chapter_suahmed_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch01_t05",
+          "topicName": "কেতাবউদ্দীন বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/1_matrix_and_determinant/2_matrixand_determinant_chapter_ketab_uddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch01_t06",
+          "topicName": "কেতাবউদ্দীন সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/1_matrix_and_determinant/3_matrixand_determinant_solution_ketab_uddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch01_t07",
+          "topicName": "অসীমকুমার বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/1_matrix_and_determinant/4_matrixanddeterminant_chapter_asim_kumar_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch01_t08",
+          "topicName": "অসীমকুমার সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/1_matrix_and_determinant/5_matrixand_determinant_solution_asim_kumar_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "math_1st_paper_ch02",
+      "chapterNumber": "দ্বিতীয় অধ্যায়",
+      "chapterName": "ভেক্টর",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/math1st_paper/2_vector.gif",
+      "topicsData": [
+        {
+          "id": "math_1st_paper_ch02_t01",
+          "topicName": "বেসিক ফরমুলাসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/basic_formula_math1stpaper/3_basic_formula_vector_compressed_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch02_t02",
+          "topicName": "হ্যান্ডনোট",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/3_handnote_vector_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch02_t03",
+          "topicName": "এস ইউ আহমেদ বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/2_vector/1_vector_chapter_suahmed_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch02_t04",
+          "topicName": "কেতাবউদ্দীন বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/2_vector/2_vector_chapter_ketab_uddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch02_t05",
+          "topicName": "কেতাবউদ্দীন সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/2_vector/3_vector_solution_ketab_uddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch02_t06",
+          "topicName": "অসীমকুমার বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/2_vector/4_vector_chapter_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch02_t07",
+          "topicName": "অসীমকুমার সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/2_vector/5_vector_solution_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "math_1st_paper_ch03",
+      "chapterNumber": "তৃতীয় অধ্যায়",
+      "chapterName": "সরলরেখা",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/math1st_paper/3_line.gif",
+      "topicsData": [
+        {
+          "id": "math_1st_paper_ch03_t01",
+          "topicName": "বেসিক ফরমুলাসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/basic_formula_math1stpaper/4a_4b_basic_formula_straight_line_compressed_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch03_t02",
+          "topicName": "হ্যান্ডনোট স্থানাওঙ্ক",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/4a_handnote_coordinates_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch03_t03",
+          "topicName": "হ্যান্ডনোট সরলরেখা",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/4b_handnote_straight_line_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch03_t04",
+          "topicName": "এস ইউ আহমেদ বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/3_straight_line/1_straight_line_chapter_suahmed_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch03_t05",
+          "topicName": "কেতাবউদ্দীন বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/3_straight_line/2_straightline_chapter_ketab_uddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch03_t06",
+          "topicName": "কেতাবউদ্দীন সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/3_straight_line/3_straightline_solution_ketab_uddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch03_t07",
+          "topicName": "অসীমকুমার বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/3_straight_line/4_straightline_chapter_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch03_t08",
+          "topicName": "অসীমকুমার সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/3_straight_line/5_straightline_solution_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "math_1st_paper_ch04",
+      "chapterNumber": "চতুর্থ অধ্যায়",
+      "chapterName": "বৃত্ত",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/math1st_paper/4_circle.gif",
+      "topicsData": [
+        {
+          "id": "math_1st_paper_ch04_t01",
+          "topicName": "বেসিক ফরমুলাসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/basic_formula_math1stpaper/5_basic_formula_circle_compressed_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch04_t02",
+          "topicName": "হ্যান্ডনোট বৃত্ত ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/5_handnote_circle_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch04_t03",
+          "topicName": "এস ইউ আহমেদ বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/4_circle/1_circle_chapter_suahmed_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch04_t04",
+          "topicName": "কেতাবউদ্দীন সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/4_circle/2_circle_solution_ketabuddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch04_t05",
+          "topicName": "অসীমকুমার বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/4_circle/3_circle_chapter_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch04_t06",
+          "topicName": "অসীমকুমার সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/4_circle/4_circle_solution_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "math_1st_paper_ch05",
+      "chapterNumber": "পঞ্চম অধ্যায়",
+      "chapterName": "বিন্যাস ও সমাবেশ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/math1st_paper/5_permutation.gif",
+      "topicsData": [
+        {
+          "id": "math_1st_paper_ch05_t01",
+          "topicName": "বেসিক ফরমুলাসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/basic_formula_math1stpaper/6a_6b_basic_formula_permutationand_combination_compressed_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch05_t02",
+          "topicName": "হ্যান্ডনোট বিন্যাস",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/6a_handnote_permutation_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch05_t03",
+          "topicName": "হ্যান্ডনোট সমাবেশ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/6b_handnote_combination_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch05_t04",
+          "topicName": "এস ইউ আহমেদ বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/5_permutation_and_combination/1_permutationand_combination_chapter_suahmed_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch05_t05",
+          "topicName": "কেতাবউদ্দীন সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/5_permutation_and_combination/2_permutationand_combination_solution_ketab_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch05_t06",
+          "topicName": "অসীমকুমার বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/5_permutation_and_combination/3_permutationand_combination_chapter_asim_kumar_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch05_t07",
+          "topicName": "অসীমকুমার সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/5_permutation_and_combination/4_permutationand_combination_solution_asim_kumar_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "math_1st_paper_ch06",
+      "chapterNumber": "ষষ্ঠ ও সপ্তম অধ্যায়",
+      "chapterName": "ত্রিকোণমিতি",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/math1st_paper/6_7_trigonometry.gif",
+      "topicsData": [
+        {
+          "id": "math_1st_paper_ch06_t01",
+          "topicName": "বেসিক ফরমুলাসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/basic_formula_math1stpaper/7_basic_formula_trigonometry_compressed_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch06_t02",
+          "topicName": "হ্যান্ডনোট",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/7_handnote_trigonometry1stpaper_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch06_t03",
+          "topicName": "এস ইউ আহমেদ বই(ষষ্ঠ ও সপ্তম অধ্যায়)",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/6_7_trigonometry_6_7/1_rigonometry_chapter6_7_suahmed_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch06_t04",
+          "topicName": "কেতাবউদ্দীন সমাধান(ষষ্ঠ অধ্যায়)",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/6_7_trigonometry_6_7/2_trigonometry_solution6_ketab_uddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch06_t05",
+          "topicName": "কেতাবউদ্দীন সমাধান(সপ্তম অধ্যায়)",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/6_7_trigonometry_6_7/3_trigonometry_solution7_ketab_uddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch06_t06",
+          "topicName": "অসীমকুমার বই(ষষ্ঠ অধ্যায়)",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/6_7_trigonometry_6_7/4_trigonometry_chapter6_asim_kumar_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch06_t07",
+          "topicName": "অসীমকুমার সমাধান(ষষ্ঠ অধ্যায়)",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/6_7_trigonometry_6_7/5_trigonometry_solution6_asim_kumar_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch06_t08",
+          "topicName": "অসীমকুমার বই(সপ্তম অধ্যায়)",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/6_7_trigonometry_6_7/6_trigonometry_chapter7_asim_kumar_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch06_t09",
+          "topicName": "অসীমকুমার সমাধান(সপ্তম অধ্যায়)",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/6_7_trigonometry_6_7/7_trigonometry_solution7_asim_kumar_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "math_1st_paper_ch07",
+      "chapterNumber": "অষ্টম অধ্যায়",
+      "chapterName": "ফাংশন",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/math1st_paper/8_function.png",
+      "topicsData": [
+        {
+          "id": "math_1st_paper_ch07_t01",
+          "topicName": "বেসিক ফরমুলাসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/basic_formula_math1stpaper/8_basic_formula_function_compressed_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch07_t02",
+          "topicName": "হ্যান্ডনোট ফাংশন",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/8_handnote_function_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch07_t03",
+          "topicName": "এস ইউ আহমেদ বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/8_function/1_function_chapter_suahmed_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch07_t04",
+          "topicName": "কেতাবউদ্দীন সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/8_function/2_functionsolution_ketab_uddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch07_t05",
+          "topicName": "অসীমকুমার বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/8_function/3_function_chapter_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch07_t06",
+          "topicName": "অসীমকুমার সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/8_function/4_function_solution_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "math_1st_paper_ch08",
+      "chapterNumber": "নবম অধ্যায়",
+      "chapterName": "অন্তরীকরণ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/math1st_paper/9_differenciation.gif",
+      "topicsData": [
+        {
+          "id": "math_1st_paper_ch08_t01",
+          "topicName": "বেসিক ফরমুলাসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/basic_formula_math1stpaper/9_basic_formula_differentiation_compressed_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch08_t02",
+          "topicName": "হ্যান্ডনোট অন্তরীকরণ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/9_handnote_differentiation_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch08_t03",
+          "topicName": "এস ইউ আহমেদ বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/9_differentiation/1_differentiation_chapter_suahmed_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch08_t04",
+          "topicName": "কেতাবউদ্দীন সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/9_differentiation/2_differentiation_solution_ketab_uddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch08_t05",
+          "topicName": "অসীমকুমার বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/9_differentiation/3_differentiation_chapter_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch08_t06",
+          "topicName": "অসীমকুমার সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/9_differentiation/4_differentiation_solution_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "math_1st_paper_ch09",
+      "chapterNumber": "দশম অধ্যায়",
+      "chapterName": "যোগজীকরণ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/math1st_paper/10_integration.gif",
+      "topicsData": [
+        {
+          "id": "math_1st_paper_ch09_t01",
+          "topicName": "বেসিক ফরমুলাসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/basic_formula_math1stpaper/10_basic_formula_integration_compressed_2.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch09_t02",
+          "topicName": "হ্যান্ডনোট যোগজীকরণ ১",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/10a_handnote_integration_version1_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch09_t03",
+          "topicName": "হ্যান্ডনোট যোগজীকরণ ২",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/handnote_math1st_paper/10a_handnote_integration_version2_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch09_t04",
+          "topicName": "এস ইউ আহমেদ বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/10_integration/1_integration_chapter_suahmed_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch09_t05",
+          "topicName": "কেতাবউদ্দীন সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/10_integration/2_integration_solution_ketab_uddin_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch09_t06",
+          "topicName": "অসীমকুমার বই",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/10_integration/3_integration_chapter_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "math_1st_paper_ch09_t07",
+          "topicName": "অসীমকুমার সমাধান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/math1st_paper_pdf/books_math1st_paper/10_integration/4_integration_solution_asim_kumar_shaha_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    }
+  ],
+  "version": 2,
+  "contentLayout": "resource-manifest",
+  "updatedAt": "2026-06-20"
+}

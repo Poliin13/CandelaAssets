@@ -1,0 +1,144 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "প্রাস(Projectile)"
+        },
+        {
+          "text": "অনুভূমিকের সাথে নির্দিষ্ট কোণে কোনো বস্তুকে নিক্ষেপ করলে তাকে প্রাস বলে। এ ধরনের নিক্ষিপ্ত বস্তুর গতিকে প্রাস গতি বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/projectile_theory.gif"
+        },
+        {
+          "title": "সর্বাধিক অনুভূমিক পাল্লা"
+        },
+        {
+          "text": "নিক্ষেপ করা বস্তুটি সর্বাধিক যে অনুভূমিক দূরত্ব অতিক্রম করে ভূমিতে স্পর্শ করে তাকে সর্বাধিক অনুভূমিক পাল্লা R বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/projectile_theory_rmax.gif"
+        },
+        {
+          "title": "প্রাস(Projectile)"
+        },
+        {
+          "ytVideo": "rMVBc8cE5GU"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "প্রাস উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/projectile_1.webp"
+        },
+        {
+          "text": "প্রাস উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/projectile_2.webp"
+        },
+        {
+          "text": "প্রাস উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/projectile_3.webp"
+        },
+        {
+          "text": "প্রাস উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/projectile_4.webp"
+        },
+        {
+          "text": "প্রাস উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/projectile_5.webp"
+        },
+        {
+          "text": "প্রাস উদাহরন ৬"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/projectile_6.webp"
+        },
+        {
+          "text": "প্রাস উদাহরন ৭"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/projectile_7.webp"
+        },
+        {
+          "text": "প্রাস উদাহরন ৮"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/projectile_8.webp"
+        },
+        {
+          "text": "প্রাস উদাহরন ৯"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/projectile_9.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি প্রাসের আনুভুমিক পাল্লা 75m এবং বিচরণকাল 5s। প্রাসটি আনুভুমিক এর সাথে কত কোণে এবং কত আদিবেগে নিক্ষেপ করা হয়েছিল?",
+          "flipCardBack": "উত্তরঃ 58.5°,28.74 m/s"
+        },
+        {
+          "flipCardFront": "২। 45°  কোনে নিক্ষিপ্ত প্রাসের পাল্লা 85m হলে তা 35m দূরে অবস্থিত দেয়াল্কে কত উচ্চতায় আঘাত করবে?",
+          "flipCardBack": "উত্তরঃ ২০.৫৯মি"
+        },
+        {
+          "flipCardFront": "৩। একটি ফুটবলকে ভুমি হতে 30m/s বেগে 30° কোনে কিক করা হলে 1s পরে এর বেগ কত?",
+          "flipCardBack": "উত্তরঃ 26.495 m/s"
+        },
+        {
+          "flipCardFront": "৪। একটা বস্তুকে 40 ms⁻² বেগে ভূমির সাথে 60° কোণে নিক্ষেপ করা হল। এর সর্বাধিক উচ্চতা ও অনুভূমিক পাল্লা কত?",
+          "flipCardBack": "উত্তরঃ সর্বাধিক উচ্চতা  61.22 m ও অনুভূমিক পাল্লা 141.39"
+        },
+        {
+          "flipCardFront": "৫। কোন বস্তুর পাল্লা সর্বনিম্ন হলে নিক্ষেপণ কোণ কত?",
+          "flipCardBack": "উত্তরঃ ৯০ ডিগ্রী"
+        },
+        {
+          "flipCardFront": "৬। একটা বন্দুক থেকে 70 ms⁻¹ বেগে গুলি ছোড়া যায়। 300 m দূরত্বে অবস্থিত কোনো বস্তুকে আঘাত করার জন্য কত ডিগ্রি কোণে গুলি ছোড়া লাগবে?",
+          "flipCardBack": "উত্তরঃ 18.45°"
+        },
+        {
+          "text": "নির্দিষ্ট উচ্চতা থেকে অনুভুমিকভাবে নিক্ষিপ্ত বস্তু সংক্রান্তঃ"
+        },
+        {
+          "flipCardFront": "১। কোনো দালানের ছাদ থেকে একটি বল আনুভূমিক ভাবে 50 m/s দ্রুতিতে নিক্ষেপ করা হলো। বাতাসের বাধা না থাকলে 3s পরে এর দ্রুতি কত হবে?",
+          "flipCardBack": "উত্তরঃ 58.003 m/s"
+        },
+        {
+          "flipCardFront": "২। কোনো বস্তু টেবিলের উপর থেকে 0.5 m/s বেগে গড়িয়ে পড়ে। টেবিল হতে যদি 0.5m দূরে গিয়ে বস্তুটি  পড়ে তবে টেবিলের উচ্চতা কত?",
+          "flipCardBack": "উত্তরঃ 4.9m"
+        },
+        {
+          "flipCardFront": "৩। একটি বোমারু বিমান 147m/s বেগে আনূভূমিক বরাবর চলার সাথে 490m উচু হতে একটি বোমা ফেলে। বায়ুর বাধা উপেক্ষা করে বোমাটি কখন ও কোথায় ভুমিতে পতিত হবে?",
+          "flipCardBack": "উত্তরঃ 10s, 1470m"
+        },
+        {
+          "text": "উচু স্থান হতে তির্যকভাবে নিক্ষিপ্ত বস্তু সংক্রান্তঃ"
+        },
+        {
+          "flipCardFront": "১। একটি বলকে কত বেগে ভুমি হতে 1.5m উপরে থেকে 25° কোণে নিক্ষেপ করা হলে এটি আনূভূমিক বরাবর 20m দূরত্ব অতিক্রম করবে?",
+          "flipCardBack": "উত্তরঃ 14.846 m/s "
+        },
+        {
+          "flipCardFront": "২। ১৭০মি উঁচু দালানের ছাদ থেকে আনুভুমিক এর সাথে 30° কোণ করে নিচের দিকে নিক্ষেপ করলে একটি বস্তু  এর আদিবেগ 40m/s\n  (ক) ভুমিতে আঘাত করতে এর কত সময় লাগবে?\n  (খ) দালানের পাদবিন্দু থেকে কত দূরে এটি ভুমিতে আঘাত করবে?\n  (গ) ভুমিতে এটি কত কোনে আঘাত করবে?",
+          "flipCardBack": "উত্তরঃ 4.19s; 286.48m; ৬০ ডিগ্রি"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "ytVideo": "RVMZxH1TIIQ"
+        },
+        {
+          "title": "মুক্তিবেগ (Escape velocity)"
+        },
+        {
+          "text": "মুক্তিবেগ বলতে এমন একটি বেগকে বুঝানো হয় মহাকর্ষীয় ক্ষেত্রে যে মানের বেগে নিক্ষিপ্ত কোন বস্তুর গতিশক্তি ও মহাকর্ষীয় বিভবশক্তির সমষ্টি শুন্য হয়। মুক্তিবেগে কোন বস্তুকে কোন মহাকর্ষীয় ক্ষেত্র থেকে শুন্যে ছুড়ে দেয়া হলে তা আর ঐ মহাকর্ষীয় ক্ষেত্রে ফিরে আসে না। গোলীয় প্রতিসাম্য বস্তুর ক্ষেত্রে নিম্নক্ত সমীকরন দ্বারা মুক্তিবেগের মান নির্ণয় করা হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/escape_velocity_theory.gif"
+        },
+        {
+          "text": "পৃথিবীর ক্ষেত্রে মুক্তিবেগের মান প্রতি সেকেন্ডে ১১.২ কি.মি.। অর্থাৎ কোনো বস্তুকে প্রতি সেকেন্ডে ১১.২ কি.মি. গতিবেগে ওপরের দিকে ছূড়তে পারলে সেটা আর নীচের দিকে না পড়ে, মহাশূন্যে পৃথিবীর চারিদিকে ঘুরতে থাকবে। রকেটের ক্ষেত্রে মুক্তি বেগ প্রযোজ্য নয় কারণ রকেটের নিজস্ব জ্বালানি আছে। তাই রকেট মুক্তি বেগের অনেক কম বেগেই পৃথিবীর আকর্ষণ কাটিয়ে যেতে পারে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/escape_velocity_theory.webp"
+        },
+        {},
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/escape_velocity_formula.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/escape_velocity_formula.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "মুক্তিবেগ উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/escape_velocity_1.webp"
+        },
+        {
+          "text": "মুক্তিবেগ উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/escape_velocity_2.webp"
+        },
+        {
+          "text": "মুক্তিবেগ উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/escape_velocity_3.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১. পৃথিবীর ব্যাসাধ 6380km হলে পৃথিবী পৃষ্ঠ হতে কোনাে বস্তুর মুক্তিবেগ নির্ণয় করাে। [g = 9.8 ms^-2]",
+          "flipCardBack": "উত্তরঃ 11.2 km/s"
+        },
+        {
+          "flipCardFront": "২. মঙ্গল গ্রহের ভর পৃথিবীর ভরের 0.108 গুণ এবং ব্যাসার্ধ পৃথিবীর ব্যাসার্ধের 0.532 গুণ হলে, মঙ্গল গ্রহে একটি বস্তুর মুক্তিবেগ কত হবে? পৃথিবীর ব্যাসার্ধ 6400 km.",
+          "flipCardBack": "উত্তরঃ 5.04 km/s"
+        },
+        {
+          "flipCardFront": "৩. বৃহস্পতির ভর এবং ব্যাসাধ যথাক্রমে 1.9x10^27kg এবং 7x10^7 m। বৃহস্পতির মুক্তিবেগ নির্ণয় করাে।",
+          "flipCardBack": "উত্তরঃ 6.02x10^4 m/s"
+        },
+        {
+          "flipCardFront": "৪. একটি গ্রহের ব্যাসার্ধ পৃথিবীর ব্যাসার্ধের দ্বিগুণ। কিন্তু গ্রহের পূষ্ঠের অভিকর্ষজ ত্বরণ পূৃথিবীর অভিকর্ষজ ত্বরণের আটগুণ।  উক্ত গ্রহে মুক্তিবেগ পৃথিবীর তুলনায় কত গুণ?",
+          "flipCardBack": "উত্তরঃ চারগুন।"
+        }
+      ]
+    }
+  ]
+}

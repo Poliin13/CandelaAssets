@@ -1,0 +1,83 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {},
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/modulus_of_rigidity_theory.webp"
+        },
+        {
+          "text": "এখানে একটি পদার্থের ক্ষেত্রে ভর দেওয়ার পর পদার্থটি বেকে গিয়েছে, অর্থাৎ এক্ষেত্রে আকার পরিবর্তন হয়েছে। এই আকার পরিবর্তন ই আকার বা কৃন্তন বিকৃতি নামে পরিচিত আর একক আয়তনের বলকেআকার বা কৃন্তন পীড়ন বলা হচ্ছে। কৃন্তন গুণাঙ্ক কে n দিয়ে প্রকাশ করা হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/modulus_of_rigidity_theory.gif"
+        },
+        {
+          "title": "আয়তন গুণাঙ্ক"
+        },
+        {
+          "text": "স্থস্থিতিস্থাপক সীমার মধ্যে বস্তুর আয়তন পীড়ন ও আয়তন বিকৃতির অনুপাত একটি ধ্রুব সংখ্যা, একে বস্তুর উপাদানের আয়তন গুণাঙ্ক বলা হয়। একে B অথবা K দিয়ে প্রকাশ করে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/bulk_modulus_theory.webp"
+        },
+        {
+          "text": "# পানির আয়তন গুণাঙ্ক 0.2 x 10^10 Pa বলতে কি বুঝায়?\n\nপানির আয়তন গুণাঙ্ক 0.2 x 10^10 Pa বলতে বোঝায় পানির আদি আয়তনের সমান আয়তন হ্রাস করার জন্য এর প্রতি বর্গমিটার ক্ষেত্রফলের উপর লম্বভাবে চারদিক থেকে 0.2 x 10^10 N বল প্রয়োগ করতে হবে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/bulk_modulus_theory.gif"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/modulus_of_rigidity_1.webp"
+        },
+        {
+          "text": "উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/modulus_of_rigidity_2.webp"
+        },
+        {
+          "text": "উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/modulus_of_rigidity_3.webp"
+        },
+        {
+          "text": "উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/modulus_of_rigidity_4.webp"
+        },
+        {
+          "text": "উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/modulus_of_rigidity_5.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি ধাতব ঘনকের প্রতিটি তলের ক্ষেত্রফল 0.6m2 এর নিচ তল দৃঢ় ভাবে আটকানো। উপরিতল এ 6×106 N স্পর্শক বল প্রয়োগ করলে কৃন্তন বিকৃতি 10 degree। ধাতুটির কাঠিন্য এর গুণাঙ্ক কত?",
+          "flipCardBack": "ঊত্তরঃ 6.75×10^7 Nm-2"
+        },
+        {
+          "flipCardFront": "২।  0.1 m বাহু বিশিষ্ট ঘনকের কোন তলে 89.67×105 N আকার পীড়ন সৃষ্টিকারী স্পর্শক বল প্রয়োগ করলে বিপরীত স্থির তলের সাপেক্ষে তলটির 3.05×10-3 সরণ ঘটে।আকার পীড়ন,আকার বিকৃতি ও দৃঢ়তা এর স্থিতিস্থাপক গুণাঙ্ক বের কর।",
+          "flipCardBack": "উত্তরঃ 89.67×107 N/m2, 3.05×10-2, 2.94×1010 N/m2"
+        },
+        {
+          "flipCardFront": "৩। ২. একটি পদার্থের উপর প্রযুক্ত আয়তন পীড়ন 3×108Nm2 এবং আয়তন বিকৃতি 1.5×10-3 হলে ঐ পদার্থের উপাদানের আয়তন গুণাঙ্ক নির্ণয় কর।",
+          "flipCardBack": "উত্তরঃ 2×10^11 Nm2"
+        }
+      ]
+    }
+  ]
+}

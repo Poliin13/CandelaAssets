@@ -1,0 +1,91 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "সরল ছন্দিত গতির বৈশিষ্ট্য"
+        },
+        {
+          "text": "ত্বরণ(a) সরণের(x) সমানুপাতিক; এখানে সরণ একটি নির্দিষ্ট বিন্দু থেকে গণনা করা হয় এবং ত্বরণ সর্বদাই এ নির্দিষ্ট বিন্দু ( যা তার সাম্যাবস্থা নির্দেশ করে ) অভিমুখী এবং সরণের বিপরীতমুখী।\n\na ∝ -x\nযেহেতু, a ∝ F,\nF ∝ −x\nF = -kx"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/differential_equation_theory.webp"
+        },
+        {
+          "title": "সমীকরণের সমাধান"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/differential_equation_theory_proof1.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/differential_equation_theory_proof2.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/differential_equation_theory_all_formula.webp"
+        },
+        {
+          "title": "বৃত্তাকার গতির সাথে সম্পর্ক"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/shmtheory4.gif"
+        },
+        {
+          "title": "বেগ, ত্বরণ ও কৌণিক কম্পাঙ্কের সূত্রসমূহ"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/differential_equation_theory_velocity_formula.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/differential_equation_theory_acceleration_formula.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/differential_equation_theory_omega_formula.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "অন্তরক সমীকরণ উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/differential_equation_example_1.webp"
+        },
+        {
+          "text": "অন্তরক সমীকরণ উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/differential_equation_example_2.webp"
+        },
+        {
+          "text": "অন্তরক সমীকরণ উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/differential_equation_example_3.webp"
+        },
+        {
+          "text": "অন্তরক সমীকরণ উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/differential_equation_example_4.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি সরল দোলকের ববের ভর 100g এবং দৈর্ঘ্য 1m। উলম্ব রেখা হতে ববটিকে 10 cm দূরে টেনে ছেড়ে দিলে গতিপথের সর্বনিম্ন বিন্দু অতিক্রমকালে ববের বেগ কত হবে?",
+          "flipCardBack": "উত্তরঃ 0.31 m/s"
+        },
+        {
+          "flipCardFront": "২। ১।একটি সরল ছন্দিত কণার পর্জায় কাল 0.0028 এবং বিস্তার 0.006m কণাটির গরিষ্ঠ বেগ এবং গতি পথের মধ্য অবস্থান হতে 0.0025m দুরের ত্বরণ কত?",
+          "flipCardBack": "উত্তরঃ 13.46 m/s,12600 m/s2"
+        },
+        {
+          "flipCardFront": "৩। সরল ছন্দিত গতিসম্পন্ন একটি কণার গতির সমীকরণ, y=10sin(wt+s) পর্যায়কাল 30s এবং আদি সরণ 0.05 হলে কৌণিক কম্পাঙ্ক কত?",
+          "flipCardBack": "উত্তরঃ 0.209rad/s"
+        }
+      ]
+    }
+  ]
+}

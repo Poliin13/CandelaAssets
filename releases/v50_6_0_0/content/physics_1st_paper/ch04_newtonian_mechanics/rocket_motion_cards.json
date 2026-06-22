@@ -1,0 +1,58 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "text": "রকেটের গতি নিউটনের তৃতীয় সূত্র মেনে চলে।"
+        },
+        {
+          "title": "প্রত্যেক ক্রিয়ারই সমান ও বিপরীত প্রতিক্রিয়া রয়েছে৷"
+        },
+        {
+          "ytVideo": "TVAxASr0iUY"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/rocket_theory.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "রকেটের গতি উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/rocket_example_1.webp"
+        },
+        {
+          "text": "রকেটের গতি উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/rocket_example_2.webp"
+        },
+        {
+          "text": "রকেটের গতি উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/rocket_example_3.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি রকেট 0.07kg/s হারে জ্বালানি খরচ করে। নির্গত গ্যাসের বেগ 100 km/s হলে রকেটের উপর ক্রিয়াশীল বল কত?",
+          "flipCardBack": "উত্তরঃ 7×10^3 N"
+        },
+        {
+          "flipCardFront": "২। মহাকাশে অবস্থিত একটি শাটল মহাকাশযান এর ভর 3×103 kg এবং জ্বালানির ভর 50kg। জ্বালানি 5kg/s হারে ব্যবহ্রত হলে এবং ১৫০ m/s সুষম দ্রুতিতে নির্গত হলে শাটলযানের উপর ধাক্কা বের কর।",
+          "flipCardBack": "উত্তরঃ 750N"
+        },
+        {
+          "flipCardFront": "৩। উৎক্ষেপণ এর পূর্বে একটি রকেট ও তার জ্বালানির ভর 1.9×103 kg। রকেটের সাপেক্ষে জ্বালানি 2.5×103 m/s বেগে নির্গত হলে এবং জ্বালানি 7.4 kg/s হারে ব্যায়িত হলে রকেটের ওপর ধাক্কা বের কর।",
+          "flipCardBack": "উত্তরঃ 1.85×104N"
+        }
+      ]
+    }
+  ]
+}

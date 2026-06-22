@@ -1,0 +1,79 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "গতিশক্তি"
+        },
+        {
+          "text": "গতিশক্তি বলতে কোন বস্তু এর গতির কারণে কাজ করার যে সামর্থ্য লাভ করে তা বূঝানো হয়। কোন বস্তুকে স্থির অবস্থা থেকে কোন নির্দিষ্ট বেগে আনতে যে পরিমাণ কাজ করা হয় তা দিয়ে এর গতিশক্তির পরিমাপ করা হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/05_work_energy_power/kinetic_energy_theory.gif"
+        },
+        {
+          "title": "গতিশক্তি ও ভরবেগের সম্পর্ক"
+        },
+        {
+          "text": "গতিশক্তি = ½ mv² = ½ m²v²/m\nকিন্তু ভরবেগ, P = mv\nসুতরাং, গতিশক্তি E=P²/2m "
+        },
+        {
+          "title": "কাজ-শক্তি উপপাদ্য"
+        },
+        {
+          "text": "গতিশক্তি বলতে কোন বস্তু এর গতির কারণে কাজ করার যে সামর্থ্য লাভ করে তা বূঝানো হয়। কোন বস্তুকে স্থির অবস্থা থেকে কোন নির্দিষ্ট বেগে আনতে যে পরিমাণ কাজ করা হয় তা দিয়ে এর গতিশক্তির পরিমাপ করা হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/05_work_energy_power/kinetic_energy_theory_work_energy_theorem.webp"
+        },
+        {
+          "text": ":. W = ½ mv²-½ mv'²= গতিশক্তির পরিবর্তন"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "গতিশক্তি উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/05_work_energy_power/kinetic_energy_example_1.webp"
+        },
+        {
+          "text": "গতিশক্তি উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/05_work_energy_power/kinetic_energy_example_2.webp"
+        },
+        {
+          "text": "গতিশক্তি উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/05_work_energy_power/kinetic_energy_example_3.webp"
+        },
+        {
+          "text": "গতিশক্তি উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/05_work_energy_power/kinetic_energy_example_4.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১।. 3kg ভরের কোন বস্তু 20m উচ্চতা হতে ছেড়ে দেয়া হলে ভূ-পৃষ্ঠে স্পর্শ করার ঠিক পূর্ব মুহুর্তে এর গতি শক্তি কত?",
+          "flipCardBack": "উত্তরঃ 588 J"
+        },
+        {
+          "flipCardFront": "২। 6kg ভর বিশিষ্ট একটি বস্তু স্থির অবস্থায় ছিল । 30N বল প্রয়োগ করায় 10s সময় পর বস্তুটির গতিশক্তি কত হবে?",
+          "flipCardBack": "উত্তরঃ 7500 J"
+        },
+        {
+          "flipCardFront": "৩। 1 kg ভরের একটি বোমা ভূমি হতে 1 km ওপরে অবস্থিত একটি বোমারু বিমান থেকে ফেলে দেওয়া হলো। ভুমি স্পর্শ করার পূর্ব মুহূর্ত এর গতিশক্তি কত হবে?",
+          "flipCardBack": "উত্তরঃ 9800 J"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "সরল দোলন গতির ক্ষেত্রে শক্তি"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/energy_theory_1.gif"
+        },
+        {
+          "text": "সরল ছন্দিত গতিসম্পন্ন যেকোন কণার মোট যান্ত্রিক শক্তি স্থিতিশক্তি ও গতিশক্তির সমষ্টির সমান।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/energy_theory_3.webp"
+        },
+        {
+          "title": "স্থিতিশক্তি"
+        },
+        {
+          "text": "কোন বস্তুর স্বাভাবিক অবস্থান বা স্থানাংক পরিবর্তনের ফলে বস্তুটি যে শক্তি অর্জন করে তাকে স্থিতিশক্তি বলে। তাহলে স্থিতিশক্তি অবস্থানের ফাংশন হওয়া উচিত।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/energy_theory_1.webp"
+        },
+        {
+          "title": "গতিশক্তি"
+        },
+        {
+          "text": "কোন গতিশীল বস্তু তার গতির কারণে যে শক্তি অর্জন করে তাকে গতিশক্তি বলে। তাহলে গতিশক্তি বেগের ফাংশন হওয়া উচিত।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/energy_theory_2.webp"
+        },
+        {
+          "title": "সুত্র"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/energy_theory_4.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "শক্তি উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/energy_example_1.webp"
+        },
+        {
+          "text": "শক্তি উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/energy_example_2.webp"
+        },
+        {
+          "text": "শক্তি উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/energy_example_3.webp"
+        },
+        {
+          "text": "শক্তি উদাহরন ৪\nএখানে P, Q এবং R অবস্থানে স্থিতিশক্তি ও গতিশক্তির মান নির্ণয় কর."
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/energy_example_4.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/energy_example_4_ans.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি সরল দোলগতিসম্পন্ন কণার বিস্তার 10cm। সাম্যবস্থান থেকে কণাটির সরণ কত হলে তার গতিশক্তি ও স্থিতিশক্তি সমান হবে?",
+          "flipCardBack": "উত্তরঃ 7.07 cm"
+        },
+        {
+          "flipCardFront": "২। কোন স্প্রিং এর এক প্রান্তে একটি বস্তু ঝুলিয়ে বস্তুটিকে একটু ছেড়ে দিলে এটি a বিস্তারে স্পন্দিত হতে থাকে।কোথায় এর গতিশক্তি ও বিভবশক্তি সমান হবে?",
+          "flipCardBack": "ঊত্তরঃ 0.707a দূরে"
+        }
+      ]
+    }
+  ]
+}

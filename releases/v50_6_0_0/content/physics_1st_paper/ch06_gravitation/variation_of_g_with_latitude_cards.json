@@ -1,0 +1,65 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "অক্ষাংশ ও দ্রাঘিমাংশ"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/latitude_theory.webp"
+        },
+        {
+          "ytVideo": "swKBi6hHHMA"
+        },
+        {
+          "title": "কেন্দ্রবিমুখী বল"
+        },
+        {
+          "ytVideo": "KvCezk9DJfk"
+        },
+        {
+          "title": "অক্ষাংশের পরিবর্তনের কারণে g এর পরিবর্তন"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/latitude_theory_formula.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/latitude_1.webp"
+        },
+        {
+          "text": "উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/latitude_2.webp"
+        },
+        {
+          "text": "উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/latitude_3.webp"
+        },
+        {
+          "text": "উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/latitude_4.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১. পৃথিবীর আহ্নিক গতি বন্ধ হয়ে গেলে ঢাকায় g এর মান নির্ণয় কর। ৪৫ ডিগ্রি অক্ষাংশে g এর মান 9.81 m/s^2; ঢাকার অক্ষাংশ ২৩ ডিগ্রি।",
+          "flipCardBack": "উত্তরঃ নিজে কর "
+        }
+      ]
+    }
+  ]
+}

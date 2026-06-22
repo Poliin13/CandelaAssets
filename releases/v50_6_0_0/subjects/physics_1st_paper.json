@@ -1,0 +1,1511 @@
+{
+  "subjectName": "Physics 1st Paper",
+  "chapters": [
+    {
+      "id": "physics_1st_paper_ch01",
+      "chapterNumber": "প্রথম অধ্যায়",
+      "chapterName": "ভৌত জগত ও পরিমাপ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/chapter_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_1st_paper_ch01_t01",
+          "topicName": "ত্রুটি পরিমাপ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch01_measurement/measurement_errors_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch01_t02",
+          "topicName": "গাণিতিক সমস্যাবলী",
+          "resources": [
+            {
+              "type": "math",
+              "title": "Math Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch01_measurement/math_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch01_t03",
+          "topicName": "নৈর্ব্যক্তিক প্রশ্নাবলী",
+          "resources": [
+            {
+              "type": "mcq",
+              "title": "MCQ Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch01_measurement/mcq_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch01_t04",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter1_theory.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch01_t05",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter1_math.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch01_t06",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter1_objective.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_1st_paper_ch02",
+      "chapterNumber": "দ্বিতীয় অধ্যায়",
+      "chapterName": "ভেক্টর",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/vector_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_1st_paper_ch02_t01",
+          "topicName": "ভেক্টর রাশির লব্ধি নির্ণয়",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch02_vector/vector_resultant_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch02_t02",
+          "topicName": "ভেক্টর গুন",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch02_vector/vector_multiplication_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch02_t03",
+          "topicName": "ভেক্টর ক্যালকুলাস",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch02_vector/vector_calculus_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch02_t04",
+          "topicName": "হ্যান্ডনোট ভেক্টর",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/handnote_ch02_refined_vector.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch02_t05",
+          "topicName": "গাণিতিক সমস্যাবলী",
+          "resources": [
+            {
+              "type": "math",
+              "title": "Math Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch02_vector/math_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch02_t06",
+          "topicName": "নৈর্ব্যক্তিক প্রশ্নাবলী",
+          "resources": [
+            {
+              "type": "mcq",
+              "title": "MCQ Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch02_vector/mcq_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch02_t07",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter2_theory.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch02_t08",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter2_math.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch02_t09",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter2_objective.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_1st_paper_ch03",
+      "chapterNumber": "তৃতীয় অধ্যায়",
+      "chapterName": "গতিবিদ্যা",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/dynamics_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_1st_paper_ch03_t01",
+          "topicName": "নিউটনের সূত্র",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch03_dynamics/newtons_laws_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch03_t02",
+          "topicName": "পড়ন্ত বস্তু",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch03_dynamics/falling_bodies_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch03_t03",
+          "topicName": "রৈখিক গতি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch03_dynamics/linear_motion_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch03_t04",
+          "topicName": "প্রাস",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch03_dynamics/projectile_motion_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch03_t05",
+          "topicName": "বৃত্তাকার গতি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch03_dynamics/circular_motion_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch03_t06",
+          "topicName": "হ্যান্ডনোট গতিবিদ্যা",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/handnote_ch03_dynamics.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch03_t07",
+          "topicName": "গাণিতিক সমস্যাবলী",
+          "resources": [
+            {
+              "type": "math",
+              "title": "Math Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch03_dynamics/math_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch03_t08",
+          "topicName": "নৈর্ব্যক্তিক প্রশ্নাবলী",
+          "resources": [
+            {
+              "type": "mcq",
+              "title": "MCQ Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch03_dynamics/mcq_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch03_t09",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter3_theory.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch03_t10",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter3_math.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch03_t11",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter3_objective.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_1st_paper_ch04",
+      "chapterNumber": "চতুর্থ অধ্যায়",
+      "chapterName": "নিউটনিয়ান বলবিদ্যা",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/chapter_four_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_1st_paper_ch04_t01",
+          "topicName": "জড়তার ধারনা",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/inertia_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t02",
+          "topicName": "নিউটনের সূত্র",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/newtons_laws_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t03",
+          "topicName": "ভরবেগের নিত্যতা ও সংঘর্ষ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/momentum_conservation_collision_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t04",
+          "topicName": "ঘর্ষণ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/friction_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t05",
+          "topicName": "ঘাত বল",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/impulsive_force_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t06",
+          "topicName": "রকেটের গতি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/rocket_motion_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t07",
+          "topicName": "জড়তার ভ্রামক ও চক্রগতির ব্যাসার্ধ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/moment_of_inertia_radius_of_gyration_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t08",
+          "topicName": "টর্ক ও কৌণিক ত্বরণ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/torque_angular_acceleration_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t09",
+          "topicName": "কৌণিক গতিশক্তি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/angular_kinetic_energy_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t10",
+          "topicName": "কেন্দ্রমুখী বল ও রাস্তার ব্যাংকিং",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/centripetal_force_road_banking_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t11",
+          "topicName": "হ্যান্ডনোট নিউটনিয়ান গতিবিদ্যা",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/handnote_ch04_newtonian_mechanics.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t12",
+          "topicName": "গাণিতিক সমস্যাবলী",
+          "resources": [
+            {
+              "type": "math",
+              "title": "Math Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/math_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t13",
+          "topicName": "নৈর্ব্যক্তিক প্রশ্নাবলী",
+          "resources": [
+            {
+              "type": "mcq",
+              "title": "MCQ Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch04_newtonian_mechanics/mcq_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t14",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter4_theory.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t15",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter4_math.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch04_t16",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter4_objective.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_1st_paper_ch05",
+      "chapterNumber": "পঞ্চম অধ্যায়",
+      "chapterName": "কাজ,শক্তি ও ক্ষমতা",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/05_work_energy_power/chapter_five_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_1st_paper_ch05_t01",
+          "topicName": "কাজ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch05_work_energy_power/work_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch05_t02",
+          "topicName": "শক্তির নিত্যতা",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch05_work_energy_power/conservation_of_energy_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch05_t03",
+          "topicName": "বিভব শক্তি/স্থিতিশক্তি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch05_work_energy_power/potential_energy_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch05_t04",
+          "topicName": "গতিশক্তি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch05_work_energy_power/kinetic_energy_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch05_t05",
+          "topicName": "ক্ষমতা ও কর্মদক্ষতা",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch05_work_energy_power/power_efficiency_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch05_t06",
+          "topicName": "হ্যান্ডনোট কাজ,শক্তি ও ক্ষমতা",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/handnote_ch05_work_energy_power.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch05_t07",
+          "topicName": "গাণিতিক সমস্যাবলী",
+          "resources": [
+            {
+              "type": "math",
+              "title": "Math Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch05_work_energy_power/math_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch05_t08",
+          "topicName": "নৈর্ব্যক্তিক প্রশ্নাবলী",
+          "resources": [
+            {
+              "type": "mcq",
+              "title": "MCQ Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch05_work_energy_power/mcq_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch05_t09",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter5_theory.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch05_t10",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter5_math.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch05_t11",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter5_objective.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_1st_paper_ch06",
+      "chapterNumber": "ষষ্ঠ অধ্যায়",
+      "chapterName": "মহাকর্ষ ও অভিকর্ষ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/gravity_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_1st_paper_ch06_t01",
+          "topicName": "মহাকর্ষ বল",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch06_gravitation/gravitational_force_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t02",
+          "topicName": "মহাকর্ষ প্রাবল্য ও বিভব",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch06_gravitation/gravitational_field_potential_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t03",
+          "topicName": "অভিকর্ষজ ত্বরণ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch06_gravitation/acceleration_due_to_gravity_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t04",
+          "topicName": "পৃথিবীর উপরে ও নিচে g এর পরিবর্তন",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch06_gravitation/variation_of_g_with_height_depth_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t05",
+          "topicName": "অক্ষাংশের পরিবর্তনের কারণে g এর পরিবর্তন",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch06_gravitation/variation_of_g_with_latitude_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t06",
+          "topicName": "মুক্তিবেগ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch06_gravitation/escape_velocity_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t07",
+          "topicName": "কৃত্রিম উপগ্রহ ও ভূ-স্থির উপগ্রহ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch06_gravitation/satellites_geostationary_orbit_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t08",
+          "topicName": "গ্রহের গতি সম্পর্কিত কেপলারের সূত্র",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch06_gravitation/keplers_laws_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t09",
+          "topicName": "হ্যান্ডনোট মহাকর্ষ ও অভিকর্ষ",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/handnote_ch06_gravity.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t10",
+          "topicName": "গাণিতিক সমস্যাবলী",
+          "resources": [
+            {
+              "type": "math",
+              "title": "Math Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch06_gravitation/math_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t11",
+          "topicName": "নৈর্ব্যক্তিক প্রশ্নাবলী",
+          "resources": [
+            {
+              "type": "mcq",
+              "title": "MCQ Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch06_gravitation/mcq_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t12",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter6_theory.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t13",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter6_math.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch06_t14",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter6_objective.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_1st_paper_ch07",
+      "chapterNumber": "সপ্তম অধ্যায়",
+      "chapterName": "পদার্থের গাঠনিক ধর্ম",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/spring_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_1st_paper_ch07_t01",
+          "topicName": "পীড়ন ও বিকৃতি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/stress_strain_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t02",
+          "topicName": "হুকের সূত্র",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/hookes_law_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t03",
+          "topicName": "পয়সনের অনুপাত",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/poissons_ratio_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t04",
+          "topicName": "স্থিতিস্থাপক গুনাংক",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/elastic_moduli_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t05",
+          "topicName": "কৃন্তন বা কাঠিন্যের গুনাংক এবং আয়তন গুনাংক",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/rigidity_and_bulk_modulus_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t06",
+          "topicName": "বিকৃতি দ্বারা কৃতকাজ ও শক্তি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/work_energy_in_deformation_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t07",
+          "topicName": "পৃষ্ঠটান",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/surface_tension_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t08",
+          "topicName": "পৃষ্ঠটানের কাজ ও শক্তি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/surface_tension_work_energy_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t09",
+          "topicName": "কৈশিক নল",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/capillary_tube_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t10",
+          "topicName": "সান্দ্রতা",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/viscosity_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t11",
+          "topicName": "হ্যান্ডনোট পদার্থের গাঠনিক ধর্ম",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/handnote_ch07_physical_properties_of_matter.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t12",
+          "topicName": "গাণিতিক সমস্যাবলী",
+          "resources": [
+            {
+              "type": "math",
+              "title": "Math Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/math_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t13",
+          "topicName": "নৈর্ব্যক্তিক প্রশ্নাবলী",
+          "resources": [
+            {
+              "type": "mcq",
+              "title": "MCQ Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch07_structural_properties_of_matter/mcq_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t14",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter7_theory.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t15",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter7_math.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch07_t16",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter7_objective.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_1st_paper_ch08",
+      "chapterNumber": "অষ্টম অধ্যায়",
+      "chapterName": "পর্যাবৃত্ত গতি",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/periodic_motion_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_1st_paper_ch08_t01",
+          "topicName": "সরল ছন্দিত স্পন্দন",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch08_periodic_motion/simple_harmonic_motion_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch08_t02",
+          "topicName": "অন্তরক সমীকরণ ও সমাধান",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch08_periodic_motion/differential_equation_solution_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch08_t03",
+          "topicName": "সরল দোলন গতির ক্ষেত্রে শক্তি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch08_periodic_motion/energy_in_shm_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch08_t04",
+          "topicName": "সরল দোলক ও স্প্রিং এর দোলন",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch08_periodic_motion/simple_pendulum_spring_oscillation_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch08_t05",
+          "topicName": "হ্যান্ডনোট পর্যাবৃত্ত গতি ",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/handnote_ch08_shm.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch08_t06",
+          "topicName": "গাণিতিক সমস্যাবলী",
+          "resources": [
+            {
+              "type": "math",
+              "title": "Math Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch08_periodic_motion/math_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch08_t07",
+          "topicName": "নৈর্ব্যক্তিক প্রশ্নাবলী",
+          "resources": [
+            {
+              "type": "mcq",
+              "title": "MCQ Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch08_periodic_motion/mcq_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch08_t08",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter8_theory.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch08_t09",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter8_math.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch08_t10",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter8_objective.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_1st_paper_ch09",
+      "chapterNumber": "নবম অধ্যায়",
+      "chapterName": "তরঙ্গ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/chapter_nine_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_1st_paper_ch09_t01",
+          "topicName": "তরঙ্গ সংক্রান্ত রাশিসমূহ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch09_waves/wave_quantities_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t02",
+          "topicName": "অগ্রগামী তরঙ্গ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch09_waves/progressive_wave_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t03",
+          "topicName": "তরঙ্গের উপরিপাতন নীতি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch09_waves/superposition_of_waves_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t04",
+          "topicName": "স্থির তরঙ্গ",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch09_waves/stationary_wave_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t05",
+          "topicName": "বীট",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch09_waves/beats_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t06",
+          "topicName": "অনুনাদ ও তীব্রতা লেভেল",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch09_waves/resonance_intensity_level_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t07",
+          "topicName": "হারমোনিক ও স্বরগ্রাম,তারের কম্পন",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch09_waves/harmonics_scales_string_vibration_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t08",
+          "topicName": "হ্যান্ডনোট তরঙ্গ",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/handnote_ch09_wave.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t09",
+          "topicName": "গাণিতিক সমস্যাবলী",
+          "resources": [
+            {
+              "type": "math",
+              "title": "Math Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch09_waves/math_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t10",
+          "topicName": "নৈর্ব্যক্তিক প্রশ্নাবলী",
+          "resources": [
+            {
+              "type": "mcq",
+              "title": "MCQ Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch09_waves/mcq_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t11",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter9_theory.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t12",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter9_math.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch09_t13",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter9_objective.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_1st_paper_ch10",
+      "chapterNumber": "দশম অধ্যায়",
+      "chapterName": "আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/10_gas/gas_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_1st_paper_ch10_t01",
+          "topicName": "গ্যাসের গতিতত্ত্ব",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch10_ideal_gas/kinetic_theory_of_gases_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch10_t02",
+          "topicName": "গ্যাস সূত্রাবলি",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch10_ideal_gas/gas_laws_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch10_t03",
+          "topicName": "আর্দ্রতা",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch10_ideal_gas/humidity_cards.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch10_t04",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter10_theory.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch10_t05",
+          "topicName": "হ্যান্ডনোট আদর্শ গ্যাস ও গ্যাসের গতিতত্ত্ব",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/handnote_ch10_ideal_gas.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch10_t06",
+          "topicName": "নৈর্ব্যক্তিক প্রশ্নাবলী",
+          "resources": [
+            {
+              "type": "mcq",
+              "title": "MCQ Practice",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_1st_paper/ch10_ideal_gas/mcq_practice.json"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch10_t07",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter10_math.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch10_t08",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/chapter10_objective.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_1st_paper_ch11",
+      "chapterNumber": "অতিরিক্ত",
+      "chapterName": "১ম পত্রের প্রয়োজনীয় তথ্য",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/candela_background.webp",
+      "topicsData": [
+        {
+          "id": "physics_1st_paper_ch11_t01",
+          "topicName": "সকল সুত্রসমূহ",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/all_formulas1st_paper.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch11_t02",
+          "topicName": "বোর্ড প্রশ্নসমূহ",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/board_question1st_paper.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        },
+        {
+          "id": "physics_1st_paper_ch11_t03",
+          "topicName": "বোর্ড অবজেক্টিভ প্রশ্নসমূহ",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/1st_paper_test_paper/board_mcq1st_paper_compress_pdf.pdf"
+            }
+          ],
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5"
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    }
+  ],
+  "version": 2,
+  "contentLayout": "resource-manifest",
+  "updatedAt": "2026-06-20"
+}

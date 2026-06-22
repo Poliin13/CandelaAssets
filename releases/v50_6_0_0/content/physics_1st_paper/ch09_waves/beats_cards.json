@@ -1,0 +1,86 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "বীট"
+        },
+        {
+          "text": "একই ধরনের এবং প্রায় সমান কম্পাঙ্কের দুইটি শব্দ তরঙ্গের উপরিপাতনের ফলে শব্দের তীব্রতার যে পর্যায়ক্রমিক হ্রাস-বৃদ্ধি হয়, তাকে বীট বলে। আর প্রতি সেকেন্ডে এরকম যেকয়টি পর্যায়ক্রমিক হ্রাসবৃদ্ধি শুনা যা, তাকে বীটের হার বলে"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/beat_theory1.gif"
+        },
+        {
+          "title": "বীট উৎপন্নের শর্ত"
+        },
+        {
+          "text": "১) বীট উৎপন্নকারী শব্দ তরঙ্গ দুটি একই সময়ে উৎপন্ন হতে হবে।\n২) তরঙ্গ দুটির কম্পাঙ্ক ও তীব্রতা প্রায় সমান হতে হবে।\n৩) শব্দের প্রাবল্য সময়ের সাথে পরিবর্তিত হতে হবে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/beat_theory2.gif"
+        },
+        {
+          "title": "সুরশলাকার অঙ্ক করার নিয়ম"
+        },
+        {
+          "text": "১) কম্পাঙ্ক বাড়ে - ঘষে ফেললে\n    কম্পাঙ্ক কমে - মোম লাগালে \n২) সুরশলাকা দুটির কম্পাঙ্ক গ্রাফে বসানো \n৩) পরিবর্তিত কম্পাঙ্ক গ্রাফে বসানো।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/beat1.webp"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/beat2.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "বীট উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/beat_example_1.webp"
+        },
+        {
+          "text": "বীট উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/beat_example_2.webp"
+        },
+        {
+          "text": "বীট উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/beat_example_3.webp"
+        },
+        {
+          "text": "বীট উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/beat_example_4.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। দুইটি সুরশলাকা 1 ও 2 একই সময় শব্দায়িত হওয়ায় প্রতি সেকেন্ডে 5টি বীট উৎপন্ন হয়। কিন্তু 1 নং শলাকাতে খানিকটা ভর যুক্ত করলে বীটের সংখ্যা কমে যায়। 2 নং শলাকার কম্পাঙ্ক 256Hz হলে 1 নং এর কম্পাঙ্ক বের করো",
+          "flipCardBack": "উত্তরঃ 261 Hz"
+        },
+        {
+          "flipCardFront": "২. একটি সুর 512Hz কম্পাঙ্কে কম্পিত হওয়া একটি গিটারের তারের সাথে প্রতি সেকেন্ডে 4টি বীট এবং 514Hz কম্পাঙ্কের একটি বেহালার তারের প্রতি সেকেন্ডে 6টি বীট উৎপন্ন করে। সুরটির কম্পাঙ্ক নির্ণয় করো।",
+          "flipCardBack": "উত্তরঃ 508 Hz"
+        },
+        {
+          "flipCardFront": "৩. দুটি শব্দ তরঙ্গের তরঙ্গদৈর্ঘ্য 1 m ও 1.01 m। তরঙ্গ দুটি একটি গ্যাসে 6 সেকেন্ডে 20টি বিট উৎপন্ন করে। শব্দের বেগ কত?",
+          "flipCardBack": "উত্তরঃ 336.67m/s"
+        },
+        {
+          "flipCardFront": "৪. অজানা কম্পাঙ্কের একটা সুর 512 Hz কম্পাঙ্কের অন্য আরেকটা সুরের সাথে প্রতি সেকেন্ডে 4টি বিট উৎপন্ন করে। সেই অজানা সুরই আবার 514 Hz কম্পাঙ্কের একটা সুরের সাথে প্রতি সেকেন্ডে 6টি বিট উৎপন্ন করে। অজানা কম্পাঙ্কটি কত?",
+          "flipCardBack": "উত্তরঃ 508 Hz"
+        }
+      ]
+    }
+  ]
+}

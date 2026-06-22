@@ -1,0 +1,138 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "বেগ"
+        },
+        {
+          "text": "নির্দিষ্ট দিকে পারিপার্শ্বিকের সাপেক্ষে কোনো বসতু অবস্থান পরিবর্তনের হারকে বলা হয় বেগ।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_theory_velocity.gif"
+        },
+        {
+          "title": "ত্বরণ"
+        },
+        {
+          "text": "নির্দিষ্ট দিকে কোনো বস্তুর সময়ের সাথে সাথে বেগ বৃদ্ধির হারকে বলে ত্বরণ।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_theory_acceleration.gif"
+        },
+        {
+          "title": "আপেক্ষিক বেগ"
+        },
+        {
+          "text": "দুটি চলমান বস্তুর একটির সাপেক্ষে অপরটির অবস্থানের পরিবর্তনের হারকে আপেক্ষিক বেগ বলে। পরম গতি বা পরম স্থিতি বলে কিছু নেই। সব বেগ ই আপেক্ষিক।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_theory_relative_velocity.gif"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "রৈখিক গতি উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_1.webp"
+        },
+        {
+          "text": "রৈখিক গতি উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_2.webp"
+        },
+        {
+          "text": "রৈখিক গতি উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_3.webp"
+        },
+        {
+          "text": "রৈখিক গতি উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_4.webp"
+        },
+        {
+          "text": "রৈখিক গতি উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_5.webp"
+        },
+        {
+          "text": "রৈখিক গতি উদাহরন ৬"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_6.webp"
+        },
+        {
+          "text": "রৈখিক গতি উদাহরন ৭"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_7.webp"
+        },
+        {
+          "text": "রৈখিক গতি উদাহরন ৮"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_8.webp"
+        },
+        {
+          "text": "রৈখিক গতি উদাহরন ৯"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_9.webp"
+        },
+        {
+          "text": "রৈখিক গতি উদাহরন ১০"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/03_dynamics/linear_motion_10.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি বস্তুকে খাড়া উপরের দিকে 100ms-1 বেগে নিক্ষেপ করা হলো । বস্তুটি যখন 300m উঁচুতে থাকবে তখন এর বেগ কত?",
+          "flipCardBack": "উত্তরঃ 64.2m/s"
+        },
+        {
+          "flipCardFront": "২। একটি ট্রেন স্থির অবস্থান হতে 6ms-2 ত্বরণে চলতে আরম্ভ করল ।একই সময়ে একটি গাড়ি 900m সামনের কোন স্থান 60ms-1 হতে ।সমবেগে ট্রেনের সমান্তরালে চলা শুরু করল । গাড়িটি কত পথ গেলে ট্রেন গাড়িটিকে পেছনে ফেলে যাবে?",
+          "flipCardBack": "উত্তরঃ 1800m"
+        },
+        {
+          "flipCardFront": "৩। কোন মিনারের উপর থেকে একটি মার্বেলটি ভূমি স্পর্শ করার পূর্ববর্তী সেকেন্ডে 34.3m দূরত্ব অতিক্রম করে ।মিনারটির উচ্চতা কত?",
+          "flipCardBack": "উত্তরঃ  78.4m"
+        },
+        {
+          "flipCardFront": "৪। একটি কণা a = 3t2+4t3 ft/s2 ত্বরণে চলছে । যাত্রা শুরুর 4s পর কণাটির বেগ কত? [যখন t=0, V=10ft/s]",
+          "flipCardBack": "উত্তরঃ 330 ft/s"
+        },
+        {
+          "flipCardFront": "৫। S = ½ t3+2t সূত্রানুসারে একটি বস্তু সরলরেখা বরাবর গতিশীল, 4s সময়ে বস্তুটির বেগ কত?",
+          "flipCardBack": "উত্তরঃ 26 unit "
+        },
+        {
+          "title": "রৈখিক গতি সম্পর্কিত জটিল ম্যাথ"
+        },
+        {
+          "flipCardFront": "১। বিমানবন্দরে রানওয়ের দৈর্ঘ্য 100 cm। একটি ঊড়োজাহাজ উড়ার পূর্ব মুহূর্তে 216km/h গতিসম্পন্ন হতে হয়। উড়োজাহাজ 15m/s2 ত্বরণ এ ত্বরান্বিত হলে রানওয়ে থেকে উড়তে সক্ষম হবে কি? রানওয়ের দৈর্ঘ্য সর্বনিন্ম কত হলে উড়তে পারবে?",
+          "flipCardBack": "উত্তরঃ 120m "
+        },
+        {
+          "flipCardFront": "২। একটি গতিশীল বস্তু কর্তৃক অতিক্রান্ত দূরত্ব বস্তুটির তাৎক্ষনিক বেগ ও সময়ের গুণফলের অর্ধেকের সমান হলে দেখাও যে বস্তুটির ত্বরণ ধ্রুবক।",
+          "flipCardBack": "উত্তরঃ ২K(ধ্রুবক)"
+        },
+        {
+          "flipCardFront": "৩। স্থির পানিতে একটি নৌকার বেগ ঘন্টায় 5km। নৌকাটি 15 min এ ১ কিমি. চওড়া নদী আড়াআড়িভাবে অতিক্রম করে।নদীর স্রোতের বেগ কত?",
+          "flipCardBack": "উত্তরঃ 3km/h"
+        }
+      ]
+    }
+  ]
+}

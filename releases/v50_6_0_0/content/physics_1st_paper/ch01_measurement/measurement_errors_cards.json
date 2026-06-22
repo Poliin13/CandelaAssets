@@ -1,0 +1,121 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "স্লাইড ক্যালিপার্স(Slide Calipers)"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/slide_calipers.gif"
+        },
+        {
+          "title": "স্ফেরোমিটার (Spherometer)"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/spherometer1.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/spherometer2.gif"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "title": "ত্রুটিহীন স্ক্রু গজ(Screw Gauge)"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/screw_gauge_no_error.gif"
+        },
+        {
+          "title": "ত্রুটিযুক্ত স্ক্রু গজ(Screw Gauge)"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/screw_gauge_with_error.gif"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/measurement_example_1.webp"
+        },
+        {
+          "text": "উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/measurement_example_2.webp"
+        },
+        {
+          "text": "উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/measurement_example_3.webp"
+        },
+        {
+          "text": "উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/measurement_example_4.webp"
+        },
+        {
+          "text": "উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/measurement_example_5.webp"
+        },
+        {
+          "text": "উদাহরন ৬"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/measurement_example_6.webp"
+        },
+        {
+          "text": "উদাহরন ৭"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/measurement_example_7.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "ত্রুটি পরিমাপের সুত্রসমুহ"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/01_measurement/error_calculation_formulas.webp"
+        },
+        {
+          "text": "ত্রুটি পরিমাপ"
+        },
+        {
+          "flipCardFront": "১। পরীক্ষায় অভিকর্ষজ ত্বরণ, g = 9.8 m/s^2 পাওয়া গেল। কিন্তু ঐ স্থানে অভিকর্ষজ ত্বরণের প্রকৃত মান হলো 9.87m/s^2 ত্রুটির শতকরা হার বের কর।",
+          "flipCardBack": "উত্তরঃ 0.709%"
+        },
+        {
+          "flipCardFront": "২। একটি বস্তুর প্রকৃত ওজন 70 N। কিন্তু স্প্রিং নিক্তিতে তার ওজন পাওয়া গেল 80N. বস্তুটির ভরের শতকরা ত্রুটি বের কর।",
+          "flipCardBack": "উত্তরঃ 14.28%"
+        },
+        {
+          "text": "পরিমাপের যন্ত্রাংশ"
+        },
+        {
+          "flipCardFront": "১। একটি স্ক্রু গজের মধ্যবর্তী ফাঁক যখন শুন্য তখন বৃত্তাকার স্কেলের শূনয় দাগ রৈখিক শূন্য দাগ অপেক্ষা 7 ঘর নিচে আছে।ঘরের মান 1mm । যন্ত্রটির যান্ত্রিক ত্রুটি কত?",
+          "flipCardBack": "উত্তরঃ নিজে কর"
+        },
+        {
+          "flipCardFront": "২। জিম একটি মাইক্রোমিটার স্ক্রু গজের সাহায্যে একটি সরু তারের ব্যাস পরিমাপ করছে।সে প্রধান স্কেলের পাঠ পেল 0.1 cm এবং বৃত্তাকার স্কেলের পাঠ পেল 32 । বৃত্তাকার স্কেলের মোট ভাগ সংখ্যা ছিল 50. রৈখিক স্কেলের ক্ষুদ্রতম ঘরের মান 0.5mm\n     (i) জিমের পরিমারকৃত তারটির ব্যাস কত?\n     (ii) তারটির প্রকৃত ব্যাস 0.115 cm হলে ঐ স্ক্রু-গজটির ব্যবহারে তারটির ব্যাস নির্নয় করলে নূন্যতম কত শতাংশ ভুল হবে?",
+          "flipCardBack": "উত্তরঃ i) 0.101 cm ii) 12%"
+        },
+        {
+          "flipCardFront": "৩। একটি স্ফেরোমিটারের বৃত্তাকার স্কেলের দাগ সংখ্যা 100 এবং পিচ 1mm তিনটি পায়ের মধ্যবর্তী দূরত্ব যথাক্রমে 71 mm,70mm, এবং 70mm। যন্ত্রটির সাহায্যে একটি গোলকীয় উত্তল তলের উচ্চতা পাওয়া গেল 8mm। স্ফেরোমিটারের লঘিষ্ঠ ধ্রুবক এবং গোলকীয় তলে বক্রতার ব্যাসার্ধ বের কর।",
+          "flipCardBack": "উত্তরঃ 0.01 mm, 107.048 mm"
+        }
+      ]
+    }
+  ]
+}

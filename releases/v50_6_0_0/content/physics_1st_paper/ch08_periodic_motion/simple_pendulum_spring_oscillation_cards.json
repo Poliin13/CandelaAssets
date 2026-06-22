@@ -1,0 +1,133 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "সরল দোলক"
+        },
+        {
+          "text": "একটি ভারী আয়তনহীন বস্তুকে অপ্রসারণশীল, ওজনহীন ও নমনীয় সুতার সাহায্যে ঝুলিয়ে দিলে এটি যদি ঘর্ষন এড়িয়ে স্বাধীনভাবে দুলতে থাকে তবে তাকে সরল দোলক বলে। বাস্তবে সরল দোলক পাওয়া সম্ভব নয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/simple_oscillator_theory.gif"
+        },
+        {
+          "text": "বাস্তবে, একটি দৃঢ় অবলম্বন থেকে একটি সুতার সাহায্যে একটি গোলকাকৃতির বস্তু ঝুলিয়ে দিলে সেই সিস্টেমটিকে বলা হয় সরল দোলক। "
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/simple_pendulum_theory.webp"
+        },
+        {
+          "title": "সরল দোলকের গতি"
+        },
+        {
+          "text": "মনে করি, একটি সরল দোলকের ববের ভর m ও কার্যকরী দৈর্ঘ্য L. চিত্র থেকে, যখন OA সাম্যাবস্থানে থাকে তখন এর উপর mg বল খাড়া নিচের দিকে ক্রিয়া করে যা সুতার টান দ্বারা প্রশমিত হয়। OA হতে θ কোণে OB তে আসলে mg বল পরস্পর লম্ব দুটো উপাংশে বিভাজিত হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/simple_pendulum_theory_2.webp"
+        },
+        {
+          "text": " একটি উপাংশ সুতা বরাবর নিম্নমুখে (mg cos θ) ক্রিয়া করে এবং অপরাট এর লম্ব অভিমুখে (mg sinθ) ক্রিয়া করে। উপাংশ mg cos θ সুতার নবসমন্বিত টান দ্বারা প্রশমিত হয়। অপর উপাংশ mg sinθ, যাকে প্রত্যায়নী বল বলা হয়, তা A এর দিকে ক্রিয়া করে। "
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/simple_pendulum_theory_3.gif"
+        },
+        {
+          "text": "x = Lθ \nor, θ = x/L\nএখন, প্রত্যায়নী বল, F = -mg sinθ\n(F, সরণের বিপরীত দিকে ক্রিয়া করে। তাই, ঋণাত্মক চিহ্ন দেয়া হয়েছে।)\nধরা যাক, θ খুব ক্ষুদ্র। θ খুব ক্ষুদ্র হলে sinθ = θ ধরা যায় ।\n:. F = -mg θ\n      = -mg.x/L\n:. F = -Kx [K = mg/L = constant]\n\nযা একটি সরল ছন্দিত স্পন্দনের জন্যেও সত্য। তাই θ ছোট হলে, সরল দোলকের গতি হল সরল ছন্দিত গতি।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/simple_pendulum_theory_4.gif"
+        },
+        {
+          "title": "সরল দোলকের সূত্রাবলি"
+        },
+        {
+          "text": "১ম সূত্র বা সমকাল সূত্র: কৌণিক বিস্তার অল্প হলে ( চার ডিগ্রীর কম) এবং দোলকের কার্যকরী দৈর্ঘ্য অপরিবর্তিত থাকলে কোন নির্দিষ্ট স্থানে একটি সরল দোলকের প্রতিটি দোলনের জন্য সমান সময় লাগবে। সুতরাং, g ও L ধ্রুব হলে ,T ধ্রুব ।\n\n২য় সূত্র বা দৈর্ঘ্যের সূত্র: কৌণিক বিস্তার অল্প হলে কোন নির্দিষ্ট স্থানে সরল দোলকের দোলনকাল, এর কার্যকরী দৈর্ঘ্যের বর্গমূলের সমানুপাতিক। সুতরাং \nT α √L, যখন g অপরিবর্তিত।\n\n৩য় সূত্র বা ত্বরণের সূত্র: কৌণিক বিস্তার অল্প হলে এবং দোলকের কার্যকরী দৈর্ঘ্য অপরিবর্তিত থাকলে এর দোলনকাল অভিকর্ষজ ত্বরণের বর্গমূলের ব্যস্তানুপাতিক।\nT α 1/√g\n\n৪র্থ সূত্র বা ভরের সূত্র: কৌণিক বিস্তার অল্প হলে এবং কার্যকরী দৈর্ঘ্য অপরিবর্তিত থাকলে কোন নির্দিষ্ট স্থানে সরল দোলকের দোলনকাল ববের ভর, আয়তন, উপাদান ইত্যাদির উপর নির্ভর করে না।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/simple_pendulum_theory_5.webp"
+        },
+        {
+          "title": "স্প্রিং এর দোলন"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/spring_theory_1.webp"
+        },
+        {
+          "text": "যা একটি সরল ছন্দিত স্পন্দনের জন্যেও সত্য। তাই স্প্রিং এর দোলন হল সরল ছন্দিত গতি।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/spring_theory_3.gif"
+        },
+        {
+          "title": "স্প্রিং এর দোলনের সাথে বৃত্তাকার গতির সম্পর্ক"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/spring_theory_2.gif"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "সরল দোলক উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/simple_oscillator_example_1.webp"
+        },
+        {
+          "text": "সরল দোলক উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/simple_oscillator_example_2.webp"
+        },
+        {
+          "text": "সরল দোলক উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/simple_oscillator_example_3.webp"
+        },
+        {
+          "text": "সরল দোলক উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/simple_oscillator_example_4.webp"
+        },
+        {
+          "text": "সরল দোলক উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/08_periodic_motion/simple_oscillator_example_5.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি সরলদোলকের দোলনকে 50% বৃদ্ধি করতে এর কার্যকরী দৈর্ঘ্য কতগূণ বাড়াতে হবে?",
+          "flipCardBack": "উত্তরঃ 125%"
+        },
+        {
+          "flipCardFront": "২। একটি সরল দোলকের ববের ভর 100g এবং দৈর্ঘ্য 1m। উলম্ব রেখা হতে ববটিকে 10 cm দূরে টেনে ছেড়ে দিলে গতিপথের সর্বনিম্ন বিন্দু অতিক্রমকালে ববের বেগ কত হবে?",
+          "flipCardBack": "উত্তরঃ 0.31 m/s"
+        },
+        {
+          "flipCardFront": "৩। চন্দ্রপৃষ্ঠে একটি সরল দোলকের দৈর্ঘ্য কত হবে, যদি ওর পর্যায়কাল পৃথিবি পৃষ্ঠে একটি সরল দোলকের পর্যায়কাল এর সমান হয়? ( পৃথিবীএর ভর চন্দ্রের ৮০ গুন এবং ব্যাসার্ধ চন্দ্রের ৪ গুন বেশি)",
+          "flipCardBack": "উত্তরঃ চন্দ্রপৃষ্ঠে, পৃথিবীর পৃষ্ঠে সরল দোলকের দৈর্ঘ্যের 1/5 অংশ হবে।"
+        },
+        {
+          "flipCardFront": "৪। একটি সেকেন্ডে দোলক পাহাড়ে পাদদেশে সঠিক সময় দেয়। একে পাহাড়ের চুড়ায় নিলে দিনে 14s স্লো হয়ে জায়।পাহাড়ের ঊচ্চতা কত?( পৃথিবীর ব্যাসার্ধ 6450km)",
+          "flipCardBack": "উত্তরঃ 1.05km"
+        },
+        {
+          "flipCardFront": "৫। একটি সরল দোলগতিসম্পন্ন কণার বিস্তার 10cm। সাম্যবস্থান থেকে কণাটির সরণ কত হলে তার গতিশক্তি ও স্থিতিশক্তি সমান হবে?",
+          "flipCardBack": "উত্তরঃ 7.07 cm"
+        },
+        {
+          "flipCardFront": "৬। কোন স্প্রিং এর এক প্রান্তে একটি বস্তু ঝুলিয়ে বস্তুটিকে একটু ছেড়ে দিলে এটি a বিস্তারে স্পন্দিত হতে থাকে।কোথায় এর গতিশক্তি ও বিভবশক্তি সমান হবে?",
+          "flipCardBack": "ঊত্তরঃ 0.707a দূরে"
+        }
+      ]
+    }
+  ]
+}

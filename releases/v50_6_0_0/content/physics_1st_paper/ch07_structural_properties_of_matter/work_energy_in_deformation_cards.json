@@ -1,0 +1,77 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "স্থিতিস্থাপকতা"
+        },
+        {
+          "text": "যদি বল প্রয়োগে কোন বস্তুর আকার বা আয়তন বা উভয়ের পরিবর্তন ঘটে অর্থাৎ বস্তু বিকৃ্ত হয় তাহলে প্রযুক্ত বল সরিয়ে নিলে যে ধর্মের ফলে বিকৃ্ত বস্তু আগের আকার ও আয়তন ফিরে পায় তাকে স্থিতিস্থাপকতা বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/elasticity_theory.gif"
+        },
+        {
+          "text": "বল প্রয়োগে বস্তুর বিকৃতি ঘটে এবং এর ফলে বস্তুর মধ্যে শক্তি সঞ্চিত হয়, যা ব্যবহার করে বস্তু আগের অবস্থায় ফিরে যেতে পারে। নিম্নে এই শক্তির রাশিমালা দেওয়া হল -"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/strain_energy_theory.webp"
+        },
+        {
+          "text": "হুকের সূত্রের গ্রাফ থেকে পাই -"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/strain_energy_theory_graph.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "কাজ ও শক্তি উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/work_and_energy_1.webp"
+        },
+        {
+          "text": "কাজ ও শক্তি উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/work_and_energy_2.webp"
+        },
+        {
+          "text": "কাজ ও শক্তি উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/work_and_energy_3.webp"
+        },
+        {
+          "text": "কাজ ও শক্তি উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/work_and_energy_4.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 1মি দীর্ঘ ও 1 মিমি ব্যাসের একটি ইস্পাতের তারকে টেনে 0.3mm বৃদ্ধি করা হল এর জন্য কি পরিমাণ কাজ করতে হয়েছে?(Y=2×1011 Nm-2)",
+          "flipCardBack": "ঊত্তরঃ 7×10^-3 J "
+        },
+        {
+          "flipCardFront": "২। ৫. 2×1012dy/cm2 ইয়ং-এর গুণাঙ্ক বিশিষ্ট 20cm3 আয়তন বিশিষ্ট একটি তারে কিছু বল প্রয়োগ করার তার দৈর্ঘ্য 1012 ভাগে 12 ভাগ বৃদ্ধি পায় । মোট কৃত কাজ কত?",
+          "flipCardBack": "উত্তরঃ 2.88×10^-9 erg "
+        },
+        {
+          "flipCardFront": "৩। 3m দীর্ঘ এবং 0.5mm ব্যাসার্ধ বিশিষ্ট একটি ঝুলন্ত তারের নিচের প্রান্তে 4 kg ওজন চাপানো হল। তারটির দৈর্ঘ্য প্রসারণ কত? প্রসারিত তারটিতে সঞ্চিত বিভব শক্তির মান কর?(Y=2×1011)",
+          "flipCardBack": "উত্তরঃ  0.748mm, 1.47×10^-2 J"
+        },
+        {
+          "flipCardFront": "৪। ১ লিটার কেরোসিন এর আয়তন 2.8% হ্রাস করতে হলে কৃতকাজ কত হবে? (B=1.56×10^9 N/m2)",
+          "flipCardBack": "উত্তরঃ 487500 J"
+        }
+      ]
+    }
+  ]
+}

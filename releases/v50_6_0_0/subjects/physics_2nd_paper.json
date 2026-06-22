@@ -1,0 +1,704 @@
+{
+  "subjectName": "Physics 2nd Paper",
+  "chapters": [
+    {
+      "id": "physics_2nd_paper_ch01",
+      "chapterNumber": "প্রথম অধ্যায়",
+      "chapterName": "তাপগতিবিদ্যা",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics2nd_paper/ch_01_thermodynamics/ch_01_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch01_t01",
+          "topicName": "হ্যান্ডনোট তাপগতিবিদ্যা",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/thermodynamics_handnote.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch01_t02",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch1_theory_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch01_t03",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch1_math_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch01_t04",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch1_objective_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_2nd_paper_ch02",
+      "chapterNumber": "দ্বিতীয় অধ্যায়",
+      "chapterName": "স্থির তড়িৎ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics2nd_paper/ch_02_static_electricity/ch_02_icon.webp",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch02_t01",
+          "topicName": "ধারণা-স্থির তড়িৎ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "cards",
+              "title": "Lesson Cards",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/content/physics_2nd_paper/ch02_static_electricity/static_electricity_concepts_cards.json"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch02_t02",
+          "topicName": "হ্যান্ডনোট স্থিরতড়িৎ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/handnote_static_electricity.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch02_t03",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch2_theory_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch02_t04",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch2_math_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch02_t05",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch2_objective_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_2nd_paper_ch03",
+      "chapterNumber": "তৃতীয় অধ্যায়",
+      "chapterName": "চল তড়িৎ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics2nd_paper/ch_03_current_electricity/ch_03_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch03_t01",
+          "topicName": "হ্যান্ডনোট চল তড়িৎ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/handnote_ch02_cholo_torit.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch03_t02",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch3_theory_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch03_t03",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch3_math_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch03_t04",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch3_objective_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_2nd_paper_ch04",
+      "chapterNumber": "চতুর্থ অধ্যায়",
+      "chapterName": "তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics2nd_paper/ch_04_magnetism/ch_04_icon.webp",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch04_t01",
+          "topicName": "হ্যান্ডনোট তড়িৎ প্রবাহের চৌম্বক ক্রিয়া ও চুম্বকত্ব",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/handnote_ch04_torit_probaher_choumbok_kriya.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch04_t02",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch4_theory_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch04_t03",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch4_math_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch04_t04",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch4_objective_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_2nd_paper_ch05",
+      "chapterNumber": "পঞ্চম অধ্যায়",
+      "chapterName": "তাড়িতচৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics2nd_paper/ch_05_magnetic_induction/ch_05_icon.webp",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch05_t01",
+          "topicName": "হ্যান্ডনোট তাড়িতচৌম্বকীয় আবেশ ও পরিবর্তী প্রবাহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/handnote_ch05_torit_chumbokiyo_abesh_o_dik_poriborti.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch05_t02",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch5_theory_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch05_t03",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch5_math_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch05_t04",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch5_objective_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_2nd_paper_ch06",
+      "chapterNumber": "ষষ্ঠ অধ্যায়",
+      "chapterName": "জ্যামিতিক আলোকবিজ্ঞান",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics2nd_paper/ch_06_geometric_optics/ch_06_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch06_t01",
+          "topicName": "হ্যান্ডনোট জ্যামিতিক আলোকবিজ্ঞান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/handnote_geometric_optics.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch06_t02",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch6_theory_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch06_t03",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch6_math_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch06_t04",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch6_objective_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_2nd_paper_ch07",
+      "chapterNumber": "সপ্তম অধ্যায়",
+      "chapterName": "ভৌত আলোকবিজ্ঞান",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics2nd_paper/ch_07_physical_optics/ch_07_icon.webp",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch07_t01",
+          "topicName": "হ্যান্ডনোট ভৌত আলোকবিজ্ঞান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/handnote_physical_optics.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch07_t02",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch7_theory_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch07_t03",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch7_math_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch07_t04",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch7_objective_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_2nd_paper_ch08",
+      "chapterNumber": "অষ্টম অধ্যায়",
+      "chapterName": "আধুনিক পদার্থবিজ্ঞানের সূচনা",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics2nd_paper/ch_08_modern_physics/ch_08_icon.webp",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch08_t01",
+          "topicName": "হ্যান্ডনোট আধুনিক পদার্থবিজ্ঞানের সূচনা",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/handnote_modern_physics.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch08_t02",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch8_theory_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch08_t03",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch8_math_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch08_t04",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch8_objective_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_2nd_paper_ch09",
+      "chapterNumber": "নবম অধ্যায়",
+      "chapterName": "পরমাণুর মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics2nd_paper/ch_09_atomic_model/ch_09_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch09_t01",
+          "topicName": "হ্যান্ডনোট পরমাণুর মডেল ও নিউক্লিয়ার পদার্থবিজ্ঞান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/handnote_atomic_model.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch09_t02",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch9_theory_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch09_t03",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch9_math_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch09_t04",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch9_objective_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_2nd_paper_ch10",
+      "chapterNumber": "দশম অধ্যায়",
+      "chapterName": "সেমিকন্ডাক্টর ও ইলেক্ট্রনিক্স",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics2nd_paper/ch_10_electronics/ch_10_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch10_t01",
+          "topicName": "হ্যান্ডনোট সেমিকন্ডাক্টর ও ইলেক্ট্রনিক্স",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/handnote_electronics.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch10_t02",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch10_theory_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch10_t03",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch10_math_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch10_t04",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch10_objective_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_2nd_paper_ch11",
+      "chapterNumber": "একাদশ অধ্যায়",
+      "chapterName": "জ্যোতির্বিজ্ঞান",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics2nd_paper/ch_11_astronomy/ch_11_icon.gif",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch11_t01",
+          "topicName": "হ্যান্ডনোট জ্যোতির্বিজ্ঞান",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/handnote_astronomy.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch11_t02",
+          "topicName": "সৃজনশীল টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch11_theory_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch11_t03",
+          "topicName": "গাণিতিক সমস্যা টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch11_math_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch11_t04",
+          "topicName": "অবজেক্টিভ টেস্টপেপার",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/ch11_objective_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    },
+    {
+      "id": "physics_2nd_paper_ch12",
+      "chapterNumber": "অতিরিক্ত",
+      "chapterName": "২য় পত্রের প্রয়োজনীয় তথ্য",
+      "chapterIcon": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/candela_background.webp",
+      "topicsData": [
+        {
+          "id": "physics_2nd_paper_ch12_t01",
+          "topicName": "সকল সুত্রসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/all_equations2nd_paper_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch12_t02",
+          "topicName": "বোর্ড প্রশ্নসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/board_question2nd_paper_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch12_t03",
+          "topicName": "বোর্ড অবজেক্টিভ প্রশ্নসমূহ",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/board_objective2nd_paper_compressed.pdf"
+            }
+          ]
+        },
+        {
+          "id": "physics_2nd_paper_ch12_t04",
+          "topicName": "মডেল প্রশ্ন",
+          "legacyId": "2296be4f-bcce-4266-9131-cecf65a0b6f5",
+          "resources": [
+            {
+              "type": "pdf",
+              "title": "PDF",
+              "url": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/pdfs/2nd_paper_test_paper/model_question2nd_paper_compressed.pdf"
+            }
+          ]
+        }
+      ],
+      "legacyId": "e20e55ad-d2bf-467a-b6ef-f1b77de62eb5"
+    }
+  ],
+  "version": 2,
+  "contentLayout": "resource-manifest",
+  "updatedAt": "2026-06-20"
+}

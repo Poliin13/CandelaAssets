@@ -1,0 +1,158 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "ভেক্টর"
+        },
+        {
+          "ytVideo": "ml4NSzCQobk"
+        },
+        {
+          "text": "ভেক্টর রাশির লব্ধি নির্ণয় করার উপায়-\n     ক) ত্রিভুজ সূত্র\n     খ)সামান্তরিক সূত্র\n     গ)ঊপাংশের নিয়ম"
+        },
+        {
+          "title": "সামন্তরিক সূত্র"
+        },
+        {
+          "text": "কোনো সামন্তরিকের একই বিন্দু হতে অঙ্কিত সন্নিহিত বাহু দুটি যদি কোনো কণার উপর একই সময়ে ক্রিয়ারত দুটি ভেক্টর রাশির মান ও দিক নির্দেশ করে, তা হলে ওই বিন্দু হতে অঙ্কিত সামন্তরিকের কর্ণই এদের লব্ধির মান ও দিক নির্দেশ করে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/vector_theory.webp"
+        },
+        {},
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/vector_theory_formula.webp"
+        },
+        {
+          "title": "লব্ধি, বিভাজন ও উপাংশ"
+        },
+        {
+          "text": "যেকোনো ভেক্টর রাশিকে দুই ভাগে ভাগ করা যাবে! এই ভেক্টর রাশিকে দুই ভাগে ভাগ করার ঘটনাকে বলা হয় “উপাংশে বিভাজন” ।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/resultant_theory_1.webp"
+        },
+        {
+          "text": "একটি ভেক্টর দুই ভাগে অর্থাৎ অনুভূমিক উপাংশ এবং লম্বিক উপাংশে ভাগ করতে পারি!"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/resultant_theory_2.webp"
+        },
+        {
+          "title": "3D জগতে ভেক্টর"
+        },
+        {
+          "text": "এখানে x অক্ষ এবং y অক্ষ এর পাশাপাশি z অক্ষ ও রয়েছে, যা আমাদের আয়তমাত্রিক জগতকে বুঝতে সাহায্য করে। "
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/resultant_theory_4.webp"
+        },
+        {
+          "title": "|OP| = √(x² + y² + z²)"
+        },
+        {
+          "text": "এখন আমরা এই OP ভেক্টরকে |OP| দিয়ে ভাগ করে দিলেই আমাদের উদ্দেশ্য সফল হবে, অর্থাৎ\n"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/resultant_theory_5.webp"
+        },
+        {
+          "text": "এই ভেক্টর রাশিকে বলে একক ভেক্টর!"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "সামন্তরিক সূত্র উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/vector_rexample_1.webp"
+        },
+        {
+          "text": "সামন্তরিক সূত্র উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/vector_rexample_2.webp"
+        },
+        {
+          "text": "সামন্তরিক সূত্র উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/vector_rexample_3.webp"
+        },
+        {
+          "text": "বিভাজন ও উপাংশ উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/vector_resultant_example_1.webp"
+        },
+        {
+          "text": "বিভাজন ও উপাংশ উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/vector_resultant_example_2.webp"
+        },
+        {
+          "text": "বিভাজন ও উপাংশ উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/vector_resultant_example_3.webp"
+        },
+        {
+          "text": "নদী ও নৌকা উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/vector_resultant_example_1.webp"
+        },
+        {
+          "text": "নদী ও নৌকা উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/vector_resultant_example_2.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": ""
+        },
+        {
+          "flipCardFront": "১। একটি বস্তুকে 50N বল দ্বারা পূর্বদিকে এবং 20N বল দ্বারা পূর্বদিকের সাথে 60°কোণে করে উত্তরে টানা হল । লব্ধি বলের মান ও দিক নির্ণয় কর।",
+          "flipCardBack": "উত্তরঃ 62.45N; পূর্বদিকের সাথে 16.1° কোণে উত্তর দিকে"
+        },
+        {
+          "flipCardFront": "২। কোনো একটি নদীতে একটি দাড়ের নৌকার বেগ স্রোতের অনুকুলে ঘন্টায় 18km এবং প্রতিকূলে ঘন্টায় 6km। নৌকাটিকে কোনদিকে চালনা করলে তা সোজা অপর পাড়ে পৌছাবে এবং নৌকাটি কত বেগে চলবে?",
+          "flipCardBack": "উত্তরঃ 120°,10.39km/h "
+        },
+        {
+          "text": ""
+        },
+        {
+          "flipCardFront": "১। R= 4i-6j+12k হলে এর একক ভেক্টর নির্ণয় কর।",
+          "flipCardBack": "উত্তরঃ (2/7) i-(3/7) j +(6/7) k"
+        },
+        {
+          "flipCardFront": "২। একটি ভেক্টর R এর মান 5 হলে এবং ভুমির সাথে যদি R, ৬০°কোণে অবস্থান করে তাহলে অনুভূমিক এবং লম্বিক উপাংশর মান কত হবে?",
+          "flipCardBack": "উত্তরঃ অনুভূমিক উপাংশ ২.৫ এবং  লম্বিক উপাংশ ৪.৩৩"
+        },
+        {
+          "flipCardFront": "৩। দুটি ভেক্টর A এবং B যথাক্রমে পূর্ব ও দক্ষিণ দিকে ক্রিয়াশীল। এদের মান হলো যথাক্রমে 4a ও 3a।\n(A-B) এর মান ও অভিমুখ কত?",
+          "flipCardBack": "উত্তরঃ পূর্ব দিকের সাথে 36.9° কোণে উত্তর দিকে।"
+        },
+        {
+          "text": ""
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/02_vector/river_exercise.webp"
+        },
+        {
+          "flipCardFront": "## চিত্রে স্রোতযুক্ত একটি নদী যার প্রস্থ 1.5km অতিক্রম করার জন্য সৃঞ্জন A বিন্দু হতে সোজা অপর পাড়ে B বিন্দুতে সাতার কেতে পৌছানোর সিদ্ধান্ত নেয়।অই নদীতে স্রোতের বেগ 3km/h এবং সাতারুর বেগ 4 km/h। স্রোতের কারণে সৃঞ্জন AB বরাবর রওয়ানা হওয়া সত্তেও AC বরাবর ওপারে পৌছালো।\n   (ক) AC বরাবর অতিক্রান্ত দূরত্ব নির্ণয়\n   (খ) AD বরাবর সৃঞ্জন সাতার কেটে কী B বিন্দুতে পৌছাতে পারবে?",
+          "flipCardBack": "উত্তরঃ 3km"
+        }
+      ]
+    }
+  ]
+}

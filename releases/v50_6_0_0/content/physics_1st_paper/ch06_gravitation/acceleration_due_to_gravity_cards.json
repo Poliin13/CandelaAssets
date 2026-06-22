@@ -1,0 +1,112 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {},
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/g_theory.gif"
+        },
+        {
+          "title": "অভিকর্ষজ ত্বরণ"
+        },
+        {
+          "text": "পৃথিবী ও অন্য যে কোন বস্তুর মধ্যে যে আকর্ষণ বল তাকে অভিকর্ষ বল বলা হয়। নিউটনের ২য় সূত্র অনুযায়ী বল প্রয়োগে বস্তুর ত্বরণ হয়। সুতরাং অভিকর্ষ বলের প্রভাবেও ত্বরণ হবে। অভিকর্ষ বলের প্রভাবে ভূপৃষ্ঠে মুক্তভাবে পড়ন্ত বস্তুর বেগ বৃদ্ধির হারকে অভিকর্ষজ ত্বরণ (Gravitational acceleration) বলে। একে g দ্বারা প্রকাশ করা হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/g_formula.webp"
+        },
+        {
+          "text": "এখানে, G= মহাকর্ষ ধ্রুবক, M= পৃথিবীর ভর এবং d= পৃথিবীর কেন্দ্র হতে বস্তুর দুরত্ব যেহেতু অভিকর্ষজ ত্বরণ এক ধরনের ত্বরণ, সুতরাং এর মাত্রা হবে LT^−2 এবং একক হবে ms^−2।"
+        },
+        {
+          "title": "আদর্শ মান"
+        },
+        {
+          "text": "ভূপৃষ্ঠের বিভিন্ন স্থানে অভিকর্ষজ ত্বরণের মান বিভিন্ন বলে ৪৫° অক্ষাংশে সমুদ্র সমতলে এর মানকে আদর্শ মান ধরা হয়। এ মান হল ৯.৮০৬৬৫ ms−2। হিসাবের সুবিধার্থে একে ৯.৮ ms−2 বা ৯.৮১ ms−2 ধরা হয়।"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "অভিকর্ষজ ত্বরণ উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/g_1.webp"
+        },
+        {
+          "text": "অভিকর্ষজ ত্বরণ উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/g_2.webp"
+        },
+        {
+          "text": "অভিকর্ষজ ত্বরণ উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/g_3.webp"
+        },
+        {
+          "text": "অভিকর্ষজ ত্বরণ উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/g_4.webp"
+        },
+        {
+          "text": "অভিকর্ষজ ত্বরণ উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/g_5.webp"
+        },
+        {
+          "text": "অভিকর্ষজ ত্বরণ উদাহরন ৬"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/g_6.webp"
+        },
+        {
+          "text": "অভিকর্ষজ ত্বরণ উদাহরন ৭"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/g_7.webp"
+        },
+        {
+          "text": "অভিকর্ষজ ত্বরণ উদাহরন ৮"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/g_8.webp"
+        },
+        {
+          "text": "অভিকর্ষজ ত্বরণ উদাহরন ৯"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/06_gravity/g_9.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১. একটি গ্রহের ভর ও ব্যাসার্ধ উভয়ই পৃথিবীর ভর ও ব্যাসার্ধের দ্বিগুণ। পৃথিবী পৃষ্ঠে g-এর মান 9.৪ m-s হলে ঐ গ্রহের পূষ্ঠে g-এর মান কত হবে?",
+          "flipCardBack": "উত্তরঃ 4.9 m/s^2"
+        },
+        {
+          "flipCardFront": "২. পৃথিবীর ভর চন্দ্রের ভরের ৪1 গুণ এবং পৃথিবীর ব্যাসার্ধ চন্দ্রের ব্যাসার্ধের 4 গুণ । পৃথিবী পৃষ্ঠে অভিকর্যজ ত্বরণের মান 9.8। চন্দ্রের পূষ্ঠে g-এর মান কত হবে?",
+          "flipCardBack": "উত্তরঃ 1.94 m/s^2"
+        },
+        {
+          "flipCardFront": "৩. পৃথিবীর ভর ও ব্যাসার্ধ যথাক্রমে চন্দ্রের ভর ও ব্যাসার্ধের ৪1 ও 4 গুণ। পৃথিবীপূষ্ঠে একজন খেলােয়াড় উচ্চ লাফে  1.8 m উচ্চে উঠতে পারে। চন্দ্রপৃষ্ঠ হতে সে সর্বোচ্চ কত উচ্চতায় উঠতে পারবে?",
+          "flipCardBack": "উত্তরঃ  9.11 m"
+        },
+        {
+          "flipCardFront": "৪. পৃথিবীর গড় ঘনত্ব 5.5 x 10^3 kg-m^-3 এবং ব্যাসার্ধ 6.37 x10^6 m হলে পৃথিবীপূষ্ঠে অভিকর্ষজ ত্বরণ কত হবে? ",
+          "flipCardBack": "উত্তরঃ 9.79 ms^-2"
+        },
+        {
+          "flipCardFront": "৫. পৃথিবীর ব্যাসার্ধ  6400km এবং পৃথিবীপৃষ্ঠে অভিকর্ষজ ত্বরণ 9.81 ms^-2 হলে পৃথিবীর ভর ও গড় ঘনত্ব নির্ণয় করাে।",
+          "flipCardBack": "উত্তরঃ 6.02x10^24kg; 5.49x10^3 kg.m^-3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "কেন্দ্রমুখী বল"
+        },
+        {
+          "ytVideo": "KvCezk9DJfk"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/banking_theory_2.webp"
+        },
+        {
+          "title": "ব্যাংকিং"
+        },
+        {
+          "text": "রাস্তার বাঁকে গাড়ি চালনার জন্য কেন্দ্রমুখী বলের প্রয়োজন। প্রয়োজনীয় কেন্দ্রমুখী বল না পেলে গাড়ি গতিজড়তার দরুণ বাকাঁ পথের স্পর্শক বরাবর ছিটকে চলে যেতে পারে। এজন্য রাস্তার বাইরের দিক ভেতরের দিকের চেয়ে সামান্য উঁচু করে দেওয়াকে ব্যাংকিং বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/banking_theory_1.webp"
+        },
+        {
+          "title": "    Rsinθ = mv²/r \n\n    tanθ = v²/rg"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/banking_example_1.webp"
+        },
+        {
+          "text": "উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/banking_example_2.webp"
+        },
+        {
+          "text": "উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/banking_example_3.webp"
+        },
+        {
+          "text": "উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/banking_example_4.webp"
+        },
+        {
+          "text": "উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/banking_example_5.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 0.2 kg ভরের একটি পাথরকে 0.6m লম্বা একটি সুতার সাহায্যে বেধে অপর প্রান্তের চারদিকে আনুভুমিক বৃত্তাকার পথে প্রতি মিনিটে 150 বার ঘুরানো হলো। সুতার টান বের কর।",
+          "flipCardBack": "উত্তরঃ 29.6N"
+        },
+        {
+          "flipCardFront": "২। 100kg ভরবিশিষ্ট একটি পাথরকে 10m/s বেগে উলম্বতলে 10m ব্যাসার্ধবিশিষ্ট বৃত্তাকার পথে হাল্কা সুতার সাহায্যে বেধে ঘুরানো হচ্ছে। পাথরের সর্বোচ্চ অ সর্বনিন্ম অবস্থানে টান বের কর। (যেখানে সর্বোচ্চ ও সর্বনিম্ন বিন্দুতে সুতার বেগ অসমান)",
+          "flipCardBack": "উত্তরঃ 20N,1980N"
+        },
+        {
+          "flipCardFront": "৩। একটি তামার গোলকের ভর 0.05kg । একে 2m দীর্ঘ একটি সুতোর এক প্রান্তে বেধে প্রতি সেকেন্ডে 5 বার ঘোরানো হয়। গোলকের কৌণিক ভরবেগ কত?কেন্দ্রমুখী বল কত?",
+          "flipCardBack": "উত্তরঃ 6.28kgm^2s^2, 98.6N"
+        },
+        {
+          "flipCardFront": "৪। একটি রেললাইনের বাঁকের ব্যাসার্ধ 200m এবং রেললাইনের পাতদয়ের মধ্যবর্তী দূরত্ব 1m; ঘণ্টায় 50.4km বেগে চলন্ত গাড়ীর ক্ষেত্রে প্রয়োজনীয় ব্যাংকিং এর জন্য বাইরের লাইনের পাতকে ভিতরের লাইনের পাত অপেক্ষা কতটুকু উঁচু করতে হবে?",
+          "flipCardBack": "উত্তরঃ 0.1m"
+        },
+        {
+          "flipCardFront": "৫। ট্রেন যে স্থানে ঘন্টায় ২৫ কিমি বেগে চলে সে স্থানে রেল লাইনের বাঁকের বক্রতার ব্যাসার্ধ 400m। রেল দুটির মধ্যবর্তী দূরত্ব ১.৫মি হলে যথোপযুক্ত ব্যাংকিং এর জন্য বাইরের রেল ভেতরের রেল হতে কতখানি উঁচু থাকবে?",
+          "flipCardBack": "উত্তরঃ ১.৮৪ সেমি"
+        }
+      ]
+    }
+  ]
+}

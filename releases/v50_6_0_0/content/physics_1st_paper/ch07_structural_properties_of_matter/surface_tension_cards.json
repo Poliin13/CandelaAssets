@@ -1,0 +1,93 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "পৃষ্ঠটান"
+        },
+        {
+          "text": "প্রবাহীর পৃষ্ঠের একটি স্থিতিস্থাপক প্রবণতা, যা তার উপরিতলকে সম্ভাব্য সর্বনিম্ন ক্ষেত্রফল প্রদান করে। পৃষ্ঠটানের জন্যই কিছু কীট, যাদের দেহের ঘনত্ব জল অপেক্ষা অনেক বেশি, তারা জলের উপরিতলে ভাসমান থাকতে পারে আর হেঁটে যেতে পারে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/surface_tension_theory_1.webp"
+        },
+        {
+          "title": "কারণ"
+        },
+        {
+          "text": "তরলের অণুগুলির মধ্যে পারস্পরিক সংসক্তি বলই পৃষ্ঠটান বিষয়টির জন্য দায়ী। নির্দিষ্ট আয়তনের তরলের অভ্যন্তরস্থ প্রতিটি অণু তার পরিপার্শ্বে থাকা সমস্ত অণুর দ্বারা সবদিক থেকে সমানভাবে আকর্ষিত হয়, ফলে লব্ধি বলটি শূন্য হয়। কিন্তু, তরলের মুক্তপৃষ্ঠে থাকা অণুগুলির পরিপার্শ্বে সব জায়গায় তরল অণু ঘিরে থাকে না, সেই জন্য ওই অণুগুলি নিচের দিকে আকর্ষিত হয়। এর ফলে একটি অভ্যন্তরীণ চাপের উৎপত্তি ঘটে এবং তরল অণুগুলি সম্ভাব্য সর্বনিম্ন ক্ষেত্রফল ধারণ করতে বাধ্য হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/surface_tension_theory_2.webp"
+        },
+        {
+          "title": "পৃষ্ঠটানের প্রভাব"
+        },
+        {
+          "text": "ক. মোমের মতো পিচ্ছিল আবরণ যুক্ত তলে (গাছের পাতা) বৃষ্টির জল মুক্তোর মতো ক্ষুদ্র আকার নেয়। জল মোমের সাথে দুর্বলভাবে আকর্ষিত হয়, কিন্তু নিজের অণুর সাথে দৃঢ় সংঘবদ্ধ থাকে। তাই জল ছোটো ছোটো বিন্দুর আকারে ভেঙে যায়। পৃষ্ঠটান এদের গোলাকার আকার দিতে সাহায্য করে, কারণ সমান আয়তনের ক্ষেত্রে গোলক পৃষ্ঠের ক্ষেত্রফল সবচেয়ে কম হয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/surface_tension_effect_1.webp"
+        },
+        {
+          "text": "খ. জলের ভর প্রসারিত হলে জলবিন্দুর সৃষ্টি হয়। অ্যানিমেশনে দেখানো হয়েছে, জল ততক্ষণ নলটির সাথে আটকে থাকে, যতক্ষণ না তার ভর প্রসারিত হতে হতে এমন অবস্থায় পৌঁছয়, যে অবস্থায় পৃষ্ঠটান জলকে নলের সাথে আটকে রাখতে সক্ষম হয়। তখন এটা মুক্ত হয় আর পৃষ্ঠটানের জন্য গোলাকার আকৃতি ধারণ করে। নল থেকে জলের প্রবাহ চালালে, তা নিচে পড়ার সময় অসংখ্য জলকণায় পরিণত হবে। অভিকর্ষ জলের প্রবাহকে নিচে টেনে আনে, আর পৃষ্ঠটান তাকে ভেঙে জলকণায় পরিণত করে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/surface_tension_effect_2.gif"
+        },
+        {
+          "text": "গ. জলের চেয়ে বেশি ঘনত্বযুক্ত বস্তুর জলে ভেসে চলাও পৃষ্ঠটানেরই ফলাফল। তবে এটা তখনই ঘটবে, যখন সেই বস্তুর ওজন এতটাই নগণ্য হয় যে, পৃষ্ঠটান জনিত বল সেই ওজনকে সহ্য করতে সক্ষম হয়। উদাহরণ হিসেবে, কিছু পোকা পৃষ্ঠটানকে কাজে লাগিয়ে পুকুরের জলের উপর দিয়ে হেঁটে যেতে পারে। পোকাটির পা’গুলির ভারের নগণ্যতার জন্য পায়ের অণু আর জলের অণুর কোনো আকর্ষণ থাকে না, তাই যখন জলের মধ্যে পা’টি ফেলা হয়, পৃষ্ঠটান কেবল জলে পায়ের জন্য সৃষ্ট বক্রতাকে মসৃণ করার চেষ্টা করে। অর্থাৎ জল পোকাটিকে উপরে ঠেলে দেয় যাতে সেটা জলের মুক্ততলের ওপরে দাঁড়িয়ে থাকতে পারে। এই অবস্থায় জল পোকার ভার বহন করতে পারে। এক্ষেত্রে জলতল একটি স্থিতিস্থাপক পর্দার মতো কাজ করে। পোকাটির পায়ের চাপে জলের পৃষ্ঠতলে খাঁজের সৃষ্টি হয় বা পৃষ্ঠতল সামান্য অবনমিত হয়,[৪] আর পৃষ্ঠতলের বক্রতা (তথা ক্ষেত্রফল) সংকোচনের প্রবণতার জন্য জল পোকার পা’টিকে উপরে ঠেলে দেয়।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/surface_tension_effect_3.webp"
+        },
+        {
+          "text": "ঘ. আলাদা দুটি তরলের মুক্তপৃষ্ঠের টানের তারতম্যের জন্য জল ও তেলের পৃথকীকরণ (ছবিতে জল ও তরল মোম) সম্ভব হয়। এর জন্যও দায়ী পৃষ্ঠটান।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/surface_tension_effect_4.webp"
+        },
+        {
+          "text": "ঙ. অ্যালকোহলীয় পানীয় রাখা কোনো পাত্রের দেয়ালে তরলের বিন্দু ও ধীর প্রবাহকে ‘টিয়ার্স অফ ওয়াইন’ বা ‘ওয়াইনের অশ্রু’ বলে। জল ও ইথানলের পৃথক পৃষ্ঠটানের মধ্যে জটিল মিথষ্ক্রিয়ায় এটি ঘটে; জল ও উদ্বায়ী ইথানলের মিশ্রিত পৃষ্ঠটান এর জন্য দায়ী।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/surface_tension_effect_5.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "পৃষ্ঠটান উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/surface_tension_1.webp"
+        },
+        {
+          "text": "পৃষ্ঠটান উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/surface_tension_2.webp"
+        },
+        {
+          "text": "পৃষ্ঠটান উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/surface_tension_3.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 20°C তাপমাত্রায় পানির উপরিতল হতে 0.05 লম্বা একটি অনূভুমিক তারকে টেনে তুলতে  যে সর্বাধিক তলের প্রয়োজন তার মান 7.28×10-3 N ,পানির পৃষ্ঠটান বের কর । তারের ওজন নগণ্য ।",
+          "flipCardBack": "উত্তরঃ 0.072 N/m"
+        },
+        {
+          "flipCardFront": "২। একটি সূচের ওজন নগন্য ধরে 28℃ তাপমাত্রার পানির উপরিতল থেকে 0.5 m লম্বা একটি সূচকে অনুভূমিকভাবে সর্বাধিক 7.30×10^-3 N বলে টেনে ওঠানো যায় । পানির পৃষ্ঠটান কত?",
+          "flipCardBack": "উত্তরঃ 0.073 N/m"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "স্থিতিস্থাপকতা"
+        },
+        {
+          "text": "যদি বল প্রয়োগে কোন বস্তুর আকার বা আয়তন বা উভয়ের পরিবর্তন ঘটে অর্থাৎ বস্তু বিকৃ্ত হয় তাহলে প্রযুক্ত বল সরিয়ে নিলে যে ধর্মের ফলে বিকৃ্ত বস্তু আগের আকার ও আয়তন ফিরে পায় তাকে স্থিতিস্থাপকতা বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/elasticity_theory.gif"
+        },
+        {
+          "title": "পীড়ন"
+        },
+        {
+          "text": "বাইরে থেকে বল প্রয়োগের ফলে কোন বস্তুর আকার বা দৈর্ঘ্য বা আয়তনের পরিবর্তন ঘটলে স্থিতিস্থাপকতার জন্য বস্তুর ভেতর থেকে এই বলকে বাধাদানকারী একটি বলের উদ্ভব হয়। বস্তুর একক ক্ষেত্রফলের উপর লম্বভাবে উদ্ভূত এই বাধাদানকারী বলের মানকে পীড়ন বলে।\n\nবিকৃ্তি\nবাইরে থেকে বল প্রয়োগের ফলে কোন বস্তুর একক মাত্রায় যে পরিবর্তন হয়, তাকে বিকৃ্তি বলে।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/stress_and_strain_theory_1.webp"
+        },
+        {
+          "title": "ব্যবর্তন বা মোচড় বিকৃ্তি"
+        },
+        {
+          "text": "একক দূরত্বে অবস্থিত দুই তলের মধ্যবর্তী আপেক্ষিক সরণকে ব্যবর্তন বা মোচড় বিকৃ্তি বলে।\n\nθ = tanθ = x/H\n\nব্যবর্তন পীড়ন\nব্যবর্তন বা মোচড় বিকৃ্তি প্রতিরোধ করার জন্য একক ক্ষেত্রফলে যে প্রতিরোধ বলের সৃষ্টি হয়, তাকে ব্যবর্তন পীড়ন বলে।\n\nব্যবর্তন পীড়ন = F/A"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/stress_and_strain_theory_3.webp"
+        },
+        {
+          "title": "অসহ বল"
+        },
+        {
+          "text": "সর্বাপেক্ষা কম যে বলের ক্রিয়ায় কোন বস্তু ছিড়ে বা ভেঙ্গে যায়, তাকে অসহ বল বলে।\n\nঅসহ পীড়ন\nঅসহ বলের জন্য যে পীড়ন হয়, তাই অসহ পীড়ন।তাহলে,\n\n অসহ পীড়ন = অসহ বল/ ক্ষেত্রফল"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/stress_and_strain_4.webp"
+        },
+        {
+          "title": "স্থিতিস্থাপক ক্লান্তি"
+        },
+        {
+          "text": "স্থিতিস্থাপক সীমা লঙ্ঘন না করে কোনো বস্তুর উপর বার বার বল প্রয়োগ করতে থাকলে এবং অপসারণ করতে থাকলে কিছুক্ষণ পর দেখা যায় বস্তুটি স্থিতিস্থাপক ধর্ম কিছুটা হ্রাস পেয়েছে ওই ঘটনাকে স্থিতিস্থাপক ক্লান্তি বলে,।"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "পীড়ন ও বিকৃতি উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/stress_and_strain_1.webp"
+        },
+        {
+          "text": "পীড়ন ও বিকৃতি উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/stress_and_strain_2.webp"
+        },
+        {
+          "text": "পীড়ন ও বিকৃতি উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/07_structural_properties_of_matter/stress_and_strain_3.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। কোন বস্তুর উপর বল 200Nm⁻² প্রয়োগ করার ফলে একক দৈর্ঘ্যে বিকৃ্তির মান যদি 4 হয়, তাহলে 500Nm⁻² বল প্রয়োগের ফলে বিকৃ্তির পরিমাণ কত হবে?",
+          "flipCardBack": "উত্তরঃ 10"
+        },
+        {
+          "flipCardFront": "২। একটি তারের দৈর্ঘ্য 3m, প্রস্থচ্ছেদের ক্ষেত্রফল 22mm2 এবং অসহপীড়ন 2.14×108 N/m2 , তারটির অসহ ওজন ও অসহ ভর বের কর।",
+          "flipCardBack": "উত্তরঃ 4.9×10^2 N, 50kg"
+        },
+        {
+          "flipCardFront": "৩। একটি তারকে 0.01 বর্গ সেমি ক্ষেত্রফলের উপর 2×104 N বল প্রয়োগ করা হল। তারের উপর প্রযুক্ত পীড়ন বের কর।",
+          "flipCardBack": "উত্তরঃ 2×10^10Nm^-2 "
+        },
+        {
+          "flipCardFront": "৪। . যদি বিকৃতি 0.002% হয় তবে 5m লম্বা তারের দৈর্ঘ্য কতটুকু বাড়বে? প্রস্থচ্ছেদের ক্ষেত্রফল 2mm^2 এবং তারটিকে 2kg-wt বলে টানা হলে পীড়ন কত?",
+          "flipCardBack": "উত্তরঃ 9.8×106Nm-2"
+        }
+      ]
+    }
+  ]
+}

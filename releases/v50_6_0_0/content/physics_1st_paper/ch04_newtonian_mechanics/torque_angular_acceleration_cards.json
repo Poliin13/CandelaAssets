@@ -1,0 +1,92 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "টর্ক"
+        },
+        {
+          "text": "টর্ক(Torque) বা বলের ভ্রামক বলতে একটি বস্তুকে কোন বল কোন অক্ষ,অবলম্বন বা পিভটের চারদিকে ঘোরানোর প্রবনতা বোঝায়। বল দ্বারা যেমন ধাক্কা বা টান বোঝায় তেমনি টর্ক বলতে অক্ষের চারদিকে কোন বস্তুর ঘূর্নন প্রবনতা বোঝানো হয়ে থাকে।গাণিতিকভাবে টর্ক হল কোন অক্ষের সাপেক্ষে ঘূর্ননশীল বস্তুর উপর ক্রিয়ারত বল এবং অক্ষ থেকে ঐ বস্তুর দুরত্তের ভেক্টর গুনফল।\n\nসহজভাবে বলতে গেলে টর্ক দ্বারা কোন অক্ষের চারদিকে কোন বস্তুর ঘূর্নন প্রবনতার পরিমাপ বোঝানো হয়ে থাকে।ঊদাহরনস্বরুপ, কোন যন্ত্রে আটকানো একটি নাট বা বল্টু খুলতে হলে তাতে রেঞ্চ আটকিয়ে এর ঘোরানোর সময় রেঞ্চের হাতলে টর্ক সৃষ্টি হয়।\n\nটর্ককে সাধারনত গ্রিক অক্ষর τ (টাউ) দ্বারা সূচিত করা হয়। তবে যখন এটিকে ভ্রামক বা বলের ভ্রামক হিসেবে বর্ণনা করা হয় তখন এটিকে M দ্বারা সূচিত করা হয়ে থাকে।\n\nটর্কের মান তিনটি বিষয়ের উপর নির্ভর করেঃ প্রযুক্ত বল (F), ব্যসার্ধ ভেক্টর (r) এবং বলের দিক ও ব্যসার্ধ ভেক্টরের মধ্যবর্তি কোণ (θ)।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/torque_theory_1.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/torque_theory_2.gif"
+        },
+        {
+          "title": "কৌণিক ত্বরণ"
+        },
+        {
+          "text": "চিরায়ত বলবিদ্যায় কৌণিক ত্বরণ (Angular acceleration) হল সময়য়ের সাথে কোনো অক্ষের চতুর্দিকে ঘূর্নায়মান কোন বস্তুর বা বিন্দুর কৌণিক বেগের পরিবর্তনের হার। এসআই পদ্ধতিতে কৌণিক ত্বরণকে রেডিয়ান প্রতি বর্গসেকেন্ড দ্বারা প্রকাশ করা হয় এবং এটিকে গ্রীক বর্ণ আলফা (α) দ্বারা প্রকাশ করা হয়। ক্যালকুলাসের ভাষায় কৌণিক ত্বরণ হল অতি ক্ষুদ্র সময় ব্যবধানের কৌণিক বেগের পরিবর্তনের হার।"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/angular_acceleration.gif"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/angular_acceleration.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "টর্ক ও কৌণিক ত্বরণ উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/torque_example_1.webp"
+        },
+        {
+          "text": "টর্ক ও কৌণিক ত্বরণ উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/torque_example_2.webp"
+        },
+        {
+          "text": "টর্ক ও কৌণিক ত্বরণ উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/torque_example_3.webp"
+        },
+        {
+          "text": "টর্ক ও কৌণিক ত্বরণ উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/torque_example_4.webp"
+        },
+        {
+          "text": "টর্ক ও কৌণিক ত্বরণ উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/torque_example_5.webp"
+        },
+        {
+          "text": "টর্ক ও কৌণিক ত্বরণ উদাহরন ৬"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/04_newtonian_mechanics/torque_example_6.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। একটি চাকার ভর 8কেজি এবং চক্রগতির ব্যাসার্ধ 25 সেমি।চাকাটিতে 3rads-2 কৌণিক ত্বরণ সৃষ্টি করতে কত টর্ক প্রয়োগ করতে হবে?",
+          "flipCardBack": "উত্তরঃ 1.5Nm"
+        },
+        {
+          "flipCardFront": "২।8 kg ভরবিশিষ্ট একটি চাকার চক্রগতির ব্যাসার্ধ 25cm। এর জড়তার ভ্রামক কত?একে 3rads-2 কৌণিক ত্বরণ দিতে কত মানের টর্ক প্রয়োগ করতে হবে?",
+          "flipCardBack": "উত্তরঃ 0.5kgm2; 1.5Nm"
+        },
+        {
+          "flipCardFront": "৩। ঘূর্ণ্ন অক্ষ সাপেক্ষে একটি দৃঢ় বস্তুর জড়তার ভ্রামক 100 kgm2 ঘূর্ননরত অবস্থায় বস্তুটি T= 0.5sec হলে কৌণিক ভরবেগ কত?",
+          "flipCardBack": "উত্তরঃ 1256.8kgm^2s^-1 "
+        },
+        {
+          "flipCardFront": "8.একটি চাকার ব্যাস 2m এবং ভর 20kg। 1800 rpm কৌণিক দ্রুতিতে চাকাটির কৌণিক ভরবেগ কত হবে?",
+          "flipCardBack": "উত্তরঃ 1884.96 kgm^2s^-1"
+        }
+      ]
+    }
+  ]
+}

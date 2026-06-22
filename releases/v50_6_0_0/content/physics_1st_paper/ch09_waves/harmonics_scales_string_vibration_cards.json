@@ -1,0 +1,83 @@
+{
+  "cardList": [
+    {
+      "cardData": [
+        {
+          "title": "হারমোনিক ও স্বরগ্রাম"
+        },
+        {
+          "text": "সুর যেহেতু শব্দ বা শব্দের সমষ্টি, কাজেই সুরের উচ্চ ও নিম্ন কম্পাঙ্ক থাকে। সবচেয়ে কম কম্পাঙ্কের সুর হল সূচনা সুর বা মূল সুর বা টোনিক (Fundamental Tone)। এর চেয়ে বড় কম্পাঙ্কগুলোর মান হয় সূচনা সুরের সাথে নির্দিষ্ট অনুপাত বজায় রেখে। সূচনা সুর 200 Hz হলে অন্যান্য কম্পাঙ্ক হবে 300 Hz, 350 Hz এভাবে। এইসব কম্পাঙ্ক পরপর ধ্বনিত হলেই শ্রুতিমধুর শব্দ উৎপন্ন হবে। এই সাজানো সুরগুলোকে  স্বরগ্রাম (Musical Scale) বলে।"
+        },
+        {
+          "ytVideo": "w6EGyFAGpXU"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "text": "উদাহরন ১"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wire_frequency_example_1.webp"
+        },
+        {
+          "text": "উদাহরন ২"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wire_frequency_example_2.webp"
+        },
+        {
+          "text": "উদাহরন ৩"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wire_frequency_example_3.webp"
+        },
+        {
+          "text": "উদাহরন ৪"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wire_frequency_example_4.webp"
+        },
+        {
+          "text": "উদাহরন ৫"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wire_frequency_example_5.webp"
+        },
+        {
+          "text": "উদাহরন ৬"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wire_frequency_example_6.webp"
+        },
+        {
+          "text": "উদাহরন ৭"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/Poliin13/CandelaAssets/master/releases/v50_6_0_0/images/physics1st_paper/09_wave/wire_frequency_example_7.webp"
+        }
+      ]
+    },
+    {
+      "cardData": [
+        {
+          "flipCardFront": "১। 1.50m দীর্ঘ একটি একমুখ বন্ধ অর্গান নল থেকে প্রথম উপসুরটির কম্পাংক বের কর। বায়ুতে শব্দের বের ৩৩০মি/সে",
+          "flipCardBack": "উত্তরঃ 165 Hz"
+        },
+        {
+          "flipCardFront": "২। কোনো একটি সুর শলাকার কম্পাংক 400Hz এই সুর শলাকার 48 বার কম্পনে যে সময় লাগে সেই সময়ে শব্দ 40 m দূরত্ব অতিক্রম করে। বায়ুতে শব্দের বেগ ও তরঙ্গ দৈর্ঘ্য কত?",
+          "flipCardBack": "ঊত্তরঃ 333m/s, 0.833m"
+        },
+        {
+          "flipCardFront": "৩। 15N বলে টানা একটি তারের কম্পাংক 160Hz তারের টান কত হলে কম্পাংক 400Hz হবে?",
+          "flipCardBack": "উত্তরঃ 93.75N"
+        },
+        {
+          "flipCardFront": "৪।  একটি সনোমিতার তারের দৈর্ঘ্য পরিবর্তন না করে এর ওপর প্রযুক্ত টান 4 গুন বাড়িয়ে দেয়া হলো তারের কম্পাংকের কত পরিবর্তন হবে?",
+          "flipCardBack": "ঊত্তরঃ n2=2.n1"
+        }
+      ]
+    }
+  ]
+}
